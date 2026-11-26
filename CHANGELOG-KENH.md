@@ -5,6 +5,14 @@
 
 ---
 
+## Mốc 1 — Đồng bộ Cấu hình & Luật chống lệch tệp (2026-11-26)
+- **`channel.config.json`:** đổi `target_viewer` sang **Smart TV (đích ≥45%) + Mobile**; tắt `translate_es: false` (chỉ xuất bản `en-US`); thêm block `publish_rules` khóa `en-US`, cấm Auto-dubbing/Localization ngoài Mỹ, chuẩn thumbnail `clean_plate_manual_overlay`.
+- **`references/lessons-learned.md`:** nâng **L28** (cấm Localization/Auto-dubbing ngoài `en-US`) và **L29** (tách ảnh nền sạch `no text` + ghép chữ tay/Canva/Pillow cho Smart TV & mobile) lên **ACTIVE RULES** (gộp nhóm giữ đúng trần 20 dòng C4) + ghi đủ bằng chứng OAuth vào Evidence log.
+- **`references/channel-truth.md` & `CLAUDE.md`:** đồng bộ AUDIENCE (Smart TV + Mobile), tắt bước dịch ES, ghi nhận vai trò Radar của Auto Trend Studio ở Bước 0.
+- **`.claude/skills/garden-us-thumbnail/SKILL.md`:** đổi mặc định từ *AI tự vẽ chữ* sang **Clean Plate (ảnh nền sạch không chữ) + Overlay Spec ghép chữ tay/Canva/Pillow**.
+
+---
+
 ## Mốc 0 — Baseline & Chẩn đoán Toàn diện (2026-11-26)
 
 ### 1. Chỉ số gốc (OAuth YouTube Analytics + Studio export tới 21/11/2026)

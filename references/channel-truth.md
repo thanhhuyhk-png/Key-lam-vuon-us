@@ -3,7 +3,7 @@ file: channel-truth.md
 role: SINGLE SOURCE OF TRUTH cho Garden US — gộp Voice (tone) + Channel Data (số liệu thật)
 channel: Senior Garden Guide (garden-us-60k)
 merges: [references/brand-voice-dna.md, references/channel-stats-garden-us-60k.md]
-last_reconciled: 2026-06-10
+last_reconciled: 2026-11-26
 sync_cadence: weekly (Chủ Nhật) — chỉ cập nhật block DATA TRUTH từ channel-stats
 ---
 
@@ -19,7 +19,7 @@ sync_cadence: weekly (Chủ Nhật) — chỉ cập nhật block DATA TRUTH từ
 
 **VOICE:** Lazy Grandma Wisdom meets Science-Backed Proof — mentor thân thiện, kể chuyện có thật (Story Bank / viewer-POV) + số liệu cụ thể có nguồn + social proof thật (comment có link) — "làm ít, thu nhiều". Kết bằng `Happy gardening.`
 
-**AUDIENCE (cập nhật 23/10/2026 — user quyết định):** **mục tiêu mở rộng 35–60+**; **lõi hiện tại vẫn 60–80** (comment "I am 80", kênh tên Senior Garden Guide). Viết sao cho người 38 tuổi đi làm và người 72 tuổi nghỉ hưu đều thấy "nói với mình": câu ngắn, rõ, đọc tốt trên điện thoại; lợi ích là **tiết kiệm tiền · ít thời gian · đỡ sức** (không phải "vì bạn đã già"); hoài niệm dạng chung "the way our grandparents did it" (hợp mọi tuổi) thay cho ký ức riêng người 70+ ("Great Depression" chỉ dùng như lịch sử có nguồn). Bảng câu chữ: [brand-voice-dna.md § Ngôn ngữ cho khán giả 35–60+](brand-voice-dna.md). ⚠️ Mọi file cũ ghi "seniors 60–80" → **config `target_viewer` + đoạn này thắng**. L9 (cấm nhãn tuổi trên title/thumbnail) giữ nguyên.
+**AUDIENCE (cập nhật 26/11/2026 — user quyết định):** **mục tiêu mở rộng 35–60+**; **lõi hiện tại vẫn 60–80** (comment "I am 80", kênh tên Senior Garden Guide), thiết bị **Smart TV (đỉnh T1–T4 đạt 59,5%, mục tiêu phục hồi ≥45%) + Mobile**. Viết & đóng gói sao cho người 38 tuổi đi làm và người 72 tuổi nghỉ hưu đều thấy "nói với mình": câu ngắn, chữ to nét căng đọc rõ từ ghế sofa TV 2–3m lẫn điện thoại 200px; lợi ích là **tiết kiệm tiền · ít thời gian · đỡ sức** (không phải "vì bạn đã già"); hoài niệm dạng chung "the way our grandparents did it" (hợp mọi tuổi) thay cho ký ức riêng người 70+ ("Great Depression" chỉ dùng như lịch sử có nguồn). Bảng câu chữ: [brand-voice-dna.md § Ngôn ngữ cho khán giả 35–60+](brand-voice-dna.md). **Chỉ xuất bản `en-US` (L28)** — tuyệt đối không gắn Localization/Auto-dubbing ngôn ngữ ngoài Mỹ. ⚠️ Mọi file cũ ghi "seniors 60–80 / mostly on mobile" → **config `target_viewer` + đoạn này thắng**. L9 (cấm nhãn tuổi trên title/thumbnail) giữ nguyên.
 
 **FACELESS WEDGE (từ gap analysis 2026-06-21):** kênh **faceless (AI voice)** → KHÔNG đánh bài "người thật". Khán giả chán "AI grandma giống hệt nhau" và hay **sửa lỗi khoa học** của các kênh đó. → Thắng bằng vế **Science-Backed Proof**: mỗi claim verified có nguồn (research-brief), số liệu cụ thể, chiều sâu thật. TRÁNH giọng listicle AI-grandma generic/hoán đổi được. Ấm áp đến từ **persona giọng + folklore bà nội + accessibility**, không phải mặt người. Chi tiết title/gap: [title-keyword-strategy-en.md](title-keyword-strategy-en.md).
 
@@ -96,5 +96,6 @@ sync_cadence: weekly (Chủ Nhật) — chỉ cập nhật block DATA TRUTH từ
 | (2026-10-23) Audience "Seniors 60–80" là mục tiêu duy nhất | **Mục tiêu 35–60+, lõi hiện tại 60–80** | User quyết định mở rộng. Không đổi luật L9; đổi CÂU CHỮ: bỏ giả định nghỉ hưu/già yếu, lợi ích = tiền · thời gian · sức. Đo sau 3 video: tab Demographics (tuổi) + views_5d |
 | (2026-07-04) Script target 14–18 phút | **8–10 phút (~1,200–1,500 từ)** | Watch-budget ~195s cố định → 16′ = AVD ~20% trần; 9–10′ cùng nội dung = AVD 33–36%. Đã sửa youtube-garden-us + outline + playbook P2S |
 | (2026-11-01) "100% effort vào AVD" (dòng 2026-07-04) | **Impressions/CTR theo từng video và giây xem/lượt đều là chỉ số chính; AVD% không chấm một mình** | Log 02/09: nút thắt ở impressions. Retro 091: AVD 12,4% ở video 17:51; video dài kéo AVD% xuống dù giây xem gần như không đổi. User duyệt 01/11; mốc views_5d 597, thắng ≥896 (`channel.config.json` → `scoring`) |
+| (2026-11-26) Thiết bị "mostly on mobile", `translate_es: true`, thumbnail AI tự vẽ chữ | **Smart TV + Mobile · khóa cứng `en-US` (`translate_es: false`, L28) · Thumbnail nền sạch không chữ + ghép chữ tay/Pillow (L29)** | OAuth audit 26/11 (`research/kenh-lam-vuon-us/01-CHAN-DOAN-SUC-KHOE-VA-LECH-TEP.md`): thời đỉnh Smart TV chiếm 59,5% views (tụt còn 29,4% khi lệch tệp); 19–21 localizations đẩy 60–88% mẻ thử sang IN/ID/PL/BR (AVD 3–18% vs US 24–30%); CTR video mới tụt còn 2,58%. User duyệt 26/11 |
 
 > Khi `channel-stats` cập nhật mà mâu thuẫn với block Voice → **dữ liệu thật thắng**, ghi vào log này.

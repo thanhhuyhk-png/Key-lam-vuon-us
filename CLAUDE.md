@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Production workspace cho kênh YouTube làm vườn US (Garden US). Pipeline chạy local-first: từ Big Idea → Outline → Research → Hook → Script (EN) → SEO → Dịch ES.
+Production workspace cho kênh YouTube làm vườn US (Garden US). Pipeline chạy local-first: từ Radar xu hướng (Auto Trend Studio + `do_trend.py`) → Big Idea/Remake → Outline → Research → Hook → Retention Spine → Script (EN) → SEO `en-US` *(đã tắt dịch ES từ 26/11/2026)*.
 
 Brand Voice: **Lazy Grandma Wisdom meets Science-Backed Proof** — nguồn sự thật gộp (voice + số liệu kênh) trong `references/channel-truth.md`; deep-dive tone trong `references/brand-voice-dna.md`.  
 Pipeline đầy đủ: xem `PIPELINE-GARDEN-US.md`.
@@ -104,7 +104,7 @@ Bước 0   → LANE A: ý đã qua TOPIC GATE · LANE B: R1 tái thẩm seed (m
             ├─ 🔀 LANE B: Pha D thêm phép đếm CỦA GÓI (A1: bridges ≥ items−1 · years/money ≥ items×0.8 · A3: lời hứa 2 gieo <55s + trả sau payoff)
             ├─ 🔀 LANE B: Pha D chạy originality_check.py so với seed-transcript (≤1 câu trùng · ≤2% 6-gram · --allow tài sản khoá)
             └─ audit ĐỌC references/lessons-learned.md (ACTIVE RULES) + 🔀 LANE B: R7-CORE (9 điểm chung) + R7-DELTA của gói
-[4a/b/c] → SEO EN + dịch ES + SEO ES   ✅ Tự động, không gate
+[4]      → SEO EN (`en-US` duy nhất)    ✅ Tự động, không gate *(đã TẮT 4b/4c dịch ES từ 26/11/2026 — L28 cấm Localization ngoài en-US)*
 [5]      → prediction.md                ✍️ tại GATE Script: ghi "cược" (Phase 2)
 [6]      → retro.md                     🔁 7–14 ngày sau publish: diff số thật → lessons-learned.md
             └─ 🔀 LANE B: chấm bằng views_5d vs median_5d_views (285) + tổng giờ xem. ⛔ KHÔNG chấm bằng AVD.
@@ -163,9 +163,7 @@ scripts\big-idea-[NNN]-[slug]\   ← hoặc remake-[NNN]-[slug]\
 ├── research-brief.md
 ├── retention-spine.md (GATE 2.5 — Promise Decomposition + bảng Spine, duyệt TRƯỚC khi viết)
 ├── script.md          (EN — 10-12 phút / 1.650–2.000 từ từ 2026-11-22; xem video_length trong channel.config.json)
-├── script-es.md
-├── seo-en.md
-├── seo-es.md
+├── seo-en.md          (CHỈ en-US — đã TẮT script-es.md / seo-es.md từ 26/11/2026 để chống lệch tệp, L28)
 ├── prediction.md      (Phase 2 — ghi tại GATE Script, từ templates/prediction.template.md)
 └── retro.md           (Phase 2 — điền 7–14 ngày sau publish, từ templates/retro.template.md)
 ```
@@ -182,8 +180,8 @@ scripts\big-idea-[NNN]-[slug]\   ← hoặc remake-[NNN]-[slug]\
 | `NOTION_BIG_IDEAS_URL` | `https://lunar-headlight-f5a.notion.site/Big-idea-377d73f564198028a6c8dbd7445d461f` |
 | `NOTION_BENCHMARK_DB` | `a0386a02-e6fe-4a24-9df1-468b432e94db` |
 | `SCRIPT_LANGUAGE` | `English` |
-| `TRANSLATE_ES` | `true` |
-| `TARGET_VIEWER` | American home gardeners **35–60+** (lõi hiện tại 60–80), mobile — từ 23/10/2026; câu chữ theo `brand-voice-dna.md` § Ngôn ngữ cho khán giả 35–60+ |
+| `TRANSLATE_ES` | `false` *(tắt từ 26/11/2026 — L28: chỉ xuất bản `en-US`, cấm Localization ngoài Mỹ)* |
+| `TARGET_VIEWER` | American home gardeners **35–60+** (lõi hiện tại 60–80), **Smart TV (đích ≥45%) + Mobile** — cập nhật 26/11/2026; câu chữ theo `brand-voice-dna.md` § Ngôn ngữ cho khán giả 35–60+ |
 | `BRAND_VOICE_FILE` | `references/channel-truth.md` (gộp voice + số liệu thật; deep-dive tone ở `brand-voice-dna.md`) |
 | `KEYWORD_STRATEGY_FILE` | `references/title-keyword-strategy-en.md` (Title Hybrid: formula + 3-tier keyword + GAP_LIST + HYBRID_RULE) → bật Title C ở `mkt-youtube-outline` |
 
@@ -208,3 +206,5 @@ scripts\big-idea-[NNN]-[slug]\   ← hoặc remake-[NNN]-[slug]\
 - **TOPIC GATE ≥2/3** — không "thấy video nổ là làm theo": chủ đề phải đạt ≥2/3 tín hiệu (kênh mình · outlier ngách · keyword US) trước outline (`references/topic-gate-en.md`)
 - **KEYWORD-FIRST** — trước khi chốt title: đo keyword vidIQ (US, growth vs nền 30d) + soi outlier cùng chủ đề; keyword chính exact-phrase ở ~25 ký tự đầu khi how-to/theo mùa/nhu cầu +30% (`references/title-keyword-strategy-en.md` § KEYWORD-FIRST GATE · lesson L10)
 - **Narrator = educator**, không phải người trồng có kinh nghiệm cá nhân (xem Narrator Integrity Rules trong `references/brand-voice-dna.md`)
+- **Khóa tệp Mỹ & Thumbnail ảnh sạch ghép chữ tay (L28, L29 — user duyệt 26/11/2026):** chỉ xuất bản `en-US` (`translate_es: false`, cấm bật Auto-dubbing/Localization ngôn ngữ ngoài Mỹ); thumbnail tách **ảnh nền sạch không chữ** (`no text`) + ghép chữ 2 tầng & badge ❌/✅ bằng Canva/Photoshop hoặc Pillow (`tools/garden_thumb_real.py`) để sắc nét trên cả **Smart TV** lẫn **mobile**.
+- **Auto Trend Studio (Radar Bước 0):** dự án `Kênh làm vườn US` (`kenh-lam-vuon-us`) bổ trợ song song `do_trend.py` ở Bước 0 & 1.5 (quét video mới, từ khóa US, kho bình luận thật US cho L13/Q&A, quản trị Model Link `Frugal Solutions`).

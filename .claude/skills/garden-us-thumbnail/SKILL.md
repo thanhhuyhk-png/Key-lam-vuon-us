@@ -1,13 +1,13 @@
 ---
 name: garden-us-thumbnail
-description: "Tạo thumbnail YouTube cho kênh Garden US (English) theo CÔNG THỨC WIN đúc kết từ thumbnail thật của kênh (references/thumbnail-stats-garden-us-60k.md): FACELESS object-driven, text 2 tầng ALL CAPS (hook VÀNG + phụ TRẮNG), layout Before→After ❌/✅ / number-badge / triptych, markup khoanh đỏ + mũi tên, Complementarity 1+1=3 (bổ trợ title). Bước cuối sinh thumbnail-prompts.md với 2 MASTER PROMPT A/B (A=layout WIN · B=đổi đúng 1 biến để test), render (Nano Banana Pro) + verify tùy chọn. KHÔNG conspiracy/overclaim/human-fear. CHỈ workspace Garden US, KHÔNG dùng kênh JP. USE WHEN user nói 'tạo thumbnail', 'làm thumb', 'thumbnail cho video', 'tạo ảnh thumbnail', 'thumb cho script', 'cover video', sau khi script.md/outline.md đã xong, hoặc tại bước thumbnail trong pipeline Garden US."
+description: "Tạo thumbnail YouTube cho kênh Garden US (English) theo CÔNG THỨC WIN đúc kết từ thumbnail thật của kênh (references/thumbnail-stats-garden-us-60k.md) + Luật L29 (26/11/2026): FACELESS object-driven, tách ẢNH NỀN SẠCH KHÔNG CHỮ (clean plate, chừa sẵn negative space) + SPEC GHÉP CHỮ TAY/PILLOW 2 tầng ALL CAPS (hook VÀNG + phụ TRẮNG, viền đen dày) & badge ❌/✅ sắc nét cho cả Smart TV và mobile, layout Before→After / number-badge / triptych, Complementarity 1+1=3 (bổ trợ title). Bước cuối sinh thumbnail-prompts.md với 2 MASTER PROMPT A/B (clean plate) + spec text overlay, render nền sạch + ghép chữ Pillow/Canva tùy chọn. KHÔNG conspiracy/overclaim/human-fear/chữ AI méo. CHỈ workspace Garden US, KHÔNG dùng kênh JP. USE WHEN user nói 'tạo thumbnail', 'làm thumb', 'thumbnail cho video', 'tạo ảnh thumbnail', 'thumb cho script', 'cover video', sau khi script.md/outline.md đã xong, hoặc tại bước thumbnail trong pipeline Garden US."
 ---
 
-# Garden US — Thumbnail Generator (Complementarity · render-ready prompt)
+# Garden US — Thumbnail Generator (Clean Plate + Manual/Pillow Overlay · Smart TV & Mobile)
 
-> ⚠️ **SKILL RIÊNG CHO KÊNH GARDEN US.** Project-scoped trong `.claude/skills/` của workspace US → chỉ load khi mở kênh US. Công thức = English ≤3 từ ALL CAPS (KHÁC skill JP chữ 3 tầng). Khi config có `thumbnail_skill` trỏ về đây, `mkt-youtube-outline` Bước 5 sẽ NHƯỜNG cho skill này.
+> ⚠️ **SKILL RIÊNG CHO KÊNH GARDEN US (cập nhật 26/11/2026 — L29).** Project-scoped trong `.claude/skills/` của workspace US → chỉ load khi mở kênh US. Công thức = **Ảnh nền sạch KHÔNG chữ (clean plate)** + **ghép chữ 2 tầng ALL CAPS sắc nét bằng Canva/Photoshop hoặc Pillow (`tools/garden_thumb_real.py`)** (hook VÀNG + phụ TRẮNG, viền đen dày). Khi config có `thumbnail_skill` trỏ về đây, `mkt-youtube-outline` Bước 5 sẽ NHƯỜNG cho skill này.
 
-Mục tiêu: biến text thumbnail của outline thành **2 master prompt A/B render-ready** theo **công thức WIN của kênh** (FACELESS · text 2 tầng hook VÀNG + phụ TRẮNG · layout Before→After/number-badge/triptych · markup đỏ) — bổ trợ title (1+1=3), số trên thumb = số trong script. Bước cuối luôn xuất `thumbnail-prompts.md`; render ảnh tùy chọn.
+Mục tiêu: biến text thumbnail của outline thành **2 master prompt A/B nền sạch không chữ + spec overlay chữ/badge chuẩn** theo **công thức WIN của kênh** (FACELESS · text 2 tầng hook VÀNG + phụ TRẮNG · layout Before→After/number-badge/triptych · markup đỏ) — bổ trợ title (1+1=3), số trên thumb = số trong script, đọc nét căng ở cả **Smart TV (2–3m)** lẫn **mobile (200px)**. Bước cuối luôn xuất `thumbnail-prompts.md`; render ảnh nền + ghép chữ Pillow tùy chọn.
 > 📊 **Công thức từ data, không hardcode:** chi tiết WIN pattern ở `references/thumbnail-stats-[slug].md` (đọc ở BƯỚC ĐẦU mục 4). Skill body chỉ mirror; data file là nguồn override.
 
 ---
@@ -88,8 +88,8 @@ Thumbnail kéo **lever Value Equation KHÁC** với title:
 
 > Phần A–E lo "đúng chữ ký kênh". Phần này lo "THẮNG trong feed" — tầng tâm lý các guru (MrBeast / Paddy Galloway / Thomas Frank) ám ảnh mà công thức cơ học bỏ sót. **MỖI biến thể A & B phải PASS cả 5.** FAIL bất kỳ → sửa concept, KHÔNG xuất prompt. Ghi kết quả 5 gate vào bảng biến thể (cột "GURU 5G: ✅/❌ + lý do").
 
-**G1 — SQUINT TEST (mobile nhỏ + mắt kém 60-80t)** 🔴 gate CTR số 1 của kênh này
-Hình dung thumbnail thu nhỏ còn ~200px (bằng con tem trong feed mobile). Trong 0.5 giây phải: (a) đọc được dòng chữ VÀNG, (b) nhận ra chủ thể chính. Nếu phải nheo mắt → FAIL. Hệ quả cứng: **dòng hook vàng ≤3 từ/dòng**, chủ thể chính chiếm **≥40% khung**, và chi tiết nhỏ (nhãn bao phân, 1 mắt lá, chữ phụ) KHÔNG được là thứ *bắt buộc phải thấy* mới hiểu thumb.
+**G1 — SQUINT TEST (mobile 200px + Smart TV phòng khách 2–3m + mắt kém 60–80t)** 🔴 gate CTR số 1 của kênh này
+Hình dung thumbnail ở cả 2 đầu cực: thu nhỏ còn ~200px trong feed mobile VÀ xem từ ghế sofa cách Smart TV 2–3m. Trong 0.5 giây phải: (a) đọc được dòng chữ VÀNG sắc nét không dính nét/không méo AI, (b) nhận ra chủ thể chính. Nếu phải nheo mắt → FAIL. Hệ quả cứng: **dòng hook vàng ≤3 từ/dòng**, ghép chữ vector/Pillow font đậm + viền đen dày (L29), chủ thể chính chiếm **≥40% khung**, và chi tiết nhỏ (nhãn bao phân, 1 mắt lá, chữ phụ) KHÔNG được là thứ *bắt buộc phải thấy* mới hiểu thumb.
 
 **G2 — ONE FOCAL POINT (1 điểm đọc trước)**
 Mắt phải biết nhìn ĐÂU đầu tiên trong 0.3 giây. Before→After **KHÔNG chia 50/50** (2 tiêu điểm = rối ở size nhỏ) → cho **1 bên thống trị ~60/40**, thường bên payoff/after to & rực hơn. Single-hero: chủ thể lệch 1 bên, TO, nét căng; phần còn lại blur nhường chỗ. Nhiều thứ "cùng quan trọng" = không thứ nào nổi.
@@ -167,92 +167,93 @@ Tự kiểm mỗi biến thể:
 - [ ] MODE 1: A & B khác concept (ảnh+chữ+cảm xúc+cảm-xúc-đích)? · MODE 2: khác đúng 1 biến?
 → In bảng `Biến thể | Concept | Cảm-xúc-đích (G4) | Text | Layout | Màu chữ | GURU 5G`.
 
-### Bước 2 — Dựng 2 MASTER PROMPT A/B (baked text, render-ready)
+### Bước 2 — Dựng 2 MASTER PROMPT A/B (CLEAN PLATE — ảnh nền sạch KHÔNG chữ + Spec Overlay tay/Pillow)
 
-Xuất **2 prompt** (A = layout WIN · B = đổi đúng 1 biến). Lưu cả 2 vào `thumbnail-prompts.md`.
+> 🔴 **LUẬT L29 (user duyệt 26/11/2026):** **KHÔNG để AI tự vẽ chữ lên thumbnail.** AI chỉ vẽ **ảnh nền sạch 16:9 (`clean plate`, 100% không chữ/không số/không icon lỗi)** có chừa sẵn **negative space tối/sạch** ở vùng trên-trái hoặc một bên; sau đó ghép chữ 2 tầng (VÀNG + TRẮNG, viền đen dày + đổ bóng), badge ❌/✅, khoanh đỏ/mũi tên bằng **Canva / Photoshop** hoặc **Python Pillow** (mẫu sẵn ở `tools/garden_thumb_real.py`).
+> *Vì sao:* chữ ghép tay/Pillow sắc nét 100% ở cả 200px mobile lẫn Smart TV 4K, không bao giờ méo chữ/sai chính tả, dễ chạy A/B test đổi chữ trong 30 giây mà không phải render lại ảnh AI.
 
-**Quy tắc chống lỗi (áp cho CẢ A & B) — prompt xuất ẢNH HOÀN CHỈNH CÓ CHỮ, không overlay sau:**
+Xuất **2 gói (A & B)** lưu vào `thumbnail-prompts.md`, mỗi gói gồm:
+- **(1) Clean-Plate Image Prompt (100% English, KHÔNG chữ)**
+- **(2) Overlay Text & Markup Spec** (chữ dòng 1 VÀNG / dòng 2 TRẮNG, vị trí negative space, font Impact/Arial Black + stroke đen dày, vị trí ❌/✅ hoặc khoanh đỏ/mũi tên).
+
+**Quy tắc chống lỗi cho Clean-Plate Prompt (áp cho CẢ A & B):**
 1. Prompt 100% English (mô tả cảnh). KHÔNG để chữ tiếng Việt nào trong prompt.
-2. Text overlay đặt trong "..." + lệnh khóa: *render exactly, do NOT translate, do NOT add other text*.
-3. Negative list rõ: `no face, no full person` (tay-prop OK — nếu cảnh có tay, mô tả rõ "a single hand as prop"), no extra text/letters/numbers, no watermark, no logo, no gibberish.
-4. Text **2 tầng ALL CAPS**; nêu RÕ màu từng dòng (hook VÀNG, phụ TRẮNG — hoặc theo lựa chọn A/B).
-5. Mỗi dòng: thick bold sans-serif + **heavy black outline + drop shadow** (nổi trên mọi nền).
-6. Chữ KHÔNG đè chủ thể chính; đặt vào negative space.
+2. **Chừa vùng trống có chủ đích cho chữ:** ghi rõ `clean dark-blurred negative space in the upper-left third (or left 40%) reserved for text overlay later` — đảm bảo độ tương phản cao khi dán chữ VÀNG/TRẮNG.
+3. **Cấm tuyệt đối chữ & ký tự trong ảnh AI:** luôn khóa cuối prompt: `STRICTLY NO TEXT, no letters, no words, no numbers, no labels, no logos, no icons, no watermark anywhere in the image.`
+4. Negative list rõ: `no face, no full person` (tay-prop OK — nếu cảnh có tay, mô tả rõ `a single hand as prop`), `no text, no typography, no letters, no numbers, no watermark, no logo, no UI, no distorted shapes`.
+5. **G1 Squint áp vào Spec chữ overlay:** tổng chữ **≤5 từ**, hook vàng **≤3 từ/dòng**, font đậm + viền đen dày (`stroke ≥ 8–10px` ở 1280×720) + đổ bóng (đọc nét ở cả 200px mobile và Smart TV phòng khách).
 
-**🔤 Reliability chữ bake (vì AI phải render CHỮ + ẢNH trong 1 lần — càng nhiều element, AI càng méo chữ):**
-7. **Giảm tải cho AI:** tổng chữ **≤5 từ**, **tối đa 2 màu**. Nếu cảnh đã có markup phức tạp (❌✅ + khoanh đỏ + mũi tên) → rút hook còn **1–2 từ** để nhường "ngân sách render" cho chữ sắc nét. Ưu tiên tuyệt đối: **chữ đúng chính tả > markup đẹp** (chữ méo giết CTR mạnh hơn thiếu 1 mũi tên).
-8. **Khóa chính tả từng chữ** trong prompt: `The ONLY text in the entire image is exactly two words: "WORD1" in yellow and "WORD2" in white — spelled letter for letter, nothing else, no other letters, numbers, or words anywhere.`
-9. **G1 Squint áp vào chữ:** hook vàng ≤3 từ/dòng (đọc được ở 200px). Chữ dài hơn → AI dễ méo VÀ mắt kém đọc không kịp — cắt ngắn, đừng thu nhỏ font.
-
-**TEMPLATE WIN — Before→After ❌/✅ (mặc định myth-bust/problem-fix; điền [...], xoá chú thích VN):**
+**TEMPLATE WIN — Before→After Clean Plate (mặc định myth-bust/problem-fix; điền [...], xoá chú thích VN):**
 ```
-A photorealistic 16:9 YouTube thumbnail for a US home-gardening channel, audience 50–80. Vivid saturated colors, ultra high contrast, blurred garden background. NO human face, no full person (a single hand as prop is allowed only if described).
+A photorealistic 16:9 YouTube thumbnail background plate for a US home-gardening channel. Vivid natural colors, ultra high contrast, crisp studio-grade daylight, softly blurred garden background. NO human face, no full person (a single hand as prop is allowed only if described).
 
-LAYOUT: a clean before→after split, two halves.
-LEFT HALF (the wrong way): [object SAI khớp script, e.g. a pile of crushed eggshells + a tomato with a black blossom-end-rot patch]. A bold red dashed circle around the key detail and a large red ❌ over it.
-RIGHT HALF (the fix): [object ĐÚNG khớp script, e.g. a watering can pouring steady water + straw mulch + a flawless ripe tomato]. A bright green ✅ on this side.
+LAYOUT: an asymmetrical 40/60 before-and-after visual split (left 40% slightly darker/desaturated, right 60% brighter and vibrant), clean crisp vertical transition.
+LEFT SIDE (the wrong way): [object SAI khớp script, e.g. a pile of crushed eggshells beside a wilted tomato showing a dark blossom-end-rot patch], framed slightly lower to leave clean dark negative space at the upper-left for text overlay later.
+RIGHT SIDE (the fix): [object ĐÚNG khớp script, e.g. a hand pouring steady water onto mulched dark rich soil with a cluster of flawless ripe red tomatoes glowing in sunlight], large focal point filling the right side.
 
-TEXT — render EXACTLY two stacked words in very thick bold sans-serif, heavy black outline + drop shadow, centered, NOT covering the main objects: line 1 "[HOOK WORD]" in bright YELLOW, line 2 "[SECOND WORD]" in WHITE.
-Do NOT add any other text, words, letters, numbers, captions, labels or watermark.
+STRICTLY NO TEXT, no letters, no words, no numbers, no checkmarks, no X icons, no arrows, no labels, no watermark anywhere in the image.
 
-Negative: no face, no full person, no extra text, no gibberish letters, no watermark, no logo, no UI, no distorted shapes.
+Negative: no text, no typography, no letters, no numbers, no face, no full person, no watermark, no logo, no UI, no distorted shapes.
 ```
-> Listicle → đổi LAYOUT thành single hero + **số trong vòng tròn VÀNG** góc trên-trái. Reveal đơn → single hero + mũi tên cong + text negative space.
+*Overlay Spec đi kèm Template WIN (ghép bằng Canva/Photoshop/Pillow):*
+- **Line 1 (VÀNG `#FFD60A`, Impact/Anton/Montserrat Black, stroke đen 9–10px + drop shadow):** `[HOOK ≤3 WORDS]` (góc trên-trái / negative space)
+- **Line 2 (TRẮNG `#FFFFFF`, stroke đen 8px):** `[SECOND LINE — NUMBER/PAYOFF]`
+- **Markup vector sắc nét:** vòng tròn ❌ đỏ góc dưới-trái, ✅ xanh góc dưới-phải, khoanh đỏ nét đứt hoặc mũi tên cong (nếu cần).
+
+> Listicle → đổi LAYOUT thành single hero lệch phải + chừa negative space bên trái cho vòng tròn số VÀNG & chữ 2 tầng. Reveal đơn → single hero + negative space sạch cho chữ & mũi tên vector.
 
 **TEMPLATE B — tùy MODE đã chọn ở Bước 1:**
 
-**▸ MODE 1 (Concept test — MẶC ĐỊNH):** B là **concept KHÁC HẲN**, vẫn on-formula. Mẫu "Curiosity/Question single-hero":
+**▸ MODE 1 (Concept test — MẶC ĐỊNH):** B là **concept KHÁC HẲN**, vẫn on-formula & **clean plate không chữ**:
 ```
-A photorealistic 16:9 YouTube thumbnail for a US home-gardening channel, audience 50–80. Vivid saturated colors, ultra high contrast, blurred garden background. NO human face, no full person (a single hand as prop is allowed only if described).
+A photorealistic 16:9 YouTube thumbnail background plate for a US home-gardening channel. Vivid saturated natural colors, ultra high contrast, shallow depth of field, softly blurred dark garden soil background. NO human face, no full person (a single hand as prop is allowed only if described).
 
-SCENE: ONE single hero object only — [chủ thể chính khớp script, e.g. a glass jar of crushed eggshells on dark soil], offset to one side leaving clean negative space. A bold red question-mark drawn next to it [or a curved yellow arrow pointing at it]. Macro, shallow depth of field.
+SCENE: ONE dominant single hero object only — [chủ thể chính khớp script, e.g. a clear glass jar filled with glowing healthy white plant roots on rich dark soil], placed firmly on the right 55% of the frame, leaving clean dark blurred negative space across the left 45% for bold text overlay later. Macro crisp detail, golden-hour side lighting.
 
-TEXT — render EXACTLY this short question in very thick bold sans-serif, heavy black outline + drop shadow, in the negative space, NOT covering the object: "[QUESTION ≤3 WORDS]" with the key word in bright YELLOW and the rest WHITE.
-Do NOT add any other text, words, letters, numbers, captions, labels or watermark.
+STRICTLY NO TEXT, no letters, no words, no numbers, no arrows, no question marks, no labels, no watermark anywhere in the image.
 
-Negative: no face, no full person, no second object, no extra text, no gibberish letters, no watermark, no logo, no UI, no distorted shapes.
+Negative: no text, no typography, no letters, no numbers, no face, no full person, no second competing object, no watermark, no logo, no UI, no distorted shapes.
 ```
-> A = Verdict/Before→After (phán quyết) · B = Curiosity/Question single-hero (tò mò) → khác ảnh + chữ + cảm xúc. Cả hai faceless + on-formula.
+*Overlay Spec đi kèm Template B:* đặt dòng hook VÀNG + dòng số/payoff TRẮNG vào 45% negative space bên trái + 1 mũi tên cong vàng/đỏ trỏ vào chủ thể.
 
-**▸ MODE 2 (Isolation — khi đã có concept thắng):** copy Template WIN, đổi **đúng 1 biến**:
-- *màu chữ:* 2 dòng thành **ALL YELLOW** (pattern champion AVD 49% "ZERO SOIL / ZERO COST!") hoặc ALL WHITE → đo vs vàng+trắng mặc định.
-- *bố cục:* bỏ split → **single hero** → đo comparison vs single-hero.
-- *markup:* bỏ khoanh đỏ/❌/✅ → đo có markup vs sạch.
-> ⚠️ MODE 2 chỉ đổi 1 biến, giữ phần còn lại Y HỆT để cô lập.
+**▸ MODE 2 (Isolation — khi đã có concept thắng):** dùng **cùng clean plate A**, chỉ đổi **đúng 1 biến trên layer overlay** (màu chữ ALL YELLOW vs vàng+trắng · đổi 1 từ hook · có/không badge ❌/✅) — tốn **0 credit render ảnh mới**!
 
-### Bước 3 — Lưu file prompt A/B (BẮT BUỘC) + Render (tùy chọn)
+### Bước 3 — Lưu file prompt A/B + Spec Overlay (BẮT BUỘC) + Render nền & ghép chữ (tùy chọn)
 
-**3a. Luôn ghi file prompt trước** — `thumbnail-prompts.md` chứa CẢ 2 master prompt render-ready (A + B), để user dán vào tool ảnh bất kỳ / A/B test sau:
+**3a. Luôn ghi file prompt + spec overlay trước** — `thumbnail-prompts.md` chứa CẢ 2 clean-plate prompt + bảng Overlay Spec (A + B):
 ```
 [WORKSPACE_PATH]\scripts\big-idea-[NNN]-[slug]\thumbnail-prompts.md
 ```
 
-**3b. Render cả 2 biến thể (nếu user muốn ảnh luôn):**
+**3b. Render 2 ảnh nền sạch không chữ (nếu user muốn ảnh luôn):**
 ```bash
-python3 "C:/Users/admin/.claude/skills/image-post-creator/scripts/generate.py" "<MASTER PROMPT A>" \
-  -o "[WORKSPACE_PATH]/scripts/big-idea-[NNN]-[slug]/thumbnail-a.png" -ar 16:9 -p nano --size 2K -v
-python3 "C:/Users/admin/.claude/skills/image-post-creator/scripts/generate.py" "<MASTER PROMPT B>" \
-  -o "[WORKSPACE_PATH]/scripts/big-idea-[NNN]-[slug]/thumbnail-b.png" -ar 16:9 -p nano --size 2K -v
+python3 "C:/Users/admin/.claude/skills/image-post-creator/scripts/generate.py" "<CLEAN-PLATE PROMPT A>" \
+  -o "[WORKSPACE_PATH]/scripts/big-idea-[NNN]-[slug]/thumbnail-a-clean.png" -ar 16:9 -p nano --size 2K -v
+python3 "C:/Users/admin/.claude/skills/image-post-creator/scripts/generate.py" "<CLEAN-PLATE PROMPT B>" \
+  -o "[WORKSPACE_PATH]/scripts/big-idea-[NNN]-[slug]/thumbnail-b-clean.png" -ar 16:9 -p nano --size 2K -v
 ```
-> `nano` (Gemini Flash Image) render chữ tốt. Chữ sai nét → render lại / rút ngắn text / tối đa 2–3 lần/biến thể.
+*(Hoặc dùng ảnh thật từ `_LIBRARY/` / Pexels hoặc render nền sạch trên Goha Studio Nano Banana Pro 0 cr.)*
+
+**3c. Ghép chữ 2 tầng & markup sắc nét:** ghép trên **Canva / Photoshop** theo Overlay Spec, hoặc chạy script Python Pillow (tham khảo `tools/garden_thumb_real.py`) xuất ra `thumbnail-a.png` và `thumbnail-b.png` (1280×720).
 
 ### Bước 4 — Verify + lưu spec
-- Mỗi `thumbnail-[a/b].png` > 50KB, đúng 16:9.
-- Mắt kiểm từng ảnh: text TRẮNG đúng/đủ? không đè mặt/chủ thể? tương phản đủ? không chữ thừa? số khớp script?
-- `thumbnail-prompts.md` ghi: text trắng + lever + pattern + **2 master prompt (A subject / B botanical)** + nguồn số (khớp script).
-- Chữ baked sai dai dẳng sau 3 lần → **RÚT NGẮN chữ** (hook còn 1 từ) + **đơn giản hoá markup** (bỏ bớt mũi tên/khoanh, giữ ❌✅ nếu cần) rồi render lại. **Giữ ảnh hoàn chỉnh từ prompt — KHÔNG chuyển sang overlay Canva** (yêu cầu: prompt phải xuất ảnh hoàn chỉnh có chữ). Ít element hơn = AI bake chữ chuẩn hơn.
+- Mỗi `thumbnail-[a/b].png` > 50KB, đúng 16:9 (1280×720).
+- Mắt kiểm từng ảnh ở **2 kích thước** (thu nhỏ 200px như mobile + toàn màn hình như Smart TV): ảnh nền có lọt chữ rác AI không? chữ overlay VÀNG/TRẮNG có rõ nét, không đè chủ thể chính? tương phản đủ? số khớp script?
+- Nếu ảnh nền AI vẫn lỡ sinh chữ thừa → xóa bằng inpaint/crop hoặc render lại nền sạch, **tuyệt đối không để chữ rác AI lọt ra ảnh xuất bản**.
 
 ---
 
 ## OUTPUT
 ```
 [WORKSPACE_PATH]\scripts\big-idea-[NNN]-[slug]\
-├── thumbnail-prompts.md   (BẮT BUỘC — text trắng + lever + 2 master prompt A/B + nguồn số)
-├── thumbnail-a.png        (tùy chọn — Variant A: layout WIN, hook vàng + phụ trắng)
-└── thumbnail-b.png        (tùy chọn — Variant B: đổi 1 biến để A/B test)
+├── thumbnail-prompts.md    (BẮT BUỘC — Overlay Spec + lever + 2 clean-plate prompt A/B + nguồn số)
+├── thumbnail-a-clean.png   (tùy chọn — ảnh nền sạch không chữ A)
+├── thumbnail-b-clean.png   (tùy chọn — ảnh nền sạch không chữ B)
+├── thumbnail-a.png         (tùy chọn — bản hoàn chỉnh A sau khi ghép chữ Canva/Photoshop/Pillow)
+└── thumbnail-b.png         (tùy chọn — bản hoàn chỉnh B sau khi ghép chữ Canva/Photoshop/Pillow)
 ```
 
-🔴 **GATE:** present 2 prompt (+ 2 ảnh nếu đã render) → chờ user chọn **A hay B** / "render lại" / "đổi nền".
+🔴 **GATE:** present 2 clean-plate prompt + Overlay Spec (+ ảnh nếu đã render/ghép) → chờ user chọn **A hay B** / "render lại nền" / "chỉnh chữ".
 
 ---
 
@@ -261,7 +262,7 @@ python3 "C:/Users/admin/.claude/skills/image-post-creator/scripts/generate.py" "
 2. Bổ trợ title (Complementarity Test) + kéo lever Value Equation khác title.
 3. Không conspiracy/overclaim/human-fear.
 4. **FACELESS — không người/mặt làm chủ thể; không động vật đe dọa làm hero** (cả A & B; negative list `no face, no full person`; tay-prop OK khi được mô tả rõ).
-5. Chữ **2 tầng hook VÀNG + phụ TRẮNG** (~4–6 từ) + viền/bóng; bước cuối luôn xuất `thumbnail-prompts.md` (2 biến thể A/B).
+5. **L29 — TÁCH NỀN SẠCH + GHÉP CHỮ TAY/PILLOW:** prompt AI luôn khóa `STRICTLY NO TEXT`; chữ **2 tầng hook VÀNG + phụ TRẮNG** (~4–6 từ) + viền đen dày/bóng + badge ❌/✅ ghép sắc nét bằng Canva/Photoshop/Pillow để đọc nét trên cả **Smart TV** lẫn **mobile**.
 6. Chỉ kênh US (project-scoped), không đụng kênh JP.
-7. Chữ baked sai dai dẳng → rút ngắn chữ + đơn giản element, render lại (GIỮ ảnh hoàn chỉnh từ prompt, KHÔNG overlay Canva).
-8. **5 GURU-LAYER gate** (Squint / One-Focal / Curiosity-Gap / Emotional-Proxy / Pattern-Interrupt) — mọi biến thể PASS đủ 5 mới xuất prompt.
+7. Không chữ meta/trừu tượng (`Study/Test/Research/Count This Number` — L21) và không nhãn tuổi (`Senior/Over 60/No Back Pain` — L9).
+8. **5 GURU-LAYER gate** (Squint Smart TV+Mobile / One-Focal / Curiosity-Gap / Emotional-Proxy / Pattern-Interrupt) — mọi biến thể PASS đủ 5 mới xuất prompt.

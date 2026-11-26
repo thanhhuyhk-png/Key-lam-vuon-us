@@ -1,7 +1,7 @@
 # 🌱 PIPELINE GARDEN US — Local-First (Script Production)
 
 > Sơ đồ pipeline sản xuất kịch bản YouTube kênh làm vườn US.
-> Cập nhật: 2026-11-18 (một đường tìm chủ đề: dò trend `tools/do_trend.py`; cất R0 radar seed, Big Idea Notion, 6 skill chung tìm ý)
+> Cập nhật: 2026-11-26 (tích hợp Auto Trend Studio vào Bước 0; khóa cứng `en-US` & tắt dịch ES `translate_es: false` theo L28; thumbnail tách nền sạch ghép chữ tay/Pillow theo L29)
 
 ---
 
@@ -77,16 +77,12 @@
        ↓ 🔴 GATE: approve script (Compliance Score · Hook /35 × 2 · sổ nhận/bác · gate.py cuối)
        │  └─ output: script.md (EN)
 
-  [4] XUẤT BẢN ĐA NGÔN NGỮ + SEO
+  [4] XUẤT BẢN SEO (`en-US` DUY NHẤT — L28 cấm Localization ngoài Mỹ)
        │
        ├─ [4a] mkt-yt-seo-description (EN)
        │        đọc script.md → seo-en.md
        │
-       ├─ [4b] mkt-yt-translate-es
-       │        đọc script.md → script-es.md (ES, no compliance)
-       │
-       └─ [4c] mkt-yt-seo-description (ES)
-                nếu có script-es.md → seo-es.md
+       └─ [4b/4c] ~~dịch ES (`script-es.md` / `seo-es.md`)~~ → ĐÃ TẮT từ 26/11/2026 (`translate_es: false`)
        ↓ ✅ DONE
 
 ═══════════════════════════════════════════════════════════════════
@@ -110,9 +106,7 @@ D:\0002-Team A Nam\scripts\big-idea-[NNN]-[slug]\   ← [NNN] zero-pad 3 chữ s
 ├── outline.md          ← [1] mkt-youtube-outline
 ├── research-brief.md   ← [1.5] mkt-youtube-deep-research
 ├── script.md           ← [3] youtube-garden-us (EN)
-├── script-es.md        ← [4b] mkt-yt-translate-es
-├── seo-en.md           ← [4a] mkt-yt-seo-description
-├── seo-es.md           ← [4c] mkt-yt-seo-description (ES)
+├── seo-en.md           ← [4a] mkt-yt-seo-description (CHỈ en-US — đã TẮT ES từ 26/11/2026)
 └── audit-report.md     ← [tùy chọn] mkt-youtube-script-audit
 ```
 
