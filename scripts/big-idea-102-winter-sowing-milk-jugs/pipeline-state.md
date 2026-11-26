@@ -11,9 +11,9 @@ HẠNG: AN TOÀN · nhãn TEST (tái sử dụng phiếu Vòng A+B 18/10/2026, k
 |---|------|-------|--------|-----------|
 | 0-T | 🚦 Topic Gate (≥2/3) | references/topic-gate-en.md | block bên dưới | ✅ 26/11: **ĐẠT (≥2/3 · GO)** — `kiem_de_tai.py` ĐẠT sạch · user chọn `#3` từ bảng 12 chủ đề Auto Trend |
 | 1 | Outline | mkt-youtube-outline | outline.md | ✅ 26/11: **USER DUYỆT GATE 1** — **Title A** (`Winter Sowing in Milk Jugs: 6 Seeds That Work (and 3 That Don't)`, 64 ký tự; Title B giữ làm á quân swap giờ 48) + **Thumb A** (`$0 IN JANUARY` / `NO GROW LIGHTS`, Clean Plate L29) + Outline 5 phần *(đã đính chính theo [1.5])* |
-| 1.5 | Deep Research | garden-deep-researcher | research-brief.md · allowed-numbers.json | ⏳ 26/11: **40 claim Pass2=Y từ 7 nguồn `.edu` độc lập** (Penn State 2025, Illinois 2023 + PDF, SDSU, NC State 2025, OSU Lucas 2024, OSU Licking MGV, WSU 2022) · 3 trang 403 ghi rõ UNREADABLE · 5 bất đồng thật D1–D5 · đủ 11,0–11,5′ → **🔴 CHỜ USER DUYỆT GATE 1.5** |
-| 2 | Hook | mkt-hook-kallaway | hook.md | ⬜ chờ duyệt GATE 1.5 |
-| 2.5 | Retention Spine | playbook P2S | retention-spine.md | ⬜ |
+| 1.5 | Deep Research | garden-deep-researcher | research-brief.md · allowed-numbers.json | ✅ 26/11: **USER DUYỆT GATE 1.5** — 43 dòng claim Pass2=Y từ 7 nguồn `.edu` độc lập (chốt hạt #6 = **Milkweed**, tách Broccoli/Lettuce/Cosmos sang bảng bất đồng M3) · đủ 11,0–11,5′ |
+| 2 | Hook | mkt-hook-kallaway | hook.md | ⏳ 26/11: đã viết 5 biến thể A–E, **5/5 PASS `script_lint.py --hook` (E7 50–83%, L24 0:05–0:24, 0 lỗi) + `claim_check.py`** → **🔴 CHỜ USER CHỌN HOOK (GATE 2)** |
+| 2.5 | Retention Spine | playbook P2S | retention-spine.md | ⬜ chờ duyệt GATE 2 |
 | 3 | Script EN | youtube-garden-us | script.md | ⬜ |
 | 3R | Phản biện kép (Agy + Opus + R3 Đóng gói) | templates/brief-phan-bien* | phan-bien-v1.md | ⬜ *(đề tài không YMYL — đủ điều kiện Đường nhanh 1 vòng nếu V1 sạch)* |
 | 3.5 | Prediction | templates/prediction.template.md | prediction.md | ⬜ |
@@ -22,7 +22,8 @@ HẠNG: AN TOÀN · nhãn TEST (tái sử dụng phiếu Vòng A+B 18/10/2026, k
 | 6 | Retro | yt_analytics.py retro | retro.md | ⬜ *(7–14 ngày sau publish)* |
 
 **Title đã chốt (GATE 1, 26/11):** `Winter Sowing in Milk Jugs: 6 Seeds That Work (and 3 That Don't)` (Title A · 64 ký tự; á quân 48h = Title B) · **Thumbnail đã chốt:** Thumb A (`$0 IN JANUARY` / `NO GROW LIGHTS`, Clean Plate L29)
-**Bước kế tiếp:** 🔴 **GATE 1.5** — User duyệt `research-brief.md` (đặc biệt xác nhận bộ 6 hạt đồng thuận + đính chính tách Broccoli/Lettuce/Cosmos sang bảng bất đồng M3) → sang Bước `[2] Viết Hook` (`hook.md`).
+**Hạt đã chốt (GATE 1.5, 26/11):** 6 sống khỏe (`Spinach · Kale · Thyme · Oregano · Coneflower · Milkweed`) · 3 đợi xuân (`Tomatoes · Squash · Zinnias`) · 3 bất đồng Extension (`Broccoli · Lettuce · Cosmos`)
+**Bước kế tiếp:** 🔴 **GATE 2** — User chọn 1 phương án Hook (A / B / C / D / E trong `hook.md`) → chuyển sang Bước `[2.5] Retention Spine (P2S)` khóa bản đồ loop ≤180s trước khi viết script.
 
 **⚠️ Lưu ý kiểm soát chất lượng cho tập 102:**
 - **L17 (Lời hứa số):** Con số `6 Seeds That Work (and 3 That Don't)` là lời hứa cứng — ở `[1.5]` mọi hạt trong danh sách 6 + 3 phải có nguồn `.edu` Pass2=Y xác nhận rõ ràng.
