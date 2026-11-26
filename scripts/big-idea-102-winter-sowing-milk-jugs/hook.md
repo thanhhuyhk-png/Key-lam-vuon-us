@@ -57,7 +57,7 @@
 
 ---
 
-## PHƯƠNG ÁN D — Real Origin Story (Trudi Davidoff & Từ điển USDA — Story Bank sạch L11)
+## PHƯƠNG ÁN D — Real Origin Story (Trudi Davidoff & Từ điển USDA — Story Bank sạch L11) — ✅ USER CHỌN 26/11 (GATE 2)
 
 - **Type:** Story (lịch sử có thật, 3 nguồn `.edu`: `C10, C14, C29`) · **Lý do:** Khác biệt hẳn đám video làm vườn AI chung chung, tạo cảm giác kể chuyện có chiều sâu ngay từ giây đầu mà không vi phạm L11.
 
