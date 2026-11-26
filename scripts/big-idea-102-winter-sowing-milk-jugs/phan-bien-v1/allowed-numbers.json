@@ -1,0 +1,37 @@
+{
+  "allowed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    15,
+    20,
+    21,
+    25,
+    30,
+    32
+  ],
+  "_ghi_chu": {
+    "0": "$0 container / zero grow lights (C05, C14b, C20c)",
+    "1": "1 gallon milk jug (C07, C25) · 1 inch hinge (OSU Lucas C21b) · 1.5 inch hinge (Penn State C07 / OSU Licking C25) · 1 to 2 days acclimate (C22) · once a week moisture check (C31)",
+    "2": "2 to 4 inches soil (C08, C18) · 2 to 3 inches soil/water soak (C25, C26) · 2 sets of true leaves / 2 inches tall (C18, C22) · 2 to 3 seedlings taffy method (C34)",
+    "3": "3 seeds that don't work early (title, C12, C24, C33) · 3 to 4 inches soil (C10b, C20b, C21b) · 3 holes each side (C10b, C25) · 3 labeling spots (C30b) · 3 mistakes/clashes (M3/M4)",
+    "4": "4 inches cut line from bottom (C18, C21b, C29b) · 3 to 4 inches soil (C10b, C21b) · 4 to 6 weeks before frost / large seeds per jug (C27, C28) · 4-inch pot (C34)",
+    "5": "5 to 8 bottom drainage holes (OSU Lucas C21b) · 5-word summary by Trudi Davidoff (C10) · May = month 5 (chữ không dùng số)",
+    "6": "6 seeds that work in winter (title: spinach, kale, thyme, oregano, coneflower, milkweed — C11, C15, C19, C21, C32) · 6 to 8 medium seeds/jug or weeks before frost (C27, C28)",
+    "8": "5 to 8 drainage holes (C21b) · 6 to 8 medium seeds/jug or weeks before frost (C27, C28)",
+    "10": "10 steps (OSU Lucas) · ~10 minutes setup (chỉ dùng nếu cần; ưu tiên không dùng số phút không nguồn)",
+    "15": "about 15 quarter-inch drainage holes (OSU Licking C25) · 1.5 inch hinge written as one and a half (dùng 1, 2)",
+    "20": "20 to 25 seeds per jug (OSU Lucas C21b) · over 20 years ago Trudi Davidoff (WSU C29)",
+    "21": "December 21 winter solstice (WSU C32)",
+    "25": "20 to 25 seeds per jug (OSU Lucas C21b)",
+    "30": "C30 = at least 30 days cold stratification (SDSU C14b)",
+    "32": "above 32 degrees F before bottom-soaking jugs (OSU Licking C26)"
+  },
+  "_nguon": "research-brief.md Claim Ledger 2026-11-26 (40 claims, 7 .edu sources, Pass2=Y)"
+}

@@ -13,18 +13,18 @@ HẠNG: AN TOÀN · nhãn TEST (tái sử dụng phiếu Vòng A+B 18/10/2026, k
 | 1 | Outline | mkt-youtube-outline | outline.md | ✅ 26/11: **USER DUYỆT GATE 1** — **Title A** (`Winter Sowing in Milk Jugs: 6 Seeds That Work (and 3 That Don't)`, 64 ký tự; Title B giữ làm á quân swap giờ 48) + **Thumb A** (`$0 IN JANUARY` / `NO GROW LIGHTS`, Clean Plate L29) + Outline 5 phần *(đã đính chính theo [1.5])* |
 | 1.5 | Deep Research | garden-deep-researcher | research-brief.md · allowed-numbers.json | ✅ 26/11: **USER DUYỆT GATE 1.5** — 43 dòng claim Pass2=Y từ 7 nguồn `.edu` độc lập (chốt hạt #6 = **Milkweed**, tách Broccoli/Lettuce/Cosmos sang bảng bất đồng M3) · đủ 11,0–11,5′ |
 | 2 | Hook | mkt-hook-kallaway | hook.md | ✅ 26/11: **USER CHỌN HOOK D** (Real Origin Story — Trudi Davidoff / USDA, 112 từ ≈ 0:41 · L24 0:17 · E7 71% rút gọn, 3 dân dã · PASS lint & claim_check) |
-| 2.5 | Retention Spine | playbook P2S | retention-spine.md | ⏳ 26/11: đã vẽ xong bản thiết kế P2S (~1.800 từ ≈ 10:55 @165 wpm · Loop A 133s/154s ≤180s · Loop B 161s ≤180s · Editorial Signature M3 · COMMENT_Q 3:25 · ACTION_TIP 2:00 & 10:25 · Ending ≤50 từ) → **🔴 CHỜ USER DUYỆT GATE 2.5** |
-| 3 | Script EN | youtube-garden-us | script.md | ⬜ chờ duyệt GATE 2.5 |
-| 3R | Phản biện kép (Agy + Opus + R3 Đóng gói) | templates/brief-phan-bien* | phan-bien-v1.md | ⬜ *(đề tài không YMYL — đủ điều kiện Đường nhanh 1 vòng nếu V1 sạch)* |
-| 3.5 | Prediction | templates/prediction.template.md | prediction.md | ⬜ |
-| 4a | SEO EN (`en-US` duy nhất) | garden-seo | seo-en.md | ⬜ *(L28: cấm Localization ngoài `en-US`)* |
+| 2.5 | Retention Spine | playbook P2S | retention-spine.md | ✅ 26/11: **USER DUYỆT GATE 2.5** (~1.800 từ ≈ 10:55 · Loop A & B ≤180s · Editorial Signature M3) |
+| 3 | Script EN | youtube-garden-us | script.md · script.draft-markers.md · gate-log.md | ⏳ 26/11: **1.751 từ ≈ 10,6′ @165 wpm** · **`gate.py` 7/7 PASS (0 lỗi, 0 cảnh báo)** · 0 câu trùng 5 tập gần nhất · 86 thẻ `[C..]` (42/43 mã ledger) · E7 52% rút gọn, 6 thành ngữ mới, 6 dân dã → **🔴 CHỜ USER DUYỆT GATE 3** |
+| 3R | Phản biện kép (V1 chéo hãng + V2 độc lập) | templates/brief-phan-bien* | phan-bien-v1.md · phan-bien-v2.md | ✅ 26/11: **V1** chéo hãng (R1 Gemini 31/35 · R2 Claude Opus 27/35, Risk 8/10 · R3 Đóng gói L25 7.5/10) → nhận **D1–D16**, bác B1–B4, đóng sạch 4 lỗi CHẶN (Kale C19, thông gió đốt nhựa C36, L18 bảng M3, bỏ `$0` trên Thumb A) · **V2** độc lập: **`ĐẠT` (0 CHẶN, 0 NÊN SỬA, Hook 34/35, Compliance Risk 10/10 PUBLISH)** |
+| 3.5 | Prediction | templates/prediction.template.md | prediction.md | ⬜ tạo ngay sau khi duyệt GATE 3 |
+| 4a | SEO EN (`en-US` duy nhất) + Thumbnail Prompts (L29) | garden-seo · garden-us-thumbnail | seo-en.md · thumbnail-prompts.md | ⬜ chạy tự động ngay sau GATE 3 *(L28: cấm Localization ngoài `en-US`)* |
 | 4b/c | Translate ES / SEO ES | — | — | ⛔ ĐÃ TẮT từ 26/11/2026 (`translate_es: false`) |
 | 6 | Retro | yt_analytics.py retro | retro.md | ⬜ *(7–14 ngày sau publish)* |
 
-**Title đã chốt (GATE 1, 26/11):** `Winter Sowing in Milk Jugs: 6 Seeds That Work (and 3 That Don't)` (Title A · 64 ký tự; á quân 48h = Title B) · **Thumbnail đã chốt:** Thumb A (`$0 IN JANUARY` / `NO GROW LIGHTS`, Clean Plate L29)
+**Title đã chốt (GATE 1, 26/11):** `Winter Sowing in Milk Jugs: 6 Seeds That Work (and 3 That Don't)` (Title A · 64 ký tự; á quân 48h = Title B) · **Thumbnail cập nhật sau 3R V1 (D4):** Thumb A **`6 SEEDS IN JANUARY`** / **`NO GROW LIGHTS`** (Clean Plate L29 — bỏ `$0` overclaim theo R2+R3; dự phòng Test & Compare: Thumb B `ROTTING SEEDS?` / `JANUARY JUG FIX` · PA3 `SOW 6 IN JANUARY` / `SKIP THESE 3!`)
 **Hạt đã chốt (GATE 1.5, 26/11):** 6 sống khỏe (`Spinach · Kale · Thyme · Oregano · Coneflower · Milkweed`) · 3 đợi xuân (`Tomatoes · Squash · Zinnias`) · 3 bất đồng Extension (`Broccoli · Lettuce · Cosmos`)
-**Hook đã chốt (GATE 2, 26/11):** **Hook D** (Real Origin Story — Trudi Davidoff / USDA, 112 từ ≈ 0:41, `FIRST_STEP` @0:17)
-**Bước kế tiếp:** 🔴 **GATE 2.5** — User duyệt `retention-spine.md` (bản đồ giữ chân, 2 loop ≤180s, vị trí Editorial Signature M3 & câu hỏi bình luận 3:25) → sang Bước `[3]` viết full `script.md` (~1.800 từ) + chạy 7 cổng máy `tools/gate.py` + Phản biện kép `3R`!
+**Hook đã chốt (GATE 2, chỉnh D13):** **Hook D** (Trudi Davidoff / USDA, có exact keyword `"winter sowing"` @0:04, `FIRST_STEP` @0:15, V2 chấm **34/35**)
+**Bước kế tiếp:** 🔴 **GATE 3** — User duyệt full script (`script.md`) + xác nhận chỉnh chữ Thumb A (`6 SEEDS IN JANUARY / NO GROW LIGHTS`) → chạy **Bước `[4a]` `seo-en.md` (`en-US` duy nhất) + `thumbnail-prompts.md` (Clean Plate L29) + `[5]` `prediction.md`** rồi commit lên `Key-lam-vuon-us`!
 
 **⚠️ Lưu ý kiểm soát chất lượng cho tập 102:**
 - **L17 (Lời hứa số):** Con số `6 Seeds That Work (and 3 That Don't)` là lời hứa cứng — ở `[1.5]` mọi hạt trong danh sách 6 + 3 phải có nguồn `.edu` Pass2=Y xác nhận rõ ràng.

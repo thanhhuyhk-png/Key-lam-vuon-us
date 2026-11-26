@@ -1,0 +1,33 @@
+{
+  "allowed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    15,
+    20,
+    25,
+    30,
+    32
+  ],
+  "_ghi_chu": {
+    "0": "zero fuss / zero grow lights (C05, C16, C25)",
+    "1": "1 gallon milk jug (C07, C31) · 1 inch to 1.5 inch hinge (C07, C27, C31) · 1 to 2 days acclimate (C28) · at least once a week moisture check (C39) · one seed kind per jug (C27)",
+    "2": "2 to 4 inches soil (C08, C20) · 2 to 3 inches water soak (C32) · 2 sets of true leaves / 2 inches tall (C20, C28) · 2 to 3 seedlings taffy method (C42)",
+    "3": "3 seeds that wait for spring (title, C13, C30, C41) · 3 crops on the fence (D5) · 3 to 4 inches soil (C11, C24, C27) · 3 holes each side (C11, C31) · 3 packet clues (C01, C16, C33)",
+    "4": "4 inches cut line from bottom (C20, C27, C37) · 3 to 4 inches soil (C11, C27) · 4 to 6 weeks before frost / 4 to 6 large seeds per jug (C33, C34) · 4 guides (C12, C22, C26, C40)",
+    "5": "5 to 8 bottom drainage holes (C27) · 5 words by Trudi Davidoff (C10)",
+    "6": "6 seeds that work in winter (title: spinach, kale, thyme, oregano, coneflower, milkweed — C12, C17, C22, C26, C40, C43) · 6 to 8 medium seeds per jug / weeks before frost (C33, C34)",
+    "8": "5 to 8 drainage holes (C27) · 6 to 8 medium seeds per jug / weeks before frost (C33, C34)",
+    "15": "about 15 quarter-inch drainage holes (C31)",
+    "20": "20 to 25 seeds per jug (C27) · over 20 years ago Trudi Davidoff (C10, C36)",
+    "25": "20 to 25 seeds per jug (C27)",
+    "30": "C30 = at least 30 days cold stratification (C16)",
+    "32": "above 32 degrees F before bottom-soaking jugs (C32)"
+  },
+  "_nguon": "research-brief.md Claim Ledger 2026-11-26 (43 claims C01-C43, 7 .edu sources, Pass2=Y; đã đồng bộ sau 3R V1)"
+}

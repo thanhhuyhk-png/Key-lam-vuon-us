@@ -1,0 +1,11 @@
+# Vùng đã sửa sau Phản biện Vòng 1 (D1–D16) — big-idea-102
+
+1. **Hook D (D13 — 0:00–0:38):** Chèn exact keyword `"winter sowing"` ở câu 1 (@0:04), bỏ `"It worked so well"`, bỏ câu chuyển `"Let's prep your jug first"` ở 0:39.
+2. **M1 — Cảnh báo đốt lỗ nhựa (D2 — @0:50):** Đưa cảnh báo thông gió C36 lên ngay sau câu `"Poke five to fifteen small holes..."` và xóa bản đặt muộn ở M4.
+3. **M1 — Giá thể & tảo xanh (D10, D14 — @1:25–1:42):** Bỏ `"packs down hard"`, khoanh vùng `"green algae"` đúng vào `moisture-control mix` trong mùa đông ẩm (`C31, C36`).
+4. **M1 — Trình tự ghi nhãn trước khi dán bình (D5, D14 — @2:08–2:45):** Chuyển toàn bộ đoạn nhãn (paint pen/laundry marker + thẻ thứ 2 cắm đất) lên TRƯỚC `"Now fold the top back down and seal the seam with duct tape..."` và đổi `"two tiny holes"` → `"a couple spots"` (`C20`).
+5. **M2 — Cơ chế & Kale/Spinach & mật độ hạt (D1, D7, D9, D12, D16 — @3:00–5:00):** Bỏ `"sit rotting"`, bỏ `"built for cool soil"` trên Kale (nêu đúng phạm vi Spinach C17 và 4 nguồn mùa đông C12/C22/C26/C40), nêu đủ 2 mốc mật độ hạt C27/C34, bỏ `"pricey starter pots"` & `"bring pollinators"`, đổi lần lặp `"Fair warning"` → `"One heads-up"`.
+6. **M3 — Editorial Signature & L18 (D1, D3, D8, D11, D12 — @6:00–7:25):** Illinois ghi đúng `"January and February"` (`C12`), SDSU `"some lettuce varieties"` (`C17`), giải thích thẳng Kale cũng thuộc họ cải (`C19`) nhưng vẫn nằm trong danh sách mùa đông của 4 trường (`C12, C22, C26, C40`), bỏ `"you won't waste seed"` & `"copying one video blindly"`, bỏ đọc lặp 5 cụm số L18 để bảng GFX M3 gánh số.
+7. **M4 — Trình tự 2 cặp lá trước 1–2 ngày thích nghi & tưới (D6, D12, D14 — @7:40–9:25):** `"at least once a week"` (`C39`), bỏ `"freeze the root zone solid"`, đưa `"wait until each seedling's got two sets of true leaves or stands about two inches tall"` lên TRƯỚC câu mở bình thích nghi 1–2 ngày (`C20, C28`), bỏ `"for a week"`.
+8. **Kết (D14 — @10:32):** Bổ sung câu hỏi mở ngắn (`So which seed packet's going into your first jug this week?`) giữ kết 13 giây (≤20s L23).
+9. **Thumbnail (D4 — header):** Đổi Thumb A từ `"$0 IN JANUARY"` → **`6 SEEDS IN JANUARY`** / **`NO GROW LIGHTS`**; Thumb B → **`ROTTING SEEDS?`** / **`JANUARY JUG FIX`**.
