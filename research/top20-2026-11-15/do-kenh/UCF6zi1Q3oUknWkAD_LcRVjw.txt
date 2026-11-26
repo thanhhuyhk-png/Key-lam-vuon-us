@@ -1,0 +1,150 @@
+# Đo kênh: UCF6zi1Q3oUknWkAD_LcRVjw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 675 |
+| n_trong_danh_sach | 115 |
+| n_dai | 100 |
+| n_short | 15 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 337,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2021-06-11 |
+| n_ngoai_cua_so | 16 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 11,585 |
+| cao_nhat | 487,609 |
+| thap_nhat | 4,102 |
+| phan_tan | 42.09 |
+| so_video_tren_2x | 9 |
+| ty_le_tren_2x | 0.45 |
+| trung_vi_chia_sub | 0.03 |
+| ty_le_like_trung_vi | 0.06 |
+| da_trung_vi | 2.63 |
+| ngay_video_dau | 2011-02-16 |
+| tuoi_tu_video_dau | 5,752 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 58.59 |
+| sub_moi_video | 499 |
+| video_30_ngay | 6 |
+| ty_trong_view_short | 0.05 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2011-02-16 | 5,752 | OG7Cohix4xQ | 152,296 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Urban EDC Backpack (v1.0) by TheUrbanPrepper |
+| 2011-02-22 | 5,746 | Cvq1rKmVhDg | 117,481 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Urban Altoids Survival Tin - EDC by TheUrbanPrepper |
+| 2011-03-11 | 5,729 | zIxNhCkZMJ4 | 12,428 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Introduction: Building a Bug Out Bag (BOB) by TheUrbanPrepper |
+| 2011-03-16 | 5,724 | ni17qlvICEs | 34,214 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | SAS Survival Pouch (B.O.B.) by TheUrbanPrepper |
+| 2011-03-20 | 5,720 | bA1mfqPG6S4 | 9,866 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Water Module (Building a Bug Out Bag) by TheUrbanPrepper |
+| 2011-04-02 | 5,707 | zbwjlHg0gSQ | 39,482 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Food Module (Building a Bug Out Bag) by TheUrbanPrepper |
+| 2011-04-14 | 5,695 | cjUegzBryLI | 38,730 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | BOB: Urban Tools (Part 1) - Intro/Core Tools by TheUrbanPrepper |
+| 2011-04-14 | 5,695 | 0mJQVBbj1QM | 83,460 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | BOB: Urban Tools (Part 2) - 5 lb Tool Bag by TheUrbanPrepper |
+| 2021-06-11 | 1,984 | Ax8S7sAF_YU | 13,505 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How To Escape Your Car During A Flood? \| Vehicle Preps |
+| 2021-06-15 | 1,980 | 3SCEGebWwkQ | 34,513 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What if a Nuclear Blast went off in YOUR Area? |
+| 2021-09-04 | 1,899 | A-0Wo66TgT8 | 77,785 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | EDC 101: The Basics of Everyday Carry |
+| 2021-09-12 | 1,891 | yb5msZtGIck | 83,509 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What's in my Urban EDC Commuter Bag? |
+| 2021-09-20 | 1,883 | RZb9pVsjLgQ | 264,992 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 C's of URBAN Survival \| National Preparedness Month |
+| 2021-11-07 | 1,835 | mPoFryLl3SQ | 58,335 | 5 | 77,785 | 0.75 | 5 | 0.40 | binh_thuong | – | Không | Top 10 Perishable Food Preps |
+| 2021-12-08 | 1,804 | e9JE87Fp3DI | 30,785 | 6 | 68,060 | 0.45 | 5 | 0.51 | binh_thuong | – | Không | Top 10 Preps to Buy at TRADER JOE'S |
+| 2021-12-11 | 1,801 | G_pvE04x_gI | 23,949 | 7 | 58,335 | 0.41 | 5 | 0.81 | binh_thuong | – | Không | Catalytic Converter Theft Is Out of Control: Here’s How to Stop It |
+| 2022-01-04 | 1,777 | UYQ1MEeWxcE | 19,287 | 8 | 46,424 | 0.42 | 5 | 1.02 | binh_thuong | – | Không | Terry Silver's "QuickSilver Method" for Preppers \| Cobra Kai |
+| 2022-01-16 | 1,765 | cxFTl7qu3S4 | 47,234 | 9 | 34,513 | 1.37 | 5 | 1.10 | binh_thuong | – | Không | What Preps To Store In Your Nightstand |
+| 2022-02-01 | 1,749 | 5A8whPFHZus | 34,793 | 10 | 40,874 | 0.85 | 5 | 1.20 | binh_thuong | – | Không | What I Carry on EVERY Bike Ride (Bicycle EDC) |
+| 2022-02-06 | 1,744 | _8PatF2dQjk | 103,689 | 11 | 34,793 | 2.98 | 5 | 1.10 | hoi_cao | – | Không | How To Use Your CPAP When The Power Goes Out! |
+| 2022-02-12 | 1,738 | vor0hy0hQmY | 49,227 | 12 | 41,014 | 1.20 | 5 | 0.93 | binh_thuong | – | Không | The Fanny Pack Comeback No One Saw Coming |
+| 2022-02-20 | 1,730 | IIvkB8Bn4A8 | 28,138 | 13 | 47,234 | 0.60 | 5 | 1.36 | binh_thuong | – | Không | Tsunami & Flash Flood Survival Kit: How to Be Ready |
+| 2022-02-25 | 1,725 | WinRJgQBFUU | 38,101 | 14 | 41,014 | 0.93 | 5 | 1.57 | binh_thuong | – | Không | How to Organize Your Pantry With COLORED Stickers For EASY Use |
+| 2022-03-11 | 1,711 | gK6feA0OB_0 | 89,427 | 15 | 38,101 | 2.35 | 5 | 1.09 | hoi_cao | – | Không | The BEST Gas Can \| Wavian NATO Jerry Fuel Can |
+| 2022-05-01 | 1,660 | TPwPH1bJLoE | 37,934 | 15 | 47,234 | 0.80 | 5 | 0.88 | binh_thuong | – | Không | Top 10 Vehicle Preps to Buy at AUTOZONE |
+| 2022-05-17 | 1,644 | -zrCmQ1vZzg | 64,280 | 15 | 47,234 | 1.36 | 5 | 0.88 | binh_thuong | – | Không | I Cleaned 100 Forgotten Gravestones In One Month! |
+| 2023-09-27 | 1,146 | BP9CpmqjQMA | 262,383 | 15 | 47,234 | 5.55 | 5 | 0.88 | manh | – | Không | My Urban EDC: Modular Everyday Carry for City Living |
+| 2023-10-04 | 1,139 | SCal4V2heL4 | 41,628 | 15 | 47,234 | 0.88 | 5 | 1.04 | binh_thuong | – | Không | Effective Vehicle Theft Prevention Tips You Need To Know Today |
+| 2023-10-11 | 1,132 | wu-t0trDEXU | 22,977 | 15 | 41,628 | 0.55 | 5 | 1.18 | binh_thuong | – | Không | Prepper Phone 2: Privacy-Driven Mobile Preparedness |
+| 2023-10-22 | 1,121 | pJEBIqofp_8 | 22,771 | 15 | 38,101 | 0.60 | 5 | 1.33 | binh_thuong | – | Không | Junk Drawer Organization Ideas You've Never Seen Before |
+| 2023-11-05 | 1,107 | vizQ2Sh8s3o | 97,606 | 15 | 38,101 | 2.56 | 5 | 1.33 | hoi_cao | – | Không | Top 10 Costco Preps: After 3-Years of INFLATION |
+| 2023-11-13 | 1,099 | J3Ol7xQ0O40 | 49,302 | 15 | 41,628 | 1.18 | 5 | 1.40 | binh_thuong | – | Không | Is Your USB Cable Drawer A Total Disaster Zone? |
+| 2025-02-21 | 633 | NitwI9KPZGE | 262,864 | 15 | 47,234 | 5.57 | 5 | 1.07 | manh | – | Không | Urban EDC Backpack (Version 5.0) |
+| 2025-02-28 | 626 | oQHos46nZb0 | 25,094 | 15 | 49,227 | 0.51 | 5 | 1.18 | binh_thuong | – | Không | I’m Back! Why I Took a Break from YouTube & What’s Next |
+| 2025-03-14 | 612 | iX0zSdNjywI | 50,607 | 15 | 49,227 | 1.03 | 5 | 1.18 | binh_thuong | – | Không | How to make FIRST AID KITS For Emergency Preparedness |
+| 2025-03-22 | 604 | li1hXpaX1zw | 58,174 | 15 | 49,227 | 1.18 | 5 | 0.60 | binh_thuong | – | Không | My Hyper-Organized Power Outage Kit (Ready for Any Blackout) |
+| 2025-04-05 | 590 | FvUITLIhjgY | 411,951 | 15 | 49,302 | 8.36 | 5 | 0.60 | manh | – | Không | Power Outage Preparedness \| My Complete Home Strategy |
+| 2025-04-12 | 583 | L6IYz2pyENo | 7,009 | 15 | 50,607 | 0.14 | 5 | 2.37 | binh_thuong | – | Không | Carbon Monoxide Preparedness: The Invisible Killer |
+| 2025-04-19 | 576 | y9bN0UtzOgo | 530,033 | 15 | 50,607 | 10.47 | 5 | 0.59 | can_kiem_ky | – | Không | The ULTIMATE Costco Shopping Guide for PREPPERS |
+| 2025-04-26 | 569 | l3d8voklQNE | 19,697 | 15 | 50,607 | 0.39 | 5 | 0.59 | binh_thuong | – | Không | What's Inside a Glow Stick? You NEED To Know! |
+| 2025-05-02 | 563 | NnAh0cEIsOg | 29,623 | 15 | 50,607 | 0.59 | 5 | 0.85 | binh_thuong | – | Không | A Serious Apology to My Viewers |
+| 2025-05-10 | 555 | vBLZ9_PuyHw | 522,718 | 15 | 49,302 | 10.60 | 5 | 0.37 | can_kiem_ky | – | Không | Top 10 Harbor Freight Preps (and What to Avoid!) |
+| 2025-05-18 | 547 | hIcS5O5j89U | 119,877 | 15 | 49,302 | 2.43 | 5 | 0.37 | hoi_cao | – | Không | Top 10 Overrated EDC Items (Don’t Carry These) |
+| 2025-05-25 | 540 | _eHlWH3dn9E | 9,720 | 15 | 50,607 | 0.19 | 5 | 0.36 | binh_thuong | – | Không | DIY Pest Control Kit for Home Emergencies |
+| 2025-05-28 | 537 | i92K2NtUo_4 | 5,731 | 15 | 50,607 | 0.11 | 5 | 0.42 | binh_thuong | – | Không | Staying Human on YouTube in the Age of AI |
+| 2025-06-07 | 527 | qtiPuaOx9tU | 43,194 | 15 | 50,607 | 0.85 | 5 | 0.36 | binh_thuong | – | Không | Top 5 Underrated EDC Items |
+| 2025-06-14 | 520 | Wq_LovIu8dg | 18,145 | 15 | 49,302 | 0.37 | 5 | 0.42 | binh_thuong | – | Không | The One Prep Every Driver Needs (But Few Have) |
+| 2025-06-28 | 506 | IuFH5IJKSVY | 21,105 | 15 | 43,194 | 0.49 | 5 | 0.38 | binh_thuong | – | Không | Budget Everyday Carry (EDC) Under $100 |
+| 2025-07-05 | 499 | ID6xVTot2Nw | 16,434 | 15 | 29,623 | 0.55 | 5 | 0.35 | binh_thuong | – | Không | This App Warns You Before the News Does \| Citizen App Review |
+| 2025-07-12 | 492 | B_9O35kwFKY | 91,847 | 15 | 29,623 | 3.10 | 5 | 0.20 | dang_ghi | – | Không | My TSA-Friendly Everyday Carry (EDC) Kit for Air Travel |
+| 2025-07-16 | 488 | 3pH_N8Ac2H0 | 10,245 | 15 | 29,623 | 0.35 | 5 | 0.20 | binh_thuong | – | Không | I Visited the World's Only Olight Store in Las Vegas and Found This AMAZING Flashlight |
+| 2025-07-19 | 485 | lhM9NbsU2kI | 20,707 | 15 | 21,105 | 0.98 | 5 | 0.27 | binh_thuong | – | Không | 10 Travel Preps You Didn’t Know You Needed |
+| 2025-07-23 | 481 | EPkGM8OYBWs | 5,800 | 15 | 20,707 | 0.28 | 5 | 0.28 | binh_thuong | – | Không | How Do You Prep for Extreme Heat? \| Las Vegas Call for Tips |
+| 2025-07-26 | 478 | nAWKZdNg-VU | 5,461 | 15 | 20,707 | 0.26 | 5 | 0.47 | binh_thuong | – | Không | My Most Popular Fanny Pack: Igloo WWE Championship Belt |
+| 2025-08-02 | 471 | IB6arY6_Ejw | 5,718 | 15 | 19,697 | 0.29 | 5 | 1.15 | binh_thuong | – | Không | How Prepared is The Venetian? \| Readiness Review |
+| 2025-08-08 | 465 | zr_nEw6yWPY | 46,624 | 15 | 18,145 | 2.57 | 5 | 0.54 | hoi_cao | – | Không | Top 10 Overrated Preps You Might Regret Buying |
+| 2025-08-15 | 458 | EW4D1Oqa4Tc | 22,589 | 15 | 18,145 | 1.24 | 5 | 0.54 | binh_thuong | – | Không | Bedside Earthquake Kit: Be Ready While You Sleep |
+| 2025-08-22 | 451 | EbxKL5iuwFk | 4,728 | 15 | 18,145 | 0.26 | 5 | 3.01 | binh_thuong | – | Không | The BIGGEST Prepper Giveaway I’ve Ever Done! |
+| 2025-09-26 | 416 | QRQOjbYCv4E | 9,712 | 15 | 16,434 | 0.59 | 5 | 3.87 | binh_thuong | – | Không | Jase Daily Review: The Life-Saving Prep You’re Overlooking |
+| 2025-10-03 | 409 | 9BEr_H9Q24g | 63,598 | 15 | 16,434 | 3.87 | 5 | 3.32 | dang_ghi | – | Không | How Long Does the Jackery HomePower 3000 Really Last? |
+| 2025-10-05 | 407 | 7kqSVaNjeDE | 9,105 | 15 | 18,145 | 0.50 | 5 | 3.01 | binh_thuong | – | Không | Don't Get Caught Without Cold Storage: ICECO APL55 Tested |
+| 2025-10-10 | 402 | gGFekTA3R9A | 54,622 | 15 | 16,434 | 3.32 | 5 | 1.61 | dang_ghi | – | Không | Earthquake Survival Tips Everyone Should Know! |
+| 2025-11-02 | 379 | b6ksUJAG6T4 | 135,601 | 15 | 16,434 | 8.25 | 5 | 0.94 | manh | – | Không | Top 10 Expensive Preps That Hurt to Buy (But Are Worth It) |
+| 2025-11-16 | 365 | _LUGEbGMKw0 | 235,927 | 15 | 16,434 | 14.36 | 5 | 0.77 | can_kiem_ky | – | Không | Top 100 Preps Every Urban Family Should Have |
+| 2026-01-21 | 299 | LNBR0g6iUA8 | 26,531 | 15 | 20,707 | 1.28 | 5 | 0.61 | binh_thuong | – | Không | Urban Prepper's SHOT Show 2026 – Realistic Gear Check on Day 1! |
+| 2026-01-22 | 298 | QsGWioxBzeo | 15,486 | 15 | 20,707 | 0.75 | 5 | 0.60 | binh_thuong | – | Không | This 25-Foot Flamethrower Runs on Gasoline \| ExoThermic Pulsefire |
+| 2026-01-23 | 297 | no0IbsSC70U | 12,625 | 15 | 20,707 | 0.61 | 5 | 0.47 | binh_thuong | – | Không | GRAYL Titanium Purifier Hands-On - Cleans Water in Seconds! |
+| 2026-01-24 | 296 | ewHfHDEqS9s | 12,467 | 15 | 15,486 | 0.81 | 5 | 0.62 | binh_thuong | – | Không | Professional EMP/EMF Protection Explained \| Faraday Defense at SHOT Show |
+| 2026-01-25 | 295 | akXzIiQW73w | 9,667 | 15 | 15,486 | 0.62 | 5 | 1.67 | binh_thuong | – | Không | This Axe Folds Down to Pocket Size! \| CRKT Provoke X |
+| 2026-01-27 | 293 | Y3qKNjsmWKc | 25,907 | 15 | 15,486 | 1.67 | 5 | 1.19 | binh_thuong | – | Không | No Fire Needed! \| Lava Gel Oven for Off-Grid Cooking |
+| 2026-01-28 | 292 | oSRIv8Q9Z2A | 8,023 | 15 | 22,589 | 0.36 | 5 | 3.54 | binh_thuong | – | Không | This Modified Armored MRAP Is AMAZING! \| MIRA Safety |
+| 2026-01-30 | 290 | xM3QPJqsXTY | 8,285 | 15 | 15,486 | 0.53 | 5 | 5.17 | binh_thuong | – | Không | Is the Luxor Actually Prepared? \| Las Vegas Hotel Readiness Review |
+| 2026-02-01 | 288 | GqOqbNFWbxQ | 667,238 | 15 | 12,625 | 52.85 | 5 | 6.34 | can_kiem_ky | – | Không | Offline Survival Knowledge When the Internet Is Gone \| Prepper Disk |
+| 2026-02-08 | 281 | iyhbDRzNYW4 | 93,454 | 15 | 15,486 | 6.03 | 5 | 1.87 | manh | – | Không | 20 Hidden Prepper Gems Most People Missed |
+| 2026-02-18 | 271 | DOpx3E3DP0w | 18,371 | 15 | 25,907 | 0.71 | 5 | 1.86 | binh_thuong | – | Không | Being The Urban Prepper \| My Journey |
+| 2026-02-22 | 267 | BKNGtvFaz14 | 79,995 | 15 | 18,371 | 4.35 | 5 | 1.58 | dang_ghi | – | Không | The Ghost Phone: A Privacy Phone for Preparedness |
+| 2026-03-06 | 255 | 0z-paKtFC_Q | 10,151 | 15 | 25,907 | 0.39 | 5 | 1.17 | binh_thuong | – | Không | The Bug Out Folding E-Bike? \| Ride1Up Portola |
+| 2026-03-23 | 238 | fVnlXzgbbl8 | 474,625 | 15 | 18,371 | 25.84 | 5 | 1.58 | can_kiem_ky | – | Không | Power Outage Prep Tested in the Snow \| Jackery Explorer 5000 Plus |
+| 2026-04-05 | 225 | SZ7zGNLBsYY | 29,036 | 15 | 18,371 | 1.58 | 5 | 1.36 | binh_thuong | – | Không | 10 Everyday Items That Are Secretly Great Preps |
+| 2026-04-26 | 204 | HBBPAToy7dM | 48,311 | 15 | 18,371 | 2.63 | 5 | 1.36 | hoi_cao | – | Không | 10 Preps People Forget Until It's Too Late |
+| 2026-05-03 | 197 | U-8YyCXG52Y | 19,147 | 15 | 18,371 | 1.04 | 5 | 1.36 | binh_thuong | – | Không | I Wasn’t Prepared for This... |
+| 2026-05-10 | 190 | MKeDAnpo7Do | 30,428 | 15 | 19,147 | 1.59 | 5 | 1.30 | binh_thuong | – | Không | Everyone Is Completely Checked Out |
+| 2026-05-14 | 186 | sFny_RXsIC0 | 6,909 | 15 | 25,907 | 0.27 | 5 | 1.20 | binh_thuong | – | Không | The Daily Pulse of the Prepper Community |
+| 2026-05-18 | 182 | ieh6JVytaWo | 24,954 | 15 | 25,907 | 0.96 | 5 | 1.20 | binh_thuong | – | Không | Survival AI When There’s No Internet |
+| 2026-05-31 | 169 | cQ64s76iuPo | 127,686 | 15 | 25,907 | 4.93 | 5 | 0.32 | dang_ghi | – | Không | Most People Get This Wrong During Blackouts |
+| 2026-06-07 | 162 | vuwVoHe-MMQ | 4,365 | 15 | 29,036 | 0.15 | 5 | 0.28 | binh_thuong | – | Không | Hospital Bag Essentials: Don't Go to the Hospital Without This! |
+| 2026-06-12 | 157 | as-mfDuk6wk | 31,182 | 15 | 29,036 | 1.07 | 5 | 0.20 | binh_thuong | – | Không | This Tiny Tool Solves a Huge Emergency Problem #water |
+| 2026-06-18 | 151 | iCf1jIPFgOw | 452,779 | 15 | 30,428 | 14.88 | 5 | 0.19 | can_kiem_ky | – | Không | How To Stay Cool During a Summer Power Outage \| Jackery HomePower 3600 Pro Max |
+| 2026-06-24 | 145 | 48tz8Q2St5A | 4,778 | 15 | 30,428 | 0.16 | 5 | 0.19 | binh_thuong | – | Không | Why I Put This Dashcam in My Son's Car \| Vantrue N4PS Review |
+| 2026-06-28 | 141 | Nt18DyRIJRo | 8,252 | 15 | 29,036 | 0.28 | 5 | 0.20 | binh_thuong | – | Không | The Mount Rushmore of EDC Flashlights |
+| 2026-07-05 | 134 | hy1dlAcqxp8 | 5,883 | 15 | 29,036 | 0.20 | 5 | 0.21 | binh_thuong | – | Không | She Went on an "Easy" Hike... Then Got Lost |
+| 2026-07-12 | 127 | uTJg006HozU | 5,891 | 15 | 24,954 | 0.24 | 5 | 0.42 | binh_thuong | – | Không | 10 Digital Files You MUST Back Up Before Disaster Strikes |
+| 2026-07-15 | 124 | axvmV55m4EE | 367,954 | 15 | 24,954 | 14.75 | 5 | 0.42 | can_kiem_ky | – | Không | Will This Power Bank Save You During a Forced Evacuation? \| Jackery HP2000 Plus |
+| 2026-07-19 | 120 | I1UYIRsFI3Y | 4,102 | 15 | 24,954 | 0.16 | 5 | 0.42 | binh_thuong | – | Không | The Worst Pain I've Ever Experienced... Here's How I Prepare #GOUT |
+| 2026-07-26 | 113 | YaWgHS6mMiQ | 10,534 | 15 | 19,147 | 0.55 | 5 | 0.62 | binh_thuong | – | Không | The Mount Rushmore of Multitools |
+| 2026-08-03 | 105 | ypGJZzM-sVQ | 6,130 | 15 | 10,534 | 0.58 | 5 | 1.12 | binh_thuong | – | Không | Prepping Is Boring |
+| 2026-08-09 | 99 | JkRlTqjQOiI | 11,782 | 15 | 8,252 | 1.43 | 5 | 3.47 | binh_thuong | – | Không | The Emergency Food Prep Most People Forget |
+| 2026-08-19 | 89 | CgN2Zey3-SM | 213,340 | 15 | 8,252 | 25.85 | 5 | 3.47 | can_kiem_ky | – | Không | How to Prepare for a Power Outage in an Apartment or Condo \| Jackery HomePower 3600 Plus |
+| 2026-08-24 | 84 | GwIaGv6QCUE | 5,558 | 15 | 10,534 | 0.53 | 5 | 2.72 | binh_thuong | – | Không | Evacuating in a Wildfire: What You Need to Do Now |
+| 2026-09-06 | 71 | 3yH14UxS1iw | 28,630 | 15 | 8,252 | 3.47 | 5 | 4.13 | dang_ghi | – | Không | If You Only Read 4 Survival Books, Make It These \| The Mount Rushmore |
+| 2026-09-11 | 66 | jG1x-pNj-3s | 11,388 | 15 | 8,252 | 1.38 | 5 | 5.02 | binh_thuong | – | Không | The Tiny Tool That Could Save Your Home in a Gas Emergency |
+| 2026-09-21 | 56 | mTttFOgO4sA | 487,609 | 15 | 10,534 | 46.29 | 5 | 3.93 | can_kiem_ky | – | Không | I Cut My Power for 48 Hours: Here Is What Happened \| Jackery |
+| 2026-10-02 | 45 | D4-p-BXbK_c | 34,100 | 15 | 10,534 | 3.24 | 5 | 3.93 | dang_ghi | – | Không | How to Organize Your Entire Emergency Preparedness Plan |
+| 2026-10-09 | 38 | mJWZvUgTKFY | 25,382 | 15 | 10,534 | 2.41 | 4 | – | hoi_cao | – | Không | What to Do When the Tap Stops Working |
+| 2026-10-18 | 29 | 3eFi6KQ5Ml4 | 260,518 | 15 | 11,388 | 22.88 | 3 | – | chua_chin | – | Không | If I Had to Start Prepping From Zero, I'd Buy These 20 Things |
+| 2026-10-30 | 17 | 4O0PkzCK1io | 41,440 | 15 | 11,782 | 3.52 | 2 | – | chua_chin | – | Không | 10 Budget Preps Under $20 Every Beginner Needs Right Now |
+| 2026-11-03 | 13 | rdstb_EZ9EI | 86,495 | 15 | 25,382 | 3.41 | 1 | – | chua_chin | – | Không | 40 Things to Check Before the Next Emergency! |
+| 2026-11-10 | 6 | 5Vw-m7UIcrE | 17,355 | 15 | 28,630 | 0.61 | 0 | – | chua_chin | – | Không | 5 Reasons a Budget Power Station Might Be All You Need \| UDPOWER S2400 |

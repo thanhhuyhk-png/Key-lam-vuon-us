@@ -1,0 +1,1740 @@
+{
+ "du_an": "Garden US (Senior Garden Guide) — làm vườn Mỹ, không lộ mặt",
+ "ngay_do": "2026-11-16",
+ "ngay_moc_truoc": "",
+ "muc_tieu": {
+  "khan_gia": "lõi 60–80, mục tiêu 35–60+ (Mỹ)",
+  "dinh_dang": "không lộ mặt, giọng AI, 10–14′, stock miễn phí + tư liệu công cộng + đồ hoạ code",
+  "nguon_luc": "1 người + Claude, ~2 video dài/tuần",
+  "rang_buoc": [
+   "không tự quay",
+   "không stock trả phí",
+   "không giọng sợ hãi lệch ngách (L8)",
+   "không lời khuyên y tế"
+  ]
+ },
+ "model_link": {
+  "kenh": "UC9TcuDlGy9FTaYxhkOet0Ig",
+  "trang_thai": "ĐÃ DUYỆT 2026-11-16 (người dùng chọn); ứng viên 2 Plant Explainer theo dõi",
+  "ly_do": [
+   "hạng 1 tập làm vườn (22 kênh), khoảng hạng 1–1, hạng 1 ở 4/5 cách [ĐO]; hạng 6 tập Giữ chung (khoảng 6–12)",
+   "272.000 sub, trung vị 20 video dài 5.438, đà trung vị 1,59 [ĐO]",
+   "đề tài trùng hướng thử «tự cung tự cấp kiểu ông bà»; hình dựng được bằng stock + thẻ chữ [ĐO 2 video]",
+   "mẫu bình luận 60–77 tuổi, mức tin Thấp (5 nhãn/560)"
+  ],
+  "bam_gi": [
+   "chọn đề tài: kỹ năng/vật cụ thể của người Amish và ông bà áp vào vườn, bếp, mùa đông",
+   "tiêu đề danh sách có số + đối lập «không cần điện/không mua»",
+   "dựng: stock + thẻ chữ/công thức bằng code"
+  ],
+  "khong_bam": [
+   "độ dài 24′ (giữ 10–14′ của kênh)",
+   "nhịp 10 video/30 ngày (giữ ~2 video/tuần)",
+   "cảnh trích phim tài liệu (rủi ro dùng lại)",
+   "nhãn «for Seniors» trên tiêu đề (L9)"
+  ],
+  "theo_doi_hang_tuan": [
+   "5 video mới nhất: view 7 ngày so trung vị 5.438",
+   "đề tài nào vượt 2× trung vị",
+   "sub (đo lại 2026-12-16 để có % tăng 30 ngày)"
+  ],
+  "dung_bam_khi": [
+   "sau 3 video bám mà views_5d của mình không vượt 896 (mốc thắng an toàn)",
+   "kênh rơi khỏi TOP 5 tập làm vườn hai kỳ liền",
+   "bằng chứng kênh bị gắn nhãn nội dung dùng lại"
+  ]
+ },
+ "doi_chung": [
+  {
+   "kenh": "UC0UAr8Hiyb-sqQ4NBoKOVkQ",
+   "video_hit": "QRywRPWmQCc, VK1AYr4naw0, rvZO-RhGcZ0, TgkHp6wIHH0, vU-jGf2F0hA (n=9 nhóm đầu)",
+   "video_thuong": "WrWImzUzntw, ccDf_eFYW94, O2-FcQO8N5Q, HKKr8eI3RAk, D5psU2CwDSQ (n=9 nhóm cuối)",
+   "khac_chu_de": "thắng: thanh/khối/viên khô (bar, ration, soup cube); thua: hũ thịt đóng lọ",
+   "khac_tieu_de": "thắng: năm + quân đội/Đức + «I Made»; thua: «Meat Jar», «Testing»",
+   "khac_anh_bia": "thắng: khối xếp chồng + ông lão + «365 DAYS · NO FRIDGE»; thua: hàng hũ thuỷ tinh",
+   "khac_mo": "cả hai mở bằng lời hứa thời hạn + cảnh báo «một lỗi nhỏ hỏng cả mẻ» (n=5 phụ đề) → không khác",
+   "khac_goc": "giống: ngôi thứ nhất làm tại bếp",
+   "khac_do_dai": "8′ vs 8′ (không khác)",
+   "ket_luan": "giả thuyết: vật thể nhìn thấy được, gọn, cầm tay thắng hũ đóng lọ; văn phong không phân biệt hit/flop"
+  },
+  {
+   "kenh": "UCmNd9YwJEGzc0CQZSVe2oWg",
+   "video_hit": "v4adiMg2wJQ, vTNfnkipyBA, P2txkA-Shys, M_6bBUcB6Do, adK0RC6gG78 (n=20)",
+   "video_thuong": "offGhUR6nS4, dmBQHlsW-zE, QbalkAdLtMU, _q2duHjcIes, k-GhOVwGprw (n=20)",
+   "khac_chu_de": "thắng: đồ ăn/đồ mua ở cửa hàng cụ thể cho cúp điện; thua: an ninh, phòng an toàn, thoát lũ, chiến tranh lạnh",
+   "khac_tieu_de": "thắng: tên cửa hàng (Walmart/Costco/Tractor Supply) + «Cheap»",
+   "khac_anh_bia": "[CHƯA CÓ]",
+   "khac_mo": "[CHƯA CÓ]",
+   "khac_goc": "thực dụng tiết kiệm vs sợ hãi",
+   "khac_do_dai": "30′ vs 27,5′",
+   "ket_luan": "giả thuyết: tiền + cửa hàng quen thắng sợ hãi"
+  },
+  {
+   "kenh": "UCkN5jNYky03jok8jy5mKhzw",
+   "video_hit": "2CNq-yl6WMA, FrAO1DgkZL0, OCCgBxBMuE4, OkH3CHLYYr0, vLS7yIYB5tM (n=19)",
+   "video_thuong": "hdn6FS7tbJA, _WxwgliRrPw, eFrc3jyYhko, shuWJmwKbEo, wAkgj4APys0 (n=19)",
+   "khac_chu_de": "thắng: một loài cây/món đồ cụ thể + đồ cửa hàng mùa đông; thua: «mẹo vườn ông bà» chung chung",
+   "khac_tieu_de": "thắng: vị giác/giác quan + câu hỏi bỏ lửng («Tastes Like Apple and Honey… Why Does Nobody Grow It Now?»); thua: «N Forgotten … Tricks»",
+   "khac_anh_bia": "[CHƯA CÓ]",
+   "khac_mo": "[CHƯA CÓ]",
+   "khac_goc": "bí ẩn cụ thể vs danh sách mẹo",
+   "khac_do_dai": "31′ vs 32′",
+   "ket_luan": "giả thuyết: «mẹo ông bà» chung chung đã bão hoà; vật cụ thể + câu hỏi thắng"
+  }
+ ],
+ "nhan_ban": [
+  {
+   "video_goc": "No Longer Here 2CNq-yl6WMA «Tastes Like Apple and Honey. Grandma Planted It Once…» 2.662.237 view, hệ số 954",
+   "nhu_cau": "cây ăn được bà từng trồng, nay hiếm",
+   "doi_nhan_vat": "một loài cây cụ thể (vd. pawpaw, mộc qua, rhubarb) thay danh sách",
+   "doi_boi_canh": "vườn Mỹ hiện nay, vùng khí hậu USDA",
+   "goc_nhin": "vì sao biến mất + cách trồng lại năm nay",
+   "cau_hoi_trung_tam": "Vì sao không ai trồng cây này nữa, và bạn có nên trồng?",
+   "con_nhu_cau": "có",
+   "du_tu_lieu": "có (ảnh lưu trữ USDA/Thư viện Quốc hội + stock)",
+   "khac_ro": "có (1 cây, 10–14′, khác danh sách 30′)",
+   "diem": {
+    "nhu_cau": 5,
+    "bang_chung": 4,
+    "khoang_trong": 3,
+    "hop_khan_gia": 5,
+    "chi_phi": 4,
+    "rui_ro": 4
+   },
+   "quyet_dinh": "thử 1 video trong 3 video tới (mốc thắng 896 views_5d)"
+  },
+  {
+   "video_goc": "Plant Explainer «20 Vegetables To Plant in October ASAP» 221.630 view, hệ số 426 (+3 video cùng khuôn 138–302)",
+   "nhu_cau": "trồng gì tháng này",
+   "doi_nhan_vat": "tháng 12/1 sắp tới",
+   "doi_boi_canh": "theo vùng khí hậu (zone 3–10)",
+   "goc_nhin": "gieo trong nhà/che phủ, không phải lịch chung",
+   "cau_hoi_trung_tam": "Tháng này còn trồng được gì ở vùng của bạn?",
+   "con_nhu_cau": "có (theo mùa, lặp hằng tháng)",
+   "du_tu_lieu": "có (stock rau + đồ hoạ bản đồ zone bằng code)",
+   "khac_ro": "cần — khuôn đã đông (Golden Seniors, Vintage Gardening, Backyard Buddy cùng làm)",
+   "diem": {
+    "nhu_cau": 5,
+    "bang_chung": 4,
+    "khoang_trong": 2,
+    "hop_khan_gia": 5,
+    "chi_phi": 5,
+    "rui_ro": 5
+   },
+   "quyet_dinh": "thử nếu keyword US tháng tới ≥ 3K/tháng (KEYWORD-FIRST GATE)"
+  },
+  {
+   "video_goc": "Backyard Bill «Your Christmas Cactus Needs This in October…» 585.068 view, hệ số 490",
+   "nhu_cau": "cây cảnh theo mùa lễ",
+   "doi_nhan_vat": "trạng nguyên / xương rồng Giáng sinh / amaryllis",
+   "doi_boi_canh": "tháng 11–12 trong nhà",
+   "goc_nhin": "lỗi phổ biến làm cây không ra hoa",
+   "cau_hoi_trung_tam": "Vì sao cây của bạn không ra hoa đúng lễ?",
+   "con_nhu_cau": "có (mùa lễ đang tới)",
+   "du_tu_lieu": "có (stock)",
+   "khac_ro": "có",
+   "diem": {
+    "nhu_cau": 4,
+    "bang_chung": 4,
+    "khoang_trong": 3,
+    "hop_khan_gia": 5,
+    "chi_phi": 5,
+    "rui_ro": 5
+   },
+   "quyet_dinh": "ưu tiên ngay (cửa sổ mùa lễ còn ~5 tuần)"
+  }
+ ],
+ "theo_doi": [
+  {
+   "ngay": "2026-11-16",
+   "kenh": "UC9TcuDlGy9FTaYxhkOet0Ig",
+   "subs": 272000,
+   "trung_vi_20_dai": 5438,
+   "ghi_chu": "mốc Model Link; Google Sheet: https://docs.google.com/spreadsheets/d/1JO4zOY_B6lNfvVj_tgAFLMq0bwbHzPwxWFF_VaBahiQ"
+  }
+ ],
+ "chu_y": [
+  {
+   "loai": "phan_bien",
+   "noi_dung": "Phản biện độc lập v1 (sub-agent Opus ngữ cảnh mới) chấm Model Link cũ (NLH) 3/10, TOP 20 4/10; 5 lỗ hổng — xem phan-bien/phan-bien-v1.md và so-nhan-bac-v1.md",
+   "muc_do": "cao",
+   "viec_can_lam": "ĐÃ XỬ LÝ: thêm tập làm vườn + tập cùng định dạng, đổi đề xuất Model Link, bác 1 ý (The Good Steward) có số"
+  },
+  {
+   "loai": "phan_bien",
+   "noi_dung": "Độ nhạy chỉ ~3 cách độc lập (chưa có % tăng sub 30 ngày) → không kênh nào đạt 5/6",
+   "muc_do": "cao",
+   "viec_can_lam": "Người dùng chọn giữa 2 ứng viên; đo lại 2026-12-16 để có cách «đà»"
+  },
+  {
+   "loai": "gioi_han",
+   "noi_dung": "0/20 kênh TOP chung có trung vị thời lượng 10–14′ (trung vị TOP 26′); tập 8–16′ chỉ có kênh làm vườn trung vị ≤ 4.299",
+   "muc_do": "cao",
+   "viec_can_lam": "Người dùng quyết: giữ 10–14′ (theo số của chính kênh) hay thử 1 video danh sách dài hơn; không đổi config khi chưa duyệt"
+  },
+  {
+   "loai": "gioi_han",
+   "noi_dung": "«Cùng nguồn lực» của 14 kênh bị loại vì lên hình là [SUY LUẬN] từ tiêu đề; chỉ 3 kênh soi storyboard",
+   "muc_do": "vừa",
+   "viec_can_lam": "Kỳ sau soi 1 video mỗi kênh"
+  },
+  {
+   "loai": "gioi_han",
+   "noi_dung": "Tuổi khán giả chỉ đo ở 4 kênh (2 video/kênh, nhãn đọc tay); mức Thấp–Vừa",
+   "muc_do": "vừa",
+   "viec_can_lam": "Đo thêm ở kỳ sau nếu bám Model Link"
+  },
+  {
+   "loai": "co_du_lieu",
+   "noi_dung": "NGHI_LOI_DON_VI ở The Green Archive là báo nhầm (kiểm tay -Q7L9c_Enx0 = 36.687 khớp trang gốc)",
+   "muc_do": "thấp",
+   "viec_can_lam": "Không"
+  },
+  {
+   "loai": "co_du_lieu",
+   "noi_dung": "Kiểm tay 4 số view: lệch 0 / 0 / 0 / 0,24 %",
+   "muc_do": "thấp",
+   "viec_can_lam": "Không"
+  },
+  {
+   "loai": "gioi_han",
+   "noi_dung": "Survival Kitchen 1930 (hạng 1 ở 5/5 khi còn trong tập Giữ) bị loại vì quay tay thật [ĐO]; đề tài «thanh/khối thực phẩm để 365 ngày» vào kho video",
+   "muc_do": "vừa",
+   "viec_can_lam": "Không bám kênh; có thể mượn đề tài nếu dựng được bằng stock"
+  },
+  {
+   "loai": "cau_hoi",
+   "noi_dung": "Bám Frugal Solutions (ổn định, tự cung tự cấp) hay Plant Explainer (đang lên, đúng ngách làm vườn, dùng ảnh AI)?",
+   "muc_do": "thấp",
+   "viec_can_lam": "ĐÃ TRẢ LỜI: người dùng chọn Frugal Solutions (2026-11-16)"
+  },
+  {
+   "loai": "gioi_han",
+   "noi_dung": "Chi phí: 0 credit vidIQ/NexLev; ~9 giờ yt-dlp tuần tự; 1 sub-agent phản biện",
+   "muc_do": "thấp",
+   "viec_can_lam": "Không"
+  }
+ ],
+ "kenh": {
+  "UCnCALMh5O4Ykpv_ESjZ6WqA": {
+   "ten": "Senior Garden Guide",
+   "link": "https://www.youtube.com/channel/UCnCALMh5O4Ykpv_ESjZ6WqA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "kênh của mình: chỉ để đối chiếu, không xếp chung",
+   "nhom": [],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 14′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCJarlVFtaxAYWtZneBpmbug": {
+   "ten": "Golden Seniors Living",
+   "link": "https://www.youtube.com/channel/UCJarlVFtaxAYWtZneBpmbug",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 23′",
+   "chu_y": "có video cây thuốc chữa bệnh → không học phần đó; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo",
+   "khong_hoc_gi": "nhãn tuổi trên tiêu đề «for Seniors» (L9)"
+  },
+  "UCfVOHwGrbtje0o-jR6hoynA": {
+   "ten": "Seedly",
+   "link": "https://www.youtube.com/channel/UCfVOHwGrbtje0o-jR6hoynA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 8′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC9TcuDlGy9FTaYxhkOet0Ig": {
+   "ten": "Frugal Solutions",
+   "link": "https://www.youtube.com/channel/UC9TcuDlGy9FTaYxhkOet0Ig",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 24′",
+   "chu_y": "hình: stock + thẻ công thức + cảnh Amish có vẻ trích phim [ĐO storyboard cN_CLWUMvWo + WUFOD0BB-v4]; hạng 1 tập làm vườn (khoảng 1–1, 4/5 cách)",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "62–77",
+   "tuoi_muc_tin": "Thấp",
+   "hoc_gi": "tự cung tự cấp kiểu Amish/ông bà: vườn mùa đông, sưởi không điện, trữ thực phẩm; danh sách số; dựng stock + thẻ công thức",
+   "khong_hoc_gi": "cảnh trích phim tài liệu Amish (rủi ro dùng lại); 24′; 10 video/30 ngày"
+  },
+  "UCcsS-8Zg6c0pfH_8w5SKpCw": {
+   "ten": "Backyard Bill",
+   "link": "https://www.youtube.com/channel/UCcsS-8Zg6c0pfH_8w5SKpCw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 16′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCirsWlC_-QNiW2CS5AKHN3g": {
+   "ten": "Backyard Secrets",
+   "link": "https://www.youtube.com/channel/UCirsWlC_-QNiW2CS5AKHN3g",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn + cách kể khác",
+   "dinh_dang": "video dài trung vị 36′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCp6MfWNRR0CtHzsBsaFd-4Q": {
+   "ten": "Simply Green - Plant Care Tips",
+   "link": "https://www.youtube.com/channel/UCp6MfWNRR0CtHzsBsaFd-4Q",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 8′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCBUsuxfE9N-KKOOHkwtCSEw": {
+   "ten": "Roothaven Grounds",
+   "link": "https://www.youtube.com/channel/UCBUsuxfE9N-KKOOHkwtCSEw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 8′",
+   "chu_y": "SUB_LAN_SHORTS; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCYS2inwGQnSxW6-6X68QZSA": {
+   "ten": "Nature's Fix",
+   "link": "https://www.youtube.com/channel/UCYS2inwGQnSxW6-6X68QZSA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 7′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCBf0wjx7f4Q631Njk6TIYMw": {
+   "ten": "Seeds of Time",
+   "link": "https://www.youtube.com/channel/UCBf0wjx7f4Q631Njk6TIYMw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 12′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCBBD5WZFCXYpKOwyJjB9-RA": {
+   "ten": "Golden Years Gardening",
+   "link": "https://www.youtube.com/channel/UCBBD5WZFCXYpKOwyJjB9-RA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 30′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC2JpDMLnFVL72ZJyAMEOw7A": {
+   "ten": "Plantelligence",
+   "link": "https://www.youtube.com/channel/UC2JpDMLnFVL72ZJyAMEOw7A",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 27′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCZ7QRuJbGTEZxE669k4OT5Q": {
+   "ten": "Prepare Pantry",
+   "link": "https://www.youtube.com/channel/UCZ7QRuJbGTEZxE669k4OT5Q",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 24′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCBO8HMGxDUE8z-QPDhxaW5g": {
+   "ten": "Backyard Buddy",
+   "link": "https://www.youtube.com/channel/UCBO8HMGxDUE8z-QPDhxaW5g",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 17′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCjxlwa0nyuSKnh3CIQy0bCA": {
+   "ten": "Vintage Gardening",
+   "link": "https://www.youtube.com/channel/UCjxlwa0nyuSKnh3CIQy0bCA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 21′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCh14UM3HE-Ktk3S0zzwrpQQ": {
+   "ten": "Green Atlas",
+   "link": "https://www.youtube.com/channel/UCh14UM3HE-Ktk3S0zzwrpQQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 12′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC7ZnZfTHetIJ_sROv8VjpFQ": {
+   "ten": "Natural Health Remedies",
+   "link": "https://www.youtube.com/channel/UC7ZnZfTHetIJ_sROv8VjpFQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "định dạng lệch: trung vị video dài 3–4 phút so với khung 10–14′",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 4′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCaRUhfZeTCydT0uFyFt2xWw": {
+   "ten": "SleepyLizard",
+   "link": "https://www.youtube.com/channel/UCaRUhfZeTCydT0uFyFt2xWw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 10′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCGTskgOYHbUzcVfe6vzcbKg": {
+   "ten": "The Aloe Vera Garden",
+   "link": "https://www.youtube.com/channel/UCGTskgOYHbUzcVfe6vzcbKg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "định dạng lệch: trung vị video dài 3–4 phút so với khung 10–14′",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 3′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC8r_BHTsaemHlk8VK5oA5iA": {
+   "ten": "DS Gardening",
+   "link": "https://www.youtube.com/channel/UC8r_BHTsaemHlk8VK5oA5iA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "lệch hướng: video mới nhất là Roblox; 1 video dài",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 9′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC4yv-054duKWF2l8WtFNXng": {
+   "ten": "Wonder Balcony",
+   "link": "https://www.youtube.com/channel/UC4yv-054duKWF2l8WtFNXng",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 9′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCohP7CxHFI6AaIPhhTivk_w": {
+   "ten": "SproutCycle Garden",
+   "link": "https://www.youtube.com/channel/UCohP7CxHFI6AaIPhhTivk_w",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 18′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCTKf0sLOpYullZd4IyrO87g": {
+   "ten": "Sheffield Made Gardens",
+   "link": "https://www.youtube.com/channel/UCTKf0sLOpYullZd4IyrO87g",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực + thị trường: người dẫn quay thật, kênh Úc/Anh [SUY LUẬN]",
+   "nhom": [],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 9′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCeHNR9obRV2UpMkYGWR-wiA": {
+   "ten": "Plant Explainer",
+   "link": "https://www.youtube.com/channel/UCeHNR9obRV2UpMkYGWR-wiA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 21′",
+   "chu_y": "hình: ảnh vườn AI + phụ đề [ĐO storyboard o9R5c_YQtvM]; đà trung vị 12,1; hạng 2 tập làm vườn",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ] 0 nhãn/117 bình luận",
+   "tuoi_muc_tin": "Chưa xác định",
+   "hoc_gi": "khuôn «N rau trồng tháng X» theo mùa, lặp hằng tháng; nhịp 3 video/30 ngày",
+   "khong_hoc_gi": "ảnh vườn AI (khán giả của mình chê AI); 21′"
+  },
+  "UCyK1YcbLHn5GaVq-NWbP8sA": {
+   "ten": "Small Scale Gardening",
+   "link": "https://www.youtube.com/channel/UCyK1YcbLHn5GaVq-NWbP8sA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "ít video dài (2/3/9) → chưa đủ mẫu, đo lại sau 30 ngày",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 32′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCBkJRmkWA9bIsIjnLDoG75w": {
+   "ten": "EverGreen Home Living",
+   "link": "https://www.youtube.com/channel/UCBkJRmkWA9bIsIjnLDoG75w",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 25′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCY-Ns49D1fcP6DbLBXozL5A": {
+   "ten": "Grow Gently",
+   "link": "https://www.youtube.com/channel/UCY-Ns49D1fcP6DbLBXozL5A",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 13′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCGLaHXzG-yMC0AVZIwVqQmg": {
+   "ten": "Home Garden Concepts",
+   "link": "https://www.youtube.com/channel/UCGLaHXzG-yMC0AVZIwVqQmg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 30′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCtI51qvyrJNLmJY3OC00C-A": {
+   "ten": "Harvest & Heal",
+   "link": "https://www.youtube.com/channel/UCtI51qvyrJNLmJY3OC00C-A",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 20′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCkN5jNYky03jok8jy5mKhzw": {
+   "ten": "No Longer Here",
+   "link": "https://www.youtube.com/channel/UCkN5jNYky03jok8jy5mKhzw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 31′",
+   "chu_y": "hình: stock/ảnh minh hoạ [ĐO: storyboard]; đổi ngách (2025 hoài cổ → 2026 bà/vườn/dự trữ): chỉ số theo sub có thể bị thổi; 0/104 video ≤ 14′",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "60–80 (có 41)",
+   "tuoi_muc_tin": "Vừa",
+   "hoc_gi": "chọn đề tài cây/món/đồ «bà từng có» + đồ cửa hàng Mỹ theo mùa; dựng stock + ảnh minh hoạ; tiêu đề câu hỏi bỏ lửng",
+   "khong_hoc_gi": "nhịp 1 video/ngày, độ dài 30′, trộn đồ cổ/thời trang; nhãn tuổi trên tiêu đề «for Seniors» (L9)"
+  },
+  "UC0XC157d6hGE1OOqSN4R8gg": {
+   "ten": "Vintage Lifestyle USA",
+   "link": "https://www.youtube.com/channel/UC0XC157d6hGE1OOqSN4R8gg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 65′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCb3sv3ExB80CeFKagIrAn9g": {
+   "ten": "The Good Steward",
+   "link": "https://www.youtube.com/channel/UCb3sv3ExB80CeFKagIrAn9g",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn nữ quay mặt lặp lại ~1/3 khung hình [ĐO storyboard 4 video]",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 11′",
+   "chu_y": "lõi mẹo dùng đồ gia dụng có lời sức khoẻ → không học phần y tế",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCFixBuUsY0YyEhxfnkr5tbA": {
+   "ten": "Poor Man's Skills",
+   "link": "https://www.youtube.com/channel/UCFixBuUsY0YyEhxfnkr5tbA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 26′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCdyG3WX1yILqhYHe3EK4bQw": {
+   "ten": "Sidney Explains",
+   "link": "https://www.youtube.com/channel/UCdyG3WX1yILqhYHe3EK4bQw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 8′",
+   "chu_y": "hình: ảnh sản phẩm/đồ hoạ [ĐO: storyboard]",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCUB-Wy3XzxtPdvfAmD8DMrg": {
+   "ten": "Lost American Memories",
+   "link": "https://www.youtube.com/channel/UCUB-Wy3XzxtPdvfAmD8DMrg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 58′",
+   "chu_y": "hình: stock + lưu trữ + thẻ code [ĐO: storyboard]",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo",
+   "khong_hoc_gi": "nhãn tuổi trên tiêu đề «for Seniors» (L9)"
+  },
+  "UCp6OPVlTAEKKWidNcaVDsRA": {
+   "ten": "DISCOVER US STATE",
+   "link": "https://www.youtube.com/channel/UCp6OPVlTAEKKWidNcaVDsRA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 35′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCd6XSTEhEkg4H4o_0B65VGQ": {
+   "ten": "The Grid-Down Kitchen",
+   "link": "https://www.youtube.com/channel/UCd6XSTEhEkg4H4o_0B65VGQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 9′",
+   "chu_y": "SUB_LAN_SHORTS: bị bỏ chỉ số dựa trên sub; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình; tỉ trọng Shorts ước từ mẫu 0,218 sát ngưỡng 0,20 → cần số 30 ngày từ nguồn ngoài",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCCnMC8LKp3qS2rkJ5O0xtXQ": {
+   "ten": "When Power Fails",
+   "link": "https://www.youtube.com/channel/UCCnMC8LKp3qS2rkJ5O0xtXQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 27′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCatWmfMdNC_mElTaXSUkbXA": {
+   "ten": "Old Survival",
+   "link": "https://www.youtube.com/channel/UCatWmfMdNC_mElTaXSUkbXA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 24′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCrT2pUfOMMKKZdNByd5CiQw": {
+   "ten": "Living Self-Sufficiently",
+   "link": "https://www.youtube.com/channel/UCrT2pUfOMMKKZdNByd5CiQw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 20′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC0UAr8Hiyb-sqQ4NBoKOVkQ": {
+   "ten": "Survival Kitchen 1930",
+   "link": "https://www.youtube.com/channel/UC0UAr8Hiyb-sqQ4NBoKOVkQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: quay tay thật (cùng đôi tay, mặt bếp đen, quay trên xuống) [ĐO: storyboard video VK1AYr4naw0]; ảnh bìa AI. Đề tài vào kho video",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 8′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo",
+   "hoc_gi": "đề tài «thanh/khối thực phẩm để 365 ngày không tủ lạnh» + năm cụ thể + quân đội",
+   "khong_hoc_gi": "quay tay thật; ảnh bìa AI người già"
+  },
+  "UCQzhkczb1mEpxsHCCnXcXRQ": {
+   "ten": "Survival Vault",
+   "link": "https://www.youtube.com/channel/UCQzhkczb1mEpxsHCCnXcXRQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "ít video dài (2/3/9) → chưa đủ mẫu, đo lại sau 30 ngày",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 9′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC4vzYY6Ak8ecvYjle-E26lA": {
+   "ten": "Hidden Prepper",
+   "link": "https://www.youtube.com/channel/UC4vzYY6Ak8ecvYjle-E26lA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 25′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC43y_Vx18NbXMmszAJVwIWw": {
+   "ten": "Preppers Survival",
+   "link": "https://www.youtube.com/channel/UC43y_Vx18NbXMmszAJVwIWw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 10′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCWF1hNtftACDyggoxwBVyew": {
+   "ten": "The Green Archive",
+   "link": "https://www.youtube.com/channel/UCWF1hNtftACDyggoxwBVyew",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 11′",
+   "chu_y": "cờ NGHI_LOI_DON_VI là báo nhầm: kiểm tay -Q7L9c_Enx0 = 36.687 khớp 100 %; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCiGOVbSR3aWWFAO0_ux_fwA": {
+   "ten": "Survival Blueprint",
+   "link": "https://www.youtube.com/channel/UCiGOVbSR3aWWFAO0_ux_fwA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 31′",
+   "chu_y": "tiêu đề sợ hãi ('hide these NOW') → không học giọng sợ (L8); «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC3IxyJUJqpppFAnLw8oVsyQ": {
+   "ten": "Future Proof Survival",
+   "link": "https://www.youtube.com/channel/UC3IxyJUJqpppFAnLw8oVsyQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 9′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCgyZ17wWE13nL73eFSDxdgw": {
+   "ten": "ESSENTIAL PREPPER",
+   "link": "https://www.youtube.com/channel/UCgyZ17wWE13nL73eFSDxdgw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 21′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCUm5K8Y2PtjWPqIJYzvde2w": {
+   "ten": "Alex Survives",
+   "link": "https://www.youtube.com/channel/UCUm5K8Y2PtjWPqIJYzvde2w",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 19′",
+   "chu_y": "đề tài grid collapse → chỉ học phần thực dụng; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCDbBF8MR2rWG7XFuTvB1LBw": {
+   "ten": "Blackout Shelter",
+   "link": "https://www.youtube.com/channel/UCDbBF8MR2rWG7XFuTvB1LBw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 20′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCn8XF63tpE_9Qp1Vd18q66A": {
+   "ten": "Blackout Basics",
+   "link": "https://www.youtube.com/channel/UCn8XF63tpE_9Qp1Vd18q66A",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "kênh ẩn số sub (NA) → không đủ chỉ số để xếp",
+   "nhom": [],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 30′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC5rpEgl1KskEYLFN3gZxMiw": {
+   "ten": "Emmett Boone Prepping",
+   "link": "https://www.youtube.com/channel/UC5rpEgl1KskEYLFN3gZxMiw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 17′",
+   "chu_y": "tiêu đề sợ hãi → không học giọng sợ (L8); «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCsE_-wlwwifrObQkiWpm0Jw": {
+   "ten": "Forgotten American Survival Cooking",
+   "link": "https://www.youtube.com/channel/UCsE_-wlwwifrObQkiWpm0Jw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 28′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCMs_Co6R508manBQeSmMPLA": {
+   "ten": "RETRO GLORY TIME",
+   "link": "https://www.youtube.com/channel/UCMs_Co6R508manBQeSmMPLA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 25′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCtukxWCROx6SXGTdMv0MnNA": {
+   "ten": "The Lost Pantry",
+   "link": "https://www.youtube.com/channel/UCtukxWCROx6SXGTdMv0MnNA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 24′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCKi43IgdJt3nfLdg7ENJSqQ": {
+   "ten": "Among the Plain Cooks",
+   "link": "https://www.youtube.com/channel/UCKi43IgdJt3nfLdg7ENJSqQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 22′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCTEMcac4t4xbLejDGOPkSfA": {
+   "ten": "Forgotten Old American",
+   "link": "https://www.youtube.com/channel/UCTEMcac4t4xbLejDGOPkSfA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 29′",
+   "chu_y": "đề tài người nổi tiếng thật; rủi ro bản quyền: clip TV người nổi tiếng [ĐO: storyboard]",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC2otsfKveB_eH5cXYpXdWxA": {
+   "ten": "Golden American Memories",
+   "link": "https://www.youtube.com/channel/UC2otsfKveB_eH5cXYpXdWxA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 24′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCHgKmdnGI_HSnwn5pbBddFQ": {
+   "ten": "America's Lost Recipes",
+   "link": "https://www.youtube.com/channel/UCHgKmdnGI_HSnwn5pbBddFQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 31′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCxccbIEJ3zDLcao2IUk0u7A": {
+   "ten": "Past Perfect",
+   "link": "https://www.youtube.com/channel/UCxccbIEJ3zDLcao2IUk0u7A",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 31′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCqQCpdw-FkQ4uYBcUYku_JA": {
+   "ten": "Curtis Vogel",
+   "link": "https://www.youtube.com/channel/UCqQCpdw-FkQ4uYBcUYku_JA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 15′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCmGizvYWqUH3DGYEgRbHr8g": {
+   "ten": "Wonders",
+   "link": "https://www.youtube.com/channel/UCmGizvYWqUH3DGYEgRbHr8g",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "kênh ẩn số sub (NA) → không đủ chỉ số để xếp",
+   "nhom": [],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 31′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCmNd9YwJEGzc0CQZSVe2oWg": {
+   "ten": "Forgotten American Survival",
+   "link": "https://www.youtube.com/channel/UCmNd9YwJEGzc0CQZSVe2oWg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 30′",
+   "chu_y": "hình: stock + ảnh lưu trữ đen trắng + thẻ chữ code [ĐO: storyboard senVrA6FmD8]; 1/57 video là làm vườn; 0/108 video ≤ 14′",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "55–76",
+   "tuoi_muc_tin": "Thấp",
+   "hoc_gi": "khuôn «Poor Man … làm đồ đắt tiền trông lố bịch», đồ Walmart/Costco/Tractor Supply trước cúp điện; dựng stock + lưu trữ + thẻ code",
+   "khong_hoc_gi": "đề tài an ninh nhà/phòng an toàn (gần L8), 30′, 1 video/ngày"
+  },
+  "UCtpi5NeffLZB2rWNNQPwMEQ": {
+   "ten": "The Golden Age of America",
+   "link": "https://www.youtube.com/channel/UCtpi5NeffLZB2rWNNQPwMEQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 26′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCSd_37JhlS1-cTL-XhPuKdQ": {
+   "ten": "Homestead Roots",
+   "link": "https://www.youtube.com/channel/UCSd_37JhlS1-cTL-XhPuKdQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 37′",
+   "chu_y": "tiêu đề 'heal you instantly' → không học phần chữa bệnh; hình: ảnh stock món ăn [ĐO: storyboard]",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCfwwESDZDsrkW7Dw6tCraGg": {
+   "ten": "Forgotten American Secrets",
+   "link": "https://www.youtube.com/channel/UCfwwESDZDsrkW7Dw6tCraGg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "ít video dài (2/3/9) → chưa đủ mẫu, đo lại sau 30 ngày",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 23′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCL3_8mlFDtcVCZ-JatBEJKw": {
+   "ten": "Saving Savers",
+   "link": "https://www.youtube.com/channel/UCL3_8mlFDtcVCZ-JatBEJKw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 21′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo",
+   "khong_hoc_gi": "nhãn tuổi trên tiêu đề «for Seniors» (L9)"
+  },
+  "UCzsHYjHL1dZ4_3-DxgrOQOw": {
+   "ten": "Agriculture Insight",
+   "link": "https://www.youtube.com/channel/UCzsHYjHL1dZ4_3-DxgrOQOw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 50′",
+   "chu_y": "video 50′, footage tổng hợp; rủi ro bản quyền: dùng clip của người khác (cảnh Ronaldo) [ĐO: storyboard]",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCVgSUoKkKVFoARMdET6NWVQ": {
+   "ten": "Posy Farm",
+   "link": "https://www.youtube.com/channel/UCVgSUoKkKVFoARMdET6NWVQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 10′",
+   "chu_y": "tài liệu nhà máy/nông trại: rủi ro nội dung dùng lại; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCxUoymx9-uTPVgFI0D9RUSg": {
+   "ten": "Sprout Garden",
+   "link": "https://www.youtube.com/channel/UCxUoymx9-uTPVgFI0D9RUSg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 14′",
+   "chu_y": "như Posy Farm; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCHKHIViL11XtqJkFzpmXLmA": {
+   "ten": "MoneyMovesMadeEasyTV",
+   "link": "https://www.youtube.com/channel/UCHKHIViL11XtqJkFzpmXLmA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "lệch hướng: tài chính cá nhân, không cùng khán giả làm vườn",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 8′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCEndIEu-bDDHjrfg2gw0GaQ": {
+   "ten": "Tony 98 - Discovery",
+   "link": "https://www.youtube.com/channel/UCEndIEu-bDDHjrfg2gw0GaQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "lệch hướng: tổng hợp săn bắn/câu cá 38′; rủi ro nội dung dùng lại",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 38′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCPsndl6PVr5qwLhF9oAe8kw": {
+   "ten": "Trang's Homestead",
+   "link": "https://www.youtube.com/channel/UCPsndl6PVr5qwLhF9oAe8kw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: vlog có nhân vật lên hình (CEO Trang), không làm được",
+   "nhom": [],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 21′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCE81eiSO8oNur9phe57qxMQ": {
+   "ten": "Grid Atlas",
+   "link": "https://www.youtube.com/channel/UCE81eiSO8oNur9phe57qxMQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Theo dõi",
+   "ly_do": "kênh 24 ngày, 18 video; trung vị chỉ có video < 14 ngày; đề tài thảm hoạ giả định gần ràng buộc L8",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 22′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCGJ0YwDGA_-0yr2DVgTFD0g": {
+   "ten": "Grid Zero",
+   "link": "https://www.youtube.com/channel/UCGJ0YwDGA_-0yr2DVgTFD0g",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 4′",
+   "chu_y": "«cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCkZ7bJKjGE5RefZkutNhIZA": {
+   "ten": "Collapse Theory",
+   "link": "https://www.youtube.com/channel/UCkZ7bJKjGE5RefZkutNhIZA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "ràng buộc: lõi kênh là kịch bản sụp đổ/cướp bóc (khung pha 0)",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 21′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC_vEQZUF4exul2EpoTE33HQ": {
+   "ten": "Mr prepper",
+   "link": "https://www.youtube.com/channel/UC_vEQZUF4exul2EpoTE33HQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "ràng buộc: lõi kênh là kịch bản sụp đổ/cướp bóc (khung pha 0)",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 15′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCQRTv_M5EXYH7dA1-4jHeLw": {
+   "ten": "How Crops Are Grown",
+   "link": "https://www.youtube.com/channel/UCQRTv_M5EXYH7dA1-4jHeLw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 14′",
+   "chu_y": "như Posy Farm; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCd7t6zmQYNijpiHW3OK59vA": {
+   "ten": "SmartFarm Insight",
+   "link": "https://www.youtube.com/channel/UCd7t6zmQYNijpiHW3OK59vA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 56′",
+   "chu_y": "như Posy Farm; «cùng nguồn lực» là [SUY LUẬN] từ tiêu đề, chưa soi hình",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCtV4T8VspH2PKc4mJdu6b5w": {
+   "ten": "AgroWorks USA",
+   "link": "https://www.youtube.com/channel/UCtV4T8VspH2PKc4mJdu6b5w",
+   "nen_tang": "YouTube",
+   "giu_loai": "Giữ",
+   "ly_do": "đúng hướng A/B/C, không lên hình theo tiêu đề, đủ dữ liệu",
+   "nhom": [],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 15′",
+   "chu_y": "như Posy Farm; rủi ro nội dung dùng lại: footage nhà máy có chữ chạy [ĐO: storyboard]",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC9r61qohBg1qgGty4_WzojA": {
+   "ten": "GrowVeg",
+   "link": "https://www.youtube.com/channel/UC9r61qohBg1qgGty4_WzojA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 13′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCSbyncU597LMwb3HhnAI_4w": {
+   "ten": "Epic Gardening",
+   "link": "https://www.youtube.com/channel/UCSbyncU597LMwb3HhnAI_4w",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 15′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCcJceGUaevGlP7s2xzL9akA": {
+   "ten": "Next Level Gardening",
+   "link": "https://www.youtube.com/channel/UCcJceGUaevGlP7s2xzL9akA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 11′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCAXUwGU47XVY-0lH9qhUr1Q": {
+   "ten": "The Millennial Gardener",
+   "link": "https://www.youtube.com/channel/UCAXUwGU47XVY-0lH9qhUr1Q",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 20′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCgexv0zlYzl_Q0otBfb6TXg": {
+   "ten": "The Bug Out Location",
+   "link": "https://www.youtube.com/channel/UCgexv0zlYzl_Q0otBfb6TXg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 18′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCMvfq8cJF4koBwoPecrf_zQ": {
+   "ten": "Zach Of All Trades",
+   "link": "https://www.youtube.com/channel/UCMvfq8cJF4koBwoPecrf_zQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 25′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UC5fJ0aVvwCk6sTfGmIm0NJQ": {
+   "ten": "Snyder FINANCE",
+   "link": "https://www.youtube.com/channel/UC5fJ0aVvwCk6sTfGmIm0NJQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "lệch hướng: tài chính cá nhân, không cùng khán giả làm vườn",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "khác đề tài cùng cách kể",
+   "dinh_dang": "video dài trung vị 11′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCAYbhNuk7YEZsq1ZgyjIxsA": {
+   "ten": "S&K Greenhouse",
+   "link": "https://www.youtube.com/channel/UCAYbhNuk7YEZsq1ZgyjIxsA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn tại nhà",
+   "dinh_dang": "video dài trung vị 10′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCyDCtTCcomOTKL52T2xyiKg": {
+   "ten": "Growing In The Garden",
+   "link": "https://www.youtube.com/channel/UCyDCtTCcomOTKL52T2xyiKg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 6′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCbPLEvcxLTPaLg_FUW7wCwg": {
+   "ten": "No Dig Norfolk Gardener",
+   "link": "https://www.youtube.com/channel/UCbPLEvcxLTPaLg_FUW7wCwg",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực + thị trường: người dẫn quay thật, kênh Úc/Anh [SUY LUẬN]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 14′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCJZTjBlrnDHYmf0F-eYXA3Q": {
+   "ten": "Self Sufficient Me",
+   "link": "https://www.youtube.com/channel/UCJZTjBlrnDHYmf0F-eYXA3Q",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực + thị trường: người dẫn quay thật, kênh Úc/Anh [SUY LUẬN]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "làm vườn + tự cung tự cấp",
+   "dinh_dang": "video dài trung vị 14′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCfdNM3NAhaBOXCafH7krzrA": {
+   "ten": "The Infographics Show",
+   "link": "https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: studio hoạt hình, 53 video/30 ngày, 15,5 triệu sub",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 16′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCnYQKfLvJcQFT5HEuhYX6uA": {
+   "ten": "DropForgedSurvival",
+   "link": "https://www.youtube.com/channel/UCnYQKfLvJcQFT5HEuhYX6uA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 14′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCQ-pkRQptiAKBFvVnlSx2jw": {
+   "ten": "Charlie Survival",
+   "link": "https://www.youtube.com/channel/UCQ-pkRQptiAKBFvVnlSx2jw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực + thị trường: người dẫn quay thật, kênh Úc/Anh [SUY LUẬN]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 10′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCF6zi1Q3oUknWkAD_LcRVjw": {
+   "ten": "TheUrbanPrepper",
+   "link": "https://www.youtube.com/channel/UCF6zi1Q3oUknWkAD_LcRVjw",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "tự cung tự cấp + cách kể khác",
+   "dinh_dang": "video dài trung vị 9′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "UCVQCQJyZQcIioTDQ4SACvZQ": {
+   "ten": "Back To Reality",
+   "link": "https://www.youtube.com/channel/UCVQCQJyZQcIioTDQ4SACvZQ",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "nguồn lực: người dẫn lên hình hoặc quay thật [SUY LUẬN từ tiêu đề/khảo sát, chưa mở video]",
+   "nhom": [
+    "on_dinh"
+   ],
+   "ngach": "lân cận cùng khán giả (tự cung tự cấp, món xưa, dự trữ)",
+   "dinh_dang": "video dài trung vị 8′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  },
+  "@thehumanscoop": {
+   "ten": "HumanScoop",
+   "link": "https://www.youtube.com/channel/UCeJ1wOEanlX4XL0FVsEM5OA",
+   "nen_tang": "YouTube",
+   "giu_loai": "Loại",
+   "ly_do": "lệch hướng: chính trị/thời sự; 7 video dài, 21 ngày tuổi",
+   "nhom": [
+    "moi"
+   ],
+   "ngach": "chưa phân",
+   "dinh_dang": "video dài trung vị 14′",
+   "chu_y": "",
+   "nguon_so": "yt-dlp (thu_video.py + channel_follower_count) 15–16/11/2026",
+   "tuoi_khan_gia": "[CHƯA CÓ]",
+   "tuoi_muc_tin": "chưa đo"
+  }
+ },
+ "video": {}
+}

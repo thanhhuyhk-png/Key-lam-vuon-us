@@ -1,0 +1,150 @@
+# Đo kênh: UC43y_Vx18NbXMmszAJVwIWw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 124 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 4,260 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-03-06 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 690 |
+| cao_nhat | 10,830 |
+| thap_nhat | 328 |
+| phan_tan | 15.71 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.15 |
+| trung_vi_chia_sub | 0.16 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.66 |
+| ngay_video_dau | 2025-03-10 |
+| tuoi_tu_video_dau | 616 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 6.92 |
+| sub_moi_video | 34.35 |
+| video_30_ngay | 4 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-03-10 | 616 | USXgTAFkHh8 | 11,711 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 8 Grocery Items To STOCKPILE Before Next Month |
+| 2025-04-07 | 588 | 3u5qJB7cUk8 | 89 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | STOP STOCKPILING These Prepping Items NOW! |
+| 2025-08-04 | 469 | _EjTNmkj_pI | 1,497 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Foods to STOCKPILE That NEVER EXPIRE & Actually LIFESAVING! |
+| 2025-08-29 | 444 | 7jdbgeFCQ6s | 1,499 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Essential Canned Foods Every Prepper Needs \| Survival Pantry |
+| 2025-09-03 | 439 | Rb5tZvu6s2U | 1,013 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | These FOODS Are Mysteriously DISAPPEARING! |
+| 2025-10-14 | 398 | 8ZqL9BVUOjc | 9,853 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Essential SURVIVAL FOODS You Can Easily Stockpile Today for EMERGENCY! |
+| 2025-10-17 | 395 | uT-JcZIM9vk | 2,028 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 12 FOODS the GOVERNMENT Doesn’t Want You to EAT! |
+| 2025-10-22 | 390 | 4V4aK3FQbp0 | 807 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | These FOODS Might Be GONE By Next Month! |
+| 2026-03-06 | 255 | GswiwsprRBw | 21,070 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 12 Hidden Prepping Items at the Dollar Store (Buy These Before SHTF) |
+| 2026-03-10 | 251 | _htDRW2fAMk | 2,066 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 5 Items Keep You Alive When the Grids Goes Down |
+| 2026-03-14 | 247 | zcRG-dyPuFg | 168 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 13 Items Quietly Vanishing From Stores (Preppers Are Buying These First) |
+| 2026-03-17 | 244 | JQWNDpYoA84 | 413 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Dollar Store Items "Quietly" Vanishing This Week |
+| 2026-03-21 | 240 | VQUhzoK6mzY | 209 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 12 Grocery Items Quietly Leaving Store Shelves in 2026 |
+| 2026-03-24 | 237 | r9CQABcbjMA | 228 | 5 | 413 | 0.55 | 5 | 0.54 | binh_thuong | – | Không | WALMART CODE RED: 13 Items Restricted (Walmart Shortages 2026) |
+| 2026-03-28 | 233 | MwBZXAbBBW4 | 213 | 6 | 320 | 0.66 | 5 | 0.83 | binh_thuong | – | Không | 7 Survival Foods That Will Save Your Life in a Crisis |
+| 2026-03-31 | 230 | 2GRoQ0NrtmM | 152 | 7 | 228 | 0.67 | 5 | 5.04 | binh_thuong | – | Không | WW3 SURVIVAL: The 10 Items They Won't Tell You to Stockpile |
+| 2026-04-05 | 225 | YgYuX09D7xc | 224 | 8 | 220 | 1.02 | 5 | 5.21 | binh_thuong | – | Không | Stockpile These 10 Foods To Prepare For Worst Food Crisis |
+| 2026-04-08 | 222 | 7nueXBxfj88 | 2,463 | 9 | 224 | 11.00 | 5 | 5.12 | can_kiem_ky | – | Không | 12 Dollar Store Prepping Items Nobody Buys — Until It's Too Late |
+| 2026-04-11 | 219 | gVDDwhKmFOs | 267 | 10 | 226 | 1.18 | 5 | 115 | binh_thuong | – | Không | DON'T SHOP AT SAM'S CLUB Until You Watch This |
+| 2026-04-13 | 217 | QxZTnu3GFmw | 1,148 | 11 | 228 | 5.04 | 5 | 114 | manh | – | Không | 15 Hidden Survival Foods Preppers Never Share Online |
+| 2026-04-16 | 214 | SiCwn4aJ33c | 37,138 | 12 | 248 | 150 | 5 | 3.01 | can_kiem_ky | – | Không | 12 Best Canned Foods To STOCKPILE Before SHTF |
+| 2026-04-18 | 212 | k1VZxtMN1k8 | 674 | 13 | 267 | 2.52 | 5 | 2.79 | hoi_cao | – | Không | Stockpile ONLY 5 FOODS to SURVIVE – Everything Else Is Useless! |
+| 2026-04-20 | 210 | -gPhC5Lx-vc | 215,308 | 14 | 340 | 633 | 5 | 2.19 | can_kiem_ky | – | Không | Only Stupid People Buy These 12 Grocery Items |
+| 2026-04-22 | 208 | 9BZrWwKWMdY | 26,064 | 15 | 413 | 63.11 | 5 | 1.81 | can_kiem_ky | – | Không | 12 No-Cook Foods You’ll Want If Crisis Hits (No Heat Needed) |
+| 2026-04-24 | 206 | dhL50tmR6cE | 746 | 15 | 413 | 1.81 | 5 | 0.71 | binh_thuong | – | Không | 10 Canned Sardine Brands to Avoid (And 4 That Are ACTUALLY Great) |
+| 2026-04-26 | 204 | SfuagqtkHww | 279 | 15 | 413 | 0.68 | 5 | 2.78 | binh_thuong | – | Không | 12 Critical Items to Get Before May 1st, 2026 |
+| 2026-04-29 | 201 | VNw9MuR4miw | 292 | 15 | 413 | 0.71 | 5 | 2.78 | binh_thuong | – | Không | 12 Grocery Items Leaving Grocery Chains in 2026 (Final May Shipments!) |
+| 2026-05-02 | 198 | qeSHJ2cFGk0 | 1,150 | 15 | 292 | 3.94 | 5 | 1.39 | dang_ghi | – | Không | 7 Cheap Items at Tractor Supply That Veterans Stockpile Before Anyone Else |
+| 2026-05-04 | 196 | B8xERRkEg9Y | 5,452 | 15 | 674 | 8.09 | 5 | 0.35 | manh | – | Không | 9 Foods Quietly Disappearing From Shelves (Preppers Are Buying Them FAST) |
+| 2026-05-07 | 193 | FjEQgYoEjd8 | 236 | 15 | 746 | 0.32 | 5 | 0.55 | binh_thuong | – | Không | 13 Items FEMA Tells Employees to Stockpile ( They Don't Tell the Public ) |
+| 2026-05-10 | 190 | tpHJuoH_KLo | 2,098 | 15 | 746 | 2.81 | 5 | 0.25 | hoi_cao | – | Không | How to Survive the First 90 Days After a Total Collapse (Must-Know SHTF Survival Tips) |
+| 2026-05-12 | 188 | UMuKld9EQcA | 407 | 15 | 1,148 | 0.35 | 5 | 0.16 | binh_thuong | – | Không | Only Smart People Buy These 10 Grocery Items |
+| 2026-05-14 | 186 | aSbg7Gpf7bk | 189 | 15 | 1,148 | 0.16 | 5 | 0.60 | binh_thuong | – | Không | 15 Foods You MUST STOCKPILE in 2026 |
+| 2026-05-17 | 183 | ILuAL3hL6eg | 170 | 15 | 746 | 0.23 | 5 | 0.92 | binh_thuong | – | Không | 13 Walmart Items Only SMART PREPPERS Are Buying (All Under $2!) |
+| 2026-05-19 | 181 | eQcPYxi9e7I | 2,683 | 15 | 746 | 3.60 | 5 | 0.92 | dang_ghi | – | Không | 14 Cheap Items at Dollar Tree That Smart Preppers Are Quietly Stockpiling |
+| 2026-05-21 | 179 | 1sujZfC4TJs | 161 | 15 | 746 | 0.22 | 5 | 2.06 | binh_thuong | – | Không | How to Turn Your Home Into a Fortress in 30 Minutes or Less |
+| 2026-05-26 | 174 | cywkraLv80A | 12,975 | 15 | 674 | 19.25 | 5 | 1.18 | can_kiem_ky | – | Không | 12 Foods I Hide From Other Preppers (You're Doing it Wrong) |
+| 2026-05-31 | 169 | p4UoVufxedo | 690 | 15 | 746 | 0.92 | 5 | 1.07 | binh_thuong | – | Không | 10 Dollar Tree Items Employees Beg You Not to Buy! |
+| 2026-06-02 | 167 | bD2B4HUDHyg | 335 | 15 | 690 | 0.49 | 5 | 2.22 | binh_thuong | – | Không | These 18 Household Items You’ll Regret Not Buying Before June 2026! |
+| 2026-06-05 | 164 | 0p2d0i5ALvM | 2,254 | 15 | 407 | 5.54 | 5 | 1.96 | manh | – | Không | 14 Dollar Tree Items So Good They DESTROY Expensive Brands! |
+| 2026-06-08 | 161 | _LaKpiCW35w | 1,535 | 15 | 407 | 3.77 | 5 | 1.13 | dang_ghi | – | Không | 12 Items to STOCKPILE Before HYPERINFLATION Hits |
+| 2026-06-11 | 158 | 9KsZwxkUWXU | 797 | 15 | 690 | 1.16 | 5 | 0.66 | binh_thuong | – | Không | 11 Long-Lasting Foods Quietly Disappearing From Shelves |
+| 2026-06-13 | 156 | j4KMH1vZEBI | 458 | 15 | 797 | 0.57 | 5 | 0.68 | binh_thuong | – | Không | 16 Cheap Costco Buys That LAST DECADES (Costco Shopping Guide for 2026) |
+| 2026-06-14 | 155 | aJEVslhSRgE | 10,516 | 15 | 690 | 15.24 | 5 | 0.72 | can_kiem_ky | – | Không | When Water Stops These 18 Items Become Priceless |
+| 2026-06-15 | 154 | rYwGFPj_p3g | 287 | 15 | 690 | 0.42 | 5 | 0.78 | binh_thuong | – | Không | If Disaster Hits Tomorrow, These 12 Lessons Could Save You |
+| 2026-06-16 | 153 | tvoXUv8--Qk | 433 | 15 | 690 | 0.63 | 5 | 0.78 | binh_thuong | – | Không | 15 Items The Red Cross Wants You To Stockpile Today! |
+| 2026-06-17 | 152 | T-9NfBtmTsA | 774 | 15 | 458 | 1.69 | 5 | 1.09 | binh_thuong | – | Không | 14 Grocery Items To Buy Before July 1st, 2026 |
+| 2026-06-18 | 151 | PPZyR-il-Rw | 539 | 15 | 690 | 0.78 | 5 | 0.54 | binh_thuong | – | Không | 15 Canned Foods You Wont Be Able to Find After July 1st, 2026 |
+| 2026-06-19 | 150 | 6iXoU-J3d0Y | 500 | 15 | 690 | 0.72 | 5 | 0.54 | binh_thuong | – | Không | 12 Grocery Items Only DUMB People Buy! |
+| 2026-06-20 | 149 | lMfHDf-dJFM | 1,002 | 15 | 690 | 1.45 | 5 | 0.54 | binh_thuong | – | Không | 15 Dollar Tree Items That Feel Illegal To Buy This Cheap |
+| 2026-06-22 | 147 | cs40I4yFajE | 375 | 15 | 690 | 0.54 | 5 | 0.29 | binh_thuong | – | Không | Costco Shoppers Should Stock These 12 Bulk Foods First |
+| 2026-06-22 | 147 | brpHV75dlZA | 199 | 15 | 690 | 0.29 | 5 | 0.47 | binh_thuong | – | Không | These 13 Foods Won't Be Restocked Until 2027 |
+| 2026-06-24 | 145 | RS8Xyh8YmoQ | 173 | 15 | 539 | 0.32 | 5 | 0.60 | binh_thuong | – | Không | 12 NEW Dollar Tree Finds Worth Buying (And 4 to Avoid) |
+| 2026-06-25 | 144 | s2I94DzJpFI | 439 | 15 | 500 | 0.88 | 5 | 0.42 | binh_thuong | – | Không | 9 Cheap Items at Tractor Supply Experienced Preppers Stockpile in Bulk |
+| 2026-06-27 | 142 | 3GUsECsMhV0 | 1,160 | 15 | 500 | 2.32 | 5 | 0.40 | hoi_cao | – | Không | The BIGGEST Canned Food Mistakes New Preppers Make |
+| 2026-06-29 | 140 | woYzL-hctUI | 130 | 15 | 500 | 0.26 | 5 | 0.42 | binh_thuong | – | Không | Stock These 10 Cheap Items Before the Next EMP Hits |
+| 2026-06-30 | 139 | qWi1DM-rjqk | 324 | 15 | 458 | 0.71 | 5 | 0.46 | binh_thuong | – | Không | 9 Foods Quietly Vanishing From Store Shelves Before Anyone Notices |
+| 2026-07-01 | 138 | rIdi8dOSYTo | 163 | 15 | 439 | 0.37 | 5 | 1.33 | binh_thuong | – | Không | If The Experts Are Right, The Next Crisis Has Already Started! |
+| 2026-07-03 | 136 | K7Rf6JgrxaM | 209 | 15 | 433 | 0.48 | 5 | 2.23 | binh_thuong | – | Không | 10 US 'Fortress Cities' That Will Survive a Total Collapse |
+| 2026-07-05 | 134 | wjjt-Ggf4CE | 199 | 15 | 375 | 0.53 | 5 | 2.57 | binh_thuong | – | Không | 15 Fake Foods You’re Probably Eating Every Week |
+| 2026-07-07 | 132 | qBk8wCeTnsA | 965 | 15 | 375 | 2.57 | 5 | 1.56 | hoi_cao | – | Không | 20 Survival Items to Get Before July 15th |
+| 2026-07-08 | 131 | zjyo-RsvkKQ | 2,179 | 15 | 375 | 5.81 | 5 | 1.16 | manh | – | Không | 13 Home Depot Items Preppers Are Buying Right Now Before August |
+| 2026-07-09 | 130 | rLUbMQUSgO8 | 585 | 15 | 375 | 1.56 | 5 | 1.14 | binh_thuong | – | Không | Outnumbered and Outgunned? Here's What Real Preppers Do |
+| 2026-07-10 | 129 | ayJleGBClA4 | 7,696 | 15 | 375 | 20.52 | 5 | 1.14 | can_kiem_ky | – | Không | 10 US Bread Brands to AVOID and 3 That Are Actually Safe |
+| 2026-07-11 | 128 | GSasAD0yFFo | 429 | 15 | 375 | 1.14 | 5 | 1.16 | binh_thuong | – | Không | 8 Food Items That Will Skyrocket in Price in 2026 (That You’ll Want) |
+| 2026-07-13 | 126 | dYZe-WIS6V4 | 243 | 15 | 375 | 0.65 | 5 | 1.16 | binh_thuong | – | Không | 11 Items FEMA Wants You To Keep In Your Home |
+| 2026-07-15 | 124 | c4ggALQ0k7Y | 435 | 15 | 324 | 1.34 | 5 | 1.32 | binh_thuong | – | Không | 11 Butter Brands to AVOID at Any Cost (And 5 That Are ACTUALLY Real Butter) |
+| 2026-07-16 | 123 | BorKjQXbwMw | 266 | 15 | 429 | 0.62 | 5 | 1.00 | binh_thuong | – | Không | 10 Prepping Items Getting Harder to Find in America (Here is Why) |
+| 2026-07-18 | 121 | LvO2Xykck1k | 1,072 | 15 | 429 | 2.50 | 5 | 1.00 | hoi_cao | – | Không | 7 Canned Tuna Brands to AVOID and Only 2 Are Actually Real Fish |
+| 2026-07-20 | 119 | y9D4zjHHHoI | 839 | 15 | 429 | 1.96 | 5 | 0.69 | binh_thuong | – | Không | DON'T Buy These 13 Canned Foods! (11 That Are Actually Worth It) |
+| 2026-07-21 | 118 | Iz63RdtxdII | 265 | 15 | 429 | 0.62 | 5 | 0.72 | binh_thuong | – | Không | 11 Canned Foods You Won't Be Able to Find at Walmart After August 1st |
+| 2026-07-22 | 117 | K31SAlQad_M | 428 | 15 | 429 | 1.00 | 5 | 0.72 | binh_thuong | – | Không | 10 US Flour Brands To Avoid And The 3 That Are Actually Safe |
+| 2026-07-24 | 115 | fVADdlFra2Q | 272 | 15 | 429 | 0.63 | 5 | 1.08 | binh_thuong | – | Không | What To Do When Desperate Crowds Reach Your Door |
+| 2026-07-27 | 112 | FBNZXlqZDnE | 463 | 15 | 429 | 1.08 | 5 | 0.72 | binh_thuong | – | Không | 7 Peanut Butter Brands to AVOID in America And 3 That Are ACTUALLY Safe |
+| 2026-07-28 | 111 | MyBqv2UzlO4 | 295 | 15 | 435 | 0.68 | 5 | 0.71 | binh_thuong | – | Không | 10 Items YOU'LL WISH YOU HAD For Preparedness |
+| 2026-07-29 | 110 | la6PqBn7oz8 | 309 | 15 | 435 | 0.71 | 5 | 0.53 | binh_thuong | – | Không | DON’T Buy These 9 MEAT PIE Brands — Only 3 Are Actually Real Meat |
+| 2026-08-01 | 107 | w53mZBp0yYc | 1,913 | 15 | 429 | 4.46 | 5 | 0.49 | dang_ghi | – | Không | 11 Best Prepper and Survival Items to Buy at Tractor Supply in 2026 |
+| 2026-08-03 | 105 | yAlgofao4jo | 593 | 15 | 429 | 1.38 | 5 | 0.49 | binh_thuong | – | Không | 12 Grocery Items You NEED to Stock Up on Before August 15 |
+| 2026-08-05 | 103 | SIgv4A0u_hE | 230 | 15 | 429 | 0.54 | 5 | 0.49 | binh_thuong | – | Không | What Really Takes People Down After SHTF |
+| 2026-08-07 | 101 | 5e0RDsyOkaU | 89 | 15 | 428 | 0.21 | 5 | 0.82 | binh_thuong | – | Không | 11 Water Bottle Brands to Never Buy And 6 That Are Actually Safe |
+| 2026-08-10 | 98 | HF7gJBgsjPc | 209 | 15 | 309 | 0.68 | 5 | 1.29 | binh_thuong | – | Không | 18 Normal Household Items You Should Hoard Immediately |
+| 2026-08-11 | 97 | GVH7naykWzQ | 208 | 15 | 309 | 0.67 | 5 | 1.33 | binh_thuong | – | Không | 18 Items You’ll Regret Not Stockpiling When Water Runs Out |
+| 2026-08-13 | 95 | 41_jisG-ywM | 349 | 15 | 295 | 1.18 | 5 | 2.73 | binh_thuong | – | Không | Don't Buy These 10 US Ground Beef Brands And 8 That Are Actually Safe |
+| 2026-08-17 | 91 | r_ovErrGOsM | 834 | 15 | 309 | 2.70 | 5 | 2.56 | hoi_cao | – | Không | 11 Grocery Foods That Could Become PRICELESS in 2027 (Stock Up Now!) |
+| 2026-08-19 | 89 | 4mkCjqz0Q1Q | 398 | 15 | 309 | 1.29 | 5 | 2.58 | binh_thuong | – | Không | 17 Emergency Items the Red Cross Says Every Family Should Have |
+| 2026-08-22 | 86 | xtQWoohCxeY | 806 | 15 | 309 | 2.61 | 5 | 2.56 | hoi_cao | – | Không | 15 Foods I'd Stockpile First If Grocery Shelves Went Empty |
+| 2026-08-24 | 84 | 6mFIaOYW74U | 411 | 15 | 349 | 1.18 | 5 | 2.29 | binh_thuong | – | Không | 10 Foods Preppers Buy That Aren't Worth Stockpiling |
+| 2026-08-28 | 80 | EPkQPj_KP7M | 10,830 | 15 | 349 | 31.03 | 5 | 2.29 | can_kiem_ky | – | Không | 5 Signs SHTF Is Starting — Start Preparing Immediately! |
+| 2026-08-31 | 77 | obK3x3WrIGk | 792 | 15 | 398 | 1.99 | 5 | 2.01 | binh_thuong | – | Không | Only Fools Still Buy These 12 Grocery Items — Here's What to Buy Instead |
+| 2026-09-02 | 75 | pmFcugy7JuI | 798 | 15 | 398 | 2.01 | 5 | 1.83 | hoi_cao | – | Không | 10 Dollar Store Items Preppers Should Buy Before Winter |
+| 2026-09-07 | 70 | QyB5rfD-1Hw | 565 | 15 | 411 | 1.37 | 5 | 1.77 | binh_thuong | – | Không | 8 Warning Signs You Should Prepare for a Long Term Power Outage |
+| 2026-09-11 | 66 | zDqnvk0cLNE | 1,021 | 15 | 565 | 1.81 | 5 | 1.29 | binh_thuong | – | Không | 10 Cheap Things You Already Own That Can Help After An EMP |
+| 2026-09-17 | 60 | PWyYU5movHg | 1,526 | 15 | 565 | 2.70 | 5 | 1.15 | hoi_cao | – | Không | These 10 Canned Foods Are Quietly Vanishing From Shelves Right Now |
+| 2026-09-22 | 55 | BRVYmugz24Q | 729 | 15 | 565 | 1.29 | 5 | 0.93 | binh_thuong | – | Không | 12 Walmart Items You’ll Wish You Had When the Power Goes Out |
+| 2026-09-24 | 53 | xJerFVHq2bI | 413 | 15 | 729 | 0.57 | 5 | 0.72 | binh_thuong | – | Không | 15 Canned Foods to Stockpile Before SHTF |
+| 2026-09-27 | 50 | D-_v1HnIPsc | 650 | 15 | 729 | 0.89 | 5 | 0.72 | binh_thuong | – | Không | 12 Costco Items Preppers Should Stock Up on Before Prices Rise |
+| 2026-09-29 | 48 | aYjYreNrAqE | 3,600 | 15 | 729 | 4.94 | 5 | 0.65 | dang_ghi | – | Không | 13 Must-Have Survival Tools To STOCKPILE Before Anyone Else Does |
+| 2026-10-01 | 46 | Aey-1YsL_Zo | 475 | 15 | 792 | 0.60 | 5 | 0.66 | binh_thuong | – | Không | You Only Need These 6 Canned Foods to Survive Hard Times! |
+| 2026-10-04 | 43 | agUwbgNoNdY | 525 | 15 | 792 | 0.66 | 5 | 0.67 | binh_thuong | – | Không | 11 Dollar Tree Heating Items That'll Be WORTH GOLD in a Winter Blackout!! |
+| 2026-10-06 | 41 | 3sZhi6a-YMk | 390 | 15 | 729 | 0.53 | 5 | 1.24 | binh_thuong | – | Không | 11 Costco Frozen Meals to AVOID at All Costs |
+| 2026-10-08 | 39 | IngGK6Quu3M | 1,121 | 15 | 729 | 1.54 | 5 | 0.74 | binh_thuong | – | Không | 13 Walmart Items Under $2 Preppers Are Stocking Up On Before NEXT MONTH |
+| 2026-10-10 | 37 | fN1jhCLG-rM | 328 | 15 | 729 | 0.45 | 5 | 0.80 | binh_thuong | – | Không | Super El Niño Winter: 12 Things to Get Ready Before a Blackout |
+| 2026-10-13 | 34 | K5zu6khiS0E | 1,056 | 15 | 729 | 1.45 | 5 | 0.74 | binh_thuong | – | Không | 11 Cheap Blackout Meals That Need No Stove, No Fridge & No Boiling Water |
+| 2026-10-15 | 32 | OnuTQ3uwRNc | 529 | 15 | 729 | 0.73 | 4 | – | binh_thuong | – | Không | Stockpile These 7 Canned Meats Before It’s TOO LATE! |
+| 2026-10-20 | 27 | yL8SdpU-Wmk | 907 | 15 | 650 | 1.40 | 3 | – | chua_chin | – | Không | 15 Canned Foods You Must Buy BEFORE November 1st! |
+| 2026-10-25 | 22 | TNlRoMWvgHw | 543 | 15 | 650 | 0.84 | 2 | – | chua_chin | – | Không | 6 Costco Foods Quietly Getting More Expensive (Stock Up Before 2027) |
+| 2026-10-31 | 16 | D5lAiE_dbl8 | 586 | 15 | 650 | 0.90 | 1 | – | chua_chin | – | Không | Only Fools Buy These 10 Canned Foods (Buy These Instead) |
+| 2026-11-10 | 6 | 1TtNLuJkJNY | 229 | 15 | 586 | 0.39 | 0 | – | chua_chin | – | Không | How to Store 2 Weeks of Water in a Small Home (No Basement Needed) |

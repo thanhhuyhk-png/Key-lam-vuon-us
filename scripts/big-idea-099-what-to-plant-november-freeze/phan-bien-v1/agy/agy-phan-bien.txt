@@ -1,0 +1,48 @@
+Đối chiếu [script.md](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-099-what-to-plant-november-freeze/phan-bien-v1/agy/script.md) với [research-brief.md](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-099-what-to-plant-november-freeze/phan-bien-v1/agy/research-brief.md) và [allowed-numbers.json](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-099-what-to-plant-november-freeze/phan-bien-v1/agy/allowed-numbers.json) (ước lượng ~1.700 từ ≈ 10:18 @165 wpm):
+
+### 1. Dữ kiện theo Claim Ledger & số liệu
+- **[CHẶN]** M4 · `"In one Texas region, turnips go in on November first, and spinach on November fifteenth."` @5:42 · Số **15** (`fifteenth`) KHÔNG có trong `allowed-numbers.json`; đồng thời C34 ghi đó là *ngày gieo trung bình* (Region III), không phải ngày cứng · Đổi thành `"turnips and spinach still go in during November"` (bỏ ngày 15 hoặc cập nhật `allowed-numbers.json` nếu giữ).
+- **[CHẶN]** M1 · `"Tomatoes and peppers didn't make it. They can't take frost at all unless you cover them."` @0:31 · C03 (và cả bảng Claim Ledger A) không có dữ kiện cà chua/ớt lẫn mệnh đề `"unless you cover them"` · Xoá câu này hoặc thay bằng mô tả nhóm tender đúng C01/C09 (`"Tender crops quit at the first frost"`).
+- **[CHẶN]** M2 · `"And they show up with the hardy crops everywhere else they're listed."` @2:28 · Sai 3 điểm: C08 không có kohlrabi/turnips, C03 trong ledger không ghi 2 cây này, C04 chỉ xếp turnip `"limited period"` (không phải full hardy); chữ `"everywhere"` vi phạm L19 · Sửa: `"Both are listed as very hardy in multiple extension tables, though one notes turnips hold up only for a limited stretch."` [C01, C04, C06, C70].
+- **[CHẶN]** M3 · `"Cover the bed with an insulating mulch, and you can keep harvesting carrots, turnips, and beets through December."` @4:51 · C27 trong ledger chỉ nói `"insulating mulch to prevent freeze damage to the roots"` cho cà rốt; không có `"turnips, and beets"` hay `"through December"` (December thuộc C79 về cold frame/row cover) · Sửa theo C27+C53: `"Cover the bed with an insulating mulch, and you can protect the roots and dig carrots well into winter."`
+- **[CHẶN]** M2/Ghi chú · `"Seven different pages land on the same answer for kale: hardy."` @2:04 & bảng số phiếu (`su hào 5/5 · củ cải 6/6`) · Claim Ledger chỉ khớp kohlrabi ở 3 nguồn (C01, C06, C70), turnip bị C04 hạn chế, C03 trong ledger không ghi kale/spinach, và gộp bản STALE (Purdue 2004, Nebraska 2012) với bản 2023 làm phồng phiếu · Đếm lại đúng bảng A và tách rõ bản cũ/mới; bỏ `"Seven different pages"` thành nói thẳng dữ kiện (L19).
+- **[CHẶN]** M4 · `"What if the ground freezes before you're done? ... cover root crops with a heavy layer of straw."` @6:58 · **Trình tự làm sai**: C53 phủ rơm *khi sương cứng bắt đầu để đất không đóng băng*, không phải sau khi đất đã đóng băng cứng; và C49 cho cải bó xôi thiếu bước gỡ mulch sau khi tuyết tan · Tách ý: `"Before the ground freezes solid, cover root crops with a heavy layer of straw..."` và thêm `"pull that mulch back once the snow melts."` [C49, C53].
+- **[NÊN SỬA]** Hook · `"Five vegetables in all hold up at that number."` @0:11 · Câu trước vừa nêu `24–28°F` (C06), dễ gây hiểu nhầm cả 5 cây (gồm cải bó xôi) đều nằm nhóm 24–28°F, trong khi C06 xếp cải bó xôi ở 28–32°F · Nói rõ `"hold up around twenty-eight"` hoặc tách cải bó xôi `"right on the line"`.
+- **[NÊN SỬA]** M4 · `"In the warmest Texas zone on that table..."` @5:47 · C33 cảnh báo `[ƯỚC: Region N ↔ Zone N]`, không được gọi Region V là `"zone"` · Đổi `"zone"` → `"region"`.
+- **[NÊN SỬA]** M4 · `"Garlic is the clearest case, and the pages don't agree."` @6:25 · Script ghép Nebraska (C14: không khuyến nghị tháng 11) với South Dakota (C15: trước khi đất đóng băng, ~giữa tháng 10) — thực chất **Oklahoma (C13: đầu tháng 11)** mới đối lập Nebraska · Ghép đối chiếu Oklahoma/Sacramento vs Nebraska.
+- **[GỢI Ý]** M5 · `"One more small trick: soaking the soil early in the day may help"` @8:31 · **Trình tự ngược**: mẹo làm *trước đêm lạnh* lại đặt sau bước *gỡ bạt sáng hôm sau* · Chuyển lên trước mục `"Third, take the cover off"`.
+- **[GỢI Ý]** M5 · `"and the inside turns dark and water-soaked."` @9:00 · C30 chỉ ghi cà rốt nứt dọc, ruột sũng nước — không có chữ `"dark"` · Bỏ `"dark"`.
+
+### 2. An toàn (ASPCA / YMYL / Vùng lạnh)
+- **[CHẶN]** M5 · `"If you have a dog, skip cocoa bean mulch."` @9:16 · **Chôn vùi cảnh báo**: mulch được khuyên từ M3 (@4:51) và M4 (@6:45–7:15) nhưng cảnh báo độc chó để tận phút 9:16; đồng thời bỏ tên **ASPCA** bằng giọng (L19 mục ③ cho phép/khuyến nghị cite YMYL) và thiếu câu `"check the label or ask your local extension"` theo § YMYL · Dời cảnh báo lên ngay sau đoạn mulch ở M4 (@6:55), nêu rõ `"ASPCA"`, thêm câu đọc nhãn sản phẩm.
+- **[NÊN SỬA]** KẾT · `"Let kale, kohlrabi, and turnips stand out there and do their thing."` @9:40 · Không khoanh ngưỡng °F; ở vùng lạnh sâu (<20°F cuối tháng 11) làm theo nguyên văn dễ hỏng cây · Sửa: `"Let kale, kohlrabi, and turnips ride out nights down near twenty-eight."`
+
+### 3. Chính sách YouTube & nội dung "inauthentic"
+- Đạt L9 (không nhãn tuổi trên title), L11 (không nhân chứng bịa; `"Our grandparents' generation"` hợp lệ L9b), X1–X5 (không `"I grew/tested"`, không sợ hãi/tuyệt đối kiểu `"guaranteed"`). Chỉ cần sửa chữ `"everywhere"` ở L55 (đã nêu ở mục 1).
+
+### 4. Giữ chân & Bản đồ loop
+- **[CHẶN]** Toàn bài (L19) · `"Seven different pages"` @2:04 · `"Most of the pages we read"` @4:06 & @4:25 · `"what we couldn't find. We didn't turn up a university page"` @7:22 · `"Two university pages"` @7:46 · Lặp khuôn `"page/pages"` **14 lần** (đổi `"guides"` → `"pages"`, đúng lỗi L19 đã cấm), vượt trần ≤1 cite chung/300 từ ngoài `CITE_ZONE`, và `"Most pages"` khái quát quá mẫu 7–8 trang · Cắt cite ngoài `CITE_ZONE`, nói thẳng dữ kiện và giao trích dẫn cho thẻ nguồn trên màn hình; đổi câu thừa nhận giới hạn L97 thành `"Planting into frozen ground or pots isn't covered in the extension tables here"`.
+- **[NÊN SỬA]** Hook/M1 (L3 & L17) · `"What to Plant in November"` nhưng toàn bộ **0:00–5:30** không nhắc một chữ `"November"` hay `"plant"` (L29 còn nói `"what stays in the ground"`) · Đưa lời giải thích ngắn về `"Plant in November"` (ấm gieo, lạnh bảo vệ) lên ngay trong 60 s đầu; đồng thời xem lại L17 cho `"Shrug Off 28°F"` vì L63–L65 & L117 thừa nhận cabbage/spinach cần giữ vải sẵn.
+- **[GỢI Ý]** M1 · @0:36–1:31 (~55 s) · Đoạn giải thích 3 nhóm + nhãn hard freeze + thời lượng hơi mang dáng sách giáo khoa ngay vùng rơi 40–55 s (L4) · Rút gọn ~15 s và gài câu nhắc nhẹ Loop #1 ngay trước khi sang ACTION_TIP.
+- **Bản đồ loop:** Loop #1 *2 cây bị loại, 1 cây cần lạnh* (gieo @0:15 · nhắc @2:20, @3:12 · đóng @4:22–5:24 ✅) · Loop #2 *lạnh đổi vị* (gieo @2:42 · đóng @3:22 ✅) · Mini-loop *cabbage/spinach tụt bảng* (gieo @3:07 · đóng @3:46–4:15 ✅) · Loop #3 *tháng 11 còn trồng gì* (gieo @5:25 · đóng @7:35 ✅). Không loop nào treo; ACTION_TIP @1:44 (≤3:00 ✅ L16); phút 4–6 có tension đều (✅ L5); không đọc lại chuỗi số bảng (✅ L18).
+
+### 5. Chấm phần mở (0–60 s)
+① Loop/câu hỏi trong 10 s: **2/5** *(Loop #1 tới @0:15)* · ② Bằng chứng/số <20 s: **5/5** *(28°F & 24–28°F @0:00–0:13)* · ③ Trả lời hứa title <60 s: **3/5** *(nêu 5 cây @0:28 nhưng bỏ trống `"Plant in November"` tới 5:31)* · ④ Dựng hình được: **5/5** · ⑤ Đúng Claim Ledger: **3/5** *(L35 cà chua/ớt thiếu trong ledger; L25 gộp spinach vào 24–28°F)* · ⑥ Giọng kênh: **4/5** · ⑦ Khác góc đối thủ: **4/5** → **26/35 (<28 → viết lại, 101 từ):**
+
+> Twenty-eight degrees is where your forecast usually calls it a hard freeze — yet two vegetables you'd expect on a cold-hardy list didn't make the cut, and one of them actually needs the cold. [C11, C13]
+>
+> Kale, kohlrabi, turnips, and cabbage are rated for twenty-four to twenty-eight degrees; spinach makes five, right on the line. [C06, C01, C04, C70]
+>
+> One honest note on "plant in November": mild-winter spots like parts of Texas and Sacramento still sow this month, while cold-winter spots like Iowa finished by late September. [C34, C38, C42]
+>
+> Skip the zone map for a minute — two numbers on your forecast decide what survives tonight. [C12]
+
+### 6. Cảnh báo cho người dựng
+- **Thú cưng & mulch (L113):** Không dùng cảnh chó gần mulch nâu/vỏ ca cao khi chưa có nhãn cảnh báo; hiện thẻ **ASPCA**; không gắn chữ `"pet-safe"` lên cảnh rơm/lá (C32 không có nguồn).
+- **Dễ nhầm cây (L55):** B-roll kohlrabi phải thấy rõ củ phình *trên mặt đất*, đối lập củ cải *dưới đất*.
+- **Bảng số phiếu (L59):** Khoá lại con số theo Claim Ledger trước khi làm GFX (tránh ghi `su hào 5/5 · củ cải 6/6`); ghi chú chân bảng rằng Purdue & Nebraska có 2 ấn bản khác năm.
+- **M4 & M5 (L87, L105, L111):** Dán nhãn vùng lớn (`Texas/Sacramento — Mild Winter` vs `Iowa — Cold Winter`); B-roll che phủ phải thấy **cọc nâng không chạm lá** (trái C55/C59 nếu phủ đè trực tiếp); không chèn cảnh hái rau lúc lá đang đóng băng trắng (trái C67).
+- **Thẻ nguồn bắt buộc (L14/L19):** Gắn thẻ ở các mốc số chính — SDSU 2023 (C06) @0:12 & @0:50 · NC State/SDSU (C04, C11, C12) @1:05 · UMD/Wisconsin (C18, C19) @7:50 · Purdue HO-203-W (C30) @8:55 · ASPCA (C31) tại vị trí mới ở M4.
+
+**Hook: 26/35** · **3 điểm mạnh nhất:** (1) Ý tưởng Editorial Signature bảng số phiếu + góc đọc nhiệt độ dự báo thay vì USDA zone sắc nét và khác biệt hẳn đối thủ; (2) ACTION_TIP đặt sớm @1:44, gọi lại tự nhiên ở kết, và không đọc lại chuỗi số (L16, L18); (3) Giọng educator trung thực, thừa nhận rõ giới hạn mùa đông lạnh ở M4 và không dính lỗi L11/X5.
+**Kết luận: ĐẠT CÓ SỬA** *(sửa 6 lỗi CHẶN, thay phần mở 101 từ, dời cảnh báo ASPCA lên M4 và dọn khuôn `"pages"` L19 trước khi thu âm).*

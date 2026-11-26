@@ -1,0 +1,133 @@
+{
+ "ngay_do": "2026-11-16",
+ "nguon_mau": "vidiq_youtube_search (tk …di0) 12 tháng 2025-11-16..2026-11-16, 2 truy vấn: s_s1.json,s_s2.json; giữ long-form ≥4 phút, kênh ≤200K, ≥14 ngày; bỏ OM null",
+ "cach_sap": [
+  "relevance",
+  "date"
+ ],
+ "view_dien_hinh_toi_thieu": 500,
+ "kenh_minh": {
+  "sub": 59900,
+  "trung_vi_view": 597,
+  "view_dien_hinh_uoc": null
+ },
+ "moc_nganh_p50": null,
+ "he_so_kenh_moi": 0.5,
+ "nguong_thang": 1.5,
+ "nguong_om": 2.0,
+ "he_so_khop": 1.0,
+ "chi_phi": 2,
+ "tuoi_toi_thieu_ngay": 14,
+ "videos": [
+  {
+   "id": "BGybM2PFOxI",
+   "title": "🌱 How to Save Seeds from Your Garden the Right Way",
+   "channel_id": "UC81xdZIcZBKHJLDAxDGjrRQ",
+   "channel_sub": 41800,
+   "views": 2212,
+   "om": 1.3204367875368037,
+   "vph": 0.45488958990536277,
+   "published": "2026-09-10",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "EokwmEPhZ84",
+   "title": "How to Save Tomato Seeds for Next Year: Dry, Store, and Grow Again",
+   "channel_id": "UCNtNnWI4ccwJFopOONKqDWw",
+   "channel_sub": 14,
+   "views": 47,
+   "om": 2.5405405405405403,
+   "vph": null,
+   "published": "2026-10-07",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "YV_fWw8LN_E",
+   "title": "Save Seeds These 8 Vegetables Never Buy Again",
+   "channel_id": "UCbz5pB7jkbg5FrqaGfEWpCA",
+   "channel_sub": 147,
+   "views": 208,
+   "om": 1.3462783171521036,
+   "vph": 0.36363636363636365,
+   "published": "2026-10-29",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "HNjrf_82vhw",
+   "title": "9 Vegetables You Can Regrow From Saved Seeds Every Year (Never Buy Seeds Again)",
+   "channel_id": "UCVvdSQmlrFRy0JRPK6O1U4g",
+   "channel_sub": 49,
+   "views": 193,
+   "om": 1.103448275862069,
+   "vph": 0.12034078807241747,
+   "published": "2026-10-05",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "Xsz3PA0sUPM",
+   "title": "Harvesting 12 Vegetables & How to Save Seeds",
+   "channel_id": "UCyY1MtbRdrTERdKm5iwqcAA",
+   "channel_sub": 10300,
+   "views": 1377,
+   "om": 1.83,
+   "vph": 0.01,
+   "published": "2026-08-21",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "HEklHSeji-M",
+   "title": "I grew a dollar store vegetable garden with 50¢ seeds😲 budget gardening ",
+   "channel_id": "UCFcBK3Xz5Ko52aLthsMVb2A",
+   "channel_sub": 14900,
+   "views": 1154629,
+   "om": 1070.32,
+   "vph": 146.07,
+   "published": "2026-03-06",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "PmMf7IO_szU",
+   "title": "How to Save Seeds: 5 Easy Crops to Start With (Beginner Guide)",
+   "channel_id": "UCVj4ivmXt2ZDMWFCIcWgRbg",
+   "channel_sub": 585,
+   "views": 44,
+   "om": 1.872340425531915,
+   "vph": null,
+   "published": "2026-10-23",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "YVJIXFcBFNk",
+   "title": "How to Save Okra & Marigold Seeds | Easy Seed Saving for Beginners",
+   "channel_id": "UCv-CedDBg8wk9xlAiIV-Wcw",
+   "channel_sub": 1780,
+   "views": 93,
+   "om": 1.0774203478528552,
+   "vph": 0.007401924500370096,
+   "published": "2026-07-02",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "OruuLKSj9ag",
+   "title": "Best Beginner Flower! \"Nasturtium\" from Seed to Seed + Care & Flowering Tips. Edible flower",
+   "channel_id": "UC-gqSocgvmyur_VaLL_k5LA",
+   "channel_sub": 167000,
+   "views": 4285,
+   "om": 1.5051469257592647,
+   "vph": 0.08013129947866383,
+   "published": "2026-03-25",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "jfq2pQE3iCo",
+   "title": "In the Garden  | Seed Saving and Cool Weather Flowers with Blooming Joy Farm",
+   "channel_id": "UCqPwa8URAuHK42zzdm2tVKQ",
+   "channel_sub": 14000,
+   "views": 4950,
+   "om": 4.25,
+   "vph": 0.04,
+   "published": "2025-11-25",
+   "dinh_dang": "khac"
+  }
+ ]
+}

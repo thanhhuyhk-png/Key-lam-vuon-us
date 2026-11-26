@@ -1,0 +1,80 @@
+# Đo kênh: UCsE_-wlwwifrObQkiWpm0Jw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 38 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 38 |
+| n_trong_danh_sach | 38 |
+| n_dai | 38 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 2,220 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-05-12 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 2,086 |
+| cao_nhat | 11,967 |
+| thap_nhat | 614 |
+| phan_tan | 5.74 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.94 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.73 |
+| ngay_video_dau | 2026-05-12 |
+| tuoi_tu_video_dau | 188 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 11.81 |
+| sub_moi_video | 58.42 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-05-12 | 188 | ASusU__y2NQ | 15,385 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Depression-Era Meals That Cost Almost Nothing (And Kept Families Full) |
+| 2026-05-15 | 185 | xBDvpKHcOAM | 10,606 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 30 Survival Pantry Foods from the 1930s That Last for Years Without Refrigeration |
+| 2026-05-18 | 182 | 3vTnyzudt4Q | 1,937 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Water Pie, Vinegar Cobbler, and Other Desperate Desserts from the Depression |
+| 2026-05-21 | 179 | JjCQhF7hC74 | 4,234 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Frugal Tricks 1930s Housewives Used to Make Food Last All Week |
+| 2026-05-24 | 176 | YLtGV9Lsq4s | 4,648 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 30 Recipes from the 1930s That Could Feed a Family of Six for Under a Dollar |
+| 2026-05-27 | 173 | 7h7PTxhTMI8 | 53,208 | 5 | 4,648 | 11.45 | 5 | 0.29 | can_kiem_ky | – | Không | 30 Meals Hobo Camps Actually Cooked During the Great Depression |
+| 2026-05-30 | 170 | KFSMCEDuPRo | 630 | 6 | 7,627 | 0.08 | 5 | 0.79 | binh_thuong | – | Không | 30 Depression Era Meals That Kept Americans Alive During Hard Times |
+| 2026-06-02 | 167 | uKGydOWboWE | 1,112 | 7 | 4,648 | 0.24 | 5 | 1.29 | binh_thuong | – | Không | 25 Things Americans Actually Ate During the Great Depression That Would Horrify Today's Kids |
+| 2026-06-05 | 164 | xo4r_JVKaww | 404,275 | 8 | 4,441 | 91.03 | 5 | 0.43 | can_kiem_ky | – | Không | 25 Survival Meals Appalachian Families Ate During the Great Depression |
+| 2026-06-07 | 162 | W_8RlodT9Fk | 1,331 | 9 | 4,648 | 0.29 | 5 | 1.29 | binh_thuong | – | Không | 30 Forgotten WWII Ration Meals American Families Survived On for Years |
+| 2026-06-10 | 159 | 3sQXJsvrZtI | 5,993 | 10 | 4,441 | 1.35 | 5 | 0.75 | binh_thuong | – | Không | 30 Secret Powdered & Preserved Foods That Outlasted Every Hard Year |
+| 2026-06-12 | 157 | 2Zuvd5IpucY | 53,976 | 11 | 4,648 | 11.61 | 5 | 0.71 | can_kiem_ky | – | Không | 30 Forgotten Appalachian Survival Foods That Kept Mountain Families Alive |
+| 2026-06-14 | 155 | 6zrWMiF6-88 | 767 | 12 | 5,320 | 0.14 | 5 | 0.63 | binh_thuong | – | Không | 25 Forgotten Summer Preserving Tricks Grandmothers Used Before Refrigerators |
+| 2026-06-17 | 152 | e8HD1KoC3ds | 1,931 | 13 | 4,648 | 0.42 | 5 | 0.81 | binh_thuong | – | Không | 25 Survival Meals Coal Mining Families Ate to Survive the Hard Winters |
+| 2026-06-19 | 150 | QprXIVlEk1w | 8,459 | 14 | 4,441 | 1.90 | 5 | 0.76 | binh_thuong | – | Không | 25 Dust Bowl Survival Meals Farm Families Ate When the Crops Failed |
+| 2026-06-21 | 148 | _pyWK8nmmiY | 3,317 | 15 | 4,648 | 0.71 | 5 | 0.81 | binh_thuong | – | Không | 30 Forgotten Frontier Foods That Kept Homestead Families Alive Through Brutal Winters |
+| 2026-06-23 | 146 | 6bUSWfnqeS4 | 5,842 | 15 | 4,234 | 1.38 | 5 | 0.79 | binh_thuong | – | Không | 25 Logging Camp Meals Lumberjacks Survived On Through the Long Winter |
+| 2026-06-25 | 144 | kBKZmrUDBY0 | 3,356 | 15 | 4,234 | 0.79 | 5 | 0.89 | binh_thuong | – | Không | 30 Forgotten Appalachian Mountain Foods That Kept Families Alive Through Brutal Winters |
+| 2026-06-27 | 142 | wRSz1GJUKK4 | 3,777 | 15 | 4,234 | 0.89 | 5 | 0.44 | binh_thuong | – | Không | 25 Appalachian Survival Foods That Kept Mountain Families Alive During the Great Depression |
+| 2026-06-30 | 139 | pSnSsyI6CTo | 1,871 | 15 | 3,777 | 0.50 | 5 | 0.44 | binh_thuong | – | Không | 30 Forgotten Ozark Survival Foods That Kept Mountain Families Alive Through Hard Times |
+| 2026-07-02 | 137 | noY5V5DSAJY | 7,890 | 15 | 3,356 | 2.35 | 5 | 0.49 | hoi_cao | – | Không | 25 Forgotten Potato Meals Appalachian Families Survived On During the Great Depression |
+| 2026-07-04 | 135 | KJFGirOI7ZE | 920 | 15 | 3,356 | 0.27 | 5 | 1.90 | binh_thuong | – | Không | 25 Forgotten Poor Man 5 Minute Meals Seniors Who Survived the Great Depression Still Make |
+| 2026-07-07 | 132 | jSrbyi_X3Ho | 11,967 | 15 | 3,356 | 3.57 | 5 | 0.49 | dang_ghi | – | Không | 25 Forgotten One Skillet Appalachian Dinners That Fed a Family for Pennies |
+| 2026-07-09 | 130 | 0q8vAJNeoOk | 1,652 | 15 | 3,777 | 0.44 | 5 | 0.48 | binh_thuong | – | Không | 25 Poor Man’s Cooking Tricks That Kept Families Fed When the Grid Failed |
+| 2026-07-11 | 128 | 9hF8I6ytpZ4 | 730 | 15 | 3,356 | 0.22 | 5 | 0.54 | binh_thuong | – | Không | 25 Cheap 15 Minute Survival Suppers Seniors Made When Money Was Tight |
+| 2026-07-14 | 125 | OiBnzuYuVlA | 6,387 | 15 | 3,356 | 1.90 | 5 | 0.40 | binh_thuong | – | Không | 25 Forgotten Poor Man One Pot Meals That Fed Families Through Hard Times |
+| 2026-07-16 | 123 | DlQP9d_kA3M | 7,597 | 15 | 3,356 | 2.26 | 5 | 0.40 | hoi_cao | – | Không | 25 Forgotten Moonshiner Meals Appalachian Families Cooked Deep in the Mountains |
+| 2026-07-18 | 121 | 1BpqsEHlhCs | 617 | 15 | 3,356 | 0.18 | 5 | 0.54 | binh_thuong | – | Không | 25 Forgotten 1930s Soup Cubes Families Made When Shelves Went Empty |
+| 2026-07-21 | 118 | cgrN54DL03U | 1,815 | 15 | 3,356 | 0.54 | 5 | 0.71 | binh_thuong | – | Không | 25 Forgotten Appalachian Bean Meals That Kept Mountain Families Alive |
+| 2026-07-23 | 116 | epSnVTKgPSU | 853 | 15 | 3,356 | 0.25 | 5 | 0.71 | binh_thuong | – | Không | 25 Forgotten Blackout Meals Americans Made Before Freezers and Microwaves |
+| 2026-07-25 | 114 | F3JIIP_gVfk | 1,328 | 15 | 3,317 | 0.40 | 5 | 0.72 | binh_thuong | – | Không | 30 Forgotten Hooverville Meals Desperate Families Cooked During the Great Depression |
+| 2026-07-28 | 111 | ChfW6GdMyH8 | 3,157 | 15 | 1,871 | 1.69 | 5 | 1.23 | binh_thuong | – | Không | 30 Cheap 1930s Meals Black Families Ate to Survive Hard Times |
+| 2026-07-30 | 109 | mIaq4mVsDHs | 2,390 | 15 | 1,871 | 1.28 | 5 | 1.23 | binh_thuong | – | Không | 25 Forgotten Church Basement Meals That Fed Families Through the Great Depression |
+| 2026-08-01 | 107 | 57b8aK2Y6c4 | 2,496 | 15 | 1,871 | 1.33 | 4 | – | binh_thuong | – | Không | 25 Survival Meals Pioneer Families Ate Crossing the 2,000 Mile Oregon Trail |
+| 2026-08-04 | 104 | n_oQsVHg4aI | 614 | 15 | 1,871 | 0.33 | 3 | – | binh_thuong | – | Không | 25 Native American Survival Foods That Lasted for Months Without Refrigeration |
+| 2026-08-06 | 102 | PYm9N3v0hTo | 2,302 | 15 | 1,815 | 1.27 | 2 | – | binh_thuong | – | Không | 25 FORGOTTEN Lunch Counter Sandwiches Every American Ordered Before Fast Food Took Over |
+| 2026-08-08 | 100 | HR_t_-1Z21g | 647 | 15 | 1,815 | 0.36 | 1 | – | binh_thuong | – | Không | 25 FORGOTTEN Back-of-the-Can Dinners Every 1960s Mother Knew |
+| 2026-08-11 | 97 | 7WIm7Vd6CuA | 2,490 | 15 | 1,815 | 1.37 | 0 | – | binh_thuong | – | Không | 25 FORGOTTEN Crock-Pot Dinners Every 1970s Family Came Home To |

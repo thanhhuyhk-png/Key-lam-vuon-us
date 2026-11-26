@@ -1,0 +1,135 @@
+# Đo kênh: UC4vzYY6Ak8ecvYjle-E26lA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 93 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 93 |
+| n_trong_danh_sach | 93 |
+| n_dai | 93 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 4,290 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-02-11 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 100 |
+| cao_nhat | 1,130 |
+| thap_nhat | 43 |
+| phan_tan | 11.30 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 0.70 |
+| ngay_video_dau | 2026-02-11 |
+| tuoi_tu_video_dau | 278 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 15.43 |
+| sub_moi_video | 46.13 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-02-11 | 278 | F_KKRgaDdR8 | 1,080 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 17 Foods Preppers Don’t Expose Online (HUGE 2026 Food Shortage!) |
+| 2026-02-12 | 277 | b4hN7AdA4UA | 1,397 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 11 Emergency Foods Preppers NEVER Reveal Online (Stock Up Fast!) |
+| 2026-02-13 | 276 | OyZIS2kVPXw | 567 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 13 Low-Cost Pantry Staples Preppers Are Quietly Loading Up On |
+| 2026-02-16 | 273 | thpZ70I57CI | 3,285 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 8 Goods That Could Be Rationed by Mid-2026 — Start Buying Now |
+| 2026-02-17 | 272 | gTkKH1RnJf8 | 1,020 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 13 Dollar Store Items About to Disappear Forever — Last Chance Before March |
+| 2026-02-18 | 271 | z2-VHqNwaLM | 37 | 5 | 1,080 | 0.03 | 5 | 0.29 | binh_thuong | – | Không | 12 Target Products Headed for Shortages in 2026 — Stock Up Now, Prices Could Double by March |
+| 2026-02-19 | 270 | 2CIPtkltcFw | 9,966 | 6 | 1,050 | 9.49 | 5 | 0.30 | manh | – | Không | 20 Grocery Items Facing Bans in 2026 (Final Shipment Coming in March) |
+| 2026-02-20 | 269 | fomk3fpv7N0 | 223 | 7 | 1,080 | 0.21 | 5 | 0.33 | binh_thuong | – | Không | 10 Costco Bulk Items to Stockpile Before the 2026 Harvest Failure (Act Before March) |
+| 2026-02-23 | 266 | dzgPVr5GXQk | 310 | 8 | 1,050 | 0.30 | 5 | 2.47 | binh_thuong | – | Không | 17 Foods You Must Stockpile Now Before Major 2026 Price Hikes (Final Warning) |
+| 2026-02-24 | 265 | NfcE8-e8iOc | 2,595 | 9 | 1,020 | 2.54 | 5 | 3.57 | hoi_cao | – | Không | 12 Popular Grocery Items Set to Disappear From Major Stores This Spring (Stock Up Now) |
+| 2026-02-25 | 264 | wp2-ZjbwqmU | 230 | 10 | 1,050 | 0.22 | 5 | 3.47 | binh_thuong | – | Không | 18 Food Items Banned by New 2026 Laws (Final Chance to Stock Up Before April) |
+| 2026-02-26 | 263 | vIuYEjHIzdQ | 359 | 11 | 1,020 | 0.35 | 5 | 3.57 | binh_thuong | – | Không | 20 Grocery Items Facing 2026 Bans (Final Shipments Arriving in March) |
+| 2026-02-28 | 261 | mApd6J8ThD0 | 4,457 | 12 | 794 | 5.62 | 5 | 4.59 | manh | – | Không | 22 Essential Food Staples Set to Double in Price After 2026 Harvest Reports (Buy Now) |
+| 2026-03-01 | 260 | o9PxH4_3hlE | 3,643 | 13 | 1,020 | 3.57 | 5 | 48.17 | dang_ghi | – | Không | 13 Foods Being Removed From Major Grocery Chains in 2026 (Final March Shipments) |
+| 2026-03-03 | 258 | Sey33awYVwM | 49,137 | 14 | 1,050 | 46.80 | 5 | 1.70 | can_kiem_ky | – | Không | 24 Items Sam's Club Is Pulling Of The Shelves in 2026 (BUY THEM NOW!) |
+| 2026-03-05 | 256 | 5_xfVN22gmc | 1,064 | 15 | 1,080 | 0.99 | 5 | 1.65 | binh_thuong | – | Không | 19 Necessary Target Items Being Discontinued This Week (Buy Before They Are Gone!) |
+| 2026-03-06 | 255 | bM9atofwtUc | 1,781 | 15 | 1,064 | 1.67 | 5 | 15.46 | binh_thuong | – | Không | 21 Kroger Items Disappearing This Month (Don't Miss Your Last Chance!) |
+| 2026-03-09 | 252 | ge5GG7etoLY | 185,801 | 15 | 1,064 | 175 | 5 | 1.40 | can_kiem_ky | – | Không | 12 Grocery Items Leaving Grocery Chains in 2026 (Final March Shipments!) |
+| 2026-03-10 | 251 | aSfwF_AlruI | 78,987 | 15 | 1,781 | 44.35 | 5 | 0.72 | can_kiem_ky | – | Không | 13 Survival Foods to Stockpile During This Crisis (They Never Expire) |
+| 2026-03-11 | 250 | ZaQA4V6en-4 | 389 | 15 | 1,781 | 0.22 | 5 | 0.84 | binh_thuong | – | Không | 17 Items Kroger Is Removing From Shelves This March (DON'T MISS OUT!) |
+| 2026-03-12 | 249 | wI1Q8tLxsY8 | 1,494 | 15 | 1,781 | 0.84 | 5 | 1.21 | binh_thuong | – | Không | 11 Costco Products Disappearing in March 2026 (Don't Miss Out!) |
+| 2026-03-13 | 248 | VZtJ3z9qO7Q | 16,450 | 15 | 1,781 | 9.24 | 5 | 1.00 | manh | – | Không | 17 Walmart Deals Disappearing Soon (Don't Miss Your Last Chance!) |
+| 2026-03-14 | 247 | x27vPOaYYOg | 1,291 | 15 | 1,781 | 0.72 | 5 | 1.00 | binh_thuong | – | Không | 11 Items Vanishing From Shelves Right Now (Preppers Are Stocking Up Fast!) |
+| 2026-03-15 | 246 | rMY0TFs3F_I | 583 | 15 | 1,781 | 0.33 | 5 | 1.21 | binh_thuong | – | Không | 13 Survival Grocery Items You Must Buy From Stores Before March 13th, 2026 (Bulk Up Now!) |
+| 2026-03-16 | 245 | 5Ezd6G1rIaU | 2,413 | 15 | 1,781 | 1.35 | 5 | 1.21 | binh_thuong | – | Không | 11 Essential Canned Goods You’ll Regret Not Stocking Up (Act Fast!) |
+| 2026-03-17 | 244 | GfxLEMC0BAQ | 2,160 | 15 | 1,781 | 1.21 | 5 | 1.46 | binh_thuong | – | Không | 17 Grocery Items Chain Stores Are Pullign Off The Shelves in 2026 (Final March Shipments) |
+| 2026-03-18 | 243 | CrLSj_iX6ko | 1,783 | 15 | 2,160 | 0.83 | 5 | 1.20 | binh_thuong | – | Không | 11 Costco Items Being Removed From Shelves This Week (Don't Miss Out!) |
+| 2026-03-19 | 242 | 39-NgkV0uE4 | 1,432 | 15 | 2,160 | 0.66 | 5 | 1.20 | binh_thuong | – | Không | 11 Essential Grocery Items Vanishing From Shelves Right Now (Stockpile Before They're Gone!) |
+| 2026-03-20 | 241 | E9ulQ2qwxDU | 2,602 | 15 | 1,783 | 1.46 | 5 | 1.10 | binh_thuong | – | Không | 17 Walmart Items Disappearing Soon (Grab Them Before They're Gone!) |
+| 2026-03-21 | 240 | IZyr0Rj8udw | 8,809 | 15 | 1,783 | 4.94 | 5 | 1.10 | dang_ghi | – | Không | 12 Survival Ready Foods Disappearing from Shelves (Stock Up Now!) |
+| 2026-03-22 | 239 | PgjZELkfbxw | 3,331 | 15 | 1,783 | 1.87 | 5 | 0.65 | binh_thuong | – | Không | 10 Life-Saving Grocery Items You Won’t Be Able to Find Soon (Stock Up Now!) |
+| 2026-03-23 | 238 | G1Jn2r07eps | 1,968 | 15 | 2,160 | 0.91 | 5 | 0.54 | binh_thuong | – | Không | 17 Essential Foods to Stockpile During the Current Crisis (They Never Expire) |
+| 2026-03-24 | 237 | vZyEBhvm22M | 1,035 | 15 | 2,160 | 0.48 | 5 | 0.54 | binh_thuong | – | Không | 13 Food Items to Stockpile During the Current Crisis (They Never Expire) |
+| 2026-03-25 | 236 | b1_kKLLHqYE | 1,162 | 15 | 1,968 | 0.59 | 5 | 0.44 | binh_thuong | – | Không | 15 Survival Foods Preppers Won't Share Online (Keep Them Secret!) |
+| 2026-03-26 | 235 | tcHlhJJ3_hQ | 16,049 | 15 | 1,783 | 9.00 | 5 | 0.31 | manh | – | Không | 15 Groceries You Must Bulk Up On Before A Major Prices Crisis Begins |
+| 2026-03-27 | 234 | TiN5SoMu5qU | 547 | 15 | 1,968 | 0.28 | 5 | 0.44 | binh_thuong | – | Không | 12 Surprising Items That Disappear From Stores in the First 6 Hours of Grid Collapse |
+| 2026-03-28 | 233 | iPX8XX6IoHk | 2,891 | 15 | 1,968 | 1.47 | 5 | 0.14 | binh_thuong | – | Không | These 30 Grocery Items You Should Stockpile As Prices Are Skyrocketing Again |
+| 2026-03-29 | 232 | DCHdDgv_NtU | 216 | 15 | 1,968 | 0.11 | 5 | 0.44 | binh_thuong | – | Không | These 12 Cheap Items That Could Make You Rich During a Crisis (Forget Gold) |
+| 2026-03-30 | 231 | DxlxmNgWIOU | 869 | 15 | 1,968 | 0.44 | 5 | 0.75 | binh_thuong | – | Không | 12 Survival Ready Foods Vanishing from Shelves (Stock Up Now!) |
+| 2026-03-31 | 230 | 6NBy0HNQ0SY | 198 | 15 | 1,968 | 0.10 | 5 | 0.75 | binh_thuong | – | Không | 10 Necessary Grocery Items You Won't Be Able to Find Soon (Stock Up Now!) |
+| 2026-04-01 | 229 | QBtbeBh67GI | 1,467 | 15 | 1,783 | 0.82 | 5 | 0.66 | binh_thuong | – | Không | Stock Up These 12 MUST HAVE Food Items to Survive 90 Days Without Electricity |
+| 2026-04-02 | 228 | oDhPVLNJbsE | 282 | 15 | 1,467 | 0.19 | 5 | 0.80 | binh_thuong | – | Không | Start Preparing for a Blackout Immediately! Stockpile These Supplies Before April 1st |
+| 2026-04-03 | 227 | LUzqLAEnnnY | 2,712 | 15 | 1,432 | 1.89 | 5 | 0.19 | binh_thuong | – | Không | This Cheapest $100/Month Grocery List Makes You More Ready Than 95% of People |
+| 2026-04-04 | 226 | adZg9uvidVM | 2,250 | 15 | 1,467 | 1.53 | 5 | 0.17 | binh_thuong | – | Không | 13 Survival Items to Add in Your List Before April 15th \| Prices Are About to Spike |
+| 2026-04-05 | 225 | k3PwqRoFmZo | 1,172 | 15 | 1,467 | 0.80 | 5 | 0.16 | binh_thuong | – | Không | 15 Survival Items to Get Before April 15th \| Prices Are About to Skyrocket |
+| 2026-04-06 | 224 | 0HE3HdT1mAE | 267 | 15 | 1,172 | 0.23 | 5 | 0.20 | binh_thuong | – | Không | 10 Essential Items That Will Vanish From Shelves Soon (Stock Up Now!) |
+| 2026-04-07 | 223 | 47mAvAs0kdE | 243 | 15 | 1,162 | 0.21 | 5 | 0.20 | binh_thuong | – | Không | 13 Essential Survival Items to Buy Before April 8th \| BE READY! |
+| 2026-04-08 | 222 | cDLl_TIQWuE | 231 | 15 | 1,035 | 0.22 | 5 | 0.18 | binh_thuong | – | Không | This Cost Friendly $93/Month Food Strategy Puts You Ahead of 95% of Families |
+| 2026-04-10 | 220 | 0WQEUJrE08E | 72 | 15 | 869 | 0.08 | 5 | 0.47 | binh_thuong | – | Không | Prepare for Massive Grid Failure: Essential Items to Collect Before April 8th |
+| 2026-04-10 | 220 | InrRQ-0fXkk | 184 | 15 | 547 | 0.34 | 5 | 0.88 | binh_thuong | – | Không | Prepare for a Grid Failure ASAP! Stockpile These Supplies Before April 11th |
+| 2026-04-11 | 219 | RYd1fIzRi9I | 858 | 15 | 282 | 3.04 | 5 | 1.70 | dang_ghi | – | Không | 12 Survival Items Smart Americans Are Stocking Up Right Now (2026 Preparedness Guide) |
+| 2026-04-12 | 218 | c1sqc3YnMxw | 480 | 15 | 282 | 1.70 | 5 | 1.70 | binh_thuong | – | Không | Stockpile These 12 Must Have Foods to Survive 90 Days in a Major Power Crisis |
+| 2026-04-13 | 217 | BtCq1l3Tt8w | 139 | 15 | 282 | 0.49 | 5 | 2.02 | binh_thuong | – | Không | 11 Survival Items You Won’t Be Able to Find Soon |
+| 2026-04-14 | 216 | we3g9E_s0k8 | 407 | 15 | 282 | 1.44 | 5 | 2.02 | binh_thuong | – | Không | Stockpile Just 5 Foods to Survive Difficult Times |
+| 2026-04-15 | 215 | Hm-vRcCXwq4 | 571 | 15 | 282 | 2.02 | 5 | 1.70 | hoi_cao | – | Không | 13 Grocery Items Smart Families Are Secretly Stockpiling Now |
+| 2026-04-16 | 214 | VxN2b-xDEEw | 479 | 15 | 407 | 1.18 | 5 | 0.77 | binh_thuong | – | Không | 11 Common Grocery Items Only Foolish People Think to Buy |
+| 2026-04-17 | 213 | UDD3DAVxo0Q | 1,427 | 15 | 407 | 3.51 | 5 | 0.38 | dang_ghi | – | Không | 12 Items Quietly Gone from The Shelves (Stock Up Now!) |
+| 2026-04-20 | 210 | NC9OdvFKOCk | 1,285 | 15 | 479 | 2.68 | 5 | 0.32 | hoi_cao | – | Không | 12 Essential No-Cook Foods to Stockpile for a Crisis (No Heat Required) |
+| 2026-04-21 | 209 | agAAGVnqm0U | 155 | 15 | 479 | 0.32 | 5 | 0.28 | binh_thuong | – | Không | 17 Essential Survival Items Every Smart Prepper Purchases In Bulk! |
+| 2026-04-22 | 208 | Wh4Uxxw0ksQ | 313 | 15 | 407 | 0.77 | 5 | 0.29 | binh_thuong | – | Không | 7 Food Items Smart Americans Are Quietly Hoarding Right Now! |
+| 2026-04-23 | 207 | Po6bHaY273g | 134 | 15 | 313 | 0.43 | 5 | 0.37 | binh_thuong | – | Không | 13 Essential Foods Being Quietly Stockpiled Right Now! |
+| 2026-04-24 | 206 | n2CnHh-WLW4 | 116 | 15 | 313 | 0.37 | 5 | 0.71 | binh_thuong | – | Không | 12 Essential Survival Items to Buy Before May 1st, 2026 (Massive Shortage Incoming!) |
+| 2026-04-25 | 205 | GU7uWe84AX0 | 508 | 15 | 313 | 1.62 | 5 | 0.71 | binh_thuong | – | Không | 12 Essential Canned Foods to Stockpile Before a Major Crisis |
+| 2026-04-26 | 204 | s9zutmBMLb4 | 75 | 15 | 407 | 0.18 | 5 | 0.55 | binh_thuong | – | Không | Survival Guide: Only 5 Essential Foods to Stockpile for Grid Failure |
+| 2026-04-27 | 203 | Pn1QSI1Bc34 | 103 | 15 | 407 | 0.25 | 5 | 0.55 | binh_thuong | – | Không | Don't Wait for the Announcement — 12 Food Stockpile Items to Secure This Week |
+| 2026-04-28 | 202 | _uuFkkhH2U0 | 222 | 15 | 407 | 0.55 | 5 | 0.56 | binh_thuong | – | Không | The $300 Walmart Haul Preppers Won't Share On Social Media |
+| 2026-04-29 | 201 | z21U3ZjKHE8 | 555 | 15 | 313 | 1.77 | 5 | 0.72 | binh_thuong | – | Không | 11 Items Vanishing From Shelves That Quiet Preppers Already Stocked Months Ago |
+| 2026-04-30 | 200 | -0OkoDtTaUM | 226 | 15 | 313 | 0.72 | 5 | 0.74 | binh_thuong | – | Không | Nobody At Costco Will Tell You Why These 9 Items Keep Selling Out Before Opening |
+| 2026-05-01 | 199 | 0wUBE00x2Rk | 134 | 15 | 313 | 0.43 | 5 | 1.05 | binh_thuong | – | Không | 11 Items That Will Vanish Within 72 Hours Of Any Serious Disruption |
+| 2026-05-02 | 198 | sBYvRA3-K24 | 168 | 15 | 226 | 0.74 | 5 | 2.11 | binh_thuong | – | Không | The Shopping List They Laughed At Until It Suddenly Saved Everyone |
+| 2026-05-04 | 196 | 2kFb83F3JPU | 329 | 15 | 222 | 1.48 | 5 | 2.15 | binh_thuong | – | Không | 7 Grocery Store Sections That Quiet Preppers Raid Before Everyone Else Arrives |
+| 2026-05-05 | 195 | lEk3841kabs | 231 | 15 | 222 | 1.04 | 5 | 2.64 | binh_thuong | – | Không | The 90-Day Plan for Supply Chain Stability — What to Do Before the Market Reacts |
+| 2026-05-06 | 194 | JsNmOk-nI8E | 655 | 15 | 222 | 2.95 | 5 | 2.15 | hoi_cao | – | Không | 10 Essential Items Doubling in Shelf Scarcity Over 18 Months Without a Single Headline |
+| 2026-05-07 | 193 | Tjp0Ox6HZG4 | 477 | 15 | 222 | 2.15 | 5 | 0.59 | hoi_cao | – | Không | What's Changed in Private Prepper Groups in the Last 90 Days That Mainstream Media Hasn't Noticed |
+| 2026-05-08 | 192 | EYUb2JJBMZE | 586 | 15 | 226 | 2.59 | 5 | 0.46 | hoi_cao | – | Không | 13 Vital Items to Buy Before the Opportunity Vanishes Faster Than You Think |
+| 2026-05-09 | 191 | GHIpsYHVd_M | 83 | 15 | 226 | 0.37 | 5 | 0.58 | binh_thuong | – | Không | The Families Ready Last Time Made These Specific Decisions 60 Days Before Everyone Else |
+| 2026-05-11 | 189 | dtlXMOXFso4 | 1,130 | 15 | 226 | 5.00 | 5 | 0.46 | manh | – | Không | 12 Categories Of Supplies That Will Triple In Price The Moment A Crisis Hits Us |
+| 2026-05-12 | 188 | MkEwuX9Wb4Q | 132 | 15 | 231 | 0.57 | 5 | 0.42 | binh_thuong | – | Không | A Costco Membership Pays For Itself Once You Understand What These 9 Aisles Are For |
+| 2026-05-13 | 187 | DETAt8OHWi8 | 104 | 15 | 226 | 0.46 | 5 | 0.42 | binh_thuong | – | Không | 12 Critical Decisions That Cost Almost Nothing Now But Become Unaffordable Three Weeks Into A Crisis |
+| 2026-05-14 | 186 | _kCLlwmlMRE | 96 | 15 | 226 | 0.42 | 5 | 0.38 | binh_thuong | – | Không | 9 Essential Items Every Experienced Prepper Mentioned During My 6-Month Interview Process |
+| 2026-05-15 | 185 | iOtSrzHkaeQ | 173 | 15 | 226 | 0.77 | 5 | 0.34 | binh_thuong | – | Không | 9 Items That Vanished From Every Major Retailer Within Minutes — Not Days — During The Last Crisis |
+| 2026-05-18 | 182 | ZE6SSHSnET0 | 43 | 15 | 226 | 0.19 | 5 | 0.36 | binh_thuong | – | Không | The 10 Things Successful Preppers Had In Common During The Last Crisis |
+| 2026-05-19 | 181 | IrV00unVaIc | 85 | 15 | 173 | 0.49 | 5 | 0.47 | binh_thuong | – | Không | Essential Preparedness Items Recommended in Private Groups but Never Shared on YouTube |
+| 2026-05-20 | 180 | dWD4jb49fkA | 116 | 15 | 168 | 0.69 | 5 | 0.45 | binh_thuong | – | Không | 12 Items Expert Preppers Have Replaced in Their Stockpiles Because They Already Have Enough |
+| 2026-05-21 | 179 | tdpXbkVjlnk | 76 | 15 | 168 | 0.45 | 5 | 0.41 | binh_thuong | – | Không | 14 Essential Decisions You Must Make Before the Official Announcement Takes Place |
+| 2026-05-22 | 178 | Ipd7_9u-Hy8 | 69 | 15 | 132 | 0.52 | 5 | 0.61 | binh_thuong | – | Không | What a Former FEMA Official Stocks at Home That They Never Share Professionally |
+| 2026-05-23 | 177 | Jc5AOOpeo_4 | 81 | 15 | 116 | 0.70 | 5 | 0.73 | binh_thuong | – | Không | Survival Supplies Your Grandparents Stored Without Calling It Emergency Preparedness |
+| 2026-05-25 | 175 | hkmpYp-pELU | 85 | 15 | 104 | 0.82 | 5 | 1.39 | binh_thuong | – | Không | The 13 Items Essential For Real Readiness That Nobody Posts Online |
+| 2026-05-26 | 174 | H7qAWpGdvK0 | 50 | 15 | 96 | 0.52 | 4 | – | binh_thuong | – | Không | 13 Home Essentials Every Supply Chain Manager Stocks Regardless Of Their Day Job |
+| 2026-05-27 | 173 | ZwFAUqF9IU0 | 49 | 15 | 85 | 0.58 | 3 | – | binh_thuong | – | Không | The Moment Most Families Realize They Made The Wrong Purchases — And The 11 Correct Ones They Missed |
+| 2026-05-28 | 172 | yHb_nO800Dc | 145 | 15 | 85 | 1.71 | 2 | – | binh_thuong | – | Không | The Aisle Most Shoppers Ignore That Expert Preppers Always Check (13 Hidden Items!) |
+| 2026-05-29 | 171 | RItQa5GFDv4 | 155 | 15 | 85 | 1.82 | 1 | – | binh_thuong | – | Không | The Real Difference Between People Who Panicked In 2020 And Those Who Remained Calm |
+| 2026-05-30 | 170 | yGxlAqQjlO4 | 311 | 15 | 85 | 3.66 | 0 | – | dang_ghi | – | Không | 11 Cheap, Overlooked Products That Are Vital When Infrastructure Fails |

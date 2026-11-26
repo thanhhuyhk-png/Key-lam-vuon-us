@@ -1,0 +1,150 @@
+# Đo kênh: UCzsHYjHL1dZ4_3-DxgrOQOw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 621 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 263,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-07-16 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 22,096 |
+| cao_nhat | 201,779 |
+| thap_nhat | 5,146 |
+| phan_tan | 9.13 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.08 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 1.20 |
+| ngay_video_dau | 2024-10-07 |
+| tuoi_tu_video_dau | 770 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 342 |
+| sub_moi_video | 424 |
+| video_30_ngay | 24 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2024-10-07 | 770 | 4f5Q4M81As8 | 155,205 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Farmer Harvest 68,3 Million of Tons of Potatoes \| Farming Documentary |
+| 2024-10-08 | 769 | O2xJme1VzrI | 23,329 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Farmers Harvest 110 Billion Eggs On Modern Chicken Farms \| Farming Documentary |
+| 2024-10-09 | 768 | jQkqEyg8JcM | 8,527 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Famers Harvest 1.2 Million Tons of Giant Pumpkins \| Farming Documentary |
+| 2024-10-10 | 767 | uV2Bjwa3o-s | 6,159 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 12.4 Million Tons Of Tomatoes Harvested And Processed To Ketchup This Way \| Farming Documentary |
+| 2024-10-11 | 766 | bQspzMsndFg | 10,675 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Farmers Harvest 6.28 Million Tons of Grapes \| Farming Documentary |
+| 2024-10-12 | 765 | nCWhtDMs6MM | 6,514 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Biggest Bee Farms Raise Billions Bees To Harvest Royal Jelly  \| Farming Documentary |
+| 2024-10-13 | 764 | KJq--O_xb9g | 7,287 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Ranchers Raise 5.7 Millions Of Sheep \| Farming Documentary |
+| 2024-10-14 | 763 | XHiFhl3ZKHg | 5,325 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Farmers Harvest 737 Thounsand Tons Of Cucumbers \| Farming Documentary |
+| 2026-07-16 | 123 | rMogCz5N_-8 | 441,036 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Nigeria Leads Africa With 205 Million Tons of Crops Every Year – Nigeria Massive Modern Farming |
+| 2026-07-17 | 122 | sEAIsWGDRa0 | 12,291 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Inside Egypt’s Massive Harvest – 97 Million Tons of Food Harvested in World’s Largest Desert |
+| 2026-07-18 | 121 | mOYABRSRew8 | 13,254 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | China’s Agriculture Leads the World – How Farmers Harvest 41.3 Million Tons of Food in Peak Season |
+| 2026-07-19 | 120 | fWm3itw6F8A | 223,314 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How India Turns Millions Tons of Coconut Waste Into Massive Roads   Coconut Farming |
+| 2026-07-21 | 118 | KfCDsWQW1-I | 3,561 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How China Fights 660 Invasive Species to Producing Million Tons of Food |
+| 2026-07-22 | 117 | Y2PoqfgzyeM | 13,960 | 5 | 13,254 | 1.05 | 5 | 13.95 | binh_thuong | – | Không | Inside India’s Massive Recycling Industry – Turning 170,000 Tons of Waste into High Value Products |
+| 2026-07-23 | 116 | 2Qd3HIE0e78 | 187,058 | 6 | 13,607 | 13.75 | 5 | 1.26 | can_kiem_ky | – | Không | How Singapore Produces Thousands of Tons of Food on Tiny Farmland - Singapore’s Modern Agriculture |
+| 2026-07-24 | 115 | Sc1oK6oMfrQ | 4,378 | 7 | 13,960 | 0.31 | 5 | 1.22 | binh_thuong | – | Không | Tibetan Farming on Another Level – How Millions Tons of Food Are Produced On Roof of the World |
+| 2026-07-25 | 114 | 4oF4DhWvaVo | 299,601 | 8 | 13,607 | 22.02 | 5 | 1.26 | can_kiem_ky | – | Không | How Namibia Produces Millions Tons of Food in One of the World’s Harshest Deserts |
+| 2026-07-26 | 113 | Ox8dt3bwJ5o | 184,950 | 9 | 13,960 | 13.25 | 5 | 1.22 | can_kiem_ky | – | Không | How Saudi Arabia Built Massive Pipelines That Turned Desert Into Million Ton Farmlands |
+| 2026-07-28 | 111 | To0es0gFL38 | 17,083 | 10 | 99,455 | 0.17 | 5 | 0.14 | binh_thuong | – | Không | Inside Spain’s Massive Livestock Farms – How 7.6 Million Tons of Meat Are Produced Every Year |
+| 2026-07-30 | 109 | rSfVZPYKtrg | 13,816 | 11 | 17,083 | 0.81 | 5 | 1.25 | binh_thuong | – | Không | How Morocco Produces Millions of Tons of Crops on Arid Lands – Morocco’s Massive Modern Farming |
+| 2026-07-31 | 108 | 69OwospLtEE | 7,627 | 12 | 15,522 | 0.49 | 5 | 1.37 | binh_thuong | – | Không | Inside the World’s Strangest Farms – How Millions of Products Are Made in Impossible Ways |
+| 2026-08-01 | 107 | VjFMHzRrhzo | 154,191 | 13 | 13,960 | 11.05 | 5 | 0.79 | can_kiem_ky | – | Không | How Millions of Gold Leaf Sheets Are Made – Incredible Japanese Gold Leaf Manufacturing Process |
+| 2026-08-02 | 106 | a26w1zPEAF4 | 21,285 | 14 | 15,522 | 1.37 | 5 | 0.71 | binh_thuong | – | Không | How China Harvests Millions of Ice Blocks From Frozen Rivers to Build a $500 Million Ice City |
+| 2026-08-04 | 104 | jInRnacBd9c | 5,049 | 15 | 17,083 | 0.30 | 5 | 3.88 | binh_thuong | – | Không | Inside South Africa’s Massive Waste Recycling Industry – How Poor Communities Turn Trash Into Money |
+| 2026-08-05 | 103 | NMudeqQozYo | 66,292 | 15 | 13,960 | 4.75 | 5 | 4.90 | dang_ghi | – | Không | How Burkina Faso Turned Barren African Land Into Farms Producing Millions of Tons of Food |
+| 2026-08-06 | 102 | IH7FDcET2eE | 11,041 | 15 | 17,083 | 0.65 | 5 | 4.00 | binh_thuong | – | Không | How Millions Tons of Pineapple Waste Are Recycled into High-Value Products Every Year |
+| 2026-08-07 | 101 | f0n02qYEg6k | 3,921 | 15 | 17,083 | 0.23 | 5 | 4.00 | binh_thuong | – | Không | How Japan Makes the World’s Finest Washi Paper – Traditional Japanese Paper Manufacturing Process |
+| 2026-08-08 | 100 | wJwgk3aP9oE | 126,918 | 15 | 13,960 | 9.09 | 5 | 2.48 | manh | – | Không | Canadian Farming on Another Level – Millions of Tons Produced in One of the Coldest Countries |
+| 2026-08-09 | 99 | Hd4kbqrWNTg | 74,640 | 15 | 17,083 | 4.37 | 5 | 0.75 | dang_ghi | – | Không | How Germany's Massive Cloudfisher System Harvested 90 Million Liters of Water from Desert Fog |
+| 2026-08-12 | 96 | HcVSP-9uUuU | 68,392 | 15 | 21,285 | 3.21 | 5 | 0.60 | dang_ghi | – | Không | How Arizona Turned Barren Desert Land Into Massive Farms Producing Millions Tons of Food |
+| 2026-08-13 | 95 | T3kdHluj6nE | 12,818 | 15 | 21,285 | 0.60 | 5 | 0.56 | binh_thuong | – | Không | Inside Turkey’s Massive Farms – How Millions of Tons of Food Are Produced Across Arid Lands |
+| 2026-08-14 | 94 | vupKCdsX0Nw | 7,984 | 15 | 21,285 | 0.38 | 5 | 0.71 | binh_thuong | – | Không | How Toxic Green Mussels Feed Millions of Indonesians – Inside Indonesia’s Massive Mussel Farms |
+| 2026-08-15 | 93 | BwgVTzsKx80 | 34,652 | 15 | 17,083 | 2.03 | 5 | 0.89 | hoi_cao | – | Không | How China Recycles Millions Tons of Straw Waste Into High Value Products |
+| 2026-08-17 | 91 | kqsY_vnKaoI | 9,177 | 15 | 17,083 | 0.54 | 5 | 0.93 | binh_thuong | – | Không | How Australia Built a Massive Great Fence to Stop Millions of Invasive Animals |
+| 2026-08-19 | 89 | ltCV_r3aDZw | 15,205 | 15 | 13,816 | 1.10 | 5 | 1.15 | binh_thuong | – | Không | Inside the World’s Largest Sulfur Mines – How Millions Tons of Toxic Sulfur Are Processed |
+| 2026-08-20 | 88 | s_m53Q_0Q9s | 11,985 | 15 | 15,205 | 0.79 | 5 | 1.05 | binh_thuong | – | Không | World’s Biggest Commercial Fishing Operations – How 90 Million Tons of Seafood Are Harvested Every Y |
+| 2026-08-21 | 87 | kl6Qd_KUwck | 63,262 | 15 | 15,205 | 4.16 | 5 | 1.05 | dang_ghi | – | Không | How New Zealand Turned Isolated Land into Massive Farms Producing Millions Tons of Food Every Year |
+| 2026-08-22 | 86 | BvWLYlgeqwQ | 15,891 | 15 | 15,205 | 1.05 | 5 | 0.97 | binh_thuong | – | Không | How Greece Produces Millions Tons of Food on Rocky Land – Inside Greece’s Massive Farms |
+| 2026-08-23 | 85 | yXNZHwABlBc | 140,043 | 15 | 15,205 | 9.21 | 5 | 0.97 | manh | – | Không | Inside the World's Most Dangerous Industry Recycling Thousands of Giant Ships |
+| 2026-08-26 | 82 | RQYsMM6A4GE | 9,387 | 15 | 15,891 | 0.59 | 5 | 0.92 | binh_thuong | – | Không | Solar Farming on Another Level – Millions Tons of Food and Electricity Are Produced on the Same Land |
+| 2026-08-27 | 81 | 9Q-jyuE54uk | 14,689 | 15 | 15,205 | 0.97 | 5 | 0.86 | binh_thuong | – | Không | Inside Massive Tire Recycling Factories – How Millions of Waste Tires Are Turned Into Modern Roads |
+| 2026-08-28 | 80 | HzUWgD7-Z1I | 19,848 | 15 | 15,205 | 1.31 | 5 | 0.86 | binh_thuong | – | Không | How Bangladesh Built Massive Farms on Flooded Lands – Inside Its $50 Billion Agriculture Industry |
+| 2026-08-29 | 79 | N7FIBgXRI6I | 13,003 | 15 | 15,891 | 0.82 | 5 | 1.57 | binh_thuong | – | Không | Inside the World’s Most Advanced Combine Harvesters – How Thousands of Tons of Grain Are Harvested E |
+| 2026-08-30 | 78 | kP0_fTqjvqw | 49,806 | 15 | 15,205 | 3.28 | 5 | 1.64 | dang_ghi | – | Không | How China Raises & Processes Millions of Pigeons for Meat – Inside Massive Pigeon Farms |
+| 2026-08-31 | 77 | u3i-TYJ_fU4 | 9,716 | 15 | 15,205 | 0.64 | 5 | 1.64 | binh_thuong | – | Không | Inside Indonesia’s 45,000 Forgotten Oil Wells – How Crude Oil Sustains Thousands of Poor Families |
+| 2026-09-01 | 76 | PNxWlvXorA8 | 4,724 | 15 | 14,689 | 0.32 | 5 | 2.36 | binh_thuong | – | Không | How Natural Ingredients Are Turned Into Luxury Cosmetics – Inside the $50 Billion Natural Cosmetics |
+| 2026-09-02 | 75 | gWe66jd5zmA | 34,599 | 15 | 14,689 | 2.36 | 5 | 1.70 | hoi_cao | – | Không | How Libya Turned the Sahara Desert Into Massive Farms Producing Millions Tons of Food Every Year |
+| 2026-09-03 | 74 | Vkfa8ks67yU | 24,903 | 15 | 15,205 | 1.64 | 5 | 6.34 | binh_thuong | – | Không | How Hawaii Produces Millions Tons of Food on Volcanic Islands – Inside America’s Most Remote Farms |
+| 2026-09-04 | 73 | dEOnIKrlb_8 | 239,595 | 15 | 15,205 | 15.76 | 5 | 4.71 | can_kiem_ky | – | Không | How America Recycles 94 Million Tons of Waste – Inside the World’s Biggest Recycling Industry |
+| 2026-09-05 | 72 | Sr3IQ29YfIk | 9,905 | 15 | 15,891 | 0.62 | 5 | 5.78 | binh_thuong | – | Không | How the World’s Most Polluted Oceans Are Cleaned – Fighting 2 5 Billion Tons of Ocean Waste |
+| 2026-09-06 | 71 | EFcN04pZIe8 | 96,423 | 15 | 15,891 | 6.07 | 5 | 4.50 | manh | – | Không | How Nepal Farms the World's Highest Himalayas to Produce Millions Tons of Food |
+| 2026-09-08 | 69 | EjZa-D3TgeQ | 14,170 | 15 | 19,848 | 0.71 | 5 | 3.61 | binh_thuong | – | Không | Portuguese Farming on Another Level – How Millions Tons of Food Are Produced Despite Drought |
+| 2026-09-09 | 68 | Kpd4DsK8gwk | 125,371 | 15 | 15,891 | 7.89 | 5 | 1.62 | manh | – | Không | How China Turned the Barren Gobi Desert into Massive Farms Producing Millions Tons of Food |
+| 2026-09-11 | 66 | aJzZXvldsqI | 71,575 | 15 | 19,848 | 3.61 | 5 | 1.06 | dang_ghi | – | Không | Inside Australia’s Massive Seafood Industry – How Millions Tons of Premium Seafood Are Processed |
+| 2026-09-12 | 65 | Wy9rZNA4SQE | 91,840 | 15 | 19,848 | 4.63 | 5 | 0.54 | dang_ghi | – | Không | How Millions of Premium iPhone 18 Pro Max Are Made – Inside Apple’s Massive Factory |
+| 2026-09-13 | 64 | SubE_kDrdVg | 25,673 | 15 | 24,903 | 1.03 | 5 | 0.43 | binh_thuong | – | Không | Inside the World’s Largest Himalayan Pink Salt Processing – How Premium Pink Salt Is Made |
+| 2026-09-15 | 62 | 8gEA4v1pwdw | 9,083 | 15 | 25,673 | 0.35 | 5 | 0.82 | binh_thuong | – | Không | How Japan Produces the World’s Most Expensive Crops – Inside Its $60 Billion Agriculture Industry |
+| 2026-09-16 | 61 | aWRCRgXHPJ4 | 20,984 | 15 | 25,673 | 0.82 | 5 | 0.64 | binh_thuong | – | Không | Inside China’s Massive MSG Factories – How Millions Tons of Monosodium Glutamate Are Made |
+| 2026-09-17 | 60 | 9JgHNhtnhds | 10,772 | 15 | 25,673 | 0.42 | 5 | 3.45 | binh_thuong | – | Không | How Australia Transports 600 Million Animals Across Harsh Lands – Incredible Transport Technology |
+| 2026-09-18 | 59 | t2ZJUtp-wQU | 7,352 | 15 | 24,903 | 0.30 | 5 | 3.56 | binh_thuong | – | Không | How India Turns Millions Tons of Plastic Waste into Fabric – Massive Textile Industry Secrets |
+| 2026-09-19 | 58 | JmEksE9cM6Q | 93,901 | 15 | 24,903 | 3.77 | 5 | 3.56 | dang_ghi | – | Không | How Finland Produces Millions of Tons of Food in Extreme Cold – Incredible Farming Technology |
+| 2026-09-22 | 55 | aYzgLRnqRIE | 88,600 | 15 | 25,673 | 3.45 | 5 | 0.64 | dang_ghi | – | Không | How Uzbekistan Turned Barren Deserts into Billion Dollar Farms – Incredible Farming Secrets |
+| 2026-09-23 | 54 | i7PzblCJ114 | 16,432 | 15 | 25,673 | 0.64 | 5 | 0.37 | binh_thuong | – | Không | Inside America’s Massive Bologna Factories – From Pig Farms to Millions of Packaged Sausages |
+| 2026-09-24 | 53 | eqaBQgK7L14 | 126,178 | 15 | 25,673 | 4.91 | 5 | 0.37 | dang_ghi | – | Không | Germany’s Incredible Recycling System – Millions Tons of Waste Are Turned Into Valuable Products |
+| 2026-09-25 | 52 | YPbcRdqWIZA | 9,584 | 15 | 25,673 | 0.37 | 5 | 0.54 | binh_thuong | – | Không | Inside China’s Massive Mooncake Factories – How Millions Are Made for Mid Autumn Festival |
+| 2026-09-27 | 50 | OhEmFTWdWxk | 201,779 | 15 | 25,673 | 7.86 | 5 | 0.54 | manh | – | Không | How America Turned Nevada’s Desert Into a $1.3B Agriculture Industry |
+| 2026-09-28 | 49 | HiB6a8QIhio | 8,751 | 15 | 25,673 | 0.34 | 5 | 0.93 | binh_thuong | – | Không | Why Ivory Coast Produces 40% of the World’s Cocoa but Its Farmers Stay Poor |
+| 2026-09-29 | 48 | IZUKUMqjGxc | 6,325 | 15 | 25,673 | 0.25 | 5 | 0.93 | binh_thuong | – | Không | Inside Indonesia’s Poisoned Tofu Factories – The Secret Behind Millions of Toxic Tofu Blocks |
+| 2026-09-30 | 47 | vfiFd3su6L0 | 23,837 | 15 | 20,984 | 1.14 | 5 | 1.09 | binh_thuong | – | Không | How Australia Releases Millions of Fish to Turn Saltwater Areas Into Massive Farms |
+| 2026-10-01 | 46 | wmn-NSQ-0Gg | 13,893 | 15 | 20,984 | 0.66 | 5 | 1.09 | binh_thuong | – | Không | Africa’s $23 5M Insect Machine – Turning Trash Into Protein & Feed |
+| 2026-10-02 | 45 | _M6eNYxZWGI | 46,935 | 15 | 16,432 | 2.86 | 5 | 1.38 | hoi_cao | – | Không | How American Farmers Stop Millions of Wild Animals From Destroying Their Farms |
+| 2026-10-03 | 44 | P9HCfBxnmkQ | 56,855 | 15 | 16,432 | 3.46 | 5 | 0.68 | dang_ghi | – | Không | How Massive Factories Turn Millions Tons of Wood Waste Into Furniture and Energy |
+| 2026-10-04 | 43 | sWfD_-C9qwY | 22,858 | 15 | 20,984 | 1.09 | 5 | 0.53 | binh_thuong | – | Không | The Secrets Inside Poland's Massive Farms Producing Millions of Tons of Food for Europe |
+| 2026-10-06 | 41 | 18V0OE2aY04 | 5,146 | 15 | 22,858 | 0.23 | 5 | 0.99 | binh_thuong | – | Không | Inside Nepal’s Dangerous Mad Honey Harvest — How Millions Tons of Rare Honey Are Collected |
+| 2026-10-07 | 40 | l-n5lk1VG8o | 22,725 | 15 | 22,858 | 0.99 | 5 | 1.89 | binh_thuong | – | Không | How Israel Pumps Millions of Cubic Meters of Seawater to Turn Barren Desert Into Massive Farms |
+| 2026-10-08 | 39 | lpQp013DC2o | 7,859 | 15 | 22,858 | 0.34 | 5 | 1.89 | binh_thuong | – | Không | Inside Australia’s War on Feral Cats — How Millions Are Controlled in Ways No One Expected |
+| 2026-10-09 | 38 | TXTtlK7FkFY | 11,140 | 15 | 22,725 | 0.49 | 5 | 1.90 | binh_thuong | – | Không | How Millions Tons of Waste Paper Are Turned Into Toilet Paper — Incredible Recycling System |
+| 2026-10-10 | 37 | nAghxaY2ojM | 60,914 | 15 | 16,432 | 3.71 | 5 | 1.31 | dang_ghi | – | Không | Vietnam's Farming Secrets — From Food Shortages to Producing Millions Tons of Food |
+| 2026-10-11 | 36 | NIfGy1e8uks | 43,190 | 15 | 22,725 | 1.90 | 5 | 0.94 | binh_thuong | – | Không | How Tiny New Zealand Built a Livestock Empire — Inside Its Massive Modern Farms |
+| 2026-10-13 | 34 | hWSWFZE8pmQ | 135,203 | 15 | 22,725 | 5.95 | 5 | 0.68 | manh | – | Không | How China’s High Tech Mega Farms Are Taking Over the Global Food Industry |
+| 2026-10-14 | 33 | -LinPn_j-KA | 13,584 | 15 | 22,858 | 0.59 | 5 | 0.94 | binh_thuong | – | Không | 15+ Modern Machines in Satisfying Action — How Machines Are Changing the World |
+| 2026-10-15 | 32 | _CvYMktrrJQ | 15,560 | 15 | 22,725 | 0.68 | 5 | 0.96 | binh_thuong | – | Không | How Japan Manufactures Trillions of Yen — Inside Japan’s Modern Money Factory |
+| 2026-10-16 | 31 | Hys5NqQqzHA | 21,467 | 15 | 22,725 | 0.94 | 5 | 0.96 | binh_thuong | – | Không | How Australia Built a Multi Billion Dollar Beef Empire in the Harsh Outback |
+| 2026-10-17 | 30 | Vgt4FqQB99E | 122,241 | 15 | 22,725 | 5.38 | 5 | 0.76 | manh | – | Không | How Corn Powers Texas’ Massive Cattle Industry – From Golden Fields to Premium Marbled Beef |
+| 2026-10-18 | 29 | ingIzQDwy78 | 8,666 | 15 | 22,725 | 0.38 | 5 | 0.76 | chua_chin | – | Không | Inside Atacama’s Desert Farming: What Really Happens in the World’s Driest Desert? |
+| 2026-10-20 | 27 | s2iYdPmTcw0 | 41,640 | 15 | 22,725 | 1.83 | 5 | 0.76 | chua_chin | – | Không | How America Turns Millions Tons of Manure Into Farm Fertilizer – Inside Massive Waste Recycling |
+| 2026-10-21 | 26 | AdOXucJfqMc | 21,868 | 15 | 22,725 | 0.96 | 5 | 0.76 | chua_chin | – | Không | How Israel Raises Millions of Fish in the Barren Negev Desert – Inside High Tech Fish Farms |
+| 2026-10-22 | 25 | 8ur8tKcKnbE | 17,324 | 15 | 21,868 | 0.79 | 5 | 0.53 | chua_chin | – | Không | Inside Japan’s High-Tech Agriculture – How Modern Technology Produces Millions of Tons of Food |
+| 2026-10-23 | 24 | 1OvoK6sYcS8 | 11,579 | 15 | 21,467 | 0.54 | 5 | 0.50 | chua_chin | – | Không | America’s Recycling Revolution – What Happens to Millions Tons of Farm Waste Left Behind |
+| 2026-10-24 | 23 | JbOfQy1RgvI | 8,767 | 15 | 21,467 | 0.41 | 5 | 0.76 | chua_chin | – | Không | The Surprising Value of India’s Massive Coconut Industry   Secrets of Circular Agriculture |
+| 2026-10-25 | 22 | 18YKteTtBLM | 24,463 | 15 | 17,324 | 1.41 | 5 | 0.63 | chua_chin | – | Không | Inside America’s Massive Peanut Industry – From Giant Farms to Peanut Butter, Oil & Meal |
+| 2026-10-27 | 20 | 89lXcEgecdg | 23,579 | 15 | 21,467 | 1.10 | 5 | 0.50 | chua_chin | – | Không | 10+ Incredible Machines Powering the Global Food Industry – How Food Is Made on a Massive Scale |
+| 2026-10-28 | 19 | 7sXpXd4slUk | 10,840 | 15 | 21,868 | 0.50 | 5 | 0.54 | chua_chin | – | Không | North Korea’s Farming Secrets What Happens Inside the World's Most Closed Off Country |
+| 2026-10-29 | 18 | eqimajeb-2s | 4,790 | 15 | 21,467 | 0.22 | 5 | 0.55 | chua_chin | – | Không | How Smart Farming Is Adapting to Climate Change to Produce Millions Tons of Clean Food |
+| 2026-10-30 | 17 | 0b9URnpF4xE | 16,347 | 15 | 17,324 | 0.94 | 5 | 0.57 | chua_chin | – | Không | America Is Turning Thousands of Acres of Farmland Into a Giant Reservoir to Save the Everglades |
+| 2026-10-31 | 16 | EJoJxc2Oqfs | 9,919 | 15 | 16,347 | 0.61 | 5 | 0.72 | chua_chin | – | Không | How America Turns Giant Mountains Into a $27B Stone Industry — Building Stone, Gems & Farm Limestone |
+| 2026-11-01 | 15 | -cybqvhZWCU | 101,143 | 15 | 16,347 | 6.19 | 5 | 0.49 | chua_chin | – | Không | How Vietnam Became an Agricultural Powerhouse With Some of the World’s Most Unusual Farms |
+| 2026-11-03 | 13 | 2sBB5eUureA | 11,827 | 15 | 17,324 | 0.68 | 5 | 0.46 | chua_chin | – | Không | China’s Desert Farming Miracle – Inside Xinjiang’s $80B Agricultural Empire Amazing the World |
+| 2026-11-04 | 12 | 9zpbMfOarik | 6,493 | 15 | 16,347 | 0.40 | 5 | 0.49 | chua_chin | – | Không | America Builds Giant Wind Turbines on Farmland – Amazing Process from Construction to Recycling |
+| 2026-11-05 | 11 | A0Suj3o-OvI | 8,016 | 15 | 11,827 | 0.68 | 5 | 1.56 | chua_chin | – | Không | 10+ Incredible Harvesting Machines Bringing in Massive Yields for the 2026 Fall Harvest |
+| 2026-11-06 | 10 | 32k7rDq-KJc | 18,408 | 15 | 11,827 | 1.56 | 5 | 0.58 | chua_chin | – | Không | What’s Happening at America’s Largest Turkey Farms Before Thanksgiving 2026 |
+| 2026-11-07 | 9 | E2wS84dMbY8 | 2,681 | 15 | 11,827 | 0.23 | 5 | 0.58 | chua_chin | – | Không | Amazon Is Using Millions of Advanced Robots to Transform the Future of Global Logistics |
+| 2026-11-08 | 8 | cCWAPuLX7qc | 20,087 | 15 | 11,579 | 1.73 | 5 | 0.37 | chua_chin | – | Không | Inside Norway’s Coldest Farms – How Millions of Tons of Food Are Amazingly Harvested and Processed |
+| 2026-11-10 | 6 | 1DGiluMN2io | 6,813 | 15 | 11,579 | 0.59 | 4 | – | chua_chin | – | Không | Why America Floods Massive Cranberry Fields Before Thanksgiving 2026 |
+| 2026-11-11 | 5 | kkHDPBf7DtU | 19,461 | 15 | 10,840 | 1.80 | 3 | – | chua_chin | – | Không | 51+ Most Amazing Mega Catches of 2026 – How Fishermen Catch Millions Tons of Seafood |
+| 2026-11-13 | 3 | yQm5IeIhcpc | 4,275 | 15 | 11,827 | 0.36 | 2 | – | chua_chin | – | Không | America’s Dairy Industry Is Not What You Think – Secrets Behind Millions of Milk Bottles Made Daily |
+| 2026-11-14 | 2 | jLMZ5haMFMM | 2,835 | 15 | 10,840 | 0.26 | 1 | – | chua_chin | – | Không | How Green Fertilizer Could Save Billions as the US–Iran War Disrupts Global Farming |
+| 2026-11-15 | 1 | vo7pQ7iKdYs | 1,421 | 15 | 9,919 | 0.14 | 0 | – | chua_chin | – | Không | How China Built 4 Agricultural Powerhouses to Feed 1.4 Billion People – Modern Farming Technology |

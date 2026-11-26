@@ -1,0 +1,59 @@
+# Đo kênh: UCqQCpdw-FkQ4uYBcUYku_JA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 17 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 17 |
+| n_trong_danh_sach | 17 |
+| n_dai | 17 |
+| n_short | 0 |
+| n_dai_dung_tinh | 17 |
+| nguong_tuoi_video | 30 |
+| subs | 144 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-04 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 316 |
+| cao_nhat | 4,082 |
+| thap_nhat | 108 |
+| phan_tan | 12.92 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.24 |
+| trung_vi_chia_sub | 2.19 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.32 |
+| ngay_video_dau | 2026-08-04 |
+| tuoi_tu_video_dau | 104 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 1.38 |
+| sub_moi_video | 8.47 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-04 | 104 | 8wToBadKjT4 | 122 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 15 Old American Cooking Tricks Grandma Never Wrote Down |
+| 2026-08-05 | 103 | iRpD29oDcpI | 1,026 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How America Made Coffee for 100 Years (Cowboy Coffee) |
+| 2026-08-07 | 101 | t722CcTVVYs | 111 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | I Made Ice Cream From the 1800s and It's Incredible! (No Electricity) |
+| 2026-08-09 | 99 | jV10bm3aA9Q | 4,082 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | I'm Not Buying Donuts Anymore — This Old AMISH Recipe Beats Any Donut Shop |
+| 2026-08-11 | 97 | PkCzL2PCRJ4 | 220 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The ORIGINAL 1967 Big Mac \| Old School Homemade Big Mac Recipe |
+| 2026-08-13 | 95 | -avMDaqs3Ag | 242 | 5 | 220 | 1.10 | 5 | 2.36 | binh_thuong | – | Không | The American Working Man's Breakfast from 1800 |
+| 2026-08-15 | 93 | Vu0Qv71WK40 | 3,097 | 6 | 231 | 13.41 | 5 | 1.37 | can_kiem_ky | – | Không | 15 One Pot Meals That Fed America in the 1950s (And Then Vanished) |
+| 2026-08-17 | 91 | boHTtEQSk6o | 597 | 7 | 242 | 2.47 | 5 | 1.31 | hoi_cao | – | Không | America's Forgotten Bread: A Simple 300 Year Old Recipe |
+| 2026-08-20 | 88 | P3K06alCEhc | 304 | 8 | 420 | 0.72 | 5 | 0.75 | binh_thuong | – | Không | Why The Chocolate Bar Ration of WW2 Was Designed to Taste Bad |
+| 2026-08-22 | 86 | E6_fehlvUPA | 108 | 9 | 304 | 0.36 | 5 | 1.07 | binh_thuong | – | Không | 15 Historical Fried Chicken Recipes That Are Too Good to Forget |
+| 2026-08-24 | 84 | r607UUMWlgY | 519 | 10 | 273 | 1.90 | 5 | 1.19 | binh_thuong | – | Không | 20 Cheap Meals American Grandparents Ate To Survive |
+| 2026-08-26 | 82 | __1I_r9pFeM | 316 | 11 | 304 | 1.04 | 5 | 1.07 | binh_thuong | – | Không | 25 Lost American Farmhouse Recipes Your Grandparents Knew |
+| 2026-08-28 | 80 | NE3YC6dS4AA | 605 | 12 | 310 | 1.95 | 4 | – | binh_thuong | – | Không | STOP Boiling Your Eggs in Water! Try These 15 Old School Farm Recipes Instead |
+| 2026-08-30 | 78 | -gtdPjnpIrk | 257 | 13 | 316 | 0.81 | 3 | – | binh_thuong | – | Không | 2 Ingredient Biscuit Recipe! Whipping Cream Biscuits (Very Easy) |
+| 2026-09-01 | 76 | 3-8OKre2egs | 324 | 14 | 310 | 1.05 | 2 | – | binh_thuong | – | Không | 15 Recipes That Fed American Soldiers in WWII (From the US Army's Cookbook) |
+| 2026-09-04 | 73 | rJUV3ivS9KI | 3,020 | 15 | 316 | 9.56 | 1 | – | manh | – | Không | NEVER Boil Cabbage Again - Try This Old Farm Trick Instead |
+| 2026-09-06 | 71 | T9wW9ezWflE | 150 | 15 | 324 | 0.46 | 0 | – | binh_thuong | – | Không | How to Make Hamburger Casserole - A 235 Year Old Recipe |

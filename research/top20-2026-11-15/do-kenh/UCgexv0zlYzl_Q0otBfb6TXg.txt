@@ -1,0 +1,150 @@
+# Đo kênh: UCgexv0zlYzl_Q0otBfb6TXg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 125 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 267 |
+| n_trong_danh_sach | 118 |
+| n_dai | 108 |
+| n_short | 10 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 96,700 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-06-05 |
+| n_ngoai_cua_so | 7 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 35,664 |
+| cao_nhat | 678,870 |
+| thap_nhat | 2,521 |
+| phan_tan | 19.03 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.37 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 5.52 |
+| ngay_video_dau | 2023-11-04 |
+| tuoi_tu_video_dau | 1,108 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 87.27 |
+| sub_moi_video | 362 |
+| video_30_ngay | 4 |
+| ty_trong_view_short | 0.01 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** NHIEU_VIDEO_CUNG_NGAY, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-06-05 | 529 | HretWBnlvaI | 56,324 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Start Prepping Before It's Too Late: Lessons Learned |
+| 2025-06-12 | 522 | 4sABb_AdAMo | 3,983 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Good Emergency Survival Kit? Or Box of Junk? |
+| 2025-06-21 | 513 | luc_yWZ8goc | 61,374 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 30 LOW COST Survival Items Every Prepper Should STOCKPILE \| Multi-Use |
+| 2025-06-27 | 507 | ucYgXCfI_Qw | 9,691 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 6 Types of Survival Caches: Building, Filling, and Burying |
+| 2025-07-05 | 499 | kcUd9YaDFE4 | 67,302 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Jackery Solar Generator 1000 v2 and SolarSaga 200W Review & Testing |
+| 2025-07-09 | 495 | uhPBB6FXHyM | 11,529 | 5 | 56,324 | 0.20 | 5 | 0.16 | binh_thuong | – | Không | Critical Mistakes That Kill Your Survival Chances \| Emergency Preparedness |
+| 2025-07-12 | 492 | Nlz4t69wQMo | 58,753 | 6 | 33,926 | 1.73 | 5 | 0.26 | binh_thuong | – | Không | The BEST & WORST Harbor Freight Gear for Emergencies! |
+| 2025-07-18 | 486 | tRPbP4p7_Vs | 8,829 | 7 | 56,324 | 0.16 | 5 | 0.37 | binh_thuong | – | Không | Power Outage Preparedness \| Don't Get Left in the Dark |
+| 2025-07-23 | 481 | o_m80twbH60 | 5,174 | 8 | 33,926 | 0.15 | 5 | 1.00 | binh_thuong | – | Không | I've WASTING Thousands on These Food Storage MISTAKES! |
+| 2025-08-02 | 471 | MaicS3_h3FU | 20,929 | 9 | 11,529 | 1.82 | 5 | 2.95 | binh_thuong | – | Không | The First Targets in Any Crisis (And How to Protect Them) |
+| 2025-08-14 | 459 | ETclZg93Wgg | 7,399 | 10 | 16,229 | 0.46 | 5 | 2.10 | binh_thuong | – | Không | What Happens When the Power Goes OUT FOR DAYS? The Ecoflow Delta Pro 3 |
+| 2025-08-20 | 453 | Fq1tHdp9D5o | 38,053 | 11 | 11,529 | 3.30 | 5 | 0.52 | dang_ghi | – | Không | Grid Down Survival: How Long Would Your Power Really Last? |
+| 2025-08-24 | 449 | LmN82JXYGFc | 34,016 | 12 | 16,229 | 2.10 | 5 | 0.28 | hoi_cao | – | Không | The Essential Prep You Can’t Ignore! Power Outage Preparedness |
+| 2025-08-27 | 446 | PIErBQLzhcU | 41,035 | 13 | 20,929 | 1.96 | 5 | 0.01 | binh_thuong | – | Không | I Tested 6 Emergency Candles: The Best & Worst Revealed! |
+| 2025-08-30 | 443 | Qr23Wf1s-rA | 4,616 | 14 | 27,472 | 0.17 | 5 | 0.01 | binh_thuong | – | Không | A.I. & Why Prepping Isn’t Just for Survivalists Anymore |
+| 2025-09-02 | 440 | N7SZ9mjZsi0 | 5,957 | 15 | 20,929 | 0.28 | 5 | 0.01 | binh_thuong | – | Không | No Basement? No Problem. Small Space Prepping EXPOSED |
+| 2025-09-07 | 435 | 8CkSymEd2gk | 179 | 15 | 11,529 | 0.02 | 5 | 0.02 | binh_thuong | – | Không | SPP373: Civil War 2.0 & Multi-Purpose Prepping Supplies |
+| 2025-09-07 | 435 | 2lXmaAdhFcU | 247 | 15 | 11,529 | 0.02 | 5 | 0.01 | binh_thuong | – | Không | SPP374: Bug Out Bags & Prepping Rules With Local Prepper |
+| 2025-09-07 | 435 | OYTnc5jSQSw | 227 | 15 | 9,691 | 0.02 | 5 | 0.01 | binh_thuong | – | Không | SPP375: Higher Level Prepping Mistakes & Complacency |
+| 2025-09-07 | 435 | PlROnBhx4VU | 126 | 15 | 8,829 | 0.01 | 5 | 0.02 | binh_thuong | – | Không | SPP376: SHTF Cooking Options & Disaster Destinations |
+| 2025-09-07 | 435 | ibZJ6v2iNtA | 358 | 15 | 7,399 | 0.05 | 5 | 0.02 | binh_thuong | – | Không | TSP377: MAG Groups & Off Grid Living With All American Prepper |
+| 2025-09-07 | 435 | Wdnwn5O-phw | 27 | 15 | 5,957 | 0.00 | 5 | 0.04 | binh_thuong | – | Không | SPP378: The Golden Hoard, Community, & Food Security |
+| 2025-09-07 | 435 | nmrkokqoYbQ | 22 | 15 | 5,174 | 0.00 | 5 | 0.66 | binh_thuong | – | Không | SPP379: Basic First Aid, Wound Care & Tin Foil Hat Time |
+| 2025-09-07 | 435 | 7PxEF8pHkNA | 142 | 15 | 4,616 | 0.03 | 5 | 0.79 | binh_thuong | – | Không | SPP380 The Globalist Dystopian Nightmare |
+| 2025-09-07 | 435 | W4DhXprN5y8 | 221 | 15 | 358 | 0.62 | 5 | 10.19 | binh_thuong | – | Không | SPP412 The Past & Future Of Prepping & A.I. |
+| 2025-09-09 | 433 | ht0He70rAsc | 56,750 | 15 | 247 | 230 | 5 | 14.77 | can_kiem_ky | – | Không | Best Emergency Food Ration Bar? There's One Clear Winner! |
+| 2025-09-10 | 432 | D8oA0XUoQOs | 3,648 | 15 | 247 | 14.77 | 5 | 15.75 | can_kiem_ky | – | Không | The Real Reasons People Prepare - Beyond the Prepper Stereotype |
+| 2025-09-15 | 427 | Eib-hcpw520 | 3,397 | 15 | 247 | 13.75 | 5 | 28.90 | can_kiem_ky | – | Không | What’s Inside This Survival First Aid Kit?  You’ll Be Surprised! |
+| 2025-09-20 | 422 | --GfqEZs4A4 | 3,628 | 15 | 247 | 14.69 | 5 | 62.06 | can_kiem_ky | – | Không | The Dabbsson 2000L - Most Efficient Power Station? |
+| 2025-09-22 | 420 | TdhubckBBaA | 7,139 | 15 | 247 | 28.90 | 5 | 78.33 | can_kiem_ky | – | Không | Following the Prepper Blueprint & Canned Food |
+| 2025-09-27 | 415 | SzU1oVqjZBc | 28,155 | 15 | 247 | 114 | 5 | 78.33 | can_kiem_ky | – | Không | 25 Things Every Car Needs For Safety & Survival |
+| 2025-10-07 | 405 | H_wwgVN9Nl4 | 3,891 | 15 | 247 | 15.75 | 5 | 86.47 | can_kiem_ky | – | Không | Are You Ready for a Power Outage Emergency? The OptiSolex Portable 440W SolarBag |
+| 2025-10-11 | 401 | OgNy2W11oeE | 15,329 | 15 | 358 | 42.82 | 5 | 59.66 | can_kiem_ky | – | Không | How to Make a DIY Solar Oven \| SUPER HOT! Sunoven Copycat |
+| 2025-10-15 | 397 | nmwrUvgZHso | 21,359 | 15 | 3,397 | 6.29 | 5 | 5.70 | manh | – | Không | Must Have SURVIVAL COOKING Supplies For Any Disaster |
+| 2025-10-18 | 394 | 3a6WgD31hRk | 19,348 | 15 | 3,628 | 5.33 | 5 | 2.20 | manh | – | Không | Power Station vs DIY Battery Bank: The REAL Cost Breakdown |
+| 2025-10-23 | 389 | I4zfPqO28Ck | 35,526 | 15 | 3,648 | 9.74 | 5 | 2.19 | manh | – | Không | These 15 Powdered Foods LAST FOREVER – Stock Up NOW! |
+| 2025-10-30 | 382 | sIOzhHiOK_I | 109,656 | 15 | 3,891 | 28.18 | 5 | 2.05 | can_kiem_ky | – | Không | 20 Foods to Stockpile That Never Expire \| 30 Year+ |
+| 2025-11-08 | 373 | 5GKVNpxgkGQ | 7,977 | 15 | 7,139 | 1.12 | 5 | 1.70 | binh_thuong | – | Không | 25 Items Preppers Buy in Bulk - You Should Too! |
+| 2025-11-19 | 362 | L-7I4-m7ro8 | 3,406 | 15 | 7,977 | 0.43 | 5 | 1.52 | binh_thuong | – | Không | This Tiny Solar Brick is a Game Changer - OptiSolex S1 Review |
+| 2025-12-02 | 349 | xcCUtOwq0PE | 1,557 | 15 | 7,977 | 0.20 | 5 | 1.52 | binh_thuong | – | Không | The New LiPULS 280Ah Battery and Emergency Power Box Build |
+| 2025-12-04 | 347 | mhtXWWRZlJA | 12,138 | 15 | 7,977 | 1.52 | 5 | 1.67 | binh_thuong | – | Không | 20 ESSENTIAL Items You NEED for a Winter Blackout |
+| 2025-12-10 | 341 | OEbL7UEZwFo | 142,980 | 15 | 7,977 | 17.92 | 5 | 1.49 | can_kiem_ky | – | Không | Build Your Own Solar Power Station - Make It Better & Cheaper |
+| 2025-12-20 | 331 | oZdfrh10OcI | 13,317 | 15 | 12,138 | 1.10 | 5 | 0.98 | binh_thuong | – | Không | Your Prepping Strategy Is Missing This \| Tech + Tradition |
+| 2026-01-03 | 317 | cUGel7K4ts4 | 5,924 | 15 | 13,317 | 0.44 | 5 | 0.89 | binh_thuong | – | Không | The Best Heat Source for Emergencies  \| Hcalory Diesel Heater |
+| 2026-01-08 | 312 | xqnXV43xAac | 11,900 | 15 | 13,317 | 0.89 | 5 | 1.11 | binh_thuong | – | Không | Emergency Power in 5 Minutes  \| Power Inverter Installation |
+| 2026-01-17 | 303 | HI6NeRjvyXw | 296,508 | 15 | 13,317 | 22.27 | 5 | 0.65 | can_kiem_ky | – | Không | 20 Heating Sources That Don't Need Electricity STOCKPILE NOW |
+| 2026-01-25 | 295 | dPQ99cnMKic | 5,729 | 15 | 13,317 | 0.43 | 5 | 0.65 | binh_thuong | – | Không | Installing an Hcalory Diesel Heater In 3 Car Garage - Real Temperature Results |
+| 2026-02-03 | 286 | WfBCEMxzkKo | 358,958 | 15 | 13,317 | 26.95 | 5 | 0.37 | can_kiem_ky | – | Không | DIY Off Grid Power \| 300Ah Temgo Battery Installation |
+| 2026-02-10 | 279 | mijk-J0IUls | 8,712 | 15 | 13,317 | 0.65 | 5 | 0.28 | binh_thuong | – | Không | The Quickest & Easiest Way to Store 100 Gallons of Emergency Water |
+| 2026-02-12 | 277 | deRfKCnsito | 14,785 | 15 | 12,138 | 1.22 | 5 | 0.30 | binh_thuong | – | Không | Winter Power Outage Reality Check \| The Basics That Actually Matter |
+| 2026-02-18 | 271 | 3VUFtc4j5Nk | 4,923 | 15 | 12,138 | 0.41 | 5 | 0.19 | binh_thuong | – | Không | Zip Stitches, Battle Dressings & The SurviveX First Aid Kit Deep Dive |
+| 2026-02-19 | 270 | 2ojgsRrsIR4 | 846 | 15 | 11,900 | 0.07 | 5 | 0.31 | binh_thuong | – | Không | Does a 15 Year Old EXPIRED Battle Dressing Still Work? |
+| 2026-02-21 | 268 | n35s3YwZ9J8 | 3,685 | 15 | 8,712 | 0.42 | 5 | 0.27 | binh_thuong | – | Không | Your Prepping Plans Are Going to FAIL! |
+| 2026-02-25 | 264 | bFahFHqpqZ4 | 2,345 | 15 | 8,712 | 0.27 | 5 | 0.94 | binh_thuong | – | Không | Your Prepper Supplies Are at Risk \| Here's How to Defend Them |
+| 2026-02-28 | 261 | IbHqMuCyZ08 | 70,647 | 15 | 8,712 | 8.11 | 5 | 0.94 | manh | – | Không | DIY Power Station vs Premade: The Numbers Don't Lie |
+| 2026-03-03 | 258 | VOQ3wluu35Q | 2,210 | 15 | 11,900 | 0.19 | 5 | 0.73 | binh_thuong | – | Không | Elon's Recent Comment Has Me Rethinking Everything |
+| 2026-03-05 | 256 | 6wCCGlxHugI | 8,705 | 15 | 8,712 | 1.00 | 5 | 0.94 | binh_thuong | – | Không | Prepping on a Shoestring Budget \| 25 Items That Work |
+| 2026-03-09 | 252 | 3v1Jx4RH_PE | 2,251 | 15 | 8,705 | 0.26 | 5 | 0.94 | binh_thuong | – | Không | We've Reached the Tipping Point \| Follow These 4 Prepping Rules |
+| 2026-03-17 | 244 | 2c1zce4cmSg | 8,206 | 15 | 5,924 | 1.39 | 5 | 1.36 | binh_thuong | – | Không | Last Chance Before Costs Explode \| Important Survival Items to Get |
+| 2026-03-21 | 240 | 72bEZbVAx80 | 29,414 | 15 | 8,206 | 3.58 | 5 | 0.56 | dang_ghi | – | Không | Refrigeration In a Power Outage  \| Emergency Grid Down Food |
+| 2026-03-22 | 239 | 4LZCbixcH5s | 53,740 | 15 | 8,206 | 6.55 | 5 | 0.56 | manh | – | Không | Extended Blackout Essentials \| Stop Being Unprepared |
+| 2026-03-25 | 236 | tRceePrKUVQ | 2,343 | 15 | 8,206 | 0.29 | 5 | 0.81 | binh_thuong | – | Không | Bug Out Bag Medical Supplies \| OTC Meds, Small First Aid Kit, & Battle Dressings |
+| 2026-03-28 | 233 | asZaw1f5K1U | 8,081 | 15 | 8,206 | 0.98 | 5 | 0.81 | binh_thuong | – | Không | These Items Will Be MORE VALUABLE Than GOLD After Collapse |
+| 2026-04-03 | 227 | g6vLTAvHNGU | 898 | 15 | 8,081 | 0.11 | 5 | 0.82 | binh_thuong | – | Không | I Tested These in My Raised Bed Garden to Solve Weeds, Watering, and Yield |
+| 2026-04-10 | 220 | NGXPea7d-d0 | 4,589 | 15 | 4,923 | 0.93 | 5 | 2.22 | binh_thuong | – | Không | What's the Perfect Size Power Station For Preparedness? UD Power S2400 |
+| 2026-04-13 | 217 | -_pKwgAmInY | 6,625 | 15 | 4,589 | 1.44 | 5 | 2.54 | binh_thuong | – | Không | Don't Get Caught Without These During a Power Outage \| 5 Energy Options |
+| 2026-04-17 | 213 | D91H9s4nGWk | 53,090 | 15 | 4,589 | 11.57 | 5 | 2.39 | can_kiem_ky | – | Không | The ABSOLUTE BEST Canned Foods to Stockpile For Emergencies |
+| 2026-04-24 | 206 | aSdYtUKJjaA | 11,634 | 15 | 6,625 | 1.76 | 5 | 1.63 | binh_thuong | – | Không | Wheat Berries 101: The Survival Food Nobody Talks About |
+| 2026-05-02 | 198 | 4G1H3hHeNAU | 4,701 | 15 | 8,081 | 0.58 | 5 | 1.34 | binh_thuong | – | Không | 6000W Whole Home Backup Power \| Anker SOLIX F3800 Plus Storm Test |
+| 2026-05-04 | 196 | 50YqpHaYmZg | 10,946 | 15 | 8,081 | 1.35 | 5 | 0.88 | binh_thuong | – | Không | Gear I Actually Use \| Prepping & Survival Supplies |
+| 2026-05-09 | 191 | qGRQvXRqjSc | 37,608 | 15 | 8,081 | 4.65 | 5 | 0.88 | dang_ghi | – | Không | I Didn't Expect This from a Low Cost Inverter \| Junbpaw 24V/48V Review |
+| 2026-05-15 | 185 | tstRlkpPqI4 | 10,799 | 15 | 8,206 | 1.32 | 5 | 0.86 | binh_thuong | – | Không | Food Storage Doesn't Have to Be Complicated \| Here's Proof |
+| 2026-05-19 | 181 | mgz7Wd9C_p4 | 6,803 | 15 | 8,206 | 0.83 | 5 | 1.36 | binh_thuong | – | Không | 15 Years of Prepping: Here's What I Got Wrong |
+| 2026-05-23 | 177 | 58_mI_PYcoI | 6,411 | 15 | 8,206 | 0.78 | 5 | 5.44 | binh_thuong | – | Không | The MOST VALUABLE Barter Supplies You Should Be STOCKPILING Now! |
+| 2026-05-29 | 171 | dIurYTBdm5g | 7,095 | 15 | 8,081 | 0.88 | 5 | 5.52 | binh_thuong | – | Không | Vatrer 48V Battery Review: Why 48V Beats a 12V Backup Power System @Vatrer |
+| 2026-06-02 | 167 | 7LrDUViwLk4 | 44,611 | 15 | 7,095 | 6.29 | 5 | 2.13 | manh | – | Không | Build a Power Outage Survival Kit For Under $100! |
+| 2026-06-05 | 164 | j2Ie3gIfd2s | 11,158 | 15 | 7,095 | 1.57 | 5 | 2.13 | binh_thuong | – | Không | Emergency Food Storage: Best & Worst Foods During a Power Outage |
+| 2026-06-09 | 160 | aAlsizbkWdM | 64,319 | 15 | 8,081 | 7.96 | 5 | 1.78 | manh | – | Không | Don't KILL Your POWER STATION! 10 Mistakes Most Owners Make |
+| 2026-06-16 | 153 | LXAdSzBE7BI | 125,592 | 15 | 10,799 | 11.63 | 5 | 0.63 | can_kiem_ky | – | Không | The BIGGEST Canned Food Mistakes New Preppers Make |
+| 2026-06-22 | 147 | LOyt6H9O8D8 | 5,284 | 15 | 10,946 | 0.48 | 5 | 0.62 | binh_thuong | – | Không | Everyone Starts Prepping Too Late \| Stop Being Unprepared |
+| 2026-06-26 | 143 | YAll3aQXhjk | 15,120 | 15 | 10,946 | 1.38 | 5 | 0.62 | binh_thuong | – | Không | Best Power Inverter? I Tested 5 Popular 12V Inverters (Don't Buy This One) |
+| 2026-06-28 | 141 | GKyUFlRcZ8g | 4,551 | 15 | 11,158 | 0.41 | 5 | 0.61 | binh_thuong | – | Không | Why I Grab This 1000W Power Station Over Bigger Ones Every Single Time |
+| 2026-06-29 | 140 | OAbNGduOdow | 14,392 | 15 | 10,946 | 1.31 | 5 | 0.62 | binh_thuong | – | Không | After 15 Years Prepping, Here's What Doesn't Matter |
+| 2026-07-04 | 135 | K94QyGfU7NY | 6,829 | 15 | 10,946 | 0.62 | 5 | 0.91 | binh_thuong | – | Không | AFERIY P180 Review: I Tested It So You Don't Have To |
+| 2026-07-06 | 133 | nKu2Phm5jxY | 2,521 | 15 | 10,946 | 0.23 | 5 | 0.91 | binh_thuong | – | Không | Real Preparedness Isn't About Worst-Case Scenarios |
+| 2026-07-10 | 129 | oBnnibHoYxE | 638,741 | 15 | 10,799 | 59.15 | 5 | 0.93 | can_kiem_ky | – | Không | 7 Emergency INDOOR COOKING Options Tested: Real Results! |
+| 2026-07-12 | 127 | VZA3uEvY9Dw | 3,286 | 15 | 10,799 | 0.30 | 5 | 0.93 | binh_thuong | – | Không | Why Nobody Becomes a Prepper Until This Happens |
+| 2026-07-17 | 122 | l8amvdMcrd0 | 51,463 | 15 | 7,095 | 7.25 | 5 | 1.41 | manh | – | Không | First 24 Hours of SHTF \| What You Should Actually Do |
+| 2026-07-29 | 110 | nfEGOXisp1U | 9,996 | 15 | 11,158 | 0.90 | 5 | 0.87 | binh_thuong | – | Không | Jackery HomePower 3600 Plus: The Best Power Station for a Power Outage? |
+| 2026-07-31 | 108 | MrP0v5JDbpw | 7,213 | 15 | 11,158 | 0.65 | 5 | 4.06 | binh_thuong | – | Không | BougeRV New CRX3 23QT Portable Car Fridge - Every Claim Tested |
+| 2026-08-03 | 105 | uoG2JAqFWiY | 73,341 | 15 | 11,158 | 6.57 | 5 | 2.11 | manh | – | Không | The Prepping & Survival Purchases I’d Make Again \| 15 Years In |
+| 2026-08-07 | 101 | V4EcB3YrY6Q | 3,663 | 15 | 11,158 | 0.33 | 5 | 4.06 | binh_thuong | – | Không | Your Survival Gear Won't Save You Without This |
+| 2026-08-12 | 96 | gNAEUaV3q8c | 678,870 | 15 | 9,996 | 67.91 | 5 | 4.54 | can_kiem_ky | – | Không | How to Store Water Long-Term for Emergencies \| Emergency Water Tanks |
+| 2026-08-14 | 94 | 3bSrtAnibbg | 9,679 | 15 | 9,996 | 0.97 | 5 | 4.54 | binh_thuong | – | Không | Refrigerator Power Test: Don't Believe the Manufacturer Claims! |
+| 2026-08-21 | 87 | O5ZtY4Bn27g | 45,347 | 15 | 9,679 | 4.69 | 5 | 6.53 | dang_ghi | – | Không | The Critical Items Everyone Should Have in Their Bug Out Bag in 2026 |
+| 2026-08-27 | 81 | zzeDOBwAd5g | 23,552 | 15 | 9,996 | 2.36 | 5 | 6.53 | hoi_cao | – | Không | The Real Prepper Checklist: What You Need and What Can Wait |
+| 2026-08-29 | 79 | uy5hCf_UMts | 63,241 | 15 | 9,996 | 6.33 | 5 | 6.53 | manh | – | Không | The Most Realistic Grid-Down Scenario You Need To Prep For |
+| 2026-09-08 | 69 | F1vJ2R5F2QI | 181,842 | 15 | 14,392 | 12.63 | 5 | 4.54 | can_kiem_ky | – | Không | You Think You're Ready… Until the Power STAYS Out |
+| 2026-09-18 | 59 | DfjcWPTHspI | 9,536 | 15 | 23,552 | 0.40 | 5 | 2.77 | binh_thuong | – | Không | AI Could Take Over the Entire Internet - Then What? |
+| 2026-09-21 | 56 | XQEtuwq6ozk | 311,660 | 15 | 23,552 | 13.23 | 5 | 1.86 | can_kiem_ky | – | Không | BLUETTI FridgePower vs Power Stations: It Wasn’t Even Close! |
+| 2026-09-25 | 52 | 08mbZngOwGQ | 65,312 | 15 | 45,347 | 1.44 | 5 | 0.97 | binh_thuong | – | Không | Generator vs Power Station: Which One Wins in a Power Outage? |
+| 2026-10-02 | 45 | 47nlG-zJCZA | 25,982 | 15 | 45,347 | 0.57 | 5 | 0.97 | binh_thuong | – | Không | Don't Let Your Power Station Die! Long-Term Power Outage Solutions |
+| 2026-10-09 | 38 | 3BzRegD1ZQM | 162,964 | 15 | 45,347 | 3.59 | 5 | 0.47 | dang_ghi | – | Không | Build Your Own Power Station: It’s Easier Than You Think |
+| 2026-10-16 | 31 | csn9ruJCHRs | 15,584 | 15 | 45,347 | 0.34 | 4 | – | binh_thuong | – | Không | 10 Prepping Mistakes That Make You LESS Prepared |
+| 2026-10-21 | 26 | kANhFFf6O6o | 43,826 | 15 | 45,347 | 0.97 | 3 | – | chua_chin | – | Không | What I Do FIRST in a Power Outage (And What Can Wait) |
+| 2026-11-03 | 13 | anT-jKEQ8Dc | 328,936 | 15 | 45,347 | 7.25 | 2 | – | chua_chin | – | Không | Don't Buy a Power Inverter Until You Watch This! |
+| 2026-11-05 | 11 | SVrsMbxt0Zw | 21,178 | 15 | 45,347 | 0.47 | 1 | – | chua_chin | – | Không | BLUETTI Apex 200 vs DIY Power Station: Is DIY Still Worth It? |
+| 2026-11-15 | 1 | 375EACYEPfM | 151 | 15 | 45,347 | 0.00 | 0 | – | chua_chin | – | Không | Anker SOLIX E10 vs. Gas Generator: Which Should You Trust? |

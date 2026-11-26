@@ -1,0 +1,150 @@
+# Đo kênh: UCtV4T8VspH2PKc4mJdu6b5w.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 123 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 32,700 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-07-25 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 14,529 |
+| cao_nhat | 78,104 |
+| thap_nhat | 2,228 |
+| phan_tan | 5.38 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.44 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.75 |
+| ngay_video_dau | 2025-07-02 |
+| tuoi_tu_video_dau | 502 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 65.14 |
+| sub_moi_video | 266 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-07-02 | 502 | 2vOkQyruSeA | 20,870 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Raising and Harvesting Millions of Tons of Deer Velvet and Venison – Processing Deer in the Factory |
+| 2025-07-05 | 499 | w2f2DX6pUi4 | 4,906 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Inside the Shocking Industry That Processes 500 Million Rabbits a Year - Rabbit Meat Processing |
+| 2025-07-06 | 498 | 5NF5m8UQ_rE | 54,738 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Millions of Crocodiles Are Farmed for Luxury Skin & Meat - Crocodile Processing in Factory |
+| 2025-07-06 | 498 | ABWc2fZNGRI | 5,410 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Millions of Free-Range Chickens Are Raised and Billions of Eggs Harvested on Modern Farms |
+| 2025-07-07 | 497 | WF1qQgcpjEw | 61,394 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Peacock Farming in China: How Farmers Raise and Profit from These Majestic Birds - Peacock Industry |
+| 2025-07-08 | 496 | 7dq6shRKKfc | 80,905 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Millions of Buffaloes Are Farmed and Processed for Milk, Cheese, and Meat in Modern Factories |
+| 2025-07-09 | 495 | cLU75AuuO_4 | 665,444 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Billions of Locusts Are Farmed, Harvested, and Eaten Every Year \| Locust Processing In Factory |
+| 2025-07-10 | 494 | oxm7qA8tDiY | 221,765 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Inside the Massive World of Pigeon Farming – How Millions Are Raised & Processed for Meat |
+| 2025-07-25 | 479 | yRKL2uwmjZA | 3,866 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Billions of Centipedes Are Raised for Medicine and Profit – China’s Centipede Farming Industry |
+| 2025-07-26 | 478 | OPnwpj3Xzhk | 291,395 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Millions of Crocodiles Are Farmed and Processed – Inside Australia's Surprising Crocodile Farm |
+| 2025-07-27 | 477 | SWYWobSzgWw | 4,696 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How 1.5 Millions of Frogs Are Raised for Meat in China – Inside the Frogs Farm Industry |
+| 2025-07-28 | 476 | lYWv5bR0KD4 | 115,667 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Millions of Donkeys Are Raised for Milk, Meat and Skin – Inside the Donkey Farm Industry |
+| 2025-07-29 | 475 | nE5x5eeTwJQ | 2,776 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Millions of Goats Are Raised for Cashmere, Milk & Premium Meat– Inside the Goat Farm Industry |
+| 2025-07-30 | 474 | 28ngNrFgEsM | 64,683 | 5 | 4,696 | 13.77 | 5 | 0.58 | can_kiem_ky | – | Không | How Millions Of Pigs Are Raised & Processed for Fresh Pork & Sausages – Modern Pig Farm |
+| 2025-07-31 | 473 | DZdCAhlO-gQ | 1,126 | 6 | 34,690 | 0.03 | 5 | 0.08 | binh_thuong | – | Không | How Millions of Black Chickens Are Farmed and Processed in China - Inside China’s Black Chicken Farm |
+| 2025-08-01 | 472 | 2cQoINWsuWc | 10,068 | 7 | 4,696 | 2.14 | 5 | 0.58 | hoi_cao | – | Không | How Millions of Horses Are Farmed and Processed – Inside China's Horse Harvesting Industry for Meat |
+| 2025-08-02 | 471 | nPpcYbkXLBg | 1,232 | 8 | 7,382 | 0.17 | 5 | 0.37 | binh_thuong | – | Không | How Millions of Quails Are Farmed and Processed – China's Industrial Quail Farm System Revealed |
+| 2025-08-03 | 470 | htMlHjwSMj8 | 5,721 | 9 | 4,696 | 1.22 | 5 | 0.58 | binh_thuong | – | Không | How Millions of Pythons Are Farmed For Skin, Meat & Fat – China’s Python Processing Factory |
+| 2025-08-04 | 469 | diK2y4AiVgo | 2,707 | 10 | 5,208 | 0.52 | 5 | 0.54 | binh_thuong | – | Không | How Millions of Pufferfish Are Raised and Processed – Inside Japan’s Pufferfish Farming Industry |
+| 2025-08-05 | 468 | p1BkHU_h6A0 | 2,796 | 11 | 4,696 | 0.60 | 5 | 0.40 | binh_thuong | – | Không | How Millions of Scorpions Are Raised for Venom and Cuisine - Inside Giant China's Scorpion Farm |
+| 2025-08-06 | 467 | yd95AYhnxT8 | 1,899 | 12 | 4,281 | 0.44 | 5 | 0.79 | binh_thuong | – | Không | How Millions of Snails Are Raised & Processed for Premium Cosmetics - Inside Europe’s Snail Farming |
+| 2025-08-07 | 466 | nTdUFBuEp8A | 1,370 | 13 | 3,866 | 0.35 | 5 | 0.88 | binh_thuong | – | Không | How Millions of Mussels Are Grown and Collected – Mussel Harvesting with Modern Technology |
+| 2025-08-08 | 465 | CN5p3x5YTCU | 4,917 | 14 | 3,331 | 1.48 | 5 | 0.69 | binh_thuong | – | Không | How Millions of Eels Are Farmed and Processed for Exotic Meat  - Largest Eel Farms |
+| 2025-08-09 | 464 | jlvodHRaPaM | 3,390 | 15 | 3,866 | 0.88 | 5 | 0.59 | binh_thuong | – | Không | How Millions of Giant Salamanders Are Raised and Processed – Inside China’s Giant Salamander Farming |
+| 2025-08-10 | 463 | JetZ4QWDtO8 | 873 | 15 | 3,390 | 0.26 | 5 | 0.67 | binh_thuong | – | Không | How Millions of Crawfish Are Harvested and Processed – Inside the Largest Crawfish Process Factory |
+| 2025-08-11 | 462 | eKRE9NsT23A | 4,561 | 15 | 2,796 | 1.63 | 5 | 0.47 | binh_thuong | – | Không | How Millions of Pigeons Are Raised and Processed for Meat and Eggs – Modern Pigeon Farming Industry |
+| 2025-08-12 | 461 | pZKqouDhR14 | 1,301 | 15 | 2,796 | 0.47 | 5 | 0.61 | binh_thuong | – | Không | How American Ranchers Raise and Sell 34,3 Millions of Cattle Every Year – Cattle Farming |
+| 2025-08-13 | 460 | OcGF0FTXT5c | 2,287 | 15 | 2,776 | 0.82 | 5 | 0.62 | binh_thuong | – | Không | How Billions of Locusts Are Farmed, Harvested, and Eaten - Inside China the Locust Farming Industry |
+| 2025-08-14 | 459 | _c-eoI274Qk | 3,071 | 15 | 2,707 | 1.13 | 5 | 0.63 | binh_thuong | – | Không | How Millions of Dairy Cows Are Farmed For Premium Milk & Cheese – Modern Dairy Cow Farming |
+| 2025-08-15 | 458 | TgW2xCoLLlY | 955 | 15 | 2,707 | 0.35 | 5 | 1.07 | binh_thuong | – | Không | How Millions of Turkeys Are Grown and Processed For Meat – Modern Turkey Farming Technology |
+| 2025-08-16 | 457 | IV4YNOn-fOg | 781 | 15 | 2,707 | 0.29 | 5 | 2.67 | binh_thuong | – | Không | How Millions of Chicken Eggs Are Produced with Modern Technology –Inside Poultry Farming &Processing |
+| 2025-08-17 | 456 | xUt35Xi3StY | 1,712 | 15 | 2,287 | 0.75 | 5 | 6.91 | binh_thuong | – | Không | How Million of Ducks Are Farmed in Rice Paddies For Meat –Inside Asia's Largest Free Range Duck Farm |
+| 2025-08-18 | 455 | qscRAOJFiC8 | 2,904 | 15 | 2,287 | 1.27 | 5 | 6.91 | binh_thuong | – | Không | How Millions of Buffaloes Are Farmed and Processed In Factory - Buffalo Dairy and Meat Industry |
+| 2025-08-19 | 454 | boNI-4R1wYY | 7,240 | 15 | 2,287 | 3.17 | 5 | 14.54 | dang_ghi | – | Không | How Jamón Ibérico Is Made – Millions of Iberico Pigs Raised for Premium Meat |
+| 2025-08-19 | 454 | NkbLVCJ2dXQ | 156,575 | 15 | 2,287 | 68.46 | 5 | 6.91 | can_kiem_ky | – | Không | How Millions of Bisons Are Raised for Premium Meat – Massive Bison Farming in Giant U.S. Ranches |
+| 2025-08-20 | 453 | nAUDErkXjAw | 15,806 | 15 | 2,287 | 6.91 | 5 | 3.84 | manh | – | Không | How Billions Of Crickets Are Farmed And Processed – Inside China’s $50M Cricket Farming Industry |
+| 2025-08-20 | 453 | cIjn4SlASG8 | 33,264 | 15 | 2,904 | 11.45 | 5 | 3.02 | can_kiem_ky | – | Không | How Millions Of Rabbits Are Raised For Meat – Inside Rabbit Farming And Processing Factory |
+| 2025-08-21 | 452 | wBuQ4FoX07I | 8,776 | 15 | 3,071 | 2.86 | 5 | 14.95 | hoi_cao | – | Không | How Millions Of Mealworms Are Raised and Processed - Inside The World's Largest Insect Factories |
+| 2025-08-21 | 452 | lIL4MImlSek | 64,554 | 15 | 3,071 | 21.02 | 5 | 14.95 | can_kiem_ky | – | Không | How Millions of Pigs Are Raised and Slaughtered - Inside America's Modern Pig Farm |
+| 2025-08-22 | 451 | iIBNJjDtz28 | 3,426 | 15 | 3,071 | 1.12 | 5 | 14.95 | binh_thuong | – | Không | How Millions of Jacob Sheep Are Raised for Premium Wool –Inside the Rare Jacob Sheep Farming Process |
+| 2025-08-23 | 450 | iezOewQpV88 | 3,057 | 15 | 3,426 | 0.89 | 5 | 13.40 | binh_thuong | – | Không | How Millions of Ducks Are Raised in Fish Ponds – Inside Asia’s Largest Duck Farm |
+| 2025-08-23 | 450 | ovy30trLMvA | 45,897 | 15 | 3,071 | 14.95 | 5 | 3.46 | can_kiem_ky | – | Không | How Millions of Guinea Fowls Became a Billion Dollar Industry – Inside a Modern Guinea Fowl Farm |
+| 2025-08-24 | 449 | 6UVLTLdFEH4 | 76,552 | 15 | 3,426 | 22.34 | 5 | 3.10 | can_kiem_ky | – | Không | How Millions of Crocodiles Are Farmed and Processed – Inside Brasil’s Surprising Crocodile Farm |
+| 2025-08-25 | 448 | fsxq78BUJ7o | 292,056 | 15 | 7,240 | 40.34 | 5 | 0.99 | can_kiem_ky | – | Không | How Millions of Wagyu Cattle Are Raised & Processed For Premium Beef – Inside Modern Wagyu Industry |
+| 2025-08-26 | 447 | nx6N5_WzP8U | 4,594 | 15 | 8,776 | 0.52 | 5 | 1.21 | binh_thuong | – | Không | How Millions of Swiftlet Are Harvested and Processed – Inside the Modern  Swiftlet Farm |
+| 2025-08-27 | 446 | qhuaUX_-M3U | 7,133 | 15 | 8,776 | 0.81 | 5 | 2.38 | binh_thuong | – | Không | How Millions Of Abalone Are Farmed And Harvested - Inside The Modern Abalone Industry |
+| 2025-08-28 | 445 | hmkTnBiZZ34 | 10,615 | 15 | 8,776 | 1.21 | 5 | 2.38 | binh_thuong | – | Không | How Millions of Black Swans Are Raised for Meat – Inside the Modern Black Swan Farm |
+| 2025-08-29 | 444 | m6h9qVV8SlQ | 1,954,740 | 15 | 10,615 | 184 | 5 | 1.97 | can_kiem_ky | – | Không | How Millions of Tilapia Are Farmed & Processed in Giant Chinese Factories – Inside Tilapia Industry |
+| 2025-08-30 | 443 | E-kiavAvbAU | 5,227 | 15 | 15,806 | 0.33 | 5 | 1.32 | binh_thuong | – | Không | How Billions Catfish Are Raised and Processed- Inside Modern Catfish Farming |
+| 2025-08-31 | 442 | ruYKNSHe730 | 20,915 | 15 | 15,806 | 1.32 | 5 | 1.41 | binh_thuong | – | Không | How Australian Farmers Make $6 Million From Raising Pigs And Making Bacon - Inside Bacon Factory |
+| 2025-09-01 | 441 | zhb2HevuFsw | 22,209 | 15 | 15,806 | 1.41 | 5 | 0.46 | binh_thuong | – | Không | How Millions of Reindeer Are Farmed & Processed For Meat – Inside Arctic Reindeer Industry |
+| 2025-09-02 | 440 | d7k0kwUxSh4 | 7,322 | 15 | 20,915 | 0.35 | 5 | 0.32 | binh_thuong | – | Không | How Millions of Deer Antlers and Venison Are Harvested – Inside China’s Antler Industry |
+| 2025-09-04 | 438 | 2kc2tQYt7d8 | 33,262 | 15 | 10,615 | 3.13 | 5 | 0.42 | dang_ghi | – | Không | How Millions of Ostrich Are Processed for Meat, Skin and Eggs - Inside China Modern Ostrich Factory |
+| 2025-09-05 | 437 | i--p7c466uw | 6,721 | 15 | 20,915 | 0.32 | 5 | 0.21 | binh_thuong | – | Không | How Millions of Kangaroos Are Raised in Australia - Inside Kangaroo Meat Processing Industry |
+| 2025-09-06 | 436 | D1RWykFzFLQ | 134,857 | 15 | 10,615 | 12.70 | 5 | 0.35 | can_kiem_ky | – | Không | How Millions of Peacocks Are Farmed and Processed - Inside China’s Modern Peacock Farming Industry |
+| 2025-09-07 | 435 | 9PqLNtG8MrM | 2,658 | 15 | 20,915 | 0.13 | 5 | 0.21 | binh_thuong | – | Không | How Millions of Oysters Are Farmed and Harvested – Inside the Massive Oyster Farming Industry |
+| 2025-09-08 | 434 | STxl7MVyyKo | 3,599 | 15 | 20,915 | 0.17 | 5 | 0.29 | binh_thuong | – | Không | How Millions of Squid Are Caught and Processed – Inside Japan’s Robotic Squid Processing Factories |
+| 2025-09-09 | 433 | EuCa0bGy7A8 | 4,453 | 15 | 10,615 | 0.42 | 5 | 2.05 | binh_thuong | – | Không | How Millions of Sheep Are Raised and Processed for Meat – Inside Modern Sheep Meat Industry |
+| 2025-09-10 | 432 | avqV__RjvNs | 1,115,265 | 15 | 7,322 | 152 | 5 | 0.83 | can_kiem_ky | – | Không | How Millions of Goats Are Raised and Processed – Inside Modern Goat Farming and Milking Factories |
+| 2025-09-11 | 431 | EII9tHGOdoo | 3,663 | 15 | 7,322 | 0.50 | 5 | 0.95 | binh_thuong | – | Không | How Millions of Tons of Salami Are Processed – Inside the World’s Biggest Salami Factory |
+| 2025-09-12 | 430 | 30tjq06ay_4 | 56,141 | 15 | 7,322 | 7.67 | 5 | 0.95 | manh | – | Không | How Millions of Bees Make Honey in America \| Inside Mega Bee Farms & Factory Processing |
+| 2025-09-13 | 429 | fPmVPh4UG7k | 6,080 | 15 | 10,615 | 0.57 | 5 | 0.66 | binh_thuong | – | Không | How Millions of Pigs Are Farmed and Harvested – Inside Modern Pig Farm & Pork Processing Industry |
+| 2025-09-14 | 428 | JDvMDhbDhIA | 21,781 | 15 | 7,322 | 2.97 | 5 | 0.95 | hoi_cao | – | Không | How Millions of Longhorn Cattle Are Raised and Processing – Inside African Longhorn Cattle Farming |
+| 2025-09-15 | 427 | w3o_UZVPAw8 | 4,914 | 15 | 7,322 | 0.67 | 5 | 0.95 | binh_thuong | – | Không | How Millions of Donkeys Are Raised for Meat, Milk and Skin – Inside the Donkey Farming Industry |
+| 2025-09-16 | 426 | iY-CvR_0LlU | 6,988 | 15 | 7,322 | 0.95 | 5 | 1.00 | binh_thuong | – | Không | How Millions Of Geese Are Farmed And Processed For Luxury Foie Gras – Inside Goose Farming Industry |
+| 2025-09-17 | 425 | HivElhsdJkk | 7,309 | 15 | 6,988 | 1.05 | 5 | 1.38 | binh_thuong | – | Không | How Millions of Pigs Are Raised and Processed – Inside Europe’s Giant Pork and Sausage Factories |
+| 2025-09-18 | 424 | IQLwCNoBbN8 | 4,906 | 15 | 6,988 | 0.70 | 5 | 1.86 | binh_thuong | – | Không | How Millions of Sturgeon Are Raised and Processed For Luxury Caviar – Inside Sturgeon Caviar Farm |
+| 2025-09-19 | 423 | 383fGh4gHVM | 12,980 | 15 | 6,721 | 1.93 | 5 | 3.63 | binh_thuong | – | Không | How Millions of Giant Cows Are Raised and Processed – Inside Giant Cows Farm Industry |
+| 2025-09-20 | 422 | Ai-XbKFZpFc | 6,011 | 15 | 6,721 | 0.89 | 5 | 3.63 | binh_thuong | – | Không | How Millions of Pigs Are Raised And Processed – Inside USA Modern Pig Farming Industry |
+| 2025-09-21 | 421 | 0LNfO-z1Zuc | 9,639 | 15 | 6,080 | 1.59 | 5 | 4.01 | binh_thuong | – | Không | How Millions of Silkie Chickens Are Raised & Processed – Inside Silkie Chicken Farming Industry |
+| 2025-09-22 | 420 | k3wappbdmh8 | 24,401 | 15 | 6,080 | 4.01 | 5 | 5.55 | dang_ghi | – | Không | How Millions of Groupers Are Raised and Processed – Inside the Global Grouper Farming Industry |
+| 2025-09-23 | 419 | jxuyKigZb9c | 33,749 | 15 | 6,988 | 4.83 | 5 | 1.49 | dang_ghi | – | Không | How Millions of Salmon Are Raised and Processed – Inside the Salmon Harvesting Industry |
+| 2025-09-24 | 418 | duxAQZwKnao | 274,650 | 15 | 7,309 | 37.58 | 5 | 0.78 | can_kiem_ky | – | Không | How Millions of Frogs Are Farmed and Processed For Meat – Inside Frog Farming Factories |
+| 2025-09-25 | 417 | qZdivLqHioY | 5,737 | 15 | 9,639 | 0.60 | 5 | 1.08 | binh_thuong | – | Không | How Millions of Camels Are Farmed for Milk and Meat – Inside Modern Camel Farming in Australia |
+| 2025-09-26 | 416 | 8TxnzUZm3ps | 10,439 | 15 | 7,309 | 1.43 | 5 | 0.58 | binh_thuong | – | Không | How Millions of Wagyu Are Farmed & Processed for Premium Beef – Inside Japan Wagyu Farming Industry |
+| 2025-09-27 | 415 | a9uEVyPDNfE | 34,333 | 15 | 9,639 | 3.56 | 5 | 0.44 | dang_ghi | – | Không | How Millions of Wild Boars Are Farmed & Processed for Meat –  Inside Wild Boars Farming Industry |
+| 2025-09-28 | 414 | D0zJI8EJRdA | 4,254 | 15 | 9,639 | 0.44 | 5 | 0.17 | binh_thuong | – | Không | How Millions Of Turtles Are Raised And Processed – Inside Modern Turtle Farming & Turtle Processing |
+| 2025-09-29 | 413 | 729XWDhsbWI | 1,248 | 15 | 9,639 | 0.13 | 5 | 0.78 | binh_thuong | – | Không | How Millions of Crab Sticks Are Produced – Inside the Crab Stick Factory Mega Line |
+| 2025-09-30 | 412 | rJP6-Xjw9vY | 11,761 | 15 | 7,309 | 1.61 | 5 | 0.82 | binh_thuong | – | Không | How Millions of Horses Are Farmed for Meat – Inside USA’s Horse Farming and Processing |
+| 2025-10-01 | 411 | m0WknZBKo0Q | 1,615 | 15 | 9,639 | 0.17 | 5 | 0.78 | binh_thuong | – | Không | How Millions of Sharks Are Caught and Processed – Inside Shocking Shark Processing Industry |
+| 2025-10-02 | 410 | kXbHrho89a0 | 7,555 | 15 | 9,639 | 0.78 | 5 | 1.26 | binh_thuong | – | Không | How Millions of Porcupines Are Raised & Processed for Meat – Inside Modern Porcupine Farming |
+| 2025-10-03 | 409 | GSUcplcT720 | 1,017 | 15 | 9,639 | 0.11 | 5 | 1.26 | binh_thuong | – | Không | How Millions of Geoducks Are Farmed & Processed for Seafood – Inside Modern Geoduck Factory |
+| 2025-10-04 | 408 | BDn_XHlxlYo | 12,174 | 15 | 9,639 | 1.26 | 5 | 1.47 | binh_thuong | – | Không | How Millions of Lobsters Are Farmed & Processed for Foods – Inside the Lobster Processing Factory |
+| 2025-10-05 | 407 | JjpNLY3DTNM | 6,010 | 15 | 9,639 | 0.62 | 5 | 1.47 | binh_thuong | – | Không | How Millions of Alpacas Are Farmed & Processed for Wool – Inside Modern Alpaca Wool Production |
+| 2025-10-06 | 406 | 7h2eq0V6f4c | 14,155 | 15 | 9,639 | 1.47 | 5 | 1.19 | binh_thuong | – | Không | How Millions of Kobe Beef Are Raised & Processed for Luxury Meat – Inside Kobe Beef Farm Technique |
+| 2025-10-07 | 405 | Y9mbBcWLvBg | 584,417 | 15 | 10,439 | 55.98 | 5 | 1.09 | can_kiem_ky | – | Không | How Millions of Mud Crabs Are Raised in Boxes for Food – Inside Asia’s Mudcrab Farm Technology |
+| 2025-10-08 | 404 | XTJCu2Ot-Hg | 9,329 | 15 | 10,439 | 0.89 | 5 | 1.31 | binh_thuong | – | Không | How Millions of Cattle Are Processed Daily - Inside Australia’s Largest Meat Factories |
+| 2025-10-09 | 403 | pjccQQ8Cg2s | 16,776 | 15 | 9,329 | 1.80 | 5 | 1.46 | binh_thuong | – | Không | How Millions of Tuna Are Harvested & Processed – Inside Modern Tuna Processing Plants |
+| 2025-10-10 | 402 | HnOpm8tdpq4 | 4,773 | 15 | 9,329 | 0.51 | 5 | 1.46 | binh_thuong | – | Không | How Millions of Crocodiles Are Farmed and Processed – Inside Surprising Crocodile Farm Industry |
+| 2025-10-11 | 401 | rVBjTWx7V8c | 11,428 | 15 | 9,329 | 1.22 | 5 | 3.29 | binh_thuong | – | Không | How Millions of Big-Footed Chickens Are Processed Daily – Inside the Global Poultry Meat Industry |
+| 2025-10-12 | 400 | fqkxIhqsAo0 | 13,644 | 15 | 9,329 | 1.46 | 5 | 3.29 | binh_thuong | – | Không | How Millions of Mink Fur Are Raised & Harvested – Inside the Global Fur Farming Industry |
+| 2025-10-13 | 399 | xWMfc5DiRzE | 35,018 | 15 | 9,329 | 3.75 | 5 | 2.64 | dang_ghi | – | Không | How Millions of Tons of Shrimp Are Caught and Processed — Inside the U.S. Shrimp Industry |
+| 2025-10-14 | 398 | 5tA305-7sLQ | 30,736 | 15 | 11,428 | 2.69 | 5 | 2.09 | hoi_cao | – | Không | How Millions of Sardines Are Harvested & Processed – Inside Asia’s Seafood Industry |
+| 2025-10-15 | 397 | -AJUUuBYb2s | 7,010 | 15 | 11,761 | 0.60 | 5 | 2.03 | binh_thuong | – | Không | How Millions of Corned Beef Cans Are Produced Every Year — Inside America’s Corned Beef Factory |
+| 2025-10-16 | 396 | MLyF-0aiCaw | 41,620 | 15 | 11,428 | 3.64 | 5 | 1.51 | dang_ghi | – | Không | How Millions of Snakes Are Raised and Skinned — Inside the Giant Processing Snake Skin Factory |
+| 2025-10-17 | 395 | B7Cj5ZVM52A | 24,651 | 15 | 12,174 | 2.02 | 5 | 1.41 | hoi_cao | – | Không | How Millions of Wagyu Cattle Are Raised & Processed For Luxury Beef – Inside Modern Wagyu Industry |
+| 2025-10-18 | 394 | zkAPrheJXPE | 7,156 | 15 | 13,644 | 0.52 | 5 | 1.26 | binh_thuong | – | Không | How Millions of Sea Urchins Are Raised Indoors — Inside Japan’s Advanced Sea Urchin Farm Industry |
+| 2025-10-19 | 393 | COCQ-dVZINE | 23,895 | 15 | 13,644 | 1.75 | 5 | 1.26 | binh_thuong | – | Không | How Millions of Goats Are Raised for Fiber — Inside the Global Goat Hair Harvesting Industry |
+| 2025-10-20 | 392 | OvX2I8wQ-i8 | 7,447 | 15 | 14,155 | 0.53 | 5 | 1.22 | binh_thuong | – | Không | How Millions of Dairy Cows Are Raised & Processed – Inside Advanced Dairy Farming Technology |
+| 2025-10-21 | 391 | OQvzxyYV1lU | 17,200 | 15 | 14,155 | 1.22 | 5 | 0.89 | binh_thuong | – | Không | How Millions of Wild Boars Are Farmed for Meat – Inside Modern Wild Boar Processing Factories |
+| 2025-10-22 | 390 | GhhxZw_4NlE | 77,215 | 15 | 16,776 | 4.60 | 5 | 0.34 | dang_ghi | – | Không | How Millions of Tilapia Are Raised & Processed For Meat – Inside the Tilapia Farming Industry |
+| 2025-10-23 | 389 | ZLchKVLe8MY | 5,750 | 15 | 16,776 | 0.34 | 5 | 0.76 | binh_thuong | – | Không | How Millions of Silkworms Are Farmed & Harvested for Silk – Inside the Silk Worm Farm Industry |
+| 2025-10-24 | 388 | cgduueadg08 | 78,104 | 15 | 16,776 | 4.66 | 5 | 0.76 | dang_ghi | – | Không | How Millions of Rabbits Are Raised & Processed for Meat – Inside the Modern Rabbit Farming Industry |
+| 2025-10-25 | 387 | HbIkx3RjbOA | 12,666 | 15 | 17,200 | 0.74 | 4 | – | binh_thuong | – | Không | How Millions of Pufferfish Are Farmed and Processed for Sashimi – Inside Japan’s Pufferfish Harvest |
+| 2025-10-25 | 387 | 0nJzoJHZnMw | 2,228 | 15 | 17,200 | 0.13 | 3 | – | binh_thuong | – | Không | 31 America’s Giant Harvest 💥 Millions of Tons of Crops Collected Every Year |
+| 2025-10-26 | 386 | 5oIahtj0Sh0 | 3,378 | 15 | 17,200 | 0.20 | 2 | – | binh_thuong | – | Không | How Millions of Pearls Are Raised & Processed Each Year – Inside Modern Pearl Insight Factories |
+| 2025-10-27 | 385 | xo44SiOAc94 | 15,414 | 15 | 17,200 | 0.90 | 1 | – | binh_thuong | – | Không | How Millions of Turkeys Are Raised and Processed for Meat – Inside America’s Turkey Farm Industry |
+| 2025-10-27 | 385 | ShVKkGMLcNk | 17,103 | 15 | 15,414 | 1.11 | 0 | – | binh_thuong | – | Không | Unbelievable Harvest Race 2025 💥 How Farms Collect Millions of Tons of Produce Everyday |

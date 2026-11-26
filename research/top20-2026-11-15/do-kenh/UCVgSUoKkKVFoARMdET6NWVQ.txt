@@ -1,0 +1,150 @@
+# Đo kênh: UCVgSUoKkKVFoARMdET6NWVQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 328 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 16,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-04 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 2,886 |
+| cao_nhat | 8,568 |
+| thap_nhat | 461 |
+| phan_tan | 2.97 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.15 |
+| trung_vi_chia_sub | 0.18 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 1.63 |
+| ngay_video_dau | 2025-07-29 |
+| tuoi_tu_video_dau | 475 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 33.68 |
+| sub_moi_video | 48.78 |
+| video_30_ngay | 4 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-07-29 | 475 | JV2uL1TGdlg | 2,439 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Amazing Thai Farm Harvests Jackfruit for Jackfruit Snacks - Thailand Street Food |
+| 2025-07-30 | 474 | 9Dcpnf_NwDg | 21,962 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Indian Farmers Harvest Toddy Palmyra Fruit and Palmyra Palm Jaggery This Way |
+| 2025-08-01 | 472 | 01ckhnOfBhQ | 2,868 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Chinese Farmers Harvest 1,000 kg of Green Bamboo Shoots – Giant Bamboo Shoot Harvesting |
+| 2025-08-03 | 470 | fykeYPnbTDs | 10,479 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Farmers Harvest Smile Nuts Pistachios This Way - Pistachio Processing Factory |
+| 2025-08-04 | 469 | H4CwrrLHJqk | 3,763 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to Harvest Bananas Using Cableway Systems \| Banana Processing in Factory |
+| 2025-08-05 | 468 | oHhcmUl_IG8 | 4,085 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Farmers Harvest Durians: Amazing Durian Harvesting and Processing |
+| 2025-08-06 | 467 | IBue0mpJTE4 | 97,796 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Taiwan Farmers Harvest Rice - Amazing Rice Planting and Harvesting Process |
+| 2025-08-07 | 466 | xp5VyHxbROw | 6,748 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Million Tons of Sweet Potatoes Are Harvested - Amazing Sweet Potato Farming & Harvesting |
+| 2026-04-04 | 226 | TpRrBN-SVfY | 1,771 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Farmers Grow, Harvest and Dry Millions of Apricots \| Inside Apricot Farming |
+| 2026-04-05 | 225 | 4TEuEdf0Bts | 6,998 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Turkish Farmers Harvest and Dry Millions of Figs \| Inside Figs Farming |
+| 2026-04-06 | 224 | PTIUlgjef9o | 1,516 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How American Farmers Harvest and Process Millions of Plums \| Inside Plums Farming |
+| 2026-04-07 | 223 | t789Gsyfv00 | 2,570 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Iranian Farmers Harvest Millions of Saffron \| Inside Saffron Farming |
+| 2026-04-08 | 222 | R2mVSnV920U | 2,565 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Farmers Harvest Millions of Bananas for Banana Chips Production \| Inside Banana Farming |
+| 2026-04-09 | 221 | e6zQWFx84HY | 168,611 | 5 | 2,565 | 65.74 | 5 | 0.58 | can_kiem_ky | – | Không | How Thailand Farmers Harvest and Process Millions of Tamarinds \| Inside Tamarind Farming |
+| 2026-04-10 | 220 | GIVhuRQC2wA | 2,375 | 6 | 2,568 | 0.93 | 5 | 0.58 | binh_thuong | – | Không | How Farmers Grow, Harvest and Process Millions of Custard Apples \| Inside Custard Apple Farming |
+| 2026-04-11 | 219 | Y0k_PkxHn6o | 1,922 | 7 | 2,565 | 0.75 | 5 | 0.54 | binh_thuong | – | Không | How Vietnamese Farmers Harvest Millions of Black Pepper \| Inside Black Pepper Farming |
+| 2026-04-12 | 218 | LymjWksNhCc | 723 | 8 | 2,470 | 0.29 | 5 | 0.56 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Cassava \| Inside Cassava Farming |
+| 2026-04-13 | 217 | ELj784mhNDU | 1,485 | 9 | 2,375 | 0.63 | 5 | 0.58 | binh_thuong | – | Không | How Farmers Harvest Millions of Asparagus Efficiently \| Inside Asparagus Farming |
+| 2026-04-14 | 216 | BrCQWCqHnGg | 1,173 | 10 | 2,148 | 0.55 | 5 | 0.76 | binh_thuong | – | Không | How Farmers Harvest And Process Millions of Hazelnuts into Nutella \| Inside Hazelnut Farming |
+| 2026-04-15 | 215 | aExjU_Z_UjQ | 2,561 | 11 | 1,922 | 1.33 | 5 | 0.73 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Prickly Cactus \| Inside Prickly Cactus Farming |
+| 2026-04-16 | 214 | 5CtdIVg5qjA | 1,379 | 12 | 2,148 | 0.64 | 5 | 0.66 | binh_thuong | – | Không | How Farmers Grow, Harvest and Process Millions of Mushrooms \| Inside Mushroom Farming |
+| 2026-04-17 | 213 | Jt7ws899DMM | 1,316 | 13 | 1,922 | 0.68 | 5 | 0.85 | binh_thuong | – | Không | How Industrial Farmers Harvest Millions of Pears with Advanced Technology \| Inside Pear Farming |
+| 2026-04-18 | 212 | hjBCKHLYAng | 2,178 | 14 | 1,846 | 1.18 | 5 | 0.76 | binh_thuong | – | Không | How Farmers Harvest Millions of Cocoa Beans for Chocolate Making \| Inside Cocoa Farming |
+| 2026-04-19 | 211 | dwrcwR_c5HI | 1,629 | 15 | 1,922 | 0.85 | 5 | 0.66 | binh_thuong | – | Không | How Farmers Grow and Harvest Millions of Bean Sprouts Every Day \| Inside Bean Sprouts Farming |
+| 2026-04-20 | 210 | Q6OMg8rFXq4 | 1,409 | 15 | 1,922 | 0.73 | 5 | 0.66 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Dates in Massive Factories \| Inside Date Farming |
+| 2026-04-21 | 209 | XFyHBd9NzzA | 703 | 15 | 1,629 | 0.43 | 5 | 1.30 | binh_thuong | – | Không | How Turkish Farmers Process Millions of Figs with Modern Machines \| Inside Figs Farming |
+| 2026-04-22 | 208 | o1B5TDbqoZo | 4,384 | 15 | 1,629 | 2.69 | 5 | 0.78 | hoi_cao | – | Không | How Farmers Harvest and Process Millions of Tobacco Leaves \| Inside Tobacco Farming |
+| 2026-04-23 | 207 | EC-4eD--A7Y | 915 | 15 | 1,629 | 0.56 | 5 | 1.30 | binh_thuong | – | Không | How Japanese Farmers Harvest and Process Millions of Lotus Roots \| Inside Lotus Root Farming |
+| 2026-04-24 | 206 | 5oV8irl5eQs | 1,267 | 15 | 1,485 | 0.85 | 5 | 1.43 | binh_thuong | – | Không | How Southeast Asian Farmers Harvest & Produce Millions of Longans \| Inside Longan Farming |
+| 2026-04-25 | 205 | yTFhFt09nUA | 2,123 | 15 | 1,409 | 1.51 | 5 | 1.56 | binh_thuong | – | Không | How Farmers Grow, Harvest and Process Millions of Red Reishi \| Inside Red Reishi Farming |
+| 2026-04-26 | 204 | VaqKQ4xq8fU | 2,194 | 15 | 1,409 | 1.56 | 5 | 0.95 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Garlic at Massive Scale \| Inside Garlic Farming |
+| 2026-04-27 | 203 | D8giE8pm-Oc | 862 | 15 | 1,409 | 0.61 | 5 | 2.65 | binh_thuong | – | Không | How Japanese Farmers Harvest and Process Millions of Matcha \| Inside Matcha Farming |
+| 2026-04-28 | 202 | oc4NjuLaCmc | 4,507 | 15 | 1,409 | 3.20 | 5 | 2.65 | dang_ghi | – | Không | How Indian Farmers Produce Millions of Palmyra Sugar and Fruit \| Inside Palmyra Farming |
+| 2026-04-29 | 201 | ruUCjXZdcAE | 1,341 | 15 | 1,409 | 0.95 | 5 | 3.74 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Bamboo for Eco Products \| Inside Bamboo Farming |
+| 2026-04-30 | 200 | TKDlzZ6jJg8 | 3,735 | 15 | 1,409 | 2.65 | 5 | 3.74 | hoi_cao | – | Không | How Iranian Farmers Harvest and Process Millions of Pomegranates \| Inside Pomegranates Farming |
+| 2026-05-01 | 199 | _dE64LeE-Ys | 1,196 | 15 | 1,409 | 0.85 | 5 | 3.74 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Damask Roses \| Inside Damask Rose Farming |
+| 2026-05-02 | 198 | GB-QLAVGH0k | 5,651 | 15 | 1,409 | 4.01 | 5 | 2.95 | dang_ghi | – | Không | How American Farmers Harvest Millions of Plums Efficiently \| Inside Plums Farming |
+| 2026-05-03 | 197 | VFlT5T_pBP8 | 6,812 | 15 | 1,629 | 4.18 | 5 | 1.34 | dang_ghi | – | Không | How Thailand Farmers Harvest Millions of Rambutans \| Inside Rambutan Farming |
+| 2026-05-04 | 196 | xMdE702yvfo | 5,263 | 15 | 1,629 | 3.23 | 5 | 1.34 | dang_ghi | – | Không | How Japanese Farmers Harvest Millions of Expensive Grapes \| Inside Japanese Grape Farming |
+| 2026-05-05 | 195 | TjHG7YlIKOA | 2,188 | 15 | 2,123 | 1.03 | 5 | 1.96 | binh_thuong | – | Không | How Thai Farmers Process Millions of Tamarind into Sugared Tamarind \| Inside Tamarind Farming |
+| 2026-05-06 | 194 | ytIu92FfEN0 | 4,161 | 15 | 2,188 | 1.90 | 5 | 3.61 | binh_thuong | – | Không | How Turkish Farmers Harvest Premium Figs with Modern Technology \| Inside Figs Farming |
+| 2026-05-07 | 193 | LDGJ8ddxBIA | 1,556 | 15 | 2,194 | 0.71 | 5 | 3.60 | binh_thuong | – | Không | How American Farmers Harvest Millions of Pineapples \| Inside Pineapple Processing Factory |
+| 2026-05-08 | 192 | FVdlDHt8unc | 883 | 15 | 2,188 | 0.40 | 5 | 3.61 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Brussels Sprouts \| Inside Tiny Cabbage Farming |
+| 2026-05-09 | 191 | 5Z0RDJYr6bk | 7,889 | 15 | 2,188 | 3.61 | 5 | 1.42 | dang_ghi | – | Không | How Australian Farmers Harvest & Process Millions of Ginger \| Inside Ginger Farming |
+| 2026-05-10 | 190 | dOWXIrkYGyA | 55,753 | 15 | 2,194 | 25.41 | 5 | 0.54 | can_kiem_ky | – | Không | How Indian Farmers Harvest Millions of Palmyra Palms for Jaggery and Toddy \| Inside Palmyra Farming |
+| 2026-05-11 | 189 | hOb3UtHLoFY | 8,656 | 15 | 3,735 | 2.32 | 5 | 0.32 | hoi_cao | – | Không | How US Farmers Harvest and Process Millions of Strawberries \| Inside Strawberries Farming |
+| 2026-05-12 | 188 | Gbc1Zm_-dZc | 1,192 | 15 | 4,161 | 0.29 | 5 | 0.25 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Prickly Pears \| Inside Prickly Pear Farming |
+| 2026-05-13 | 187 | UPxgpVCCBdQ | 3,099 | 15 | 4,161 | 0.74 | 5 | 0.25 | binh_thuong | – | Không | How Millions of Chili Peppers Are Harvested and Processed Worldwide \| Inside Chili Pepper Farming |
+| 2026-05-14 | 186 | ux_Qe0yDeEA | 565 | 15 | 3,735 | 0.15 | 5 | 0.27 | binh_thuong | – | Không | How Farmers Harvest Millions of Water Lily Nuts \| Inside Lily Nuts Farming |
+| 2026-05-15 | 185 | eWk9yyOZr0M | 1,024 | 15 | 3,735 | 0.27 | 5 | 0.36 | binh_thuong | – | Không | How Thai Farmers Harvest and Process Millions of Langsats \| Inside Langsat Farming |
+| 2026-05-16 | 184 | -vNxXbznIL0 | 2,008 | 15 | 3,099 | 0.65 | 5 | 0.26 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Raspberries \| Inside Raspberry Farming |
+| 2026-05-17 | 183 | YeRryUp5oCE | 767 | 15 | 3,099 | 0.25 | 5 | 0.26 | binh_thuong | – | Không | How Industrial Farmers Harvest Millions of Pistachios \| Inside Pistachio Farming \| Shocking Results |
+| 2026-05-18 | 182 | C00q2vZYKt0 | 1,327 | 15 | 2,188 | 0.61 | 5 | 0.31 | binh_thuong | – | Không | How Millions of Sapodillas Are Harvested and Processed \| Inside Sapodilla Farming |
+| 2026-05-19 | 181 | 1Pb1-z-WZiU | 795 | 15 | 2,008 | 0.40 | 5 | 0.33 | binh_thuong | – | Không | How Millions of Tamarinds Are Harvested and Processed \| Inside Tamarind Farming |
+| 2026-05-20 | 180 | fRjK3TKFJwA | 2,130 | 15 | 1,556 | 1.37 | 5 | 0.35 | binh_thuong | – | Không | How Japanese Farmers Harvest and Process Millions of Luxury Grapes \| Inside Japanese Grape Farming |
+| 2026-05-21 | 179 | pH95KacsvG8 | 548 | 15 | 1,556 | 0.35 | 5 | 0.43 | binh_thuong | – | Không | How Korean Farmers Harvest and Process Millions of Ginseng Roots \| Inside Korea’s Ginseng Farming |
+| 2026-05-22 | 178 | 02CirP48ETU | 401 | 15 | 1,327 | 0.30 | 5 | 1.20 | binh_thuong | – | Không | How Farmers Grow, Harvest and Process Millions of Red Reishi \| Inside Red Reishi Farming |
+| 2026-05-23 | 177 | _CupUYPJCho | 670 | 15 | 1,192 | 0.56 | 5 | 4.00 | binh_thuong | – | Không | How American Farmers Harvest and Produce Millions of Cannabis Plants \| Inside Cannabis Farming |
+| 2026-05-24 | 176 | FOXfgMk7fHg | 1,586 | 15 | 1,192 | 1.33 | 5 | 4.00 | binh_thuong | – | Không | How Farmers Harvest Millions of Peaches for Canned Peach Production \| Inside Peach Farming |
+| 2026-05-25 | 175 | 4ssjH6VCGMM | 500 | 15 | 1,192 | 0.42 | 5 | 4.00 | binh_thuong | – | Không | How Farmers Harvest Millions of Asparagus Using Modern Machines \| Inside Asparagus Farming |
+| 2026-05-26 | 174 | pl-mLyW93gM | 6,564 | 15 | 1,024 | 6.41 | 5 | 4.54 | manh | – | Không | How Indian Farmers Harvest Millions of Palmyra Palms for Toddy and Jaggery \| Inside Palmyra Farming |
+| 2026-05-27 | 173 | lpexMefYgdo | 4,769 | 15 | 1,024 | 4.66 | 5 | 2.47 | dang_ghi | – | Không | How Thai Farmers Harvest and Process Millions of Mangosteens \| Inside Mangosteen Farming |
+| 2026-05-28 | 172 | 4bU0JWvD2IM | 4,937 | 15 | 1,024 | 4.82 | 5 | 2.47 | dang_ghi | – | Không | How American Farmers Harvest Millions of Cantaloupes Efficiently \| Inside Cantaloupe Farming |
+| 2026-05-29 | 171 | a_fcnINOYjQ | 4,647 | 15 | 1,024 | 4.54 | 5 | 2.47 | dang_ghi | – | Không | How Australian Farmers Harvest Millions of Mangoes \| Inside Mango Farming |
+| 2026-05-30 | 170 | tQJEtmeq9vA | 1,982 | 15 | 1,327 | 1.49 | 5 | 1.90 | binh_thuong | – | Không | How Farmers Harvest Millions of Rice Using Advanced Technology \| Inside Rice Farming |
+| 2026-05-31 | 169 | 7Cu_2Yxx7O4 | 2,527 | 15 | 1,586 | 1.59 | 5 | 1.22 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Bell Peppers \| Inside Bell Pepper Farming |
+| 2026-06-01 | 168 | E1iwI1Kh8oA | 1,348 | 15 | 1,586 | 0.85 | 5 | 1.72 | binh_thuong | – | Không | How American Farmers Harvest and Process Millions of Sugarcane \| Inside Sugarcane Farming |
+| 2026-06-02 | 167 | lDj1BFbLWzg | 3,362 | 15 | 1,586 | 2.12 | 5 | 1.22 | hoi_cao | – | Không | How Turkish Farmers Harvest Millions of Figs \| Inside Figs Farming |
+| 2026-06-03 | 166 | CYkEZcDPWi8 | 4,231 | 15 | 1,982 | 2.13 | 5 | 0.98 | hoi_cao | – | Không | Massive 2026 Harvest in the U.S - How Millions of Tons of Fruits & Vegetables Are Harvested |
+| 2026-06-04 | 165 | u-AoA48g6yg | 1,941 | 15 | 2,130 | 0.91 | 5 | 0.74 | binh_thuong | – | Không | How Brazilian Farmers Harvest and Process Millions of Jabuticabas \| Inside Jabuticaba Farming |
+| 2026-06-05 | 164 | VJPjRPi3-II | 1,335 | 15 | 1,982 | 0.67 | 5 | 0.79 | binh_thuong | – | Không | How Farmers Harvest Millions of Peaches for Canned Peach Production \| Inside Peach Farming |
+| 2026-06-06 | 163 | 3zs0XJzdrFA | 2,720 | 15 | 1,982 | 1.37 | 5 | 0.69 | binh_thuong | – | Không | Amazing 2026 Peak Harvest Season - How Farmers Harvest Millions of Tons of Fruits & Vegetables |
+| 2026-06-07 | 162 | 5UsVRqQFlV4 | 932 | 15 | 2,527 | 0.37 | 5 | 0.62 | binh_thuong | – | Không | How Japanese Farmers Harvest and Process Millions of Green Tea Leaves \| Inside Green Tea Farming |
+| 2026-06-08 | 161 | aFg_9ocs3bE | 2,581 | 15 | 2,527 | 1.02 | 5 | 0.62 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Oranges \| Inside Orange Farming |
+| 2026-06-09 | 160 | URDmj4KM6As | 1,574 | 15 | 2,581 | 0.61 | 5 | 0.69 | binh_thuong | – | Không | How Vietnamese Farmers Harvest and Process Millions of Black Pepper \| Inside Black Pepper Farming |
+| 2026-06-10 | 159 | GBIBcJAowRw | 904 | 15 | 2,581 | 0.35 | 5 | 0.77 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Artichokes \| Inside Artichoke Farming |
+| 2026-06-11 | 158 | bb0GZiMW20Y | 1,365 | 15 | 2,527 | 0.54 | 5 | 0.96 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Cucumbers \| Inside Cucumber Farming |
+| 2026-06-12 | 157 | bmhK1OCD37Y | 4,176 | 15 | 1,982 | 2.11 | 5 | 1.22 | hoi_cao | – | Không | How Farmers Harvest and Process Millions of Oil Palm Fruits \| Inside Palm Oil Farming |
+| 2026-06-13 | 156 | _KbgsfGEjd0 | 1,787 | 15 | 1,982 | 0.90 | 5 | 2.15 | binh_thuong | – | Không | How US Farmers Harvest Millions of Green Cabbages \| Inside Green Cabbages Farming |
+| 2026-06-14 | 155 | zS4eGZO0S9I | 2,424 | 15 | 1,941 | 1.25 | 5 | 2.19 | binh_thuong | – | Không | How US Farmers Harvest and Process Millions of Sorghum \| Inside Sorghum Farming |
+| 2026-06-15 | 154 | XmlYZbMg1Q4 | 1,977 | 15 | 1,941 | 1.02 | 5 | 2.19 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Ginger \| Inside Ginger Farming |
+| 2026-06-16 | 153 | RuJyLjrL1G0 | 4,309 | 15 | 1,941 | 2.22 | 5 | 2.19 | hoi_cao | – | Không | How American Farmers Harvest and Process Millions of Cantaloupes \| Inside Cantaloupe Farming |
+| 2026-06-17 | 152 | DpHizhBuP5Q | 6,347 | 15 | 1,977 | 3.21 | 5 | 1.20 | dang_ghi | – | Không | How Indian Farmers Harvest Millions of Palmyra Palms for Toddy and Jaggery \| Inside Palmyra Farming |
+| 2026-06-18 | 151 | UOp95X10IGA | 4,257 | 15 | 1,977 | 2.15 | 5 | 1.20 | hoi_cao | – | Không | How Farmers Harvest and Process Millions of Raspberries \| Inside Raspberry Farming |
+| 2026-06-19 | 150 | sXnFml1C2xk | 2,368 | 15 | 1,977 | 1.20 | 5 | 1.28 | binh_thuong | – | Không | How Millions of Grapes Are Harvested and Processed \| Inside Grape Farming |
+| 2026-06-20 | 149 | _19_slFXW2A | 1,002 | 15 | 2,368 | 0.42 | 5 | 1.07 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Apples \| Inside Apple Farming |
+| 2026-06-21 | 148 | k3JoT_s8LN0 | 4,830 | 15 | 2,368 | 2.04 | 5 | 0.71 | hoi_cao | – | Không | How American Farmers Harvest & Process Millions of Watermelons This Way \| Inside Watermelon Farming |
+| 2026-06-22 | 147 | BSwwSjAkaa0 | 1,680 | 15 | 2,368 | 0.71 | 5 | 1.07 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Sunflowers \| Inside Sunflower Farming |
+| 2026-06-23 | 146 | bFDCTwAXnf8 | 6,037 | 15 | 2,368 | 2.55 | 5 | 0.93 | hoi_cao | – | Không | 2026’s Most Profitable Harvests – How Massive Crops Make Farmers Millions Every Year |
+| 2026-06-24 | 145 | E-XmV-eFEoU | 2,531 | 15 | 2,368 | 1.07 | 5 | 0.93 | binh_thuong | – | Không | How Brazilian Farmers Harvest and Process Millions of Papayas \| Inside Papaya Farming |
+| 2026-06-30 | 139 | snJCQB9y0XU | 780 | 15 | 2,424 | 0.32 | 5 | 0.91 | binh_thuong | – | Không | How California Farmers Grow and Harvest Millions of Strawberries \| Inside Strawberry Farming |
+| 2026-07-09 | 130 | o4ydO-UgTks | 461 | 15 | 2,424 | 0.19 | 5 | 1.22 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Chamomile Flowers \| Inside Chamomile Farming |
+| 2026-07-16 | 123 | v1k6q3xdRaE | 2,968 | 15 | 2,424 | 1.22 | 5 | 1.33 | binh_thuong | – | Không | How American Farmers Grow and Harvest Millions of Cherries \| Inside Cherry Farming |
+| 2026-07-23 | 116 | BmE9Vq4bhVI | 2,196 | 15 | 2,424 | 0.91 | 5 | 1.70 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Tons of Rice \| Inside Rice Farming |
+| 2026-07-31 | 108 | znUsDck8M0s | 4,116 | 15 | 2,424 | 1.70 | 5 | 1.33 | binh_thuong | – | Không | How US Farmers Harvest Millions of Sugarcane to Produce Sugar \| Inside Sugarcane Farming |
+| 2026-08-05 | 103 | 5TzDx07zRsE | 1,643 | 15 | 2,531 | 0.65 | 5 | 2.02 | binh_thuong | – | Không | How American Farmers Grow and Harvest Millions of Pineapples \| Inside Pineapple Farming |
+| 2026-08-13 | 95 | NYYUiqmsF30 | 3,215 | 15 | 2,531 | 1.27 | 5 | 2.02 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Peaches \| Inside a Canned Peach Factory |
+| 2026-08-21 | 87 | sqyeUuPrqBc | 5,434 | 15 | 2,531 | 2.15 | 5 | 1.32 | hoi_cao | – | Không | Inside Belgium’s 30,000-Ton Dark-Room Harvest – How Farmers Grow “White Gold” Without Sunlight |
+| 2026-09-03 | 74 | xXuiF2cFy8A | 8,568 | 15 | 2,531 | 3.39 | 5 | 1.32 | dang_ghi | – | Không | How US Farmers Harvest Millions of Tons of Crops from the 2026 Season \| Farming documentary |
+| 2026-09-12 | 65 | gbV3mqNkfh8 | 1,014 | 15 | 2,531 | 0.40 | 5 | 1.32 | binh_thuong | – | Không | Inside Mexico’s 500 Million Liter Tequila Industry – How Blue Agave Is Harvested & Processed |
+| 2026-09-17 | 60 | duGInaUkbCE | 5,111 | 15 | 2,531 | 2.02 | 5 | 1.11 | hoi_cao | – | Không | How Japanese Farmers Harvest Cabbage in the Snow \| Farming Documentary |
+| 2026-10-02 | 45 | eUX1kkMTLOg | 3,346 | 15 | 2,968 | 1.13 | 5 | 0.77 | binh_thuong | – | Không | How Millions of Coconuts Are Harvested & Processed Into Water, Oil and Coir \| Coconut Farming |
+| 2026-10-09 | 38 | ioKgteqYp4Q | 2,803 | 15 | 2,968 | 0.94 | 5 | 0.29 | binh_thuong | – | Không | How Farmers Harvest & Process Millions of Onions with Modern Technology \| Farming Documentary |
+| 2026-10-16 | 31 | EJi4U6re6Zs | 8,401 | 15 | 2,968 | 2.83 | 4 | – | hoi_cao | – | Không | How Millions of Raspberries Are Harvested and Processed \| Inside Modern Raspberry Farming |
+| 2026-10-30 | 17 | _uVGDvchTs4 | 851 | 15 | 2,968 | 0.29 | 3 | – | chua_chin | – | Không | How Farmers Grow, Harvest and Process Millions of Olives \| Inside Olive Farming |
+| 2026-10-30 | 17 | -cYqWWi5rXA | 2,281 | 15 | 2,968 | 0.77 | 2 | – | chua_chin | – | Không | How Farmers Grow, Harvest and Process Millions of Beets \| Inside Beet Farming |
+| 2026-11-06 | 10 | 1r2bhP1thoU | 271 | 15 | 2,968 | 0.09 | 1 | – | chua_chin | – | Không | How Farmers Grow, Harvest and Process Millions of Chayotes \| Inside Chayote Farming |
+| 2026-11-13 | 3 | -S9LKZ7dj3A | 205 | 15 | 2,968 | 0.07 | 0 | – | chua_chin | – | Không | How Farmers Harvest and Process Millions of Coconuts for Water, Oil and Coir \| Farming Documentary |

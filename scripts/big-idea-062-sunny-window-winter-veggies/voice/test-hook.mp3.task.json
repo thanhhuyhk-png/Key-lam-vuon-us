@@ -1,0 +1,30 @@
+{
+ "id": "1653edb0-4f19-427f-96be-7f1275cbf877",
+ "created_at": "2026-10-17T09:00:45.120Z",
+ "status": "done",
+ "credit_cost": 1040,
+ "metadata": {
+  "v3": {
+   "provider": "minimax",
+   "raw_voice_id": "clone_2697441"
+  },
+  "model": "speech-02-hd",
+  "srt_url": "https://cdn.ai33.pro/v3/tts/1653edb0-4f19-427f-96be-7f1275cbf877_1792227645298.srt?name=test-hook.srt&dl=1",
+  "json_url": "https://cdn.ai33.pro/v3/tts/1653edb0-4f19-427f-96be-7f1275cbf877_1792227645298.json?name=test-hook.json&dl=1",
+  "file_name": "test-hook",
+  "multi_turn": false,
+  "voice_setting": {
+   "voice_id": "2697441"
+  },
+  "with_loudnorm": false,
+  "with_transcript": true,
+  "transcript_status": "completed",
+  "transcript_credit_cost": 135,
+  "audio_url": "https://cdn.ai33.pro/v3/tts/1653edb0-4f19-427f-96be-7f1275cbf877_1792227645298.mp3?name=test-hook.mp3&dl=1"
+ },
+ "progress": 100,
+ "type": "minimax_tts",
+ "updated_at": "2026-10-17T09:01:01.000Z",
+ "text_length": 703,
+ "text_truncated": false
+}

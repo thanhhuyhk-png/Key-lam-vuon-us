@@ -1,0 +1,150 @@
+# Đo kênh: UCnYQKfLvJcQFT5HEuhYX6uA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 662 |
+| n_trong_danh_sach | 123 |
+| n_dai | 100 |
+| n_short | 23 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 407,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2019-05-24 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 12,602 |
+| cao_nhat | 100,719 |
+| thap_nhat | 1,598 |
+| phan_tan | 7.99 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.03 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 1.90 |
+| ngay_video_dau | 2014-02-18 |
+| tuoi_tu_video_dau | 4,654 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 87.45 |
+| sub_moi_video | 615 |
+| video_30_ngay | 1 |
+| ty_trong_view_short | 0.05 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2014-02-18 | 4,654 | NplAmoOGtdE | 14,984 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | BEST SURVIVAL GEAR, Becker BK9, MORA COMPANION HEAVY DUTY; 2014 Bugout / CAMP pack product update. |
+| 2014-02-22 | 4,650 | 5xs40eDxNHs | 13,764 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | BEST EDC FLASHLIGHT? NITECORE SRT7 : VERY BRIGHT TORCH, AWESOME FLASHLIGHT |
+| 2014-03-03 | 4,641 | DxJRGOSvM1c | 15,388 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | BEST SURVIVAL GEAR?, Mora companion, light my fire, jet stream, friendly swede, and many more |
+| 2014-03-05 | 4,639 | wkTqg-Geyk8 | 44,566 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | BEST EDC / CAMP KNIFE UNDER $20? MORA COMPANION HEAVY DUTY REVIEW |
+| 2014-03-07 | 4,637 | ZD6R2TTBImM | 2,898 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Mora Bushcraft Survival Knife can make insanely crazy feather sticks! |
+| 2014-03-17 | 4,627 | lrNNFHzfNZA | 2,634 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | BEST NEW BUDGET FOLDING KNIVES!? |
+| 2014-03-18 | 4,626 | 8jFbUzciGlw | 2,143 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | SCHRADE SCHF10 and SCHF13.. First Look! |
+| 2014-03-19 | 4,625 | ki6Uw9THGok | 3,396 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Schrade SCAXE5: Tactical Survival Hatchet and Tool - Review and Testing |
+| 2019-05-24 | 2,733 | 5QbqVcvloWY | 46,998 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Catch, Cook, & Eat Grey Menace - 12 Day Survival Challenge - Day 4 |
+| 2019-05-28 | 2,729 | tU9XNhk9ncg | 47,670 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Building Permanent Bushcraft Camp - 12 Day Budget Survival Challenge - Day 5 |
+| 2019-05-31 | 2,726 | JeCgYoekdsI | 32,406 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | All My Food on Fire! 12 Day Survival Challenge - Day 6 |
+| 2019-06-04 | 2,722 | eCWgvyvyYvs | 41,769 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Overnight Shelter Building w/ Minimal Tools - 12 Day Survival Challenge - Day 7 |
+| 2019-06-07 | 2,719 | mA2XY_-shyc | 29,139 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | MUKBANG! Wilderness Edition - Day 8 - 12 Day Budget Survival Challenge |
+| 2019-06-11 | 2,715 | 3cIpSMmmhKs | 50,421 | 5 | 41,769 | 1.21 | 5 | 0.67 | binh_thuong | – | Không | World's Largest Sword & Knife Expo \| Blade Show 2019 |
+| 2019-06-14 | 2,712 | 4gZQeNGTLrE | 6,825 | 6 | 44,384 | 0.15 | 5 | 0.82 | binh_thuong | – | Không | Why I Returned my Ravin R29. |
+| 2019-06-14 | 2,712 | 4R2UPeClxOI | 36,278 | 7 | 41,769 | 0.87 | 5 | 1.39 | binh_thuong | – | Không | Food Poisoning in the Wild - Man Down! This is What Happened - Day 9 of 12 |
+| 2019-06-18 | 2,708 | RnL8LWmyDkg | 28,031 | 8 | 39,024 | 0.72 | 5 | 1.53 | binh_thuong | – | Không | Medical Crisis - I Almost Quit - Day 10 of 12 Day Budget Survival Challenge |
+| 2019-06-21 | 2,705 | NpYUiXmJqHU | 59,803 | 9 | 36,278 | 1.65 | 5 | 1.60 | binh_thuong | – | Không | Giant Feral Hogs VS Blowgun - Day 11 of 12 Day Budget Survival Challenge |
+| 2019-07-02 | 2,694 | zgUtNDA-Ank | 23,877 | 10 | 39,024 | 0.61 | 5 | 1.62 | binh_thuong | – | Không | What is the Best Survival Paracord for Every Day Carry and Survival? |
+| 2019-07-05 | 2,691 | fodBFvUSMWs | 58,220 | 11 | 36,278 | 1.60 | 5 | 1.74 | binh_thuong | – | Không | $50 Amazon Every Day Carry EDC Challenge — This Shouldn’t Be Possible |
+| 2019-07-09 | 2,687 | 7g54LMYkcDI | 88,003 | 12 | 39,024 | 2.26 | 5 | 0.62 | hoi_cao | – | Không | Cold Steel Cheap Shot vs Expensive Crossbow SHOWDOWN! |
+| 2019-07-12 | 2,684 | RMtBUei1hxE | 134,841 | 13 | 41,769 | 3.23 | 5 | 0.46 | dang_ghi | – | Không | Top 11 Survival Knives Put to the Test That You’ve Never Heard Of! |
+| 2019-07-15 | 2,681 | VirgkkfQO0g | 15,763 | 14 | 44,384 | 0.36 | 5 | 0.54 | binh_thuong | – | Không | FAT TO FIT 65 Lbs Lost - 90 Day Survival Fitness Challenge - Day 1 |
+| 2019-07-17 | 2,679 | 4d6qrRqgOhI | 63,197 | 15 | 41,769 | 1.51 | 5 | 0.51 | binh_thuong | – | Không | Survival Camping in National Forest for 72 Hours - Day 1 |
+| 2019-07-19 | 2,677 | zzreB2UT-FY | 24,077 | 15 | 41,769 | 0.58 | 5 | 0.51 | binh_thuong | – | Không | Survival Camping in a National Forest - DAY 2 - Fishing in a Thunderstorm |
+| 2019-07-23 | 2,673 | C-AOrmAldP0 | 19,412 | 15 | 36,278 | 0.54 | 5 | 0.66 | binh_thuong | – | Không | Mining Gold in a National Forest! - 72hr Survival Camping Adventure - Day 3 |
+| 2019-07-26 | 2,670 | jWQ_9yME1es | 7,362 | 15 | 36,278 | 0.20 | 5 | 0.66 | binh_thuong | – | Không | $1000 Hunting Crossbow Put to the Test You have Never Heard Of! |
+| 2019-07-30 | 2,666 | r2YK05qnNis | 65,528 | 15 | 29,139 | 2.25 | 5 | 0.83 | hoi_cao | – | Không | $30 Walmart EDC Challenge — This Shouldn’t Be Possible |
+| 2019-08-02 | 2,663 | wxp1RVMXk14 | 21,433 | 15 | 36,278 | 0.59 | 5 | 0.66 | binh_thuong | – | Không | Micro Backpacking Twig Stove Put to the Test! |
+| 2019-08-07 | 2,658 | Gsdh4uTZj8s | 24,053 | 15 | 28,031 | 0.86 | 5 | 1.66 | binh_thuong | – | Không | Survival Camping in a National Forest - The Movie |
+| 2019-08-13 | 2,652 | 63SK4WSQYGQ | 100,312 | 15 | 28,031 | 3.58 | 5 | 1.66 | dang_ghi | – | Không | $100 Amazon Survival Kit - 7 Day Survival Challenge |
+| 2019-08-16 | 2,649 | CfxdGAX03eQ | 15,807 | 15 | 28,031 | 0.56 | 5 | 4.54 | binh_thuong | – | Không | Slingshot VS Crossbow Put to the Test! |
+| 2019-08-23 | 2,642 | G444F3q87Lo | 46,409 | 15 | 24,077 | 1.93 | 5 | 5.29 | binh_thuong | – | Không | My Micro Every Day Carry - Weekly EDC Update |
+| 2019-08-27 | 2,638 | 6SHvvXfFUHQ | 19,043 | 15 | 24,077 | 0.79 | 5 | 5.29 | binh_thuong | – | Không | My Pocket Wilderness Survival Kit under $30 - Essentials Only |
+| 2019-08-29 | 2,636 | gh3HmVuhO1U | 2,677,604 | 15 | 24,077 | 111 | 5 | 5.29 | can_kiem_ky | – | Không | 25 Survival Items Every Prepper Should Stockpile - 2026 |
+| 2019-09-01 | 2,633 | 3YFSneQddOg | 127,297 | 15 | 24,077 | 5.29 | 5 | 14.51 | manh | – | Không | Hurricane Survival Kit for Families \| Beginners Guide 101 |
+| 2019-09-03 | 2,631 | 3DzsWY1HkFc | 373,205 | 15 | 24,077 | 15.50 | 5 | 14.51 | can_kiem_ky | – | Không | 20 Items Every Prepper Should Stockpile (Food Shortage Preps) Barter Items |
+| 2019-09-17 | 2,617 | K7aXe7MzEYA | 94,667 | 15 | 24,077 | 3.93 | 5 | 18.71 | dang_ghi | – | Không | My Survival Gear Prepping Stockpile |
+| 2019-09-20 | 2,614 | -uLvEh0j1mo | 42,459 | 15 | 46,409 | 0.91 | 5 | 13.86 | binh_thuong | – | Không | $3 Tarp Shelter Put to the Test! 180 Days in the Wild! |
+| 2019-09-27 | 2,607 | Q9BoN6xHQvg | 349,365 | 15 | 42,459 | 8.23 | 5 | 15.15 | manh | – | Không | 10 Best Portable Lithium-Ion Power Stations! |
+| 2019-10-01 | 2,603 | Cv4bBdnxZqw | 1,134,344 | 15 | 46,409 | 24.44 | 5 | 9.71 | can_kiem_ky | – | Không | My Every Day Carry - Weekly EDC Update Oct 2019 |
+| 2019-10-05 | 2,599 | CbF_Xd9j3UY | 450,572 | 15 | 65,528 | 6.88 | 5 | 2.03 | manh | – | Không | My Most Recommended Survival Gear Under $30 - Week 8 |
+| 2019-10-09 | 2,595 | ajPCW41YWOU | 643,232 | 15 | 94,667 | 6.79 | 5 | 1.41 | manh | – | Không | 21 Camping Stoves Put to the Test |
+| 2019-10-12 | 2,592 | OOfke8IUScw | 1,177,760 | 15 | 100,312 | 11.74 | 5 | 1.33 | can_kiem_ky | – | Không | $20 Dollar Tree Survival Kit - 7 Day Survival Challenge - The Build |
+| 2019-10-16 | 2,588 | -VnRX-JSMCc | 133,232 | 15 | 127,297 | 1.05 | 5 | 2.18 | binh_thuong | – | Không | $1 Camping Tarp vs $350 Camping Tarp |
+| 2019-10-19 | 2,585 | Z13_8wMHIPE | 113,349 | 15 | 133,232 | 0.85 | 5 | 2.08 | binh_thuong | – | Không | 30 Second Emergency Shelter Survival Kit Put to the Test! |
+| 2019-10-23 | 2,581 | citzjquGiJo | 7,792 | 15 | 133,232 | 0.06 | 5 | 2.08 | binh_thuong | – | Không | Young Child Selflessly Giving Food & Water To The Homeless |
+| 2019-11-07 | 2,566 | TvTmy12bj_0 | 338,411 | 15 | 133,232 | 2.54 | 5 | 1.22 | hoi_cao | – | Không | 10 Easy Tarp Shelters for Survival |
+| 2019-11-10 | 2,563 | bv7dWz2SdVk | 585,077 | 15 | 338,411 | 1.73 | 5 | 0.43 | binh_thuong | – | Không | 7 Day $20 Dollar Tree Survival Challenge - Day 1 - Into the Wild |
+| 2019-11-14 | 2,559 | 0-v_6CYvawg | 277,555 | 15 | 349,365 | 0.79 | 5 | 0.40 | binh_thuong | – | Không | Dollar Store Super Shelter! 7 Day $20 Dollar Tree Survival Challenge - Day 2 |
+| 2019-11-17 | 2,556 | Ieoz4xixXmo | 162,548 | 15 | 338,411 | 0.48 | 5 | 0.31 | binh_thuong | – | Không | 7 Day $20 Dollar Tree Survival Challenge - Day 3 - Toxic Plants |
+| 2019-11-21 | 2,552 | sG807-Tx3VM | 140,368 | 15 | 338,411 | 0.41 | 5 | 0.27 | binh_thuong | – | Không | 7 Day $20 Dollar Tree Survival Challenge - Day 4 - Primitive Fish Trap |
+| 2019-11-24 | 2,549 | -r95F2A68H4 | 144,134 | 15 | 277,555 | 0.52 | 5 | 0.32 | binh_thuong | – | Không | 7 Day $20 Dollar Tree Survival Challenge - Day 5 - Winter Survival Shelter |
+| 2019-11-28 | 2,545 | 5cu2Ic2tl78 | 106,290 | 15 | 277,555 | 0.38 | 5 | 0.25 | binh_thuong | – | Không | 7 Day $20 Dollar Tree Survival Challenge - Day 6 - Deep Fried Mystery Meat! |
+| 2019-12-02 | 2,541 | pdcRMjwFZ4s | 68,953 | 15 | 277,555 | 0.25 | 5 | 0.16 | binh_thuong | – | Không | 7 Day $20 Dollar Tree Survival Challenge - Day 7 - Survival |
+| 2019-12-12 | 2,531 | LEDV23hgVNg | 91,057 | 15 | 162,548 | 0.56 | 5 | 0.28 | binh_thuong | – | Không | My 7 Day Beginner Survival Challenge - The Survival Kit Build |
+| 2020-01-12 | 2,500 | Jv4uDDcvM0E | 87,574 | 15 | 144,134 | 0.61 | 5 | 0.32 | binh_thuong | – | Không | Into the Wild - 7 Day Beginner Survival Challenge Texas - Day 1 |
+| 2020-01-23 | 2,489 | H-tcb9PJu7Q | 45,548 | 15 | 140,368 | 0.32 | 5 | 0.55 | binh_thuong | – | Không | Chasing Texas Monsters - 7 Day Beginner Survival Challenge Texas! Day 2 |
+| 2020-01-30 | 2,482 | tpHkdNHZQO0 | 31,290 | 15 | 133,232 | 0.23 | 5 | 1.07 | binh_thuong | – | Không | Catch Clean Cook! CLAM DIGGING! 7 Day Beginner Survival Challenge Texas - Day 3 |
+| 2020-03-12 | 2,440 | kgfgiAqZYkQ | 26,744 | 15 | 113,349 | 0.24 | 5 | 1.38 | binh_thuong | – | Không | 7 Day Beginner Survival Challenge Texas - Day 4 |
+| 2020-03-18 | 2,434 | 8iQwiCAdrrg | 768,028 | 15 | 106,290 | 7.23 | 5 | 1.48 | manh | – | Không | 12 Forgotten Items Every Prepper Should Stockpile (Food Storage Preps) |
+| 2020-03-21 | 2,431 | TVLMYcwpmpU | 77,819 | 15 | 106,290 | 0.73 | 5 | 1.48 | binh_thuong | – | Không | Costco Survival Stockpile! Your Last Chance to Prepare! |
+| 2020-03-24 | 2,428 | t9T9AyIbzKs | 214,973 | 15 | 106,290 | 2.02 | 5 | 1.48 | hoi_cao | – | Không | Top 10 Survival Items COSTCO Every Prepper Should Stockpile - 90 Days of Preps |
+| 2020-03-27 | 2,425 | aXm4AnBoB9Y | 142,242 | 15 | 106,290 | 1.34 | 5 | 2.71 | binh_thuong | – | Không | Top 15 Survival Items DOLLAR TREE Every Prepper Should Stockpile! |
+| 2020-03-31 | 2,421 | epJ1qSl5jpM | 156,869 | 15 | 106,290 | 1.48 | 5 | 2.71 | binh_thuong | – | Không | 24 Easy Survival Skills Everyone Should Learn Now! |
+| 2020-04-07 | 2,414 | tf7WUC2QI2A | 288,521 | 15 | 106,290 | 2.71 | 5 | 1.03 | hoi_cao | – | Không | My Every Day Carry - Weekly EDC Update April 2020 |
+| 2020-04-23 | 2,398 | iRNJlZENaxE | 47,526 | 15 | 106,290 | 0.45 | 5 | 1.03 | binh_thuong | – | Không | Top 10 Survival Face Masks Put to the Test! |
+| 2020-04-30 | 2,391 | ZyI9V-Kef7M | 4,608,352 | 15 | 91,057 | 50.61 | 5 | 0.52 | can_kiem_ky | – | Không | 15 Survival Foods Every Prepper Should Stockpile - 2026 |
+| 2020-05-14 | 2,377 | TSoAhSIkyVc | 847,146 | 15 | 91,057 | 9.30 | 5 | 0.45 | manh | – | Không | 30 Survival Items Under $30 Actually Worth Buying Now! |
+| 2021-03-26 | 2,061 | Iv-Y4bpY6Vk | 109,195 | 15 | 91,057 | 1.20 | 5 | 0.45 | binh_thuong | – | Không | 7 Day Beginner Survival Challenge Texas - The Movie |
+| 2021-04-06 | 2,050 | 8qjutWoEr1A | 40,760 | 15 | 109,195 | 0.37 | 5 | 0.16 | binh_thuong | – | Không | My Every Day Carry - Weekly EDC Update April 2021 |
+| 2021-04-14 | 2,042 | IiS5HBXXOZs | 47,108 | 15 | 109,195 | 0.43 | 5 | 0.16 | binh_thuong | – | Không | My 6 Day Blizzard Survival Kit - Winter Camping in Snow Storm - Rocky Mountains |
+| 2021-04-27 | 2,029 | yUXkbMM0VZ0 | 17,561 | 15 | 109,195 | 0.16 | 5 | 0.08 | binh_thuong | – | Không | Into the Wild - 6 Day Winter Camping in a Snow Storm - Rocky Mountains |
+| 2021-05-01 | 2,025 | 2ca9zO6rll4 | 17,993 | 15 | 109,195 | 0.16 | 5 | 0.08 | binh_thuong | – | Không | Ordering Fast Food in a Armored Tank! Drive Thru at Carls Jr |
+| 2021-05-12 | 2,014 | kgcWRVWbR5k | 47,010 | 15 | 109,195 | 0.43 | 5 | 0.08 | binh_thuong | – | Không | Primitive Survival Shelter - Building Up Base Camp - Winter Camping Rocky Mountains - Day 2 |
+| 2025-11-13 | 368 | YcThmcm9f5w | 8,723 | 15 | 109,195 | 0.08 | 5 | 0.08 | binh_thuong | – | Không | My Case for Jesus Christ in Under 30 minutes! |
+| 2025-12-03 | 348 | 2SqD1Vr0Jq4 | 6,442 | 15 | 77,819 | 0.08 | 5 | 0.11 | binh_thuong | – | Không | 7 Days with Zero Food in Texas - Survival Kit Gear Build |
+| 2025-12-05 | 346 | YrErVGIX430 | 8,493 | 15 | 47,526 | 0.18 | 5 | 0.10 | binh_thuong | – | Không | 7 Day No Food or Water Camping Challenge — Day 1: Into the Wild |
+| 2025-12-12 | 339 | CYJzzWvSC08 | 4,858 | 15 | 47,108 | 0.10 | 5 | 0.06 | binh_thuong | – | Không | 7 Day No Food or Water Camping Challenge — Day 2: Foraging Masterclass |
+| 2026-01-07 | 313 | VghEvTIhzS4 | 11,778 | 15 | 47,010 | 0.25 | 5 | 0.06 | binh_thuong | – | Không | $50 Dollar STORE Survival Kit - CHEAPEST Camping Survival Gear |
+| 2026-01-14 | 306 | JT8-FYDtX1I | 8,629 | 15 | 40,760 | 0.21 | 5 | 0.07 | binh_thuong | – | Không | CHEAPEST EDC & Survival Shopping at Dollar Tree w/ Atlas Survival Shelter |
+| 2026-01-21 | 299 | 6xwleBZD_1s | 2,909 | 15 | 17,993 | 0.16 | 5 | 0.28 | binh_thuong | – | Không | 7 Day No Food or Water Camping Challenge - Day 3 Primitive Bushcraft Survival Spear |
+| 2026-01-23 | 297 | 7bwk5P5YyI0 | 1,694 | 15 | 17,561 | 0.10 | 5 | 0.85 | binh_thuong | – | Không | 7 Day No Food or Water Camping Challenge - How to wash clothes with Sticks |
+| 2026-01-28 | 292 | RvHid9P56y4 | 2,692 | 15 | 11,778 | 0.23 | 5 | 2.38 | binh_thuong | – | Không | 7 Days with Zero Food in Texas - Day5  - Camp Chair Build |
+| 2026-02-04 | 285 | JEISRzO-hPM | 4,949 | 15 | 8,723 | 0.57 | 5 | 3.22 | binh_thuong | – | Không | 7 Days with Zero Food in Texas - Cooking Ribeye Steak - Days 6 & 7 |
+| 2026-02-09 | 280 | D7wzRe8iFH8 | 14,944 | 15 | 8,629 | 1.73 | 5 | 3.25 | binh_thuong | – | Không | Top 10 Most Carried EDC Knives - FEB 2026 |
+| 2026-02-11 | 278 | 4jp3KUvb1f8 | 32,230 | 15 | 8,629 | 3.74 | 5 | 1.43 | dang_ghi | – | Không | 25 Items Every Prepper Should Stockpile at Walmart |
+| 2026-02-18 | 271 | __nAGLnFThI | 28,048 | 15 | 8,629 | 3.25 | 5 | 1.43 | dang_ghi | – | Không | My Every Day Carry - Weekly EDC Update Feb 2026 |
+| 2026-02-25 | 264 | a3Lc7_30ocI | 75,461 | 15 | 8,629 | 8.75 | 5 | 0.48 | manh | – | Không | 20 Survival Items Under $50 Worth Buying at Harbor Freight in 2026 |
+| 2026-03-11 | 250 | rtvGj86F8Jo | 12,345 | 15 | 8,629 | 1.43 | 5 | 0.29 | binh_thuong | – | Không | Best budget folding knife on Earth is Better than Your Fixed Blade? |
+| 2026-03-17 | 244 | xJahNawqbdE | 2,474 | 15 | 8,629 | 0.29 | 5 | 0.48 | binh_thuong | – | Không | My Every Day Carry EDC Pocket Knife Collection - 2026 |
+| 2026-03-20 | 241 | B4mXJe6AbkE | 1,870 | 15 | 8,493 | 0.22 | 5 | 0.49 | binh_thuong | – | Không | Fasting for 7 Days has a COST! - *EXTREME WEIGHT LOSS* |
+| 2026-03-24 | 237 | aM6_4_oADQg | 49,122 | 15 | 8,493 | 5.78 | 5 | 0.49 | manh | – | Không | World's Largest Sword & Knife Expo \| Blade Show Texas 2026 |
+| 2026-03-26 | 235 | QaynRs8KAXw | 4,146 | 15 | 8,629 | 0.48 | 5 | 0.65 | binh_thuong | – | Không | My Every Day Carry - Weekly EDC Update March 2026 - Blade Show Texas |
+| 2026-04-01 | 229 | -_D3GwB6f0s | 1,679 | 15 | 8,629 | 0.19 | 5 | 0.88 | binh_thuong | – | Không | My Blade Show Texas EDC & Survival Gear 2026 |
+| 2026-04-08 | 222 | -vDEEZjQ_5I | 21,576 | 15 | 4,949 | 4.36 | 5 | 1.13 | dang_ghi | – | Không | Top 30 Survival Items Every Prepper Should Stockpile Before It's too LATE! |
+| 2026-04-16 | 214 | 0vrUm1LEpQI | 2,212 | 15 | 4,949 | 0.45 | 5 | 1.54 | binh_thuong | – | Không | The V44X Survival Bowie by Work Tuff Gear - Ultimate Survival Tool |
+| 2026-04-23 | 207 | UF5lbsiGuI8 | 12,858 | 15 | 4,949 | 2.60 | 5 | 1.54 | hoi_cao | – | Không | Surviving 7 Days With No Food No Water in Texas - The Movie |
+| 2026-06-04 | 165 | zydPO-xLdHo | 5,570 | 15 | 12,345 | 0.45 | 5 | 1.49 | binh_thuong | – | Không | Solo Overnight \| Every Day Carry EDC Survival Kit 1.0 - Catch N Cook - THE MOVIE |
+| 2026-06-09 | 160 | I0hcsEE0L_E | 7,629 | 15 | 12,345 | 0.62 | 5 | 1.49 | binh_thuong | – | Không | Spending 3 Days at World's Largest Sword & Knife Expo! |
+| 2026-06-16 | 153 | 7HK5wyCF0Fg | 1,729 | 15 | 12,345 | 0.14 | 5 | 1.74 | binh_thuong | – | Không | My Top 10 Knives to EDC - Budget to Premium - Summer 2026 |
+| 2026-06-19 | 150 | 47ZQujEGs00 | 21,443 | 15 | 7,629 | 2.81 | 5 | 2.41 | hoi_cao | – | Không | My 65 Piece Every Day Carry EDC Survival Kit 2.0! |
+| 2026-06-24 | 145 | 9-yAo8ZrP7U | 100,719 | 15 | 7,629 | 13.20 | 5 | 2.41 | can_kiem_ky | – | Không | 20 Best Prepper Survival Items at Tractor Supply Every Prepper Should Stockpile |
+| 2026-06-26 | 143 | _GJ3z3_V7z8 | 18,422 | 15 | 7,629 | 2.41 | 4 | – | hoi_cao | – | Không | My $100 Walmart Every Day Carry EDC Kit! |
+| 2026-08-19 | 89 | GmcncyDV3rA | 1,598 | 15 | 7,629 | 0.21 | 3 | – | binh_thuong | – | Không | My Channel Got Hi-Jacked! Everything they did to my Channel |
+| 2026-09-23 | 54 | ILqK1jKkwJ0 | 30,860 | 15 | 5,570 | 5.54 | 2 | – | manh | – | Không | EDC & Survival Shopping at my Local Knife Shop - Trapper Jons |
+| 2026-10-01 | 46 | sG7CpuLaYig | 12,920 | 15 | 7,629 | 1.69 | 1 | – | binh_thuong | – | Không | EDC & Survival Shopping at my Local HEB Grocery Store |
+| 2026-10-16 | 31 | GbkH0cuH75k | 21,754 | 15 | 12,858 | 1.69 | 0 | – | binh_thuong | – | Không | World's Largest Sword & Knife Expo \| Blade Show West 2026 |

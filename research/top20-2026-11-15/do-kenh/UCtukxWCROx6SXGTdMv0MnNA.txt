@@ -1,0 +1,105 @@
+# Đo kênh: UCtukxWCROx6SXGTdMv0MnNA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 63 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 63 |
+| n_trong_danh_sach | 63 |
+| n_dai | 63 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 3,840 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-03-26 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 92.50 |
+| cao_nhat | 1,500 |
+| thap_nhat | 42 |
+| phan_tan | 16.22 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.28 |
+| ngay_video_dau | 2026-03-26 |
+| tuoi_tu_video_dau | 235 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 16.34 |
+| sub_moi_video | 60.95 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-03-26 | 235 | D1TK_t5pu5k | 1,081 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Cheap 1950s Suppers That Fed a Family of 5 for Under a Dollar (Now Forgotten) |
+| 2026-03-27 | 234 | 3x2nQE-djzk | 253 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Forgotten 1970s Dinners Families Ate Every Single Week (That Completely Vanished) |
+| 2026-03-29 | 232 | cWRAuf0Pqjw | 2,462 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 SURPRISINGLY Tasty 3-Ingredient Meals Our Grandparents Swore By |
+| 2026-04-02 | 228 | VMQ0ygTvONk | 910 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Meals Cowboys ACTUALLY Ate on the Trail (Not What You Think) |
+| 2026-04-05 | 225 | BDLG6XzxIdc | 446,193 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Forgotten Poor Man Sandwiches From the 1970s We Used to Eat Every Day |
+| 2026-04-08 | 222 | es5TrvaVSjI | 79,331 | 5 | 1,081 | 73.39 | 5 | 2.29 | can_kiem_ky | – | Không | 20 Forgotten Poor Man Desserts 1970s Grandmas Made from Scratch Every Sunday |
+| 2026-04-12 | 218 | XlPGryxXfvc | 1,562 | 6 | 1,772 | 0.88 | 5 | 1.40 | binh_thuong | – | Không | 20 Forgotten One-Pot Meals Seniors Living Alone Should Try Again |
+| 2026-04-14 | 216 | ztDqJzVikaM | 78,330 | 7 | 1,562 | 50.15 | 5 | 1.32 | can_kiem_ky | – | Không | 20 Cheap Breakfasts From the 1950s That Fed America Before Cereal Took Over |
+| 2026-04-16 | 214 | JOFLYq9mQJ0 | 625 | 8 | 2,012 | 0.31 | 5 | 1.03 | binh_thuong | – | Không | 20 FORGOTTEN Rations That Kept American Soldiers Alive in World War 2 |
+| 2026-04-18 | 212 | 3EGbb5PanzU | 2,478 | 9 | 1,562 | 1.59 | 5 | 1.17 | binh_thuong | – | Không | 25 FORGOTTEN 1960s Dinners Seniors Still Miss Today (Poor Man Meals) |
+| 2026-04-21 | 209 | l7efHAq3AZs | 23,704 | 10 | 2,012 | 11.78 | 5 | 0.87 | can_kiem_ky | – | Không | 20 FORGOTTEN Poor Man Lunches From the 1950s That Kept Factories Running |
+| 2026-04-23 | 207 | 30MZEQr8BbA | 2,068 | 11 | 2,462 | 0.84 | 5 | 0.28 | binh_thuong | – | Không | 20 Cheap Soups and Stews Our Great-Grandmothers Made From Nothing |
+| 2026-04-25 | 205 | DnSHRqIE1dg | 690 | 12 | 2,265 | 0.30 | 5 | 0.25 | binh_thuong | – | Không | 20 Forgotten Poor Man Casseroles From the 1960s That Fed Whole Families |
+| 2026-04-28 | 202 | YPSS4tAQW3I | 474 | 13 | 2,068 | 0.23 | 5 | 0.28 | binh_thuong | – | Không | 20 Cheap Sunday Dinners From the 1950s That Have Completely Vanished |
+| 2026-04-30 | 200 | -7488wIEdw0 | 1,831 | 14 | 1,815 | 1.01 | 5 | 0.30 | binh_thuong | – | Không | 20 Forgotten Poor Man Dinners From the 1960s We Ate Every Night Before Restaurants Got Cheap |
+| 2026-05-01 | 199 | Irf6fEC-XyQ | 1,746 | 15 | 1,831 | 0.95 | 5 | 0.30 | binh_thuong | – | Không | 20 Forgotten Poor Man Sandwiches From the Great Depression That People Made to Survive |
+| 2026-05-03 | 197 | 6oOYJLGMlsA | 424 | 15 | 1,831 | 0.23 | 5 | 0.30 | binh_thuong | – | Không | 20 Forgotten Church Potluck Dishes From the 1950s Every Grandma Brought to the Table |
+| 2026-05-05 | 195 | CqcXaFzgmLY | 569 | 15 | 1,831 | 0.31 | 5 | 0.10 | binh_thuong | – | Không | 20 Forgotten Poor Man Pies From the 1930s That Used No Fruit and Cost Almost Nothing |
+| 2026-05-06 | 194 | qZmYEZ4GAg4 | 72 | 15 | 1,746 | 0.04 | 5 | 0.10 | binh_thuong | – | Không | 20 FORGOTTEN Foods Our Great-Grandmothers Kept in the Kitchen for Good Health |
+| 2026-05-08 | 192 | UlSnz_oJwvw | 549 | 15 | 1,746 | 0.31 | 5 | 0.10 | binh_thuong | – | Không | 20 FORGOTTEN American Logging Camp Meals That Kept Lumberjacks Alive |
+| 2026-05-09 | 191 | bHkPJRB49IE | 12,278 | 15 | 1,562 | 7.86 | 5 | 0.12 | manh | – | Không | 20 FORGOTTEN Truck Stop Meals From the 1950s No One Makes Anymore |
+| 2026-05-12 | 188 | rhNvtJWoXFw | 182 | 15 | 1,562 | 0.12 | 5 | 0.10 | binh_thuong | – | Không | 20 Cheap Dinners Grandmas Made When They Were on Their Own |
+| 2026-05-14 | 186 | H9YPETiIYXY | 135 | 15 | 690 | 0.20 | 5 | 0.23 | binh_thuong | – | Không | 20 Forgotten Poor Man Meals for Seniors Living Alone on a Fixed Income |
+| 2026-05-17 | 183 | 9fQw3Vf5QPw | 157 | 15 | 625 | 0.25 | 5 | 0.34 | binh_thuong | – | Không | 20 FORGOTTEN Poor Man Dinners From the 1950s That Fed America After a Hard Day's Work |
+| 2026-05-19 | 181 | neoINB0Uk04 | 213 | 15 | 569 | 0.37 | 5 | 0.43 | binh_thuong | – | Không | 20 Forgotten Backyard Barbecue Dishes From the 1960s That Nobody Grills Anymore |
+| 2026-05-21 | 179 | Jc760LyUvno | 245 | 15 | 549 | 0.45 | 5 | 0.32 | binh_thuong | – | Không | 20 Forgotten Poor Man Dinners From the 1970s That Fed Working Families Every Night |
+| 2026-05-24 | 176 | 4Hk1nzSTC3U | 54 | 15 | 474 | 0.11 | 5 | 0.73 | binh_thuong | – | Không | 20 Old Fashioned Food Practices Our Grandparents Did That Are Now Banned |
+| 2026-05-26 | 174 | lNvSBwHVip4 | 89 | 15 | 424 | 0.21 | 5 | 0.81 | binh_thuong | – | Không | 20 FORGOTTEN 1950s Desserts Poor Families Loved That We Need To Bring Back |
+| 2026-05-28 | 172 | K1orZ6RdO54 | 529 | 15 | 245 | 2.16 | 5 | 0.88 | hoi_cao | – | Không | The 3AM Meal That Kept America's Factory Workers Going in 1965 |
+| 2026-06-02 | 167 | 3qZMCj0qNQE | 344 | 15 | 245 | 1.40 | 5 | 0.75 | binh_thuong | – | Không | The Sandwich That Fed a Generation of American Factory Workers (and How to Make It) |
+| 2026-06-04 | 165 | jf_WoZxMSl0 | 176 | 15 | 245 | 0.72 | 5 | 0.75 | binh_thuong | – | Không | The Real Reason Americans Stopped Eating These Meals (And Never Went Back) |
+| 2026-06-07 | 162 | HEJXrcuDiSo | 29,813 | 15 | 213 | 140 | 5 | 0.61 | can_kiem_ky | – | Không | 15 Sandwiches American Diners Buried When Fast Food Came to Town |
+| 2026-06-10 | 159 | dqGz7nHIxEk | 104 | 15 | 213 | 0.49 | 5 | 0.61 | binh_thuong | – | Không | 20 Forgotten Poor Man Holiday Meals From the 1950s When There Was No Turkey or Ham |
+| 2026-06-11 | 158 | KBuWYHT8b5Q | 215 | 15 | 182 | 1.18 | 5 | 0.71 | binh_thuong | – | Không | 20 Forgotten Lunchbox Meals From the 1950s That Coal Miners and Factory Workers Carried Every Day |
+| 2026-06-12 | 157 | wWYP1jOlaio | 184 | 15 | 213 | 0.86 | 5 | 0.61 | binh_thuong | – | Không | 20 Forgotten Poor Man Sandwiches From the 1940s That Kept Families Fed During the War |
+| 2026-06-14 | 155 | 9YXF2tTp1YE | 116 | 15 | 184 | 0.63 | 5 | 0.71 | binh_thuong | – | Không | 20 FORGOTTEN Poor Man Ground Beef Recipes From the 1970s That Have Disappeared |
+| 2026-06-16 | 153 | F_aJ9X1ok68 | 130 | 15 | 182 | 0.71 | 5 | 0.54 | binh_thuong | – | Không | 20 FORGOTTEN Ways People Used Bacon Grease That Nobody Does Anymore |
+| 2026-06-18 | 151 | daNxjE_9u0M | 81 | 15 | 176 | 0.46 | 5 | 0.95 | binh_thuong | – | Không | 20 LOST Amish Pantry Meals From the 1950s Nobody Makes Anymore |
+| 2026-06-19 | 150 | P23udlamy2c | 167 | 15 | 176 | 0.95 | 5 | 1.38 | binh_thuong | – | Không | 20 Forgotten Foods That Died When the Last Woolworth's Closed in 1997 |
+| 2026-06-20 | 149 | xLwtDm7CP0A | 373 | 15 | 176 | 2.12 | 5 | 0.56 | hoi_cao | – | Không | 20 FORGOTTEN Roadside Diner Meals From the 1970s That Have Completely Disappeared |
+| 2026-06-22 | 147 | s61xyiIEPpU | 79 | 15 | 176 | 0.45 | 5 | 0.56 | binh_thuong | – | Không | 20 LOST Roadside Motel Breakfasts Truckers Ate Across America in the 1950s |
+| 2026-06-23 | 146 | tfVxGNUVl0E | 98 | 15 | 167 | 0.59 | 5 | 0.47 | binh_thuong | – | Không | 20 FORGOTTEN Scandinavian Farmhouse Meals Minnesota Settlers Lived On |
+| 2026-06-26 | 143 | vpAzoP6w_lo | 388 | 15 | 167 | 2.32 | 5 | 0.46 | hoi_cao | – | Không | 25 American Breakfast Foods That Died the Day McDonald's Opened |
+| 2026-07-02 | 137 | eEe31ZNp1A8 | 242 | 15 | 176 | 1.38 | 5 | 0.27 | binh_thuong | – | Không | 20 FORGOTTEN Depression-Era Sandwiches Coal Miners Carried to Work |
+| 2026-07-04 | 135 | ZenGenx_gXk | 78 | 15 | 176 | 0.44 | 5 | 0.27 | binh_thuong | – | Không | 20 FORGOTTEN Foods Americans Actually Ate on the 4th of July Before BBQ Took Over |
+| 2026-07-08 | 131 | 7v9gesheGHw | 47 | 15 | 167 | 0.28 | 5 | 0.46 | binh_thuong | – | Không | How McDonald's Destroyed the Best Food in America |
+| 2026-07-12 | 127 | vWJj0nU8bd4 | 76 | 15 | 130 | 0.58 | 5 | 0.40 | binh_thuong | – | Không | Why Poor People Used to Eat Better Than Rich People |
+| 2026-07-17 | 122 | RGW12ETUriQ | 45 | 15 | 116 | 0.39 | 5 | 1.34 | binh_thuong | – | Không | How Corn Flakes, Bacon, and One Lie Destroyed Real Breakfast |
+| 2026-07-24 | 115 | FfebuhHSz8M | 42 | 15 | 116 | 0.36 | 5 | 1.34 | binh_thuong | – | Không | The Government Fed 3 Million Broke American Boys This Way — And It Saved Them |
+| 2026-07-28 | 111 | dQiAu1hQwDU | 198 | 15 | 98 | 2.02 | 5 | 1.59 | hoi_cao | – | Không | 20 Forgotten Truck Stop Meals Truckers Lived On in the 1960s |
+| 2026-07-30 | 109 | yiXU85Ygf5g | 201 | 15 | 98 | 2.05 | 5 | 1.59 | hoi_cao | – | Không | 25 Forgotten Poor Man Dinners for Seniors Living Alone (1950s Edition) |
+| 2026-07-31 | 108 | 6oXkfVDOhkA | 52 | 15 | 98 | 0.53 | 5 | 1.59 | binh_thuong | – | Không | 30 Clever Kitchen Tricks Depression-Era Housewives Used That We've Completely Forgotten |
+| 2026-08-04 | 104 | 1vJ30s-yuSw | 156 | 15 | 81 | 1.93 | 5 | 1.21 | binh_thuong | – | Không | 20 Lunch Counter Meals That Vanished When the Diner Closed |
+| 2026-08-07 | 101 | ErTXr9ZujYo | 98 | 15 | 98 | 1.00 | 5 | 0.59 | binh_thuong | – | Không | What Every President Ate Growing Up Poor Before the White House |
+| 2026-08-08 | 100 | 7_svGFsuZbI | 252 | 15 | 98 | 2.57 | 5 | 0.59 | hoi_cao | – | Không | 25 Forgotten Factory Lunchbox Meals That Kept America Working (1950s) |
+| 2026-08-09 | 99 | _ARjITLqH_w | 189 | 15 | 98 | 1.93 | 5 | 0.59 | binh_thuong | – | Không | 25 FORGOTTEN Soda Fountain Lunch Counter Sandwiches No One Makes Anymore |
+| 2026-08-10 | 98 | Dg7Dc6xxgHU | 58 | 15 | 98 | 0.59 | 5 | 0.89 | binh_thuong | – | Không | 25 FORGOTTEN Coal Miner Lunch Pail Meals Wives Packed at 4 AM |
+| 2026-08-11 | 97 | K6P2QnRuz2s | 55 | 15 | 98 | 0.56 | 5 | 1.01 | binh_thuong | – | Không | 25 Forgotten Riverboat Galley Dinners From the Mississippi Trade |
+| 2026-08-13 | 95 | ebzIUoBIyQ0 | 58 | 15 | 78 | 0.74 | 4 | – | binh_thuong | – | Không | 25 FORGOTTEN Textile Mill Break-Room Meals Workers Swore By |
+| 2026-08-15 | 93 | HxhoK8F9NZc | 99 | 15 | 76 | 1.30 | 3 | – | binh_thuong | – | Không | 25 Forgotten Boarding House Dinners Landladies Served Every Night |
+| 2026-08-18 | 90 | BKym3Jy44SU | 87 | 15 | 76 | 1.14 | 2 | – | binh_thuong | – | Không | 20 Logging Camp & Railroad Meals That Fed America's Hardest Workers |
+| 2026-08-20 | 88 | IrKc-vEUtGc | 1,500 | 15 | 87 | 17.24 | 1 | – | can_kiem_ky | – | Không | 25 FORGOTTEN Depression Dinners That Fed a Family on Almost Nothing |
+| 2026-08-23 | 85 | pcQZ_XbWffs | 162 | 15 | 98 | 1.65 | 0 | – | binh_thuong | – | Không | 25 Long-Lost Deli Sandwiches That Built This Country — Before Fast Food Killed the Corner Deli |

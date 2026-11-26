@@ -1,0 +1,89 @@
+{
+  "fetched_at": "2026-07-04T10:37:46Z",
+  "date_range": {
+    "start": "2026-06-06",
+    "end": "2026-07-04"
+  },
+  "baseline": {
+    "views_28d": 187572,
+    "watch_minutes_28d": 492437,
+    "avg_view_duration_s": 186,
+    "avd_pct": 25.6,
+    "subs_gained": 1424,
+    "subs_lost": 382,
+    "subs_net": 1042,
+    "ctr_pct": 5.5
+  },
+  "top_videos": [
+    {
+      "videoId": "AJnyTWUgKWU",
+      "title": "5 Secrets to Growing Aloe Vera FAST and EASY",
+      "views": 48629,
+      "avd_pct": 24.1,
+      "url": "https://youtu.be/AJnyTWUgKWU"
+    },
+    {
+      "videoId": "cTuGnXMSdnw",
+      "title": "7 Indoor Plants That Thrive in JUST Water (No Soil Needed!)",
+      "views": 28208,
+      "avd_pct": 25.5,
+      "url": "https://youtu.be/cTuGnXMSdnw"
+    },
+    {
+      "videoId": "ATfRSWoCRrI",
+      "title": "ATfRSWoCRrI",
+      "views": 26288,
+      "avd_pct": 129.2,
+      "url": "https://youtu.be/ATfRSWoCRrI"
+    },
+    {
+      "videoId": "NmL--ywpKns",
+      "title": "Grow Avocado From Seed - The Lazy Way That Actually Works",
+      "views": 13668,
+      "avd_pct": 28.7,
+      "url": "https://youtu.be/NmL--ywpKns"
+    },
+    {
+      "videoId": "0K3K9vZ4E5o",
+      "title": "These 6 Weeds Could Be the Most Valuable Plants in Your Yard",
+      "views": 8898,
+      "avd_pct": 19.5,
+      "url": "https://youtu.be/0K3K9vZ4E5o"
+    },
+    {
+      "videoId": "pmOG3rko45A",
+      "title": "STOP Using Pesticides! This 1 Spoon Kills Aphids & Mealybugs in 10 Seconds - SAFE for Kids & Pets",
+      "views": 8267,
+      "avd_pct": 22.4,
+      "url": "https://youtu.be/pmOG3rko45A"
+    },
+    {
+      "videoId": "ac7pP47tYXM",
+      "title": "I STOPPED Watering My Lemon Tree - What Happened in Week 4 Shocked Me",
+      "views": 7409,
+      "avd_pct": 25.9,
+      "url": "https://youtu.be/ac7pP47tYXM"
+    },
+    {
+      "videoId": "9qcpNPXL4f8",
+      "title": "Stop Rooting Cuttings in Water! Use This Instead (50 Plants Free)",
+      "views": 6577,
+      "avd_pct": 34.3,
+      "url": "https://youtu.be/9qcpNPXL4f8"
+    },
+    {
+      "videoId": "qraO0zmknds",
+      "title": "qraO0zmknds",
+      "views": 5259,
+      "avd_pct": 163.2,
+      "url": "https://youtu.be/qraO0zmknds"
+    },
+    {
+      "videoId": "Z4prxRY1fLU",
+      "title": "Z4prxRY1fLU",
+      "views": 5239,
+      "avd_pct": 192.7,
+      "url": "https://youtu.be/Z4prxRY1fLU"
+    }
+  ]
+}

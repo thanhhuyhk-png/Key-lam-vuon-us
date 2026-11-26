@@ -1,0 +1,9 @@
+{"allowed":[1,2,3,4,5,6,7,8,10,12,14,15,16,18,21,40,50,70,90,300,2017],
+ "notes":{
+ "6,8":"CL-001 UIUC 6-8 hours bright light","14,16":"CL-002 UIUC lamps 14-16 h","16":"CL-003 UMD total ~16 h; CL-004 UIUC 2018","18":"CL-004 max for seedlings",
+ "6,12":"CL-002 6-12 inches","4,6":"CL-005 UNH 4-6 inches; CL-013 baby greens 4-6 in; 6-inch pot","3,6":"CL-028 USU 3-6 inches",
+ "7,21":"CL-012 microgreens 7-21 days","2,3":"CL-012 2-3 inches","21,40":"CL-013 baby greens","1,2":"CL-013 regrow 1-2 more harvests",
+ "4":"CL-015 about 4 weeks lettuce","70":"UIUC 2017 room <=70F","12":"CL-042 chives ~12 weeks; UNH Tiny Tim 12-15 in","10":"CL-041 ~10 weeks; CL-042 parsley 10-12 weeks; UMD 10 days fridge",
+ "15":"UNH Tiny Tim 12-15 inches","3":"UNH Small Fry ~3 feet; USU 3-6 inches; progress counters","50,90":"CL-027 USU <50F harm, >90F inhibit fruit set",
+ "6 dark":"CL-011 UNH tomatoes need 6 hours dark","300":"CL-006 Illinois south window ~300 foot-candles","40":"UIUC 40-watt tubes; CL-013 21-40 days",
+ "1":"one-gallon pot (CL-025); one tray","5,7,2":"title counts 5 + 2 = 7 vegetables","progress":"1-7 progress counters (not claims)"}}

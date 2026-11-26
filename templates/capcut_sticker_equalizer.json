@@ -1,0 +1,189 @@
+{
+ "note": "Sticker người dùng thêm tay vào G062v3b_auto (18/10/2026): \"Equalize EN Music Tone V4\" (hình sóng nhạc), phủ cả video, góc dưới-phải. Builder đọc file này khi có --v3.",
+ "track": {
+  "id": "1C7832A8-AE15-4c5a-A6FD-555BC139FCB3",
+  "type": "sticker",
+  "segments": [
+   {
+    "id": "7AC9744E-EA8B-4a05-A2C7-484024884CD6",
+    "source_timerange": null,
+    "target_timerange": {
+     "start": 0,
+     "duration": 1004333333
+    },
+    "render_timerange": {
+     "start": 0,
+     "duration": 0
+    },
+    "desc": "",
+    "state": 0,
+    "speed": 1.0,
+    "is_loop": false,
+    "is_tone_modify": false,
+    "reverse": false,
+    "intensifies_audio": false,
+    "cartoon": false,
+    "volume": 1.0,
+    "last_nonzero_volume": 1.0,
+    "clip": {
+     "scale": {
+      "x": 0.41,
+      "y": 0.41
+     },
+     "rotation": 0.0,
+     "transform": {
+      "x": 0.7773641358542409,
+      "y": -0.6978120641274885
+     },
+     "flip": {
+      "vertical": false,
+      "horizontal": false
+     },
+     "alpha": 1.0
+    },
+    "uniform_scale": {
+     "on": true,
+     "value": 1.0
+    },
+    "material_id": "EA1B6908-35EE-4ca3-87BA-C7226F4F80BE",
+    "extra_material_refs": [],
+    "render_index": 14001,
+    "keyframe_refs": [],
+    "enable_lut": false,
+    "enable_adjust": false,
+    "enable_hsl": false,
+    "visible": true,
+    "group_id": "",
+    "enable_color_curves": true,
+    "enable_hsl_curves": true,
+    "track_render_index": 7,
+    "hdr_settings": null,
+    "hdr_vivid_settings": null,
+    "enable_color_wheels": true,
+    "track_attribute": 0,
+    "is_placeholder": false,
+    "template_id": "",
+    "enable_smart_color_adjust": false,
+    "template_scene": "default",
+    "common_keyframes": [],
+    "caption_info": null,
+    "responsive_layout": {
+     "enable": false,
+     "target_follow": "",
+     "size_layout": 0,
+     "horizontal_pos_layout": 0,
+     "vertical_pos_layout": 0
+    },
+    "enable_color_match_adjust": false,
+    "enable_color_correct_adjust": false,
+    "enable_adjust_mask": false,
+    "raw_segment_id": "",
+    "lyric_keyframes": null,
+    "enable_video_mask": true,
+    "digital_human_template_group_id": "",
+    "color_correct_alg_result": "",
+    "source": "segmentsourcenormal",
+    "enable_mask_stroke": false,
+    "enable_mask_shadow": false,
+    "enable_color_adjust_pro": false,
+    "segment_color_tag": ""
+   }
+  ],
+  "flag": 0,
+  "attribute": 0,
+  "name": "",
+  "is_default_name": true
+ },
+ "material": {
+  "id": "EA1B6908-35EE-4ca3-87BA-C7226F4F80BE",
+  "unique_id": "",
+  "type": "sticker",
+  "path": "C:/Users/admin/AppData/Local/CapCut/User Data/Cache/artistEffect/7605224521188199685/6741865d545596ca694054ca11c1cfe7",
+  "icon_url": "https://p16-heycan-img-sign-sg.ibyteimg.com/tos-alisg-i-j6daoa426t-sg/621e2e440817468fb8a921a9de58dab3~tplv-j6daoa426t-resize:200:200.png?x-expires=1823824081&x-signature=pxnKoZKlGNepalvWldZ%2BQcAXfh8%3D",
+  "preview_cover_url": "https://p16-heycan-img-sign-sg.ibyteimg.com/tos-alisg-i-j6daoa426t-sg/621e2e440817468fb8a921a9de58dab3~tplv-j6daoa426t-resize:200:200.png?x-expires=1823824081&x-signature=pxnKoZKlGNepalvWldZ%2BQcAXfh8%3D",
+  "sticker_id": "7605224521188199685",
+  "resource_id": "7605224521188199685",
+  "name": "Equalize EN Music Tone V4",
+  "category_id": "100000",
+  "category_name": "Yêu thích",
+  "platform": "all",
+  "unicode": "",
+  "source_platform": 1,
+  "formula_id": "",
+  "check_flag": 1,
+  "team_id": "",
+  "request_id": "",
+  "combo_info": {
+   "text_templates": []
+  },
+  "sub_type": 0,
+  "radius": {
+   "top_left": 0.0,
+   "top_right": 0.0,
+   "bottom_left": 0.0,
+   "bottom_right": 0.0
+  },
+  "global_alpha": 1.0,
+  "background_color": "",
+  "background_alpha": 1.0,
+  "border_line_style": 0,
+  "border_width": 0.0,
+  "border_color": "",
+  "has_shadow": false,
+  "shadow_color": "",
+  "shadow_alpha": 0.8,
+  "shadow_smoothing": 0.0,
+  "shadow_distance": 0.0,
+  "shadow_point": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "shadow_angle": 0.0,
+  "shape_param": {
+   "shape_type": 0,
+   "roundness": [],
+   "custom_points": [],
+   "shape_size": []
+  },
+  "original_size": [],
+  "update_params": "",
+  "aigc_type": "none",
+  "sequence_type": false,
+  "cycle_setting": true,
+  "shape_fill_render_style": {
+   "color": {
+    "solid": {
+     "color": "#FFFFFF",
+     "alpha": 1.0
+    },
+    "gradient": {
+     "color": [],
+     "alpha": [],
+     "percent": [],
+     "angle": 90.0,
+     "mode": "all",
+     "style": "linear"
+    },
+    "texture": {
+     "path": "",
+     "flip": [],
+     "scale": 1.0,
+     "alpha": 1.0,
+     "angle": 90.0,
+     "blend": "no",
+     "range": 4,
+     "fill": "tile",
+     "resource_id": "",
+     "effect_id": "",
+     "play_speed": 1.0
+    },
+    "render_type": "solid"
+   },
+   "alpha": 1.0
+  },
+  "shape_fill_use_flower_color": false,
+  "multi_language_current": "none",
+  "corner_pin": null
+ },
+ "extra": {}
+}

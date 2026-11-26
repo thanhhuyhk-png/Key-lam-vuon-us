@@ -1,0 +1,119 @@
+# Đo kênh: UCBkJRmkWA9bIsIjnLDoG75w.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 81 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 81 |
+| n_trong_danh_sach | 81 |
+| n_dai | 77 |
+| n_short | 4 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 28,100 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-11-23 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 939 |
+| cao_nhat | 7,223 |
+| thap_nhat | 430 |
+| phan_tan | 7.69 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.03 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.36 |
+| ngay_video_dau | 2025-11-23 |
+| tuoi_tu_video_dau | 358 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 78.49 |
+| sub_moi_video | 347 |
+| video_30_ngay | 14 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-11-23 | 358 | uJc7Fd4f5j4 | 21,694 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Ancient Crops We Forgot How to Grow..And How to Grow Them Today \| Rediscovering Lost Food Heritage |
+| 2025-11-26 | 355 | oFA8ozQTguk | 5,491 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 15 Perfect Vegetables to Grow in Shady Gardens, No Matter Where You Live |
+| 2025-11-28 | 353 | 5hUE2G0oj1U | 2,557 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Top 10 Perennial Edible Climbing Vines for Small Vertical Gardens \| Maximize Your Harvest Upward |
+| 2025-12-04 | 347 | KVrCq-aJvlk | 3,680 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 6 Ancient Crops We've Forgotten — And How to Grow Them Now \| Rediscovering Lost Food Heritage |
+| 2025-12-08 | 343 | wtGVfkVlwl8 | 6,207 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 9 Wild Edible Plants Growing in Your Backyard Right Now (Free Food You're Ignoring) |
+| 2025-12-12 | 339 | 5OvIpMGh_8k | 7,290 | 5 | 5,491 | 1.33 | 5 | 1.54 | binh_thuong | – | Không | 5 Ancient Veggies We Forgot How to Grow...And How to Grow Them  \| Rediscovering Lost Food Heritage" |
+| 2025-12-14 | 337 | NTi6TYlscBY | 7,707 | 6 | 5,849 | 1.32 | 5 | 1.45 | binh_thuong | – | Không | 9 Perennial crops You Plant ONCE — Then Eat for 20 Years (No Replanting Ever)"Harvest Forever! |
+| 2025-12-15 | 336 | zez66HcSaSY | 546,765 | 7 | 6,207 | 88.09 | 5 | 1.15 | can_kiem_ky | – | Không | 20 Forgotten Vegetables That Grow Like Weeds - The Lazy Gardener's Goldmine" |
+| 2025-12-16 | 335 | HE0xFgS4IHg | 8,466 | 8 | 6,748 | 1.25 | 5 | 1.05 | binh_thuong | – | Không | 20 Vegetables Big Agriculture BURIED  (They're 10x Stronger Than GMOs) |
+| 2025-12-18 | 333 | VgPToiBizfw | 7,115 | 9 | 7,290 | 0.98 | 5 | 0.46 | binh_thuong | – | Không | 7 Ancient Crops That Built the World — Why They Vanished From Our Farms |
+| 2025-12-22 | 329 | FLWxQ4dXqe0 | 94,460 | 10 | 7,202 | 13.11 | 5 | 0.47 | can_kiem_ky | – | Không | 8 Aztec Crops More Nutritious Than Anything in Your Grocery Store (And Easier to Grow) |
+| 2025-12-25 | 326 | GNvRVVFDD5s | 3,374 | 11 | 7,290 | 0.46 | 5 | 1.16 | binh_thuong | – | Không | 20 Forgotten Medicinal Plants That Will Heal You Instantly" |
+| 2025-12-28 | 323 | UM-J0WiB49A | 2,811 | 12 | 7,202 | 0.39 | 5 | 1.17 | binh_thuong | – | Không | 16 Forgotten Vegetables Native Americans Grew That Need to Return (Updated) |
+| 2025-12-30 | 321 | LImn_8bB4hc | 8,895 | 13 | 7,115 | 1.25 | 5 | 1.19 | binh_thuong | – | Không | 10 Vegetables Almost Lost Forever (You Can Still Grow Them Today \| evergreenhomeliving |
+| 2026-01-03 | 317 | Oharbx59bsc | 3,250 | 14 | 7,202 | 0.45 | 5 | 1.17 | binh_thuong | – | Không | The Incan 'Lost Crops' Rediscovered in 1989 — Potatoes, Quinoa, and 6 Others You've Never Tasted |
+| 2026-01-13 | 307 | W9UMT33FvDs | 8,438 | 15 | 7,115 | 1.19 | 5 | 0.55 | binh_thuong | – | Không | 20 Profitable Plants That Will Make You RICH (Start Small, Earn Big!) |
+| 2026-01-23 | 297 | skkrWhHHxx8 | 10,551 | 15 | 7,115 | 1.48 | 5 | 0.49 | binh_thuong | – | Không | Top 10 -Set & Forget- Plants EVERY Lazy Gardener Needs |
+| 2026-01-28 | 292 | K3DLQLE7hgU | 2,805 | 15 | 7,290 | 0.38 | 5 | 0.48 | binh_thuong | – | Không | This Forgotten Vegetable Feeds You for 20 Years (Seed Companies Hate It) |
+| 2026-02-01 | 288 | wyK_5WGipPM | 13,292 | 15 | 7,290 | 1.82 | 5 | 0.48 | binh_thuong | – | Không | 20 Ancient Crops That Thrive On Neglect \|You Ignore Them,They Produce more (Lazy Gardener's Secret) |
+| 2026-02-03 | 286 | L4pQOzcOjGI | 3,940 | 15 | 7,707 | 0.51 | 5 | 0.45 | binh_thuong | – | Không | 20 Forgotten Perennial Crops That Multiply Themselves — Plant Once In 2026, Harvest Until 2050 |
+| 2026-02-05 | 284 | ztZb5R9uk7Q | 1,967 | 15 | 7,707 | 0.26 | 5 | 0.61 | binh_thuong | – | Không | 9  Aztec Crops Healthier Than Modern Food (And Easier to Grow) |
+| 2026-02-07 | 282 | G7zMt8knpac | 3,468 | 15 | 7,707 | 0.45 | 5 | 0.61 | binh_thuong | – | Không | 15 Ancient Vegetables So Indestructible They Survived The Dust Bowl—Why Don't Nurseries Sell These? |
+| 2026-02-10 | 279 | B0vi6ER2IjM | 2,983 | 15 | 7,115 | 0.42 | 5 | 0.75 | binh_thuong | – | Không | 9 Secret Vegetables Africans Grew 500 Years Ago (Stronger Than Modern Crops) |
+| 2026-02-12 | 277 | ssPIwNq11u0 | 5,334 | 15 | 3,940 | 1.35 | 5 | 1.57 | binh_thuong | – | Không | 15 Forgotten Ancient Vegetables Our Ancestors Ate Daily (Now Almost Nobody Grows Them) |
+| 2026-02-14 | 275 | hCN9RFTcH40 | 4,682 | 15 | 3,940 | 1.19 | 5 | 1.57 | binh_thuong | – | Không | 8 Ancient Crops You Plant Once… And Eat for Years (Lazy Gardener Goldmine) |
+| 2026-02-16 | 273 | xWmVzjzb9nI | 7,009 | 15 | 3,940 | 1.78 | 5 | 1.36 | binh_thuong | – | Không | These 20 Vegetables Grow Like Fruit Trees! Plant Once, Eat Forever |
+| 2026-02-22 | 267 | GsX_e0fVT6o | 4,089 | 15 | 3,940 | 1.04 | 5 | 1.36 | binh_thuong | – | Không | 20 Crops to Grow To Survive Difficult Times! |
+| 2026-02-24 | 265 | 7Nd-Nih0QSk | 6,191 | 15 | 4,089 | 1.51 | 5 | 1.24 | binh_thuong | – | Không | The $0 Backyard Pharmacy- 10 Medicinal -Weeds- You Should Never Pull |
+| 2026-02-27 | 262 | 3AoWh_7ViVI | 43,463 | 15 | 4,682 | 9.28 | 5 | 0.82 | manh | – | Không | 15 Illegal Crops More Nutritious Than Anything You Can Buy — Why They Were Erased |
+| 2026-03-01 | 260 | z3UdEfEUxu0 | 5,075 | 15 | 4,682 | 1.08 | 5 | 0.81 | binh_thuong | – | Không | 12 Ancient Crops That Multiply Themselves — Plant Once, Eat Forever (Lazy Gardener Goldmine) |
+| 2026-03-03 | 258 | a4pM9EzEnTc | 5,346 | 15 | 5,075 | 1.05 | 5 | 0.52 | binh_thuong | – | Không | 10 Perennial 'Imposters' That Yield More Than Traditional Crops |
+| 2026-03-05 | 256 | TRcRAIXbgXY | 3,781 | 15 | 5,075 | 0.75 | 5 | 0.52 | binh_thuong | – | Không | 8 “Weeds” in Your Yard You Can Actually Eat (Free Food!) |
+| 2026-03-07 | 254 | c8F3-ZVQu4k | 2,644 | 15 | 4,682 | 0.56 | 5 | 0.70 | binh_thuong | – | Không | 10 Crops You Can Grow in Recycled Containers _The Zero-Cost Survival Garden |
+| 2026-03-09 | 252 | ylfevuOkdF4 | 3,818 | 15 | 4,682 | 0.82 | 5 | 0.70 | binh_thuong | – | Không | 5 Survival Crops That Actually Prefer Bad Soil |
+| 2026-03-11 | 250 | yA8U-j8yhhU | 1,558 | 15 | 4,089 | 0.38 | 5 | 0.80 | binh_thuong | – | Không | 12 Garden Weeds You Should Never Pull (They’re Secret Superfoods) |
+| 2026-03-13 | 248 | H19aoOaI-B4 | 2,577 | 15 | 4,089 | 0.63 | 5 | 0.80 | binh_thuong | – | Không | 12 "Forgotten" Crops: How to Harvest and Cook (Stop Growing, Start Eating) |
+| 2026-03-15 | 246 | IuXA_fYusMo | 5,698 | 15 | 4,089 | 1.39 | 5 | 0.62 | binh_thuong | – | Không | 15 Survival Crops That Grow Themselves — No Water, No Fertilizer |
+| 2026-03-17 | 244 | rMsA5wmRbnY | 3,278 | 15 | 4,682 | 0.70 | 5 | 0.54 | binh_thuong | – | Không | Stop Pulling These: 10 'Invasive' Survival Superfoods |
+| 2026-03-19 | 242 | PbZOhTRzO2g | 4,139 | 15 | 4,682 | 0.88 | 5 | 0.54 | binh_thuong | – | Không | 10 Banned 'Survival' Seeds Big Agriculture Wants You to Forget (Plant These Now) |
+| 2026-03-21 | 240 | aYXUnzsOGfI | 2,517 | 15 | 4,139 | 0.61 | 5 | 1.00 | binh_thuong | – | Không | 9 'Banned' Plants That Harvest Themselves for 50 Years |
+| 2026-03-24 | 237 | 94WLYv1LcEg | 1,456 | 15 | 4,089 | 0.36 | 5 | 1.05 | binh_thuong | – | Không | How to Grow 1 Year of Food in 10 Minutes a Week (Secret System) |
+| 2026-03-27 | 234 | 8WhqZ_dDRDI | 1,740 | 15 | 3,818 | 0.46 | 5 | 1.53 | binh_thuong | – | Không | 10 Perennial Herbs That Grow Like WEEDS! Plant Once, Harvest Forever! |
+| 2026-04-01 | 229 | J5vZ749dHEc | 4,275 | 15 | 3,781 | 1.13 | 5 | 1.54 | binh_thuong | – | Không | 17 Perennials That THRIVE in Containers With ZERO Effort-🌿 Lazy Gardener's Dream |
+| 2026-04-07 | 223 | 9N4tfm1So18 | 4,132 | 15 | 3,781 | 1.09 | 5 | 1.75 | binh_thuong | – | Không | 14 Crops You Plant Once And Harvest Forever |
+| 2026-04-12 | 218 | gF9aKdTkFas | 6,628 | 15 | 3,781 | 1.75 | 5 | 1.54 | binh_thuong | – | Không | 25 Plants That Grow Themselves — Zero Effort Required |
+| 2026-04-14 | 216 | n_c26BFKkX0 | 96,614 | 15 | 3,781 | 25.55 | 5 | 1.31 | can_kiem_ky | – | Không | 18 Underground Crops The Food Industry Doesn’t Want You Growing |
+| 2026-04-17 | 213 | I5hQrS4c5zo | 5,840 | 15 | 3,781 | 1.54 | 5 | 0.98 | binh_thuong | – | Không | 11 Forgotten Climbing Vegetables That Build A Living Food Wall With Zero Irrigation |
+| 2026-04-19 | 211 | pImX-gZwBcA | 3,123 | 15 | 3,818 | 0.82 | 5 | 0.97 | binh_thuong | – | Không | 16 Ancestral Survival Crops For Shady Spots That Thrive On Total Garden Neglect |
+| 2026-04-21 | 209 | 0o9JgVFhmAI | 7,223 | 15 | 3,818 | 1.89 | 5 | 0.58 | binh_thuong | – | Không | 8 Banned Heirloom Tubers That Store Themselves Underground for Three Full Years |
+| 2026-04-23 | 207 | uXwlTf2atoQ | 4,970 | 15 | 4,132 | 1.20 | 5 | 0.40 | binh_thuong | – | Không | 30 More Forgotten Vegetables That Grow Like Weeds And Feed You Forever |
+| 2026-04-27 | 203 | XeWPIwLP_aE | 2,201 | 15 | 4,139 | 0.53 | 5 | 0.40 | binh_thuong | – | Không | 10 Forgotten Perennial Systems That Provide Infinite Food with Zero Maintenance |
+| 2026-04-29 | 201 | 02tatTOiAjY | 3,705 | 15 | 4,139 | 0.90 | 5 | 0.27 | binh_thuong | – | Không | 15 Backyard Crops That Terrify The Grocery Industry |
+| 2026-06-08 | 161 | BWgiDUZewvk | 1,635 | 15 | 4,132 | 0.40 | 5 | 0.22 | binh_thuong | – | Không | 9 Seeds The Government Is Quietly Making Illegal to Save (Stockpile Them While You Can |
+| 2026-07-18 | 121 | 31ymyAy-GfM | 919 | 15 | 4,132 | 0.22 | 5 | 0.19 | binh_thuong | – | Không | 12 Ancient Seeds That Feed You Forever With Zero Work |
+| 2026-08-31 | 77 | kMNAKt00w_Q | 430 | 15 | 3,705 | 0.12 | 5 | 0.21 | binh_thuong | – | Không | Your Last Chance to Prune These 5 Plants! End of August & Early September |
+| 2026-09-02 | 75 | bOpG7varhGc | 1,760 | 15 | 3,705 | 0.48 | 5 | 0.16 | binh_thuong | – | Không | 9 CROPS You MUST Plant Before September Ends — Or Wait Until Spring! |
+| 2026-09-04 | 73 | I9XdxDlgksY | 1,119 | 15 | 3,705 | 0.30 | 5 | 0.16 | binh_thuong | – | Không | 15 Fall Vegetables You MUST Plant and Forget Until Spring (Lazy Gardening) |
+| 2026-09-12 | 65 | xLBqwHVBsl4 | 527 | 15 | 3,705 | 0.14 | 5 | 0.17 | binh_thuong | – | Không | Plant These 9 Low-Maintenance Shrubs NOW Before September Ends! |
+| 2026-09-14 | 63 | DuR7QNP01Po | 766 | 15 | 3,123 | 0.25 | 5 | 0.20 | binh_thuong | – | Không | 25 "Illegal" Off-Grid Gardening Tricks Our Grandparents Used That Still Work Today |
+| 2026-09-16 | 61 | VM6MVcJy5k8 | 577 | 15 | 2,201 | 0.26 | 5 | 0.41 | binh_thuong | – | Không | DON’T MISS SEPTEMBER! 17 Container Vegetables You NEED to Plant NOW |
+| 2026-09-19 | 58 | x0SYcdgKDz0 | 541 | 15 | 1,760 | 0.31 | 5 | 0.51 | binh_thuong | – | Không | This Forgotten fruit Is Almost Lost Tastes Like APPLE & HONEY |
+| 2026-09-21 | 56 | LL_5fnq8aOg | 899 | 15 | 1,635 | 0.55 | 5 | 0.52 | binh_thuong | – | Không | STOP! Your Rosemary Is Weak Because You're Missing THIS |
+| 2026-09-23 | 54 | JkE4PeE2u-w | 613 | 15 | 1,119 | 0.55 | 5 | 0.77 | binh_thuong | – | Không | 15 Overlooked Herbs That Thrive With Almost No Care — The Beginner Gardener’s Secret Weapon |
+| 2026-09-26 | 51 | 2C_NpJPDJfY | 959 | 15 | 919 | 1.04 | 5 | 0.74 | binh_thuong | – | Không | 18 Ancient Garden Plants That Keep Producing Again and Again — The Busy Gardener’s Shortcut |
+| 2026-10-09 | 38 | 0bLIWAQOK9k | 1,343 | 15 | 919 | 1.46 | 5 | 0.68 | binh_thuong | – | Không | 25 Hidden Crops That Survive When Everything Else Dies — The Self-Sufficient Gardener’s Treasure |
+| 2026-10-13 | 34 | tLgA37IvMg4 | 679 | 15 | 919 | 0.74 | 5 | 0.65 | binh_thuong | – | Không | 12 Underrated Edible Plants 7 You Should Be Growing Right Now |
+| 2026-10-17 | 30 | 71qSd2zBEuo | 857 | 15 | 899 | 0.95 | 5 | 0.49 | binh_thuong | – | Không | 20 Crops You Plant ONCE and Harvest for Years (Never Buy Seeds Again |
+| 2026-10-23 | 24 | 8P7j6hy0Cks | 623 | 15 | 857 | 0.73 | 5 | 0.46 | chua_chin | – | Không | 12 Forgotten Plants That Out-Protein Meat (And Grow Like Weeds). |
+| 2026-10-26 | 21 | e3nFJtjr2uU | 601 | 15 | 766 | 0.78 | 5 | 0.48 | chua_chin | – | Không | 15 Forgotten Underground Crops You Plant Once And Dig Up For Years |
+| 2026-10-28 | 19 | korqmvgVKHw | 369 | 15 | 679 | 0.54 | 5 | 0.58 | chua_chin | – | Không | 10 Old-Fashioned Perennial Vegetables You Plant Once And Harvest For Years |
+| 2026-10-30 | 17 | _mBS3Dja-10 | 393 | 15 | 679 | 0.58 | 5 | 0.52 | chua_chin | – | Không | 15 Container Vegetables You Should Plant In November ASAP |
+| 2026-11-02 | 14 | l7OSFg6PysA | 444 | 15 | 623 | 0.71 | 5 | 0.52 | chua_chin | – | Không | 25 Vegetables That Are Too EASY to Grow (Perfect for Lazy Gardeners!) |
+| 2026-11-04 | 12 | gxw-APkvo_s | 355 | 15 | 613 | 0.58 | 4 | – | chua_chin | – | Không | 10 Edible Perennials That Can Pay You Back in ONE Season |
+| 2026-11-06 | 10 | R4RrjA--FKM | 263 | 15 | 613 | 0.43 | 3 | – | chua_chin | – | Không | Plant These 5 Vegetables in November or Miss Winter Harvest! |
+| 2026-11-08 | 8 | 0qACC-6qUTc | 402 | 15 | 601 | 0.67 | 2 | – | chua_chin | – | Không | Raised Garden Beds Fail on Day One, Here's How to Fix It |
+| 2026-11-11 | 5 | H3iUrTRm22o | 316 | 15 | 601 | 0.53 | 1 | – | chua_chin | – | Không | 15 Christmas Porch Planters That Look Like a Designer Did Them  (But Cost Under $50) |
+| 2026-11-14 | 2 | ui-z-m6BYeY | 327 | 15 | 601 | 0.54 | 0 | – | chua_chin | – | Không | 12 Underground Crops That Feed You All Winter (The Food Industry Doesn't Want You Growing) |

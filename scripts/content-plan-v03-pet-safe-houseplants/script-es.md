@@ -1,0 +1,47 @@
+# TÍTULO: Si su gato muerde sus plantas de interior, cultive estas nueve en su lugar | Plantas seguras para mascotas
+
+## SEO
+- **Title:** Si su gato muerde sus plantas de interior, cultive estas nueve en su lugar | Plantas seguras para mascotas
+- **Tags:** plantas seguras para mascotas, plantas no tóxicas para gatos, plantas para mascotas, plantas de interior seguras para perros, plantas aprobadas por la ASPCA, plantas de interior seguras para gatos, planta araña, advertencia sobre la palma de sagú
+
+## Thumbnail
+- **Text overlay:** line 1 `¿SEGURAS?` (AMARILLO) · line 2 `COMPROBADO` (BLANCO) + badge `9` (chốt cuối ở bước thumbnail — KHÔNG dùng "vet-checked", per research overclaim). Visual FACELESS: mèo/chó cạnh chậu cây xanh + ✅ xanh.
+- **Visual concept:** xem outline.md; sẽ finalize ở garden-us-thumbnail.
+
+---
+
+## TTS SCRIPT
+
+Si su gato trata sus plantas de interior como una barra de ensaladas, o su perro empieza a escarbar en la maceta en cuanto usted da la vuelta, por favor, no abandone sus plantas. Solo necesita elegir las correctas. Aquí hay nueve plantas de interior seguras para gatos y perros, cada una confirmada como no tóxica por la ASPCA, empezando por la más fácil de cultivar. Y más adelante, esa "palma" común que puede ponerle en peligro la vida a una mascota, para que sepa exactamente qué evitar.
+
+Y no saqué esta lista de la nada. Cada una fue verificada contra la base de datos de control de intoxicaciones de la ASPCA, la que mantienen sus toxicólogos veterinarios. Así que puede confiar en ella. Y el número siete florece en pleno invierno, cuando todas las demás plantas ya se dieron por vencidas. Ya llegamos a ese.
+
+Aquí está el plan: tres que casi no puede matar, tres que ayudan a limpiar el aire, y tres que florecen. Nueve en total, todas seguras para gatos y perros. Empecemos con las resistentes.
+
+La número uno es la planta araña, y es por donde todos deberían comenzar. La ASPCA la clasifica como no tóxica tanto para gatos como para perros. Es una de las plantas de interior más fáciles que existen. No le importa si usted se olvida de regarla, y crece en una ventana luminosa o en un rincón con poca luz. Produce pequeñas plantas bebé colgando de tallos largos, así que una sola maceta se convierte poco a poco en cinco. Un dato honesto: a los gatos les encanta jugar con esas bebés colgantes, y un gato curioso puede morder una hoja. No la va a intoxicar, pero un bocado de cualquier fibra vegetal puede provocarle un pequeño malestar estomacal. Es segura, solo que no es una merienda. Corte las bebés y compártalas — así es como estas plantas han viajado de cocina en cocina por generaciones.
+
+La número dos es la planta de hierro fundido. El nombre lo dice todo. Es casi imposible de matar, perfecta si el riego se le olvida con facilidad. Segura para ambos, según la ASPCA. Tolera la poca luz, soporta la sequía, y mantiene esas hojas de verde profundo durante años. Prospera con poca luz y sequía porque creció en la sombra del bosque, con muy poco. Riegue cuando la pulgada superior de tierra se seque, y por lo demás, déjela tranquila.
+
+La número tres es la palma de salón, y no se deje confundir por la palabra "palma", porque volvemos a esa palabra en un momento. Esta es una palma verdadera, no tóxica para gatos y perros según la ASPCA, y ha sido la favorita de los salones desde los tiempos de su bisabuela. Se mantiene pequeña, se adapta a la poca luz, y crece despacio, así que no va a superar el tamaño de su mesita. Un poco de agua cuando la tierra se seque, y estará contenta.
+
+La número cuatro es el helecho de Boston. Este necesita un poco más de atención, pero vale la pena. La ASPCA le da un certificado limpio: no tóxico para gatos y perros. Esas frondas abundantes y arqueadas suavizan cualquier habitación. El detalle es que los helechos aman la humedad, así que colóquelo en un lugar húmedo, como un baño con buena luz, o ponga la maceta sobre una bandeja con piedritas y agua. Mantenga la tierra uniformemente húmeda, nunca completamente seca, y se desbordará de la maceta como una fuente verde.
+
+La número cinco es la palma areca, para quien quiera una declaración grande y llamativa. No tóxica para gatos y perros, dice la ASPCA. Esta alta y elegante puede llegar al techo con los años. Quiere luz brillante e indirecta, y agua cuando la superficie de la tierra se seque. Y ahora viene otra fácil, y después le muestro el truco de treinta segundos que significa que nunca más tiene que confiar en mí, ni en nadie, sobre esto.
+
+La número seis es la peperomia. Esta es una joya discreta, y las mascotas suelen dejarla en paz. Sin preocupaciones con esta: no tóxica para gatos y perros. Sus hojas son gruesas y casi cerosas, así que retienen agua, lo que significa que le perdona cuando se olvida de regarla. Se mantiene compacta, perfecta para un alféizar o un estante. Luz brillante e indirecta, y deje que se seque entre riegos. Eso es todo.
+
+Ahora, antes de llegar a las últimas tres, las bonitas que florecen, hagamos lo más útil de todo este video. Porque usted no debería tener que confiar solo en mi palabra, ni en la de nadie. Aquí está el truco de treinta segundos para verificar cualquier planta usted mismo. Abra su teléfono, escriba el nombre de la planta y la palabra "ASPCA", y aparece de inmediato su lista de plantas tóxicas y no tóxicas: segura para gatos, segura para perros, todo escrito claramente. Esa lista la mantienen toxicólogos veterinarios certificados. Es la fuente real. Y guarde este número a la mano: la línea de Control de Intoxicaciones Animales de la ASPCA, al ocho-ocho-ocho, cuatro-dos-seis, cuatro-cuatro-tres-cinco.
+
+Ahora, ¿recuerda esa "palma" que le prometí? Aquí está la que debe vigilar. Se llama la palma de sagú. Y a pesar del nombre, no es una palma verdadera en absoluto — es una planta antigua, parecida a un helecho, y es una de las plantas más peligrosas que puede traer a su casa. La ASPCA advierte que, en casos graves, hasta la mitad de las mascotas que la comen no sobreviven. Puede causar insuficiencia hepática en solo unos días. Y se parece mucho a las pequeñas palmas seguras de las que acabamos de hablar, así que si alguna vez ve la palabra "sagú" en una etiqueta, pase de largo. Otras plantas de interior populares también deben estar en su lista de evitar: potos, lirio de la paz, sansevieria, aloe, filodendro, y la planta ZZ son todas tóxicas para las mascotas. Hermosas, cada una de ellas, pero no en una casa con un gato o perro curioso. Y si ya tiene alguna, no tiene que deshacerse de ella. Simplemente colóquela en alto, en un estante o un gancho colgante, donde las patas y los hocicos no puedan alcanzarla.
+
+Muy bien, respire hondo. Volvamos a las buenas. La número siete es el cactus de Navidad, y esta es la que le prometí que florece en pleno invierno. La ASPCA también la aprueba: segura para gatos y perros. Justo por las fiestas, cuando los días son cortos y grises, abre flores de un rosa y rojo intensos, justo cuando más las necesita. Es posible que su abuela tuviera una en su ventana; estas plantas se heredan por décadas, floreciendo cada año. Déle luz brillante e indirecta, y no la consienta demasiado — le gusta un poco de abandono. De hecho, florece mejor cuando casi la ignora: un cuarto fresco, un poco menos de agua a medida que los días se acortan, y forma sus capullos como un reloj.
+
+La número ocho es la violeta africana, la pequeña planta que actúa como un ramo de flores. No tóxica para gatos y perros, confirma la ASPCA. Vive feliz en una maceta pequeña sobre el alféizar de la cocina y produce flores aterciopeladas moradas, rosadas o blancas casi todo el año. Aquí está la única regla: riéguela desde abajo, y trate de mantener el agua lejos de las hojas afelpadas. Ponga la maceta en un platito y deje que absorba lo que necesita. Para muchas personas, esta fue la primera planta de interior en casa, un pequeño esqueje de la madre o una tía, enraizado en un frasco de mermelada en la ventana. Nueve de cada diez veces, sigue viva y fuerte.
+
+Y la número nueve es la planta de la oración, a veces vendida como calatea. También tiene la bendición de la ASPCA: no tóxica para gatos y perros. Sus hojas están pintadas de verdes y morados profundos, y aquí está la magia: al anochecer, se pliegan juntas, como dos manos cerrándose en oración. Así consiguió su nombre. Le gusta la humedad y el riego constante, un poco como el helecho de Boston, así que manténgala cómoda y uniformemente regada. Póngala donde pase caminando por las noches, y verá esas hojas alzarse y plegarse, como si la planta se acomodara para dormir junto a usted.
+
+Así que ahí las tiene: nueve plantas de interior con las que puede llenar su casa, sin quedarse despierto preguntándose si le harán daño a su gato o a su perro. Una última palabra honesta, eso sí. No tóxica no significa que sea comida. Cualquier planta, segura o no, puede alterarle el estómago a una mascota si se da un banquete con ella. Así que colóquelas donde luzcan mejor, vigile a los masticadores más entusiastas, y si su mascota alguna vez se traga una buena cantidad de cualquier cosa, llame a su veterinario o a ese número de la ASPCA. En caso de duda, haga la llamada.
+
+Ahora me encantaría saber: ¿cuál es la que persigue su travieso peludo? Cuénteme en los comentarios, y empiece con la planta araña si esto es nuevo para usted.
+
+Porque de eso se trata todo esto, ¿verdad? Usted tiene su verde, sus mascotas están a salvo, y usted se queda con un poco de tranquilidad. Buena jardinería a todos.

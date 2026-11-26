@@ -1,0 +1,52 @@
+*Phạm vi vòng 2:* soi 4 vùng trong [vung-da-sua.md](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-100-aloe-sequel/phan-bien-v2/agy/vung-da-sua.md) + 1 câu trước/sau trên [script.md](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-100-aloe-sequel/phan-bien-v2/agy/script.md) đối chiếu [research-brief.md](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-100-aloe-sequel/phan-bien-v2/agy/research-brief.md) và [allowed-numbers.json](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-100-aloe-sequel/phan-bien-v2/agy/allowed-numbers.json). Lưu ý: mục 4 của `vung-da-sua.md` bị cắt cụt ở `«There'`, nên đã soi trọn đoạn cỡ chậu/độ sâu ở Bước 4 (`5:46–6:01`) + 1 câu trước/sau. Hook (`0:00–0:42`) giữ nguyên theo quyết định của user.
+
+**Xác nhận các lỗi vòng 1 đã sửa:**
+- Vùng 1 (Bước 1): **ĐÃ SỬA** — bổ sung cách soi rễ trước khi tháo chậu (`"Tip the pot toward the light and brush a little soil back, so you can see each pup's roots."`) và thừa nhận giới hạn mùa đông đúng NEED DATA (`"There's no word on whether pups root slower in winter, so give them a little extra patience."`).
+- Vùng 2 (Bước 2): **ĐÃ SỬA** — mở rộng cảnh báo cho pup đang phơi + gọi bác sĩ thú y (`"keep the new pots, and pups that are drying... If your pet ever chews one, call your vet."`) và thêm mốc trả một phần Loop A khớp C03/C28/C29 (`"Most of the time, a cut pup should scab over before it sits in damp soil."`).
+- Vùng 3 (Bước 3): **ĐÃ SỬA** — bỏ hẳn `«longest wait»` và `«no fresh roots»`; tách bạch số cho lá/cành (`C28`, `C22`) với bất đồng thật của pup (`C03` vs `C24`), chốt quy tắc chọn khớp ledger (`"Pot one right away, or give the cut about a week to scab over first. If you're not sure, take the week."`).
+- Vùng 4 (Bước 4): **ĐÃ SỬA một phần** — khai rõ mượn quy tắc cây trưởng thành (`C11`, `C14`), không áp số `1–1,5 inch` cho pup; còn 1 lỗi khoanh phạm vi nhỏ ở `@5:46` (xem mục 1).
+
+### 1. Dữ kiện theo Claim Ledger
+- `[NÊN SỬA]` Mục 1 (CR4) · `@5:46` · Phủ định hơi tuyệt đối (`written just for pups` nghe như không tài liệu nào từng viết, trong khi NEED DATA là chưa có hướng dẫn đại học/extension riêng cho pup).
+  - Before: `"There's no pot size or planting depth written just for pups. So borrow the rules for a grown aloe."`
+  - After: `"There's no set pot size or planting depth just for pups in university research, so you'll borrow the rules for a grown aloe."` `[C11, C14]`
+- `[GỢI Ý]` Mục 1 · `@0:46` · `"Aloe makes them on its own..."` dùng đại từ `"them"` khi chữ `"pups"` đã cách 4 câu (từ `@0:21`), người nghe TV dễ khựng nhẹ; có thể thay `"them"` bằng `"pups"` (`C21`, `C31`).
+*(Đã đối chiếu toàn bộ số trong kịch bản khớp `[1, 2, 3, 4, 5, 7]` của `allowed-numbers.json`; trình tự Bước 1 → Bước 5 hợp lý.)*
+
+### 2. An toàn
+- Đã soi: cảnh báo ASPCA ở Bước 2 (`@3:08–3:24`, đặt trước lúc phơi, có `"pups that are drying"` + `"call your vet"`, khớp `C33–C34`, không bịa hậu quả cho trẻ em), không nhắc nhựa/gel ăn uống (`C06`), khoanh vùng lạnh đúng phạm vi (`@1:48`, `C31`) — không thấy lỗi.
+
+### 3. Chính sách YouTube + nội dung "inauthentic"
+- Đã soi: 4 vùng đã sửa + hook (`0:00–0:42`, không có `[HOOK-GHI-NHẬN]`) về nhân chứng bịa (`L11`), narrator tự trồng (`X5`), thuyết âm mưu (`X1`), health-fear (`X3`), oversimplify (`X4`), claim tuyệt đối (`X2`), nhãn tuổi title (`L9`) — không thấy lỗi.
+
+### 4. Giữ chân
+- Kiểm luật: bằng chứng trước 20 s (`@0:03`, `@0:19` — `L6`) · trả lời title trong 60 s (`L3`) · `FIRST_STEP` & `ACTION_TIP` ở `@0:19` (`L24`, `L16`) · `0:38–1:00` sạch lộ trình/nguồn (`L4`, `L15`) · `COMMENT_Q` ở `@2:39` (`"How many pups did you find on yours?"` — `L22`) · phút 4–6 có tension liên tục (`4:01`, `4:49`, `5:08`, `5:46` — `L5`) · `CITE_ZONE` sạch `L14`/`L19`, không đọc lại chuỗi số `L18` · `PROMISE_OK` khớp `L17` · kết ở `@8:07` dài 37 từ ≈ 13,5 s (`L23`).
+- **Bản đồ Loop:**
+  - **Loop A («khô bao lâu»):** gieo `0:32` → trả một phần `3:24` (**172 s**, đạt `L27`) → đóng `4:19–4:31` (**55 s**, khớp hẹn `"in about four minutes"`).
+  - **Loop B («pup không rễ»):** gieo `1:18` → đóng `1:30` (**12 s**).
+  - **Loop C («bước làm ngược cảm giác»):** gieo `5:08` → đóng `6:16` (**68 s**).
+  - **Loop D («cây mẹ cần một việc»):** gieo `7:39` → đóng `7:46` (**7 s**).
+- `[GỢI Ý]` Mục 4 (L27) · `@3:24` · Mốc trả một phần Loop A (`"Most of the time, a cut pup should scab over before it sits in damp soil."`) có dữ kiện thật (đạt L27 ở 172 s @165 wpm), nhưng sát trần 180 s (nếu TTS đọc chậm xuống ~155 wpm sẽ thành 183 s) và chỉ đi trước Bước 3 đúng 12 giây.
+
+### 5. Chấm phần mở (0–60 s)
+- ① Câu hỏi/loop trong 10 s: **4/5** — mở có ảnh chuyển đổi rõ (`"Right now your aloe's one crowded pot. A month from now, those pups could be plants of their own"` `@0:00–0:08`), nhưng câu hỏi đầu ở `@0:21` và loop chính ở `@0:32`.
+- ② Bằng chứng/con số < 20 s: **5/5** — `"A month from now"` (`@0:03`, `C04`) + `"check two things on each pup"` (`@0:19`).
+- ③ Trả lời lời hứa title < 60 s: **5/5** — rõ chữ «Free» (`"You'll need pots and a bag of mix. Nothing fancy."`), giao Bước 1 (`@0:16–0:28`), chốt 5 bước (`"All in, it's five steps, and four of them are easy."`), chỉ cách soi rễ (`@0:52`).
+- ④ Dựng được bằng footage thật/đồ hoạ: **5/5** — mọi hình đều quay thật được (`"one crowded pot"`, `"pots and a bag of mix"`, `"Tip the pot toward the light and brush a little soil back"`).
+- ⑤ Đúng Claim Ledger: **5/5** — khớp `C04` (1 tháng), `C01` (`"a couple of inches tall"`), `C24/C29/C17` (`"roots of its own"`), `C21/C31` (`"whole clump"`).
+- ⑥ Đúng giọng kênh: **5/5** — rút gọn tự nhiên (`"aloe's"`, `"You'll"`, `"Here's"`, `"Step three's"`), gần gũi (`"Nothing fancy"`, `"folks disagree on"`), không gắn nhãn tuổi.
+- ⑦ Khác góc cùng chủ đề: **5/5** — tách khỏi góc thời điểm của video trước sang hướng dẫn 5 bước làm ngay tối nay (`"Here's step one, and you can do it tonight"`), lấy bất đồng thời gian phơi làm trục.
+- Đã soi: 7 tiêu chí phần mở `0:00–0:59` (**34/35**, ≥ 28/35, giữ nguyên hook theo chỉ đạo user) — không thấy lỗi.
+
+### 6. Cảnh báo cho người dựng
+- **Thiếu thẻ nguồn `U. Wisconsin–Madison Extension` ở [script.md](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-100-aloe-sequel/phan-bien-v2/agy/script.md#L24):** kịch bản dùng `[C31]` ở `@0:46` và `@1:48` (và `research-brief.md` mục E có ghi thẻ `"U. Wisconsin–Madison Extension, Small Aloes, 2026"`), nhưng dòng 24 bỏ sót → bổ sung thẻ này tại `@1:48`.
+- **Tránh footage trái lời đọc:** `@0:52` quay cảnh gạt nhẹ đất mặt *khi cây còn trong chậu* (không để lộ cảnh đã rút chậu của Bước 2 `@2:20`); `@3:45–3:56` trên GFX M3 phải gắn nhãn đậm `LEAF (1–3 days)` và `STEM (4–7 days)` để người xem TV không áp nhầm cho pup; `@7:21` GFX M5 ghi rõ `~4–5 weeks` là phép cộng kênh (`~1 wk + 3–4 wks`).
+- **An toàn & nhận diện cây:** `@3:08–3:24` tuyệt đối không dùng cảnh chó/mèo ngửi cây hay pup phơi trên bàn (dùng cảnh kệ cao + thẻ `ASPCA Animal Poison Control`); tránh nhầm footage *Agave*/*Haworthia* và dùng 100% ảnh/clip thật.
+
+**Hook: 34/35**
+**3 điểm mạnh nhất:**
+1. **Editorial Signature ở Bước 3 (`@3:36–4:31`) rất sắc:** bóc tách thẳng bất đồng giả (lá/cành vs pup) khỏi bất đồng thật (`C03` vs `C24`), tạo giá trị biên tập riêng (`L13`) mà vẫn dễ theo dõi qua tai nghe/TV.
+2. **Độ trung thực và nhịp giữ chân cân bằng:** khai rõ giới hạn nguồn ở cả mùa đông (`@1:59`) lẫn cỡ chậu pup (`@5:46`), mọi loop đều đóng gọn và kết bài 13,5 s cực sạch (`L23`).
+3. **Giọng dân dã đạt chuẩn kênh (`L26`):** tỷ lệ câu rút gọn 46,6 %, không mắc bệnh dẫn nguồn lặp khuôn (`L14`/`L19`) và đặt cảnh báo ASPCA đúng thời điểm rủi ro (`@3:08`).
+
+**Kết luận: ĐẠT CÓ SỬA** (0 lỗi CHẶN; chỉ cần chỉnh 1 câu `NÊN SỬA` ở `@5:46` và bổ sung thẻ nguồn `U. Wisconsin–Madison Extension` ở ghi chú sản xuất dòng 24).

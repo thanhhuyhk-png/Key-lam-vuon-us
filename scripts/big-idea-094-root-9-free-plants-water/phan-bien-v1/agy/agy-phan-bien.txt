@@ -1,0 +1,47 @@
+### BÁO CÁO BIÊN TẬP KỊCH BẢN (VÒNG PHẢN BIỆN 1)
+
+`[CHẶN] Mục 1 · "So here's the one thing to do tonight. Before you pull it, cut the tip." @01:15 · Kêu gọi làm ngay với Coleus nhưng giấu cảnh báo độc (C25) sang tận Mục 2; người xem làm theo để ly trên bàn khiến chó mèo trúng độc · Đưa cảnh báo ASPCA của Coleus vào ngay Mục 1 trước câu kêu gọi hành động.`
+`[CHẶN] Mục 7 · "Make sure at least one node sits under the water. [C05]" @07:05 · Gán sai mã C05 (của Syngonium); brief không có dữ kiện "node" cho Hoya (bịa nguồn/dữ kiện ngoài brief) · Bỏ hẳn câu về "node", chỉ dặn cắm ngập phần cuống cành cắt và giữ lá trên mặt nước theo RHS [C14].`
+`[NÊN SỬA] Mục 1 & 5 · "The bare stem is where new roots push out. [C05]" @01:00 & "A tip about three to five inches long. [C05]" @05:05 · Gán mã C05 bừa bãi cho Coleus và Swedish ivy; Swedish ivy trong brief không có số đo 3–5" · Coleus dẫn theo C01/C02; Swedish ivy dẫn chiếu phương pháp từ Coleus [C01, C33], bỏ gán C05.`
+`[NÊN SỬA] Mục 5 · "Same method, too, so there's nothing new to memorize... But first, I'm curious... I'd love to hear it down in the comments." @05:15–05:35 · Tự hạ giá trị bài học ("nothing new"), CTA bình luận quá sớm và xin xỏ giữ chân làm sụt retention ở phút thứ 5 (vi phạm L5) · Cắt bỏ CTA và câu "nothing new"; tạo tension bằng việc lý giải nghịch lý tên gọi Swedish ivy không phải họ thường xuân.`
+`[NÊN SỬA] Mục 8 & 9 · "And that brings us to the one I promised you back at number four. One leaf. No stem at all." @08:15 · Mục 8 (Peperomia) vừa hướng dẫn giâm bằng cuống lá ("stalk of a leaf"), làm mất tính độc nhất và suy yếu payoff của Loop #2 ở Mục 9 · Định vị Peperomia là cành lá mọng nước rụng ngọn; nhấn mạnh African violet là cây hoa duy nhất nhân giống từ một lá đơn.`
+`[NÊN SỬA] Mục 6 · "Three separate extension pages land on the same two points." @06:05 · Lỗi L19: cách cite lộ dấu vết biên tập ("ba trang extension"), mang giọng báo cáo kiểm kê hơn là nhà giáo dục · Sửa thành câu tự nhiên: "Across every propagation guide, two rules never change: keep the leaves dry, and keep the water fresh."`
+`[GỢI Ý] Mục 9 · "Pick one healthy leaf." @08:25 · Trái lời hứa title về việc tận dụng cành ngọn sắp vứt (vặt lá lành không phải cứu rác dọn cây) · Gắn vào tình huống dọn tỉa: "When you groom the bottom layer or bump a leaf loose during cleaning..."`
+`[GỢI Ý] Mục 3 · (Bỏ sót pet safety) @03:15 · Thiếu dữ kiện C29 xác nhận Impatiens không độc (Non-Toxic) cho chó mèo trong khi các cây khác đều có · Thêm một nhịp ngắn: "Good news for pet owners: impatiens is listed as completely non-toxic to dogs and cats." [C29]`
+`[GỢI Ý] KẾT · "Nine glasses lined up in the winter light, every one of them holding roots." @10:15 · Chạm nhẹ lỗi X2 (từ tuyệt đối "every one of them" hứa hẹn ngầm tỉ lệ thành công 100%) · Đổi thành: "Nine glasses lined up in the winter light, each with its own quiet burst of roots."`
+
+---
+
+### BẢN ĐỒ LOOP
+- **Loop #1 (Dấu hiệu qua thành ly để chuyển chậu):** Gieo @00:38 ("one sign you can see through the glass") · Nhắc @03:10 ("I'll show you exactly when to move them at the end") · Đóng @09:01 ("When the roots are about an inch long, it's time to plant" [C10]). **Đánh giá:** Khoảng trống giữa 03:10 và 09:01 quá dài (~6 phút) không được nhắc lại; cần chèn 1 câu nhắc nhẹ ở Mục 6 hoặc Mục 7.
+- **Loop #2 (Cây chậm nhất chỉ cần 1 lá):** Gieo @04:40 ("the slowest one doesn't need a stem at all") · Nhắc @08:15 ("One leaf. No stem at all") · Đóng @08:25 (African violet ra cây con từ 1 lá [C12]). **Đánh giá:** Đóng trọn vẹn, nhưng bị trùng lặp kỹ thuật giâm cuống lá với Peperomia ở Mục 8.
+
+---
+
+### CHẤM PHẦN MỞ (0–60 s) — 32.5/35 ĐIỂM
+① **Câu hỏi/loop trong 10s (3/5):** Có hook đảo tư duy tốt ("isn't trash. It's a free plant"), nhưng thiếu câu hỏi và loop cụ thể trước 10s (loop dấu hiệu nằm ở giây 38).
+② **Bằng chứng/con số trước 20s (5/5):** Đưa ra con số cụ thể ngay giây thứ 7 ("five inches"), thời gian "a few weeks", kết quả "white roots" [C01, C03].
+③ **Trả lời lời hứa title trong 60s (5/5):** Giao trọn công thức coleus và khoanh vùng 9 cây chậu/cây trong nhà trước 00:30.
+④ **Khả thi khi dựng hình (5/5):** Động tác cắt cành 5", tuốt lá, cắm ly nước rất dễ quay cận cảnh thực tế hoặc chèn motion graphic.
+⑤ **Đúng Claim Ledger (5/5):** Khớp chính xác C01, C02, C03, C11.
+⑥ **Đúng giọng kênh (5/5):** Giọng nhà giáo dục điềm tĩnh, ấm áp, khách quan, không xưng ngôi thứ nhất tự trồng (X5), không nhãn tuổi (L9).
+⑦ **Khác biệt đối thủ (4.5/5):** Tập trung vào việc cứu cây trước sương giá và giải quyết nút thắt rễ sốc khi sang đất, tách biệt hoàn toàn với mô-típ "trồng trong nước vĩnh viễn".
+*(Điểm ≥ 28/35: Không cần viết lại phần mở).*
+
+---
+
+### CẢNH BÁO CHO NGƯỜI DỰNG (B-ROLL & GRAPHICS)
+1. **Tránh nhận nhầm cây:** *Swedish ivy* (*Plectranthus verticillatus*) không phải thường xuân leo tường (*Hedera helix*); *Ornamental sweet potato vine* lá cảnh tím/vàng chanh, không lấy B-roll khoai ăn củ ngoài chợ; *Arrowhead vine* (*Syngonium*) không lấy nhầm trầu bà (*Epipremnum*).
+2. **Cảnh báo an toàn thú cưng:** Tuyệt đối KHÔNG ghép cảnh chó mèo liếm/ngửi ly nước Coleus, Begonia, Arrowhead vine (ASPCA cảnh báo có độc). Chỉ cho thú cưng xuất hiện cạnh Hoya, Peperomia, African violet.
+3. **Footage trái lời thoại:** Lời đọc nhấn mạnh "strip leaves below waterline", B-roll không được để lá chìm rữa dưới nước; Begonia quay cành ngọn non, tránh quay rễ củ dưới đất.
+4. **Thẻ nguồn màn hình:** Hiển thị lower-third đúng nhịp: UVM Extension (Coleus, Begonia), Walter Reeves (Impatiens), Clemson HGIC (Sweet potato vine), Iowa State Extension (Rễ thô/chuyển đất), ASPCA Poison Control (Pet safety).
+
+---
+
+**Hook: 32.5/35**
+**3 điểm mạnh nhất:**
+1. Góc tiếp cận giải quyết triệt để điểm nghẽn rễ nước sang đất (C11, C10), tạo giá trị thực hành vượt trội so với các video listicle hời hợt.
+2. Xử lý các điểm bất đồng nguồn (D01 Impatiens, D05 Hoya) và rào cản bản quyền giống (C35) rất trung thực, chuẩn mực giáo dục.
+3. Nhịp hook nhanh, trả ngay công thức hành động trước giây 20, tuân thủ xuất sắc giọng dẫn educator trung lập.
+
+**KẾT LUẬN: ĐẠT CÓ SỬA** (Bắt buộc sửa vị trí cảnh báo độc Coleus và bỏ dữ kiện "node" ở Mục 7 trước khi gửi duyệt thu âm).

@@ -1,0 +1,150 @@
+# Đo kênh: UCL3_8mlFDtcVCZ-JatBEJKw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 420 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 230,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-24 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 4,709 |
+| cao_nhat | 424,285 |
+| thap_nhat | 1,423 |
+| phan_tan | 90.10 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.98 |
+| ngay_video_dau | 2022-04-24 |
+| tuoi_tu_video_dau | 1,667 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 138 |
+| sub_moi_video | 548 |
+| video_30_ngay | 10 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2022-04-24 | 1,667 | juWLdvvtDhc | 45,795 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Old Fashioned Frugal Living Tips to Try Today |
+| 2022-05-19 | 1,642 | wkIBOuqQ4BI | 14,098 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How My FRUGAL Grandma Survived GREAT DEPRESSION |
+| 2022-10-21 | 1,487 | ociMh7YoId8 | 209,370 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The EASIEST Way to Get Out Of Debt (Even On A Low Income) |
+| 2023-04-14 | 1,312 | 92Xpv0mXgV8 | 680,348 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 50 Old Fashioned Frugal Living Tips to Try Today |
+| 2023-12-06 | 1,076 | pTL3EI8O8HY | 19,090 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | GRANDMA Knows Best: 30 FRUGAL Tips for Saving Money! |
+| 2023-12-13 | 1,069 | x8_gVDlnzog | 3,677 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 9 Secrets To Saving Money Every Day // From My Frugal Grandma😱 |
+| 2023-12-15 | 1,067 | ZlHsznOsdgc | 1,751 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | My Grandma's Extreme Frugality Moneysaving from A Time Gone By (Nostalgic) |
+| 2023-12-17 | 1,065 | jWEWtLbixgs | 1,812 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Old Fashioned Habits that NEED to COME BACK! \\ Slow & Frugal Living Tips! |
+| 2026-04-24 | 206 | w_25nbd3mRc | 105,184 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Grandma's 43 Clever Castor Oil Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-04-26 | 204 | lFRKzP7xj7Y | 2,667 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Grandpa's 43 Clever Baking Soda Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-04-28 | 202 | 42omrmV7bAo | 775,029 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Grandma's 43 Clever White Vinegar Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-04-30 | 200 | 1anuk1ibguQ | 23,934 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Grandpa's 25 BANNED Borax Hacks from 60s That Scientists Now Say Were GENIUS |
+| 2026-05-02 | 198 | ztYA64eJoqI | 69,717 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Grandma's 25 BANNED Beauty Hacks from 60s That Scientists Now Say Were GENIUS |
+| 2026-05-04 | 196 | 3v5vrnfjWp4 | 2,459 | 5 | 69,717 | 0.04 | 5 | 0.09 | binh_thuong | – | Không | Grandpa's 25 BANNED Vicks Vaporub Hacks from 60s That Scientists Now Say Were GENIUS |
+| 2026-05-06 | 194 | hQTwWAj1mUY | 5,993 | 6 | 46,826 | 0.13 | 5 | 0.22 | binh_thuong | – | Không | Grandpa's 43 Clever Hydrogen Peroxide Hacks Most People Don’t Know |
+| 2026-05-08 | 192 | jKbhe5ab5HI | 24,250 | 7 | 23,934 | 1.01 | 5 | 0.35 | binh_thuong | – | Không | Grandma's 43 Clever Epsom Salt Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-05-11 | 189 | tJt3l5JRnbk | 1,315 | 8 | 24,092 | 0.05 | 5 | 0.35 | binh_thuong | – | Không | Grandma's 25 Clever Hydrogen Peroxide Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-05-13 | 187 | HNWrGW6JWn8 | 10,457 | 9 | 23,934 | 0.44 | 5 | 0.10 | binh_thuong | – | Không | Grandma's 25 BANNED Hair Hacks from 60s That Scientists Now Say Were GENIUS |
+| 2026-05-15 | 185 | x9Ku6MIYDGw | 2,401 | 10 | 17,196 | 0.14 | 5 | 0.49 | binh_thuong | – | Không | Grandma's 31+ Clever Food Hacks You'll Wish You Knew Before |
+| 2026-05-18 | 182 | bErkzRM0Vd0 | 176,525 | 11 | 10,457 | 16.88 | 5 | 0.14 | can_kiem_ky | – | Không | Grandma's 35 Borax Hacks To Get Rid Of Roaches, Ants, Spiders, Mice, Bedbugs (30 Different Pest) |
+| 2026-05-20 | 180 | 4zyE0Y5uOF8 | 8,450 | 12 | 17,196 | 0.49 | 5 | 0.08 | binh_thuong | – | Không | Amish 43 Clever Hydrogen Peroxide Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-05-21 | 179 | A8Kt2oPJgKY | 1,236 | 13 | 10,457 | 0.12 | 5 | 0.14 | binh_thuong | – | Không | Grandma's 43 CLEVER White Vinegar Hacks that will BLOW YOUR MIND!!! |
+| 2026-05-23 | 177 | Dm6-9Xx3igE | 1,251 | 14 | 9,454 | 0.13 | 5 | 0.80 | binh_thuong | – | Không | Grandma's 25 Banned Coconut Oil Hacks From 60s That Scientists Now Say Were Genius |
+| 2026-05-25 | 175 | QLVPnc85JLQ | 33,376 | 15 | 8,450 | 3.95 | 5 | 0.89 | dang_ghi | – | Không | Grandma's 35 Hydrogen Peroxide Hacks To Kill Roaches, Ants, Bedbugs, Fleas & Mice, Etc. |
+| 2026-05-27 | 173 | GCkAHkYk7vc | 1,414 | 15 | 8,450 | 0.17 | 5 | 0.89 | binh_thuong | – | Không | Grandma's 43 Clever Baking Soda & Vinegar Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-05-28 | 172 | Ys_zeQ4O1SU | 1,443 | 15 | 8,450 | 0.17 | 5 | 1.23 | binh_thuong | – | Không | Grandma's 43 Old Fashioned Home Hacks to Try Today |
+| 2026-05-30 | 170 | cSIgsd2__oc | 7,559 | 15 | 5,993 | 1.26 | 5 | 3.88 | binh_thuong | – | Không | Grandma's 35 Hacks to Remove Dental Plaque Without Going to Dentist (You'll Wish You Knew Sooner!!!) |
+| 2026-06-01 | 168 | qnXXs51sfoE | 140,010 | 15 | 5,993 | 23.36 | 5 | 3.88 | can_kiem_ky | – | Không | Grandma's 35 White Vinegar Hacks To Get Rid Of Roaches, Ants, Spiders, Mice, Bedbugs, Etc. |
+| 2026-06-03 | 166 | pIg2M2xuMEg | 37,910 | 15 | 5,993 | 6.33 | 5 | 1.74 | manh | – | Không | Grandma's 25 Clever Borax Hacks Exterminators Don't Want You to Know |
+| 2026-06-05 | 164 | nzuc-5YYr5I | 3,897 | 15 | 7,559 | 0.52 | 5 | 1.38 | binh_thuong | – | Không | Grandma's 43 Vaseline Hacks That Will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-06-07 | 162 | p0lNIbOFGdY | 10,401 | 15 | 7,559 | 1.38 | 5 | 0.20 | binh_thuong | – | Không | Grandma's 35 Baking Soda Hacks to Kill Pests - COCKROACHES, BEDBUGS, ANTS, MICE, Etc |
+| 2026-06-09 | 160 | NWREJo3vuBA | 23,231 | 15 | 7,559 | 3.07 | 5 | 0.20 | dang_ghi | – | Không | Grandma's 35 Hacks to KILL Every Mosquito In Your Whole Yard (GUARANTEED SAFE METHOD) |
+| 2026-06-10 | 159 | DbogM03ATNA | 298,240 | 15 | 8,450 | 35.29 | 5 | 0.18 | can_kiem_ky | – | Không | Borax Works… You’re Just Doing This Wrong |
+| 2026-06-11 | 158 | wGX9htP81zY | 1,209 | 15 | 8,450 | 0.14 | 5 | 0.18 | binh_thuong | – | Không | Grandma's 42 White Vinegar Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-06-13 | 156 | FNB78dFfVX0 | 1,514 | 15 | 8,450 | 0.18 | 5 | 0.25 | binh_thuong | – | Không | Grandma's 25 BANNED Hydrogen Peroxide Hacks for Garden That Scientists Now Say Were GENIUS |
+| 2026-06-14 | 155 | DzmbR3ySrHs | 1,076 | 15 | 7,559 | 0.14 | 5 | 0.38 | binh_thuong | – | Không | Grandma's 25 Hydrogen Peroxide Hacks You'll Wish You Knew Sooner |
+| 2026-06-16 | 153 | U4T1EIGq-g0 | 2,106 | 15 | 3,897 | 0.54 | 5 | 3.46 | binh_thuong | – | Không | Grandma's 43 Castor Oil Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-06-20 | 149 | ajxJ34jfi3c | 2,325,964 | 15 | 3,897 | 597 | 5 | 0.75 | can_kiem_ky | – | Không | Grandma's 43 Oddly Useful Vicks VapoRub Hacks You'll Wish You Knew Sooner! |
+| 2026-06-22 | 147 | 4Rk8_2nNygc | 1,561 | 15 | 7,559 | 0.21 | 5 | 0.38 | binh_thuong | – | Không | 25 WD-40 Mistakes You Need to STOP Making Right Now! |
+| 2026-06-25 | 144 | PG7fnN7LrWg | 96,969 | 15 | 3,897 | 24.88 | 5 | 0.36 | can_kiem_ky | – | Không | Grandma's 35 Vicks Vaporub Hacks For Pest Removal - MOSQUITO, ANTS, FLIES, SPIDERS, RODENTS, ROACHES |
+| 2026-06-27 | 142 | UL6xi1sjwf8 | 2,907 | 15 | 7,559 | 0.38 | 5 | 0.13 | binh_thuong | – | Không | KILL EVERY Mosquito Like Grandma. SAFE For Honey Bees & Pets! |
+| 2026-06-29 | 140 | fDy-ZlhNtJQ | 13,492 | 15 | 7,559 | 1.78 | 5 | 0.13 | binh_thuong | – | Không | Grandma's 31 Hacks To Kill Mice & Rats (RODENTS) with Borax |
+| 2026-07-01 | 138 | lPN6KYNh5N4 | 736 | 15 | 10,401 | 0.07 | 5 | 0.09 | binh_thuong | – | Không | 25 Hydrogen Peroxide Mistakes You Need to STOP Making Right Now! |
+| 2026-07-03 | 136 | Hgmsap7Alb8 | 968 | 15 | 3,897 | 0.25 | 5 | 0.24 | binh_thuong | – | Không | Castor Oil Works… You’re Just Doing THIS WRONG! (25 Grandma's Secret Hacks No One Tells You) |
+| 2026-07-04 | 135 | KJAEcvWhV7c | 1,397 | 15 | 2,907 | 0.48 | 5 | 0.32 | binh_thuong | – | Không | Grandma's 35 Safest Hacks to Get Rid of Wasps, Hornets & Yellow Jackets in Your Whole Neighborhood |
+| 2026-07-06 | 133 | PzkDWJSZ2J4 | 847 | 15 | 2,106 | 0.40 | 5 | 0.61 | binh_thuong | – | Không | Grandma's 45 Oddly Useful Life Hacks You'll Wish You Knew Sooner |
+| 2026-07-08 | 131 | yIhFzkhwqjE | 21,913 | 15 | 1,561 | 14.04 | 5 | 0.60 | can_kiem_ky | – | Không | Grandma's 35 Dawn Dish Soap Hacks To Get Rid Of Roaches, Ants, Spiders, Mice, Bedbugs, Etc. |
+| 2026-07-09 | 130 | t161kYIkv30 | 944 | 15 | 1,561 | 0.60 | 5 | 0.53 | binh_thuong | – | Không | Grandma's 25 BANNED Borax Hacks from 1930s That Scientists Now Say Were GENIUS |
+| 2026-07-11 | 128 | 54cqRYxMFoo | 723 | 15 | 1,514 | 0.48 | 5 | 0.85 | binh_thuong | – | Không | Grandpa's 37 Valuable Survival Hacks In a Wild (That Might Save Your Life One Day) |
+| 2026-07-12 | 127 | AzT0hKJvXhg | 1,281 | 15 | 1,514 | 0.85 | 5 | 0.77 | binh_thuong | – | Không | Grandma's 50 Oddly Useful Frugal Living Tips You'll Wish You knew Sooner |
+| 2026-07-14 | 125 | jmili4LmXeo | 11,857 | 15 | 1,397 | 8.49 | 5 | 0.82 | manh | – | Không | Grandpa's 27 Hacks to KILL ALL Rats And Mice Around Your Home. Safe For Pets! |
+| 2026-07-15 | 124 | MbyMqJG9W4I | 591 | 15 | 1,561 | 0.38 | 5 | 0.74 | binh_thuong | – | Không | Grandma's 35 FREE Gardening Hacks to Grow MORE Food With LESS Work |
+| 2026-07-16 | 123 | WfJbVxI-Io8 | 828 | 15 | 1,397 | 0.59 | 5 | 0.83 | binh_thuong | – | Không | Grandma's 43 Clever Baking Soda Hacks that will BLOW YOUR MIND!!! |
+| 2026-07-18 | 121 | EyE9nopM8pk | 24,968 | 15 | 1,281 | 19.49 | 5 | 0.89 | can_kiem_ky | – | Không | Grandpa's 25 Cleverly Useful Car Hacks (you might need one day) |
+| 2026-07-20 | 119 | p2NM02C9Wrg | 1,161 | 15 | 1,281 | 0.91 | 5 | 0.74 | binh_thuong | – | Không | Grandpa's 45 Clever WD-40 Hacks That Will Blow Your Mind & Make Life Easier! |
+| 2026-07-22 | 117 | C2Qnq6Nic0I | 1,141 | 15 | 1,161 | 0.98 | 5 | 0.81 | binh_thuong | – | Không | How to Use Borax Around the House - Grandma's 45 Hacks You'll Wish You Knew Sooner |
+| 2026-07-24 | 115 | VoJSXTHe3hM | 214,107 | 15 | 1,141 | 188 | 5 | 0.72 | can_kiem_ky | – | Không | Grandpa's 42 Clever DIY Tips for Seniors Living Alone (That Cost Pennies!) |
+| 2026-07-25 | 114 | fYPzTjYZri4 | 694 | 15 | 1,141 | 0.61 | 5 | 0.83 | binh_thuong | – | Không | Grandma's 35 Clever Tricks to Make Fresh Groceries Last 10x Longer |
+| 2026-07-27 | 112 | rAmraOr2B1Q | 946 | 15 | 1,141 | 0.83 | 5 | 1.22 | binh_thuong | – | Không | Grandpa's 42 Clever White Vinegar Hacks that will BLOW YOUR MIND & MAKE LIFE EASIER!!! |
+| 2026-07-29 | 110 | ZtYoLvOEU-w | 824 | 15 | 1,141 | 0.72 | 5 | 1.37 | binh_thuong | – | Không | Grandma's 50 Ingenious Home Hacks to Try Today (save time, money, and effort 💰) |
+| 2026-08-01 | 107 | cQhEurlUBTE | 1,919 | 15 | 946 | 2.03 | 5 | 1.47 | hoi_cao | – | Không | Grandpa's 17 HIDDEN Car Tricks NO ONE Knows About (Pro Tips) |
+| 2026-08-03 | 105 | 7spvn2i__DE | 669 | 15 | 1,141 | 0.59 | 5 | 1.37 | binh_thuong | – | Không | Grandma's 43 Money-Saving Secrets for Seniors Living Alone on a Fixed Income |
+| 2026-08-05 | 103 | Na8BqDxCXPA | 1,387 | 15 | 946 | 1.47 | 5 | 1.65 | binh_thuong | – | Không | Grandpa's 43 Secret Borax Hacks You'll Wish You Knew Sooner (Cost Pennies!) |
+| 2026-08-07 | 101 | kK6f86veO3g | 1,559 | 15 | 1,141 | 1.37 | 5 | 1.24 | binh_thuong | – | Không | Grandpa's 35 Ruthless Decluttering Tricks Seniors Use to Clear Entire Homes in 48 Hours |
+| 2026-08-10 | 98 | bkPKisGMmO4 | 173,865 | 15 | 1,161 | 150 | 5 | 1.01 | can_kiem_ky | – | Không | Grandpa's 35 Self Defense Hacks for Seniors Living Alone That Cost Pennies |
+| 2026-08-12 | 96 | HaiOMQ_gAWU | 955 | 15 | 1,161 | 0.82 | 5 | 1.22 | binh_thuong | – | Không | Grandma's 30 Cheap Depression-Era Recipes for Seniors Living Alone (Quick & Easy) |
+| 2026-08-14 | 94 | 7BIHhPbCy_A | 9,368 | 15 | 1,141 | 8.21 | 5 | 1.24 | manh | – | Không | Grandpa's 25 "Poor Man" Home-Defense Tricks That Make $5,000 Security Systems Look Like a Scam |
+| 2026-08-17 | 91 | TyexoNA6i_E | 902 | 15 | 1,161 | 0.78 | 5 | 3.45 | binh_thuong | – | Không | Grandpa's 40 DIY Tips to Prevent Fall for Seniors (Ages 65+) Cost Pennies! |
+| 2026-08-19 | 89 | f8I5A0N6bx0 | 1,418 | 15 | 1,161 | 1.22 | 5 | 11.42 | binh_thuong | – | Không | Grandpa's Clever DIY Tips for Seniors Living Alone That Cost Pennies! |
+| 2026-08-21 | 87 | VlgsgBTzFcI | 1,175 | 15 | 1,161 | 1.01 | 5 | 32.03 | binh_thuong | – | Không | Grandma's 10 Effective Ways to Kill Pests with Baking Soda and Vinegar |
+| 2026-08-24 | 84 | Ykl_tXNCvmg | 37,192 | 15 | 1,175 | 31.65 | 5 | 11.28 | can_kiem_ky | – | Không | Grandma's 35 Home Security Hacks for Seniors Living Alone That Cost Pennies |
+| 2026-08-26 | 82 | dWAwCbO7AMA | 4,006 | 15 | 1,387 | 2.89 | 5 | 39.50 | hoi_cao | – | Không | Grandma's 25 BANNED White Vinegar Hacks from 60s That Scientists Now Say Were GENIUS |
+| 2026-08-29 | 79 | jToyPq9tJ2M | 54,780 | 15 | 1,387 | 39.50 | 5 | 9.56 | can_kiem_ky | – | Không | Grandpa's 25 Clever Heating Hacks for Seniors Living Alone (That Cost Pennies!) |
+| 2026-08-31 | 77 | 2QMF5m_gMqw | 13,255 | 15 | 1,418 | 9.35 | 5 | 2.17 | manh | – | Không | Wish I Knew These Hydrogen Peroxide Tricks Before, I Would've Saved So Much Money |
+| 2026-09-02 | 75 | t3fEOFTVBFU | 65,164 | 15 | 1,559 | 41.80 | 5 | 1.98 | can_kiem_ky | – | Không | Grandpa's 25 BANNED Heating Hacks from 60s That Scientists Now Say Were GENIUS |
+| 2026-09-03 | 74 | y_lfU_vCFms | 2,535 | 15 | 1,919 | 1.32 | 5 | 29.54 | binh_thuong | – | Không | Amish 25 BANNED Vinegar Hacks from 60s That Scientists Now Say Were GENIUS |
+| 2026-09-04 | 73 | K8wZnQg8DHY | 56,691 | 15 | 2,535 | 22.36 | 5 | 1.22 | can_kiem_ky | – | Không | Grandpa's 42 Zero-Cost DIY Tips for Seniors Living Alone (That Actually Work!) |
+| 2026-09-07 | 70 | kSYd4wsTVao | 1,711 | 15 | 4,006 | 0.43 | 5 | 0.77 | binh_thuong | – | Không | Grandpa's 38 Car Maintenance Tricks That Work (Cost Pennies!) |
+| 2026-09-09 | 68 | H3STX5VdZkk | 3,081 | 15 | 4,006 | 0.77 | 5 | 1.21 | binh_thuong | – | Không | Grandpa's 29 Clever Self Defense Tricks For Seniors Living Alone That Make Life Easier |
+| 2026-09-11 | 66 | RmmQ7gvWnK8 | 231,075 | 15 | 4,006 | 57.68 | 5 | 1.21 | can_kiem_ky | – | Không | Grandma's 42 Clever White Vinegar Tricks For Seniors Living Alone That Make Life Easier |
+| 2026-09-14 | 63 | pyx8TE1qL7A | 424,285 | 15 | 4,006 | 106 | 5 | 1.14 | can_kiem_ky | – | Không | Grandma's 25 Winter Survival Tricks for Seniors Living Alone (That Cost Pennies!) |
+| 2026-09-16 | 61 | DcDk6qqS8Go | 1,423 | 15 | 9,368 | 0.15 | 5 | 0.52 | binh_thuong | – | Không | Grandma's 31 Scam-Protection Tricks for Seniors Living Alone That Cost Pennies! |
+| 2026-09-18 | 59 | 9-qJSffmNzY | 2,090 | 15 | 4,006 | 0.52 | 5 | 1.21 | binh_thuong | – | Không | Grandpa’s 43 DIY Heating Tips for Seniors Living Alone That Cost Pennies! |
+| 2026-09-20 | 57 | 8PsZRACLLnI | 4,857 | 15 | 4,006 | 1.21 | 5 | 3.78 | binh_thuong | – | Không | Grandpa's 42 Clever Baking Soda Tricks For Seniors Living Alone That Make Life Easier |
+| 2026-09-22 | 55 | 4igng5vYOZI | 163,137 | 15 | 4,857 | 33.59 | 5 | 1.88 | can_kiem_ky | – | Không | Grandma's 20 Clever Cooking Tricks For Seniors Living Alone That Make Life Easier |
+| 2026-09-24 | 53 | tnRkNj19lK0 | 4,561 | 15 | 13,255 | 0.34 | 5 | 0.69 | binh_thuong | – | Không | Grandpa's 35 Winter DIY Tips To Get Rid Of Roaches, Ants, Spiders, Mice & Bedbugs (Cost Pennies!) |
+| 2026-09-26 | 51 | 6iKpUOSHaz0 | 15,138 | 15 | 4,857 | 3.12 | 5 | 1.88 | dang_ghi | – | Không | Grandpa's 42 Winter Power Outage Survival Tricks for Seniors Living Alone |
+| 2026-09-28 | 49 | DOYO-Lza3JI | 4,092 | 15 | 13,255 | 0.31 | 5 | 0.69 | binh_thuong | – | Không | Grandma's 25 Clever Household Tricks For Seniors Living Alone That Cost Pennies! |
+| 2026-09-30 | 47 | etJ-FJ_g_Hw | 33,080 | 15 | 4,857 | 6.81 | 5 | 1.39 | manh | – | Không | Grandpa's 42 Clever Ways to Cut Your Heating Bill in Half This Winter (Seniors Living Alone) |
+| 2026-10-02 | 45 | c_JEbptC1Qk | 9,131 | 15 | 4,857 | 1.88 | 5 | 1.06 | binh_thuong | – | Không | Grandma's 25 CHEAP Vintage Winter Meals for Seniors Living Alone (That Cost Pennies!) |
+| 2026-10-04 | 43 | 7tHwkqP8AIc | 6,738 | 15 | 4,857 | 1.39 | 5 | 0.70 | binh_thuong | – | Không | Grandpa's 43 Clever WD-40 Tricks For Seniors Living Alone That Make Life Easier |
+| 2026-10-06 | 41 | 5fMg0CvutXk | 22,724 | 15 | 6,738 | 3.37 | 5 | 0.50 | dang_ghi | – | Không | Grandma's 25 BANNED Blizzard Survival Hacks from 60s That Scientists Now Say Were GENIUS |
+| 2026-10-08 | 39 | KYznE8ZZ1qY | 1,569 | 15 | 6,738 | 0.23 | 5 | 0.56 | binh_thuong | – | Không | Grandma's 42 Oddly Useful Hydrogen Peroxide Hacks You'll Wish You Knew Sooner |
+| 2026-10-09 | 38 | 8JkfgP6GquI | 5,148 | 15 | 6,738 | 0.76 | 5 | 0.50 | binh_thuong | – | Không | Grandpa's 25 Winter Depression-Era Heating Hacks for Seniors Living Alone that Cost Pennies! |
+| 2026-10-10 | 37 | N1OYRnBDGo8 | 1,954 | 15 | 6,738 | 0.29 | 5 | 0.50 | binh_thuong | – | Không | Grandma's 42 Clever DIY Tips for Seniors Living Alone That Cost Pennies! |
+| 2026-10-12 | 35 | Bi3HVQDLHFI | 3,378 | 15 | 5,148 | 0.66 | 5 | 0.74 | binh_thuong | – | Không | NEVER clear a BLOCKED Sink with Vinegar Again — Try This Grandma's Old Trick |
+| 2026-10-14 | 33 | h48KKDB3yHw | 4,048 | 15 | 4,857 | 0.83 | 5 | 0.78 | binh_thuong | – | Không | Grandma's 25 Super El Niño Survival Tricks for Seniors Living Alone (PREPARE NOW) |
+| 2026-10-16 | 31 | nVYX0_tGbKU | 3,804 | 15 | 4,857 | 0.78 | 5 | 0.68 | binh_thuong | – | Không | Grandma's 25 WWII Winter Survival Tricks for Seniors Living Alone |
+| 2026-10-18 | 29 | KITNj81pzAI | 2,757 | 15 | 4,857 | 0.57 | 5 | 0.68 | chua_chin | – | Không | Grandma's 42 Clever Borax Tricks For Seniors Living Alone That Make Life Easier |
+| 2026-10-20 | 27 | AbNE_PL5Vw0 | 3,306 | 15 | 4,561 | 0.72 | 5 | 0.70 | chua_chin | – | Không | 16 Ways Grandma Uses Vicks VapoRub in Winter (99% of People Don't Know) |
+| 2026-10-22 | 25 | Xz5lATkjZNo | 4,163 | 15 | 4,092 | 1.02 | 5 | 0.78 | chua_chin | – | Không | Grandma's 43 Oddly Useful Dawn Dish Soap Hacks You'll Wish You Knew Sooner! |
+| 2026-10-24 | 23 | fGtBtzp5OHk | 30,797 | 15 | 4,092 | 7.53 | 5 | 0.50 | chua_chin | – | Không | Grandma's 25 BANNED Vaseline Hacks from 60s That Scientists Now Say Were GENIUS! |
+| 2026-10-26 | 21 | SxeUojB0Hlg | 1,874 | 15 | 4,092 | 0.46 | 5 | 0.50 | chua_chin | – | Không | Grandpa’s 42 Winter Blackout Survival Tricks for Seniors Living Alone (That Cost Pennies!) |
+| 2026-10-28 | 19 | Qxo2x5CA3lY | 2,046 | 15 | 4,048 | 0.51 | 4 | – | chua_chin | – | Không | Grandma's 43 Oddly Useful Washing Soda Hacks You'll Wish You Knew Sooner! |
+| 2026-11-02 | 14 | 9ncLyKpdV-Q | 3,209 | 15 | 3,804 | 0.84 | 3 | – | chua_chin | – | Không | Grandma's 43 Oddly Useful Castor Oil Hacks You'll Wish You Knew Sooner! |
+| 2026-11-06 | 10 | V8WMETjUSr0 | 3,703 | 15 | 3,378 | 1.10 | 2 | – | chua_chin | – | Không | Grandma's 25 BANNED Vicks Vaporub Hacks from 60s That Scientists Now Say Were GENIUS! |
+| 2026-11-11 | 5 | vyaCmuLYPZo | 1,088 | 15 | 3,378 | 0.32 | 1 | – | chua_chin | – | Không | Grandpa’s 25 Cheap Walmart Hacks When Your Furnace Dies (Seniors Living Alone) |
+| 2026-11-13 | 3 | qKK47bphJE4 | 963 | 15 | 3,306 | 0.29 | 0 | – | chua_chin | – | Không | Grandma’s 25 Mixed Baking Soda & Hydrogen Peroxide Hacks You’ll Wish You Knew Sooner! |

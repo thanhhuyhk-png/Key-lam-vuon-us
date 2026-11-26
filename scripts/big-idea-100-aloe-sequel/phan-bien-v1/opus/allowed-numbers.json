@@ -1,0 +1,19 @@
+{
+ "allowed": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  7
+ ],
+ "_ghi_chu": {
+  "1": "one part potting soil / one plant / one move (C12) · «a month» (C04) · «about an inch or so» (C11)",
+  "2": "a couple of inches (C01) · two to three days (C29) · every two years (C10)",
+  "3": "one to three days — lá cắt (C28) · two to three days (C29) · three to four weeks (C26) · three things (Consensus C24/C03/C12)",
+  "4": "four to seven days — cành cắt (C22) · three to four weeks (C26) · four to five weeks (phép cộng kênh C03+C26) · four of them easy · about four minutes (hẹn giờ trả loop)",
+  "5": "five steps (title) · four to five weeks (phép cộng C03+C26)",
+  "7": "four to seven days — cành cắt (C22)"
+ },
+ "_nguon": "research-brief.md Claim Ledger 22/11/2026 (Pass2=Y)"
+}

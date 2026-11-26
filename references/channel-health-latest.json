@@ -1,0 +1,851 @@
+{
+  "fetched_at": "2026-11-25T13:27:57Z",
+  "channel_slug": "garden-us-60k",
+  "window": {
+    "start": "2026-09-30",
+    "end": "2026-11-25",
+    "weeks": 8
+  },
+  "weekly_trend": [
+    {
+      "week": "2026-W40",
+      "views": 15571,
+      "avd_pct": 28.6,
+      "avg_dur_s": 237
+    },
+    {
+      "week": "2026-W41",
+      "views": 22307,
+      "avd_pct": 28.9,
+      "avg_dur_s": 237
+    },
+    {
+      "week": "2026-W42",
+      "views": 19675,
+      "avd_pct": 29.8,
+      "avg_dur_s": 244
+    },
+    {
+      "week": "2026-W43",
+      "views": 17302,
+      "avd_pct": 29.9,
+      "avg_dur_s": 252
+    },
+    {
+      "week": "2026-W44",
+      "views": 18624,
+      "avd_pct": 27.3,
+      "avg_dur_s": 235
+    },
+    {
+      "week": "2026-W45",
+      "views": 17167,
+      "avd_pct": 29.2,
+      "avg_dur_s": 241
+    },
+    {
+      "week": "2026-W46",
+      "views": 18395,
+      "avd_pct": 29.3,
+      "avg_dur_s": 240
+    },
+    {
+      "week": "2026-W47",
+      "views": 15894,
+      "avd_pct": 30.7,
+      "avg_dur_s": 247
+    }
+  ],
+  "avd_trend": {
+    "current": 30.7,
+    "median_prior_weeks": 29.2,
+    "delta_pts": 1.5,
+    "direction": "up"
+  },
+  "watch_budget_s": 240,
+  "traffic_mix": {
+    "current_28d": {
+      "browse": 71.0,
+      "suggested": 13.1,
+      "search": 9.7,
+      "shorts": 0.0,
+      "external": 4.9,
+      "playlist": 0.4,
+      "notification": 0.3,
+      "other": 0.6
+    },
+    "previous_28d": {
+      "browse": 68.3,
+      "suggested": 15.2,
+      "search": 10.0,
+      "shorts": 0.0,
+      "external": 5.2,
+      "playlist": 0.4,
+      "notification": 0.3,
+      "other": 0.6
+    },
+    "delta_pts": {
+      "browse": 2.7,
+      "suggested": -2.1,
+      "search": -0.3,
+      "shorts": 0.0,
+      "external": -0.3,
+      "playlist": 0.0,
+      "notification": 0.0,
+      "other": 0.0
+    }
+  },
+  "outliers": {
+    "scope": "long-form only",
+    "median_views": 340,
+    "count_3x": 10,
+    "total": 50,
+    "ratio_3x_pct": 20.0,
+    "top": [
+      {
+        "title": "5 Secrets to Growing Aloe Vera FAST and EASY",
+        "views": 47269,
+        "avd_pct": 25.4,
+        "duration_s": 977,
+        "multiple": 138.8
+      },
+      {
+        "title": "Grow Avocado From Seed - The Lazy Way That Actually Works",
+        "views": 34447,
+        "avd_pct": 31.7,
+        "duration_s": 699,
+        "multiple": 101.2
+      },
+      {
+        "title": "Stop Rooting Cuttings in Water! Use This Instead (50 Plants ",
+        "views": 12863,
+        "avd_pct": 34.0,
+        "duration_s": 684,
+        "multiple": 37.8
+      },
+      {
+        "title": "I STOPPED Watering My Lemon Tree - What Happened in Week 4 S",
+        "views": 10878,
+        "avd_pct": 27.7,
+        "duration_s": 1088,
+        "multiple": 31.9
+      },
+      {
+        "title": "7 Cheap Root Cellar Ideas That Keep Vegetables Fresh ALL WIN",
+        "views": 6349,
+        "avd_pct": 32.9,
+        "duration_s": 703,
+        "multiple": 18.6
+      }
+    ]
+  },
+  "duration_bands": [
+    {
+      "band": "5-8′",
+      "n": 1,
+      "median_views": 812,
+      "median_avd_pct": 29.0
+    },
+    {
+      "band": "8-12′",
+      "n": 26,
+      "median_views": 296,
+      "median_avd_pct": 31.7
+    },
+    {
+      "band": "12-20′",
+      "n": 20,
+      "median_views": 340,
+      "median_avd_pct": 28.0
+    },
+    {
+      "band": "20-40′",
+      "n": 3,
+      "median_views": 636,
+      "median_avd_pct": 27.2
+    }
+  ],
+  "shorts": null,
+  "excluded": {
+    "shorts": 0,
+    "private": 0,
+    "deleted": 0,
+    "counted_longform": 50,
+    "total_from_api": 50,
+    "views_lost_to_removed": 0
+  },
+  "catalog_split": {
+    "old_videos": 35,
+    "old_views": 131808,
+    "new_videos": 15,
+    "new_views": 10067,
+    "old_share_pct": 92.9,
+    "channel_avg_represents": "catalog cũ",
+    "_warn": "old_share_pct cao => CTR/AVD trung binh cap kenh KHONG mo ta video moi. Phai lay CTR tung video tu Studio truoc khi cham truc Dong goi."
+  },
+  "early_velocity": {
+    "scope": "long-form only",
+    "videos": [
+      {
+        "videoId": "krtVPWEZimY",
+        "title": "What to Plant in November 5 Crops That Shrug Off 28°F",
+        "published": "2026-11-22",
+        "views_5d": 142,
+        "partial": true
+      },
+      {
+        "videoId": "8bHtI8SpcTc",
+        "title": "Root Cellar Without a Cellar 3 Zones That Keep Veggies All W",
+        "published": "2026-11-20",
+        "views_5d": 272,
+        "partial": false
+      },
+      {
+        "videoId": "rr_1fCTtuP4",
+        "title": "Nobody Believed Dragon Fruit Could Survive on Desert Sand — ",
+        "published": "2026-11-15",
+        "views_5d": 1180,
+        "partial": false
+      },
+      {
+        "videoId": "9PWB233HBFc",
+        "title": "You’re Throwing Away Free Plants: Root These 9 in a Glass of",
+        "published": "2026-11-11",
+        "views_5d": 850,
+        "partial": false
+      },
+      {
+        "videoId": "Uanf2aMH0iU",
+        "title": "Don’t Pull Your Pepper Plants Yet. They Can Live for Years",
+        "published": "2026-11-06",
+        "views_5d": 289,
+        "partial": false
+      },
+      {
+        "videoId": "KybDlhJ-Zgc",
+        "title": "Rose Cuttings in a Potato One Small Study Found No Roots",
+        "published": "2026-11-03",
+        "views_5d": 316,
+        "partial": false
+      },
+      {
+        "videoId": "ocByKNBqZFg",
+        "title": "Geraniums Will Explode With Flowers If You Do This Now",
+        "published": "2026-10-28",
+        "views_5d": 649,
+        "partial": false
+      },
+      {
+        "videoId": "NFPmRO2FZYI",
+        "title": "No Flowers on Your Lemon Tree? Count This 1 Number Tomorrow",
+        "published": "2026-10-26",
+        "views_5d": 543,
+        "partial": false
+      }
+    ],
+    "median_5d_views": 543
+  },
+  "videos": [
+    {
+      "videoId": "AJnyTWUgKWU",
+      "title": "5 Secrets to Growing Aloe Vera FAST and EASY",
+      "published": "2026-01-07",
+      "duration_s": 977,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 47269,
+      "avd_pct": 25.4,
+      "avg_dur_s": 248
+    },
+    {
+      "videoId": "NmL--ywpKns",
+      "title": "Grow Avocado From Seed - The Lazy Way That Actually Works",
+      "published": "2026-02-01",
+      "duration_s": 699,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 34447,
+      "avd_pct": 31.7,
+      "avg_dur_s": 221
+    },
+    {
+      "videoId": "9qcpNPXL4f8",
+      "title": "Stop Rooting Cuttings in Water! Use This Instead (50 Plants Free)",
+      "published": "2026-04-18",
+      "duration_s": 684,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 12863,
+      "avd_pct": 34.0,
+      "avg_dur_s": 232
+    },
+    {
+      "videoId": "ac7pP47tYXM",
+      "title": "I STOPPED Watering My Lemon Tree - What Happened in Week 4 Shocked Me",
+      "published": "2026-01-14",
+      "duration_s": 1088,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 10878,
+      "avd_pct": 27.7,
+      "avg_dur_s": 300
+    },
+    {
+      "videoId": "x0-7HzQnLaU",
+      "title": "7 Cheap Root Cellar Ideas That Keep Vegetables Fresh ALL WINTER... #4 Costs Almost NOTHING!",
+      "published": "2026-01-18",
+      "duration_s": 703,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 6349,
+      "avd_pct": 32.9,
+      "avg_dur_s": 231
+    },
+    {
+      "videoId": "cTuGnXMSdnw",
+      "title": "7 Indoor Plants That Thrive in JUST Water (No Soil Needed!)",
+      "published": "2026-02-09",
+      "duration_s": 562,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 5714,
+      "avd_pct": 33.7,
+      "avg_dur_s": 189
+    },
+    {
+      "videoId": "7GzeVsMet3s",
+      "title": "Pour THIS Over Dry Leaves and Watch Them Turn Into Compost in DAYS!",
+      "published": "2026-01-15",
+      "duration_s": 601,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 4145,
+      "avd_pct": 40.6,
+      "avg_dur_s": 243
+    },
+    {
+      "videoId": "mWWTNg8dY_s",
+      "title": "7 Secrets to Growing \"Infinite\" Bell Peppers (No Digging!)",
+      "published": "2025-12-25",
+      "duration_s": 819,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 3335,
+      "avd_pct": 34.8,
+      "avg_dur_s": 285
+    },
+    {
+      "videoId": "AO3EEPkYqaI",
+      "title": "5 Minerals That SUPERCHARGE Your Harvest in Just 30 Days",
+      "published": "2025-11-15",
+      "duration_s": 2063,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 1516,
+      "avd_pct": 27.2,
+      "avg_dur_s": 560
+    },
+    {
+      "videoId": "rr_1fCTtuP4",
+      "title": "Nobody Believed Dragon Fruit Could Survive on Desert Sand — Until This Happened",
+      "published": "2026-11-15",
+      "duration_s": 602,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 1256,
+      "avd_pct": 24.0,
+      "avg_dur_s": 144
+    },
+    {
+      "videoId": "9PWB233HBFc",
+      "title": "You’re Throwing Away Free Plants: Root These 9 in a Glass of Water",
+      "published": "2026-11-11",
+      "duration_s": 677,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 961,
+      "avd_pct": 25.0,
+      "avg_dur_s": 169
+    },
+    {
+      "videoId": "es8EANbfaxM",
+      "title": "Why Your Grocery Store Ginger Won't Grow (And How to Fix It)",
+      "published": "2026-10-13",
+      "duration_s": 512,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 953,
+      "avd_pct": 27.4,
+      "avg_dur_s": 140
+    },
+    {
+      "videoId": "f8I-4O-QWWY",
+      "title": "4 Hidden Reasons Your Snake Plant Is Struggling (Not Root Rot)",
+      "published": "2026-09-30",
+      "duration_s": 533,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 835,
+      "avd_pct": 30.8,
+      "avg_dur_s": 163
+    },
+    {
+      "videoId": "OsXFj3Lqku8",
+      "title": "Warning: Don't Use Potato Water On Orchids Until You Watch This!",
+      "published": "2026-10-07",
+      "duration_s": 509,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 818,
+      "avd_pct": 15.4,
+      "avg_dur_s": 78
+    },
+    {
+      "videoId": "j3YlJirYv88",
+      "title": "Stop Throwing Away Pineapple Tops — Grow a Free Plant Instead",
+      "published": "2026-10-16",
+      "duration_s": 443,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 812,
+      "avd_pct": 29.0,
+      "avg_dur_s": 128
+    },
+    {
+      "videoId": "ocByKNBqZFg",
+      "title": "Geraniums Will Explode With Flowers If You Do This Now",
+      "published": "2026-10-28",
+      "duration_s": 1071,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 754,
+      "avd_pct": 12.6,
+      "avg_dur_s": 135
+    },
+    {
+      "videoId": "8NERWTnoiz8",
+      "title": "I Put a Worm Pipe in My Garden and Never Bought Fertilizer Again",
+      "published": "2026-05-05",
+      "duration_s": 1090,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 730,
+      "avd_pct": 29.4,
+      "avg_dur_s": 320
+    },
+    {
+      "videoId": "pmOG3rko45A",
+      "title": "STOP Using Pesticides! This 1 Spoon Kills Aphids & Mealybugs in 10 Seconds - SAFE for Kids & Pets",
+      "published": "2025-11-25",
+      "duration_s": 1128,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 716,
+      "avd_pct": 25.5,
+      "avg_dur_s": 287
+    },
+    {
+      "videoId": "mISpbkQ58F8",
+      "title": "Your Christmas Cactus Isn't Blooming Because of This",
+      "published": "2026-10-11",
+      "duration_s": 536,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 666,
+      "avd_pct": 35.9,
+      "avg_dur_s": 192
+    },
+    {
+      "videoId": "O_DXIaRQOvA",
+      "title": "Plant ONE Garlic Clove in a Pot Harvest a Full Head Next Summer",
+      "published": "2026-10-09",
+      "duration_s": 498,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 648,
+      "avd_pct": 29.7,
+      "avg_dur_s": 147
+    },
+    {
+      "videoId": "NFPmRO2FZYI",
+      "title": "No Flowers on Your Lemon Tree? Count This 1 Number Tomorrow",
+      "published": "2026-10-26",
+      "duration_s": 1212,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 636,
+      "avd_pct": 16.1,
+      "avg_dur_s": 195
+    },
+    {
+      "videoId": "pGy_4R5qfv0",
+      "title": "Save Any Dying Aloe in 5 Steps (Even Mushy Black Roots)",
+      "published": "2026-07-12",
+      "duration_s": 815,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 594,
+      "avd_pct": 39.8,
+      "avg_dur_s": 323
+    },
+    {
+      "videoId": "RSSJLmTNYbg",
+      "title": "The Winter Window Test: How To Know If You Have Enough Light",
+      "published": "2026-10-18",
+      "duration_s": 1005,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 580,
+      "avd_pct": 12.8,
+      "avg_dur_s": 128
+    },
+    {
+      "videoId": "KybDlhJ-Zgc",
+      "title": "Rose Cuttings in a Potato One Small Study Found No Roots",
+      "published": "2026-11-03",
+      "duration_s": 1155,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 374,
+      "avd_pct": 16.1,
+      "avg_dur_s": 185
+    },
+    {
+      "videoId": "Uanf2aMH0iU",
+      "title": "Don’t Pull Your Pepper Plants Yet. They Can Live for Years",
+      "published": "2026-11-06",
+      "duration_s": 1018,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 360,
+      "avd_pct": 18.4,
+      "avg_dur_s": 187
+    },
+    {
+      "videoId": "0K3K9vZ4E5o",
+      "title": "These 6 Weeds Could Be the Most Valuable Plants in Your Yard",
+      "published": "2026-04-08",
+      "duration_s": 754,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 321,
+      "avd_pct": 22.9,
+      "avg_dur_s": 172
+    },
+    {
+      "videoId": "i4qstbuk904",
+      "title": "This Ancient Liquid Revives Dead Soil Instantly - No Fertilizer Needed!",
+      "published": "2025-12-21",
+      "duration_s": 602,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 320,
+      "avd_pct": 32,
+      "avg_dur_s": 192
+    },
+    {
+      "videoId": "8bHtI8SpcTc",
+      "title": "Root Cellar Without a Cellar 3 Zones That Keep Veggies All Winter",
+      "published": "2026-11-20",
+      "duration_s": 706,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 272,
+      "avd_pct": 19.1,
+      "avg_dur_s": 135
+    },
+    {
+      "videoId": "HePDp9DFHUs",
+      "title": "This 25-Cent Kitchen Spray Kills Aphids & Mildew INSTANTLY (Baking Soda Secret)",
+      "published": "2026-01-23",
+      "duration_s": 540,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 207,
+      "avd_pct": 37.5,
+      "avg_dur_s": 202
+    },
+    {
+      "videoId": "N4Ttqqp7cAM",
+      "title": "STOP Buying Fungicides – Almost Everyone Mixes This Wrong",
+      "published": "2025-12-19",
+      "duration_s": 907,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 207,
+      "avd_pct": 29.6,
+      "avg_dur_s": 268
+    },
+    {
+      "videoId": "kNtZ0raZgWo",
+      "title": "Pineapple Farming TRICKS Cold Climate Growers Need Now",
+      "published": "2025-12-28",
+      "duration_s": 1525,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 192,
+      "avd_pct": 34.4,
+      "avg_dur_s": 523
+    },
+    {
+      "videoId": "Gl0v2xx-tw4",
+      "title": "Why Your Avocado Tree Will Never Fruit (And the 2-Year Fix)",
+      "published": "2026-04-11",
+      "duration_s": 849,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 188,
+      "avd_pct": 31.6,
+      "avg_dur_s": 268
+    },
+    {
+      "videoId": "cpLpYrKBNkQ",
+      "title": "10 Plants Poisoning Their Neighbors (And the Soil Myth That Isn’t True)",
+      "published": "2026-09-26",
+      "duration_s": 660,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 146,
+      "avd_pct": 25.9,
+      "avg_dur_s": 170
+    },
+    {
+      "videoId": "krtVPWEZimY",
+      "title": "What to Plant in November 5 Crops That Shrug Off 28°F",
+      "published": "2026-11-22",
+      "duration_s": 713,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 142,
+      "avd_pct": 21.9,
+      "avg_dur_s": 156
+    },
+    {
+      "videoId": "SRHqhc1Au0U",
+      "title": "Grow BIGGER Ginger in Just 5 Minutes Every 2 Weeks",
+      "published": "2026-01-11",
+      "duration_s": 865,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 138,
+      "avd_pct": 40.2,
+      "avg_dur_s": 348
+    },
+    {
+      "videoId": "IVz1L7Pct5s",
+      "title": "7 Plants That Thrive in the Darkest Room in Your House",
+      "published": "2026-09-22",
+      "duration_s": 504,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 132,
+      "avd_pct": 33.2,
+      "avg_dur_s": 167
+    },
+    {
+      "videoId": "Vjyu8DzlYKs",
+      "title": "Stop Watering Plants With Banana Peels (Do This Instead)",
+      "published": "2026-04-21",
+      "duration_s": 652,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 127,
+      "avd_pct": 45.5,
+      "avg_dur_s": 296
+    },
+    {
+      "videoId": "UmSfqi3vQWM",
+      "title": "Fertilizer Companies HATE This Fall Soil Trick (Saves You $200/Year)",
+      "published": "2025-11-27",
+      "duration_s": 1159,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 125,
+      "avd_pct": 28.4,
+      "avg_dur_s": 329
+    },
+    {
+      "videoId": "R_F8iPe124Y",
+      "title": "4 Rooting Tricks Ranked by What Actually Works (Not What’s Popular)",
+      "published": "2026-09-24",
+      "duration_s": 629,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 123,
+      "avd_pct": 40.8,
+      "avg_dur_s": 256
+    },
+    {
+      "videoId": "RsX0XOfNPAg",
+      "title": "Stop Killing Ants! The $0.50 Bait That Destroys the Queen in 3 Days",
+      "published": "2026-04-10",
+      "duration_s": 725,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 118,
+      "avd_pct": 31.9,
+      "avg_dur_s": 231
+    },
+    {
+      "videoId": "a3ZnkHxNqzk",
+      "title": "STOP Planting Aloe Pups Immediately (100% Survival Rate)",
+      "published": "2026-02-23",
+      "duration_s": 559,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 116,
+      "avd_pct": 65.8,
+      "avg_dur_s": 367
+    },
+    {
+      "videoId": "yz05d95_BsE",
+      "title": "My Grandma’s Secret For A Bug-Free Garden (Better Than Neem Oil)",
+      "published": "2026-02-08",
+      "duration_s": 726,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 112,
+      "avd_pct": 29.6,
+      "avg_dur_s": 214
+    },
+    {
+      "videoId": "AaOMVkbPalg",
+      "title": "100 Bags of Leaves Turn Into 10 Bags of Free Fertilizer",
+      "published": "2026-09-20",
+      "duration_s": 493,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 101,
+      "avd_pct": 31.1,
+      "avg_dur_s": 153
+    },
+    {
+      "videoId": "pU87syqoMyg",
+      "title": "STOP Putting Coffee Grounds on These 3 Plants (They Die)",
+      "published": "2026-06-05",
+      "duration_s": 1102,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 97,
+      "avd_pct": 19.0,
+      "avg_dur_s": 209
+    },
+    {
+      "videoId": "mCvtwjODkVg",
+      "title": "Save a Dying Pothos in 5 Steps (Even Black, Rotten Roots) | Senior Gardening Tips",
+      "published": "2026-08-03",
+      "duration_s": 624,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 96,
+      "avd_pct": 29.1,
+      "avg_dur_s": 181
+    },
+    {
+      "videoId": "qGALNpq-dHY",
+      "title": "Save a Dying Snake Plant in 5 Steps (Even Soft, Yellow Leaves) | Senior Gardening Tips",
+      "published": "2026-07-28",
+      "duration_s": 636,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 85,
+      "avd_pct": 31.7,
+      "avg_dur_s": 201
+    },
+    {
+      "videoId": "CCyZCM1bjNQ",
+      "title": "5 Mistakes That Are Quietly Rotting Your Snake Plant’s Roots",
+      "published": "2026-08-15",
+      "duration_s": 512,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 83,
+      "avd_pct": 30.2,
+      "avg_dur_s": 154
+    },
+    {
+      "videoId": "Yow52AF_660",
+      "title": "Stop Buying Fertilizer! 5 FREE Kitchen Hacks That Work Better",
+      "published": "2026-01-21",
+      "duration_s": 627,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 81,
+      "avd_pct": 35.7,
+      "avg_dur_s": 223
+    },
+    {
+      "videoId": "pKtpk4-Xp6w",
+      "title": "My Grandmother's Eggplant Secret: The 5:3:1 Formula That Changed Everything",
+      "published": "2026-01-31",
+      "duration_s": 748,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 71,
+      "avd_pct": 43.6,
+      "avg_dur_s": 325
+    },
+    {
+      "videoId": "rkfJHglYn94",
+      "title": "Build a Budget Friendly Garden Bed Under $15",
+      "published": "2026-09-18",
+      "duration_s": 756,
+      "is_short": false,
+      "privacy": "public",
+      "available": true,
+      "views": 66,
+      "avd_pct": 26.6,
+      "avg_dur_s": 200
+    }
+  ],
+  "_note": "SELF-BASELINE. Moc so sanh la chinh kenh ky truoc, KHONG phai nguong pho quat. Shorts (<=180s) da tach khoi outliers/duration_bands/early_velocity. CTR khong co trong API."
+}

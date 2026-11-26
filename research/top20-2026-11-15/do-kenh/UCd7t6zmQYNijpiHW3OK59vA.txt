@@ -1,0 +1,150 @@
+# Đo kênh: UCd7t6zmQYNijpiHW3OK59vA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 301 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 11,900 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-07-22 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 8,598 |
+| cao_nhat | 76,638 |
+| thap_nhat | 2,235 |
+| phan_tan | 8.91 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.72 |
+| ty_le_like_trung_vi | 0.00 |
+| da_trung_vi | 1.06 |
+| ngay_video_dau | 2025-10-17 |
+| tuoi_tu_video_dau | 395 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 30.13 |
+| sub_moi_video | 39.53 |
+| video_30_ngay | 19 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-10-17 | 395 | ZnQtMnwaHTY | 2,226 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How the US Harvests Tons of Peaches: Peaches Are Canned in a Factory \| Agriculture Documentary |
+| 2025-10-18 | 394 | TVqK814lyhU | 2,357 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Farmers Harvest and Produce Mangoes - Mango Processing \| Agricultural Documentary |
+| 2025-10-19 | 393 | ij8cyMxgj-c | 9,546 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to grow and harvest strawberries - strawberry processing factory \| Agriculture documentary |
+| 2025-10-20 | 392 | LOvad3RQY48 | 3,509 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Sugar Is Made - Millions of Tons of Sugar Are Processed in Factories |
+| 2025-10-21 | 391 | 1IgMFJvivYM | 19,691 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to Grow and Harvest Watermelon - Watermelon Processing \| Agricultural Documentary |
+| 2025-10-22 | 390 | FsetraYO9Ag | 1,957 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Taiwanese Farmers Grow and Harvest Guava - Street Food \| Agricultural Documentary |
+| 2025-10-23 | 389 | iZifpdDdV7E | 8,187 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Russian Farmers Harvest Millions of Tons of Carrots \| Agricultural Documentary |
+| 2025-10-24 | 388 | NhwEDLMj2fg | 79,391 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Farmers Harvest Apples : Apple Juice Processed in Factory \| Farming Documentary |
+| 2026-07-22 | 117 | ps3N6NLKMp8 | 65,427 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Thai Rambutan Farming Documentary: Harvesting Bright Red Fruit Clusters by Hand |
+| 2026-07-23 | 116 | Z0bX-XO8Y40 | 1,640 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Does America Produce 1.89 Billion Pounds Of Sweet Potatoes - American Farming |
+| 2026-07-24 | 115 | Yvo0DrZXJf4 | 247,434 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Amazing Tropical Fruit Harvest in Southeast Asia \| Longan, Lychee, Rambutan, Mangosteen |
+| 2026-07-25 | 114 | kARuo21wjLg | 5,651 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Inside Japan’s Peach Farming: From Winter Pruning to Premium Fruit Harvest |
+| 2026-07-26 | 113 | 2e57OaR4Wrg | 27,972 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Fresh Plums Are Harvested and Dried Into Sweet Prunes in America |
+| 2026-07-27 | 112 | rkwJk-GutZ4 | 98,564 | 5 | 27,972 | 3.52 | 5 | 0.08 | dang_ghi | – | Không | Thai Mangosteen Farming Documentary: Harvesting the Purple Queen of Fruits by Hand |
+| 2026-07-28 | 111 | IRHetbStfFM | 23,430 | 6 | 46,700 | 0.50 | 5 | 0.05 | binh_thuong | – | Không | How American Farmers Grow and Harvest 789.5 Million Pounds of Blueberries |
+| 2026-07-29 | 110 | -E2aw9n6F8Q | 1,877 | 7 | 27,972 | 0.07 | 5 | 0.08 | binh_thuong | – | Không | From Sunflower Fields to Oil Factories: How Sunflower Oil Is Made |
+| 2026-07-30 | 109 | jWnnU_ziFpM | 2,328 | 8 | 25,701 | 0.09 | 5 | 0.08 | binh_thuong | – | Không | How American Farmers Grow and Harvest 187 Million Pounds of Red Beets |
+| 2026-07-31 | 108 | 8qk97Utqbd4 | 2,194 | 9 | 23,430 | 0.09 | 5 | 0.08 | binh_thuong | – | Không | Inside U.S. Agriculture: How Farmers Harvest 570 Million Tons of Crops Every Year |
+| 2026-08-01 | 107 | CnChTlRTwZA | 3,097 | 10 | 14,540 | 0.21 | 5 | 0.09 | binh_thuong | – | Không | Inside Vietnam’s Dragon Fruit Farming: Night Lighting, Harvesting and Export |
+| 2026-08-02 | 106 | yf693Qy7mDM | 1,988 | 11 | 5,651 | 0.35 | 5 | 0.24 | binh_thuong | – | Không | How Vietnamese Farmers Harvest Over 40,000 Tons of Hung Yen Longan \| Farming Documentary |
+| 2026-08-03 | 105 | Sr0R9FqWrNk | 1,331 | 12 | 4,374 | 0.30 | 5 | 0.45 | binh_thuong | – | Không | Amazing Bamboo Shoot Farming: Harvesting and Processing Millions of Bamboo Shoots |
+| 2026-08-04 | 104 | MyWbGkZbhBw | 1,296 | 13 | 3,097 | 0.42 | 5 | 1.50 | binh_thuong | – | Không | Inside Japan’s Cherry Farming: From Winter Pruning to Premium Sakuranbo Harvest |
+| 2026-08-05 | 103 | 4fA_DVVm7zc | 6,244 | 14 | 2,712 | 2.30 | 5 | 0.72 | hoi_cao | – | Không | How American Farmers Harvest 68.2 Million Pounds of Red Raspberries |
+| 2026-08-06 | 102 | Pej3aQjg9wA | 1,182 | 15 | 3,097 | 0.38 | 5 | 0.63 | binh_thuong | – | Không | How Papaya Is Grown, Harvested and Sold in Thailand’s Street Food Markets |
+| 2026-08-07 | 101 | 4ZFrnIQjGcQ | 1,957 | 15 | 2,328 | 0.84 | 5 | 1.13 | binh_thuong | – | Không | How U.S. Farmers Grow, Harvest and Process 54 Million Tons of Wheat |
+| 2026-08-08 | 100 | ktV2bZRIsK0 | 5,326 | 15 | 2,328 | 2.29 | 5 | 0.71 | hoi_cao | – | Không | Visiting a Giant Wheat Straw Recycling Plant in Kansas \| Modern Agriculture Documentary |
+| 2026-08-09 | 99 | v13oaIAvTuo | 4,642 | 15 | 2,328 | 1.99 | 5 | 0.71 | binh_thuong | – | Không | Inside Türkiye’s Apricot Farming: From Malatya Orchards to Dried Apricot Export |
+| 2026-08-10 | 98 | 7r0okKuA0hA | 569 | 15 | 2,328 | 0.24 | 5 | 1.13 | binh_thuong | – | Không | The Story of Lavender \| Planting to Harvest \| One Year in the Purple Fields |
+| 2026-08-11 | 97 | 3Lnon6r80Lo | 919 | 15 | 2,194 | 0.42 | 5 | 1.39 | binh_thuong | – | Không | How American Farmers Flood Cranberry Bogs to Harvest 8.13 Million Barrels |
+| 2026-08-12 | 96 | SCiXHwC8QbI | 2,639 | 15 | 1,988 | 1.33 | 5 | 1.64 | binh_thuong | – | Không | How Taiwanese Farmers Grow and Harvest Pomelos for the Mid-Autumn Festival |
+| 2026-08-13 | 95 | Ig9cPD1Wlss | 1,650 | 15 | 1,988 | 0.83 | 5 | 10.77 | binh_thuong | – | Không | How Greenshell Mussels Are Farmed, Harvested and Processed in New Zealand |
+| 2026-08-14 | 94 | 6QAT7BkBa3w | 3,260 | 15 | 1,988 | 1.64 | 5 | 10.77 | binh_thuong | – | Không | How Washington Cherry Farmers Harvest and Ship Fresh Cherries in 48 Hours |
+| 2026-08-15 | 93 | HSLpfqGEz8I | 21,414 | 15 | 1,988 | 10.77 | 5 | 1.53 | can_kiem_ky | – | Không | Inside Japan’s Premium Pear Farming: From Hand Pollination to Luxury Fruit Markets |
+| 2026-08-16 | 92 | ep3kujEmK7g | 3,046 | 15 | 1,988 | 1.53 | 5 | 2.01 | binh_thuong | – | Không | Inside America’s Strawberry Industry: From Field Harvest to Frozen Processing |
+| 2026-08-17 | 91 | 0BDmaIExCpg | 168,009 | 15 | 1,988 | 84.51 | 5 | 2.01 | can_kiem_ky | – | Không | Inside Japan’s Shiitake Mushroom Farming: From Hardwood Logs to Umami Flavor |
+| 2026-08-18 | 90 | FbH80isP2jg | 26,898 | 15 | 2,639 | 10.19 | 5 | 0.81 | can_kiem_ky | – | Không | How French Farmers Grow and Harvest Grapes for Wine \| Vineyard Documentary |
+| 2026-08-19 | 89 | eqlJqFXqWAM | 1,458 | 15 | 3,046 | 0.48 | 5 | 0.79 | binh_thuong | – | Không | How British Farmers Grow and Harvest Sweet Chestnuts in Southern England |
+| 2026-08-20 | 88 | VdggHbE5wA8 | 2,127 | 15 | 3,046 | 0.70 | 5 | 1.31 | binh_thuong | – | Không | The Story of the Tulips \| Planting to Harvest \| One Year in the Dutch Tulip Fields |
+| 2026-08-21 | 87 | TxtHEAnnPTY | 4,005 | 15 | 2,639 | 1.52 | 5 | 1.48 | binh_thuong | – | Không | Japan’s Massive Harvest – From Pacific Seafood to Rice Fields and Luxury Fruit Farms |
+| 2026-08-22 | 86 | crSGx0jQ1w8 | 8,220 | 15 | 3,046 | 2.70 | 5 | 1.07 | hoi_cao | – | Không | How China Turned Wild Morel Mushrooms Into a Commercial Farming Industry |
+| 2026-08-24 | 84 | yMRe7swyGDE | 2,075 | 15 | 3,260 | 0.64 | 5 | 1.20 | binh_thuong | – | Không | Inside the Sapodilla Harvest: Growing, Picking and Processing Tropical Fruit |
+| 2026-08-25 | 83 | WrGTuJVRIdk | 2,398 | 15 | 3,046 | 0.79 | 5 | 2.05 | binh_thuong | – | Không | Inside the Starfruit Harvest: From Taiwan Orchards to Fresh Markets and Juice |
+| 2026-08-26 | 82 | ryN2qC3ttcE | 9,038 | 15 | 2,639 | 3.42 | 5 | 1.48 | dang_ghi | – | Không | How Chinese Farmers Harvest 60 Million Tons of Watermelons Every Year |
+| 2026-08-27 | 81 | nX43ADrcmNg | 3,916 | 15 | 3,046 | 1.29 | 5 | 1.07 | binh_thuong | – | Không | Inside Madagascar’s Vanilla Farming: From Hand Pollination to Black Vanilla Beans |
+| 2026-08-28 | 80 | ofmLZRPz87w | 3,251 | 15 | 3,260 | 1.00 | 5 | 0.97 | binh_thuong | – | Không | Inside the Greenhouse Cucumber Harvest: From Tiny Seeds to Fresh Markets |
+| 2026-08-29 | 79 | LwTtYGX0kjQ | 6,235 | 15 | 3,260 | 1.91 | 5 | 0.97 | binh_thuong | – | Không | How Mexican Mangoes Are Harvested, Treated and Shipped to the U.S. |
+| 2026-08-30 | 78 | OjEv20I_-lA | 17,693 | 15 | 3,916 | 4.52 | 5 | 0.81 | dang_ghi | – | Không | How Japanese Farmers Grow and Store Snow Apples Under Deep Snow |
+| 2026-09-01 | 76 | nQ27EDZk4BY | 3,167 | 15 | 4,005 | 0.79 | 5 | 3.69 | binh_thuong | – | Không | How Brazilian Farmers Grow and Harvest Papayas \| Farming Documentary |
+| 2026-09-02 | 75 | QhqY2yZi0Rw | 2,919 | 15 | 3,916 | 0.75 | 5 | 4.26 | binh_thuong | – | Không | Inside China’s Chili Pepper Farming: From Red Fields to Chili Powder |
+| 2026-09-03 | 74 | rhBXvA6HBp8 | 1,907 | 15 | 3,916 | 0.49 | 5 | 7.60 | binh_thuong | – | Không | Bulgarian Rose Farming Documentary: From Pink Fields to Luxury Perfume |
+| 2026-09-04 | 73 | _Umv3lic_XE | 16,664 | 15 | 3,251 | 5.13 | 5 | 9.16 | manh | – | Không | How Greenhouse Cherry Tomatoes Are Grown, Harvested and Packed |
+| 2026-09-05 | 72 | a1WOW67frvY | 14,760 | 15 | 3,251 | 4.54 | 5 | 16.68 | dang_ghi | – | Không | How Japanese Farmers Grow and Harvest Luxury Grapes Worth Hundreds of Dollars |
+| 2026-09-07 | 70 | pJ5EW0PHS0c | 29,771 | 15 | 3,916 | 7.60 | 5 | 13.85 | manh | – | Không | How American Farmers Grow and Harvest Bartlett Pears \| Farming Documentary |
+| 2026-09-08 | 69 | jI2WB6Drkfc | 222,735 | 15 | 4,005 | 55.61 | 5 | 4.36 | can_kiem_ky | – | Không | How California Farmers Harvest 809,000 Tons of Walnuts \| Farming Documentary |
+| 2026-09-09 | 68 | QUgK1M2KGUQ | 54,224 | 15 | 6,235 | 8.70 | 5 | 1.19 | manh | – | Không | Turkish Fig Farming Documentary: Growing One of the World’s Oldest Fruits |
+| 2026-09-10 | 67 | RKt4uLPPTRQ | 1,999 | 15 | 6,235 | 0.32 | 5 | 2.37 | binh_thuong | – | Không | Inside the Eggplant Harvest: Growing Glossy Purple Vegetables in Greenhouses |
+| 2026-09-11 | 66 | xCTRzIlQmMU | 157,797 | 15 | 6,235 | 25.31 | 5 | 1.34 | can_kiem_ky | – | Không | Inside the Chayote Harvest: From Climbing Vines to Fresh Vegetable Markets |
+| 2026-09-12 | 65 | YYnrvUtWirU | 17,447 | 15 | 9,038 | 1.93 | 5 | 0.93 | binh_thuong | – | Không | Inside America’s Blueberry Harvest: 60 Days to Pick Millions of Berries |
+| 2026-09-13 | 64 | xe1AnSIrQIA | 6,106 | 15 | 14,760 | 0.41 | 5 | 0.57 | binh_thuong | – | Không | How Vietnam Became a Billion-Dollar Durian Export Powerhouse |
+| 2026-09-14 | 63 | zcz9aBKYF8c | 7,409 | 15 | 14,760 | 0.50 | 5 | 0.68 | binh_thuong | – | Không | Chamomile Farming Documentary: Harvesting Tiny Flowers for Tea and Oil |
+| 2026-09-15 | 62 | vupeV9Hct6w | 14,764 | 15 | 14,760 | 1.00 | 5 | 0.68 | binh_thuong | – | Không | How Brussels Sprouts Are Grown and Harvested Across Europe and North America |
+| 2026-09-16 | 61 | XgRPX-Iwjx0 | 8,377 | 15 | 14,764 | 0.57 | 5 | 0.68 | binh_thuong | – | Không | Inside Japan’s Luxury Melon Farms: From One Plant to One Perfect Fruit |
+| 2026-09-17 | 60 | AStHZPCYDbs | 10,066 | 15 | 14,760 | 0.68 | 5 | 0.51 | binh_thuong | – | Không | How American Farmers Grow and Harvest 1.05 Billion Pounds of Bell Peppers |
+| 2026-09-18 | 59 | HqLjxGYfHu8 | 5,663 | 15 | 14,760 | 0.38 | 5 | 0.51 | binh_thuong | – | Không | Inside France’s Agriculture: How Regional Foods Become Global Luxury Products |
+| 2026-09-22 | 55 | eljNbIGlxXk | 318,488 | 15 | 14,760 | 21.58 | 5 | 0.46 | can_kiem_ky | – | Không | How Cashews Are Grown, Harvested and Processed in Vietnam |
+| 2026-09-23 | 54 | Hj772jYiIO0 | 84,042 | 15 | 14,764 | 5.69 | 5 | 0.46 | manh | – | Không | Inside Jabuticaba Farming: Brazil’s Strange Grape Tree That Fruits on Its Trunk |
+| 2026-09-24 | 53 | nptDulCdKV8 | 6,787 | 15 | 14,764 | 0.46 | 5 | 0.49 | binh_thuong | – | Không | Inside Vietnam’s Lotus Silk Craft: From Lotus Harvest to Handmade Luxury Silk |
+| 2026-09-25 | 52 | unZzVp19p2o | 7,470 | 15 | 14,764 | 0.51 | 5 | 0.24 | binh_thuong | – | Không | How Russian Farmers Harvest 985,900 Tons of Carrots Before Winter |
+| 2026-09-26 | 51 | ocarB_a6MkM | 1,137 | 15 | 10,066 | 0.11 | 5 | 0.61 | binh_thuong | – | Không | Inside a Modern Dairy Farm and Milk Factory \| Modern Agriculture Documentary |
+| 2026-09-27 | 50 | bV1Dxl9KDrc | 2,235 | 15 | 8,377 | 0.27 | 5 | 0.87 | binh_thuong | – | Không | How American Farmers Grow and Harvest 1.44 Billion Pounds of Pumpkins |
+| 2026-09-28 | 49 | sXR-873oH0Q | 55,255 | 15 | 7,470 | 7.40 | 5 | 0.97 | manh | – | Không | How Sugar Palm Seeds Are Harvested and Processed in Southeast Asia |
+| 2026-09-29 | 48 | tj7fArc-RBo | 7,281 | 15 | 8,377 | 0.87 | 5 | 1.06 | binh_thuong | – | Không | How Japanese Farmers Grow Real Wasabi \| The World’s Most Expensive Root |
+| 2026-09-30 | 47 | 6XwFOEl06Ck | 3,503 | 15 | 7,470 | 0.47 | 5 | 1.45 | binh_thuong | – | Không | Inside India’s Palmyra Palm Harvest: From Sweet Sap to Toddy and Jaggery |
+| 2026-10-01 | 46 | hYV3MpxpUic | 6,140 | 15 | 7,409 | 0.83 | 5 | 1.47 | binh_thuong | – | Không | Inside New Mexico’s Onion Harvest: From Tiny Seedlings to Tons Per Hour |
+| 2026-10-02 | 45 | WNR-RcfAtaU | 76,638 | 15 | 7,409 | 10.34 | 5 | 1.47 | can_kiem_ky | – | Không | How American Farmers Grow and Harvest Pecans \| Modern Agriculture Documentary |
+| 2026-10-03 | 44 | Veq6y-Y8uhc | 23,984 | 15 | 7,470 | 3.21 | 5 | 1.19 | dang_ghi | – | Không | How Indian Farmers Grow, Harvest and Process 2 Million Tons of Ginger |
+| 2026-10-04 | 43 | MiJXMIAIZus | 8,878 | 15 | 7,470 | 1.19 | 5 | 1.18 | binh_thuong | – | Không | Inside Japan’s Densuke Watermelon Farms: Growing the World’s Most Expensive Watermelon |
+| 2026-10-05 | 42 | gR0F9rimbIw | 10,857 | 15 | 7,470 | 1.45 | 5 | 1.18 | binh_thuong | – | Không | How Millions of Tons of Mushrooms Are Grown, Harvested and Processed \| Amazing Mushroom Farming |
+| 2026-10-06 | 41 | goTpIVHbkH8 | 4,489 | 15 | 7,470 | 0.60 | 5 | 1.18 | binh_thuong | – | Không | How Garlic Is Grown, Harvested and Processed \| Modern Agriculture Documentary |
+| 2026-10-07 | 40 | us4RPAjLPZY | 11,800 | 15 | 7,470 | 1.58 | 5 | 1.12 | binh_thuong | – | Không | Inside Vietnam’s Coffee Harvest: From Central Highlands Farms to Global Markets |
+| 2026-10-08 | 39 | d91DCYKiEv8 | 8,346 | 15 | 7,470 | 1.12 | 5 | 1.18 | binh_thuong | – | Không | How New Zealand Farmers Harvest 225 Million Trays of Kiwifruit |
+| 2026-10-09 | 38 | ZzO2LVlpEuI | 8,849 | 15 | 7,470 | 1.18 | 5 | 0.58 | binh_thuong | – | Không | How Reishi Mushrooms Are Grown, Harvested and Dried in Japan |
+| 2026-10-10 | 37 | l5gcDalIJPc | 24,775 | 15 | 8,346 | 2.97 | 5 | 0.43 | hoi_cao | – | Không | Inside Mulberry Farming: From Young Trees to Sweet Berries and Jam |
+| 2026-10-12 | 35 | uLoUJdB0lsY | 2,506 | 15 | 8,849 | 0.28 | 5 | 0.49 | binh_thuong | – | Không | Inside the $1 Billion Fish Farming Industry: Raising 2 Million Fish in Floating Cages |
+| 2026-10-13 | 34 | S8KHbCvBTIU | 3,332 | 15 | 8,849 | 0.38 | 5 | 1.20 | binh_thuong | – | Không | Inside South Florida’s Lime Harvest: Why Green Means Market-Ready |
+| 2026-10-14 | 33 | XaicYkNsVxc | 10,650 | 15 | 8,849 | 1.20 | 5 | 0.49 | binh_thuong | – | Không | How Cantaloupes Are Grown, Harvested, Packed and Shipped in America |
+| 2026-10-15 | 32 | RetFibleMto | 4,352 | 15 | 8,849 | 0.49 | 5 | 0.41 | binh_thuong | – | Không | Inside Mexico’s Avocado Harvest: Why Hass Avocados Are Picked Before They Ripen |
+| 2026-10-16 | 31 | MQrtX73v0yA | 3,619 | 15 | 8,849 | 0.41 | 5 | 1.24 | binh_thuong | – | Không | How Chinese Farmers Grow and Harvest 22,000 Tons of Sea Buckthorn in Xinjiang |
+| 2026-10-17 | 30 | 8mRBgS4dLDo | 11,908 | 15 | 8,849 | 1.35 | 5 | 0.88 | binh_thuong | – | Không | How Brazilian Farmers Grow, Harvest and Process Millions of Tons of Coffee |
+| 2026-10-19 | 28 | DGJwc7GUr5I | 11,069 | 15 | 8,878 | 1.25 | 5 | 0.40 | chua_chin | – | Không | How Japanese Farmers Harvest and Make Traditional Dried Persimmons (Hoshigaki) |
+| 2026-10-20 | 27 | w0mG69AdW14 | 2,036 | 15 | 8,878 | 0.23 | 5 | 0.52 | chua_chin | – | Không | Inside America's Pomegranate Industry: From Fresh Fruit to Juice and Seeds |
+| 2026-10-21 | 26 | RzQVNvjhZYg | 1,845 | 15 | 8,849 | 0.21 | 5 | 0.52 | chua_chin | – | Không | How American Farmers Grow and Harvest 2.7 Billion Pounds of Almonds |
+| 2026-10-22 | 25 | mKY_BfaHd4E | 11,012 | 15 | 8,346 | 1.32 | 5 | 0.55 | chua_chin | – | Không | Inside America's Asparagus Harvest: The Vegetable That Grows Overnight |
+| 2026-10-23 | 24 | tRLZ6janQ60 | 7,828 | 15 | 8,346 | 0.94 | 5 | 0.43 | chua_chin | – | Không | Inside the Blackberry Harvest: The Race to Keep Delicate Berries Fresh |
+| 2026-10-24 | 23 | 2Gm0uzcENqs | 3,577 | 15 | 8,346 | 0.43 | 5 | 0.35 | chua_chin | – | Không | How Mexican Farmers Grow, Harvest and Process Aloe Vera into Gel |
+| 2026-10-28 | 19 | Sh8aVq7g31g | 4,594 | 15 | 7,828 | 0.59 | 5 | 0.37 | chua_chin | – | Không | How Australian Farmers Grow and Harvest 47,000 Tons of Macadamia Nuts |
+| 2026-10-29 | 18 | ihZV3eWmyq0 | 2,910 | 15 | 4,594 | 0.63 | 5 | 0.40 | chua_chin | – | Không | Amazing Jackfruit Harvesting in Thailand \| From Farm to Street Food Markets |
+| 2026-10-31 | 16 | Ug_nn6e0830 | 19,543 | 15 | 4,352 | 4.49 | 5 | 0.29 | chua_chin | – | Không | How Costa Rican Farmers Grow and Harvest 3.12 Million Tons of Pineapples |
+| 2026-11-02 | 14 | Dnrvxnx1vzw | 1,819 | 15 | 4,352 | 0.42 | 5 | 0.29 | chua_chin | – | Không | How Cassava Is Grown, Harvested and Processed into Tapioca Starch in Vietnam |
+| 2026-11-03 | 13 | 6aQVV_qHIKk | 808 | 15 | 4,352 | 0.19 | 5 | 0.81 | chua_chin | – | Không | Inside America's Massive Sugar Beet Harvest: From Giant Machines to White Sugar |
+| 2026-11-04 | 12 | mvXCYzkSarg | 29,281 | 15 | 4,352 | 6.73 | 5 | 0.30 | chua_chin | – | Không | How Farmers Grow, Harvest and Process Thousands of Green Chili Peppers |
+| 2026-11-05 | 11 | TIITHmB9OzI | 925 | 15 | 4,352 | 0.21 | 5 | 0.81 | chua_chin | – | Không | Inside America's Massive Corn Silage Harvest: 123 Million Tons to Feed Dairy Cows |
+| 2026-11-06 | 10 | A673kj1qif4 | 1,276 | 15 | 3,619 | 0.35 | 5 | 0.98 | chua_chin | – | Không | How American Farmers Produce Billions of Dollars Worth of Agricultural Products |
+| 2026-11-07 | 9 | lazlzVyOmTo | 3,541 | 15 | 3,577 | 0.99 | 4 | – | chua_chin | – | Không | Inside Vietnam's Amazing Custard Apple Harvest: Farming on Rocky Mountains |
+| 2026-11-09 | 7 | _DpgcfpJwJw | 8,040 | 15 | 3,541 | 2.27 | 3 | – | chua_chin | – | Không | How Mexican Farmers Harvest Cactus and Turn It into Food and Juice |
+| 2026-11-12 | 4 | 9DwphbQMLVU | 1,287 | 15 | 3,541 | 0.36 | 2 | – | chua_chin | – | Không | How Farmers in Côte d’Ivoire Grow and Harvest 1.7 Million Tons of Cocoa Beans |
+| 2026-11-13 | 3 | hwA8uWTZsRw | 4,733 | 15 | 3,541 | 1.34 | 1 | – | chua_chin | – | Không | Inside Vietnam's $1.66 Billion Pepper Industry: From Farms to Global Markets |
+| 2026-11-15 | 1 | v3HXbNmpT90 | 808 | 15 | 3,577 | 0.23 | 0 | – | chua_chin | – | Không | How California Farmers Grow and Harvest 679,000 Tons of Celery |

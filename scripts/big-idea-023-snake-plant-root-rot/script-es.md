@@ -1,0 +1,37 @@
+# TÍTULO: Cinco errores que están pudriendo las raíces de su sansevieria en silencio
+
+Vaya a tocar su sansevieria ahora mismo, justo donde la base toca la tierra. Si se siente aunque sea un poco suave, aquí está la verdad incómoda: la pudrición de raíces sigue siendo la razón número uno por la que esta planta "imposible de matar" muere. La sansevieria de su abuela probablemente sobrevivió veinte años de abandono, rincones oscuros, semanas sin agua, olvido total. Es casi injusto, honestamente. La planta que se supone que perdona todo, vencida por cinco hábitos que en realidad parecen buenos cuidados.
+
+Lo extraño es esto: casi nunca es el descuido lo que la derrota. La pudrición de raíces también es silenciosa: le quita el oxígeno a las raíces bajo tierra, y para cuando las hojas lo muestran, el daño debajo ya suele estar hecho.
+
+Cinco hábitos están detrás de esto: la maceta, dónde cae el agua, la mezcla de tierra, la luz del cuarto, y el horario de riego. El primero probablemente está debajo de su planta ahora mismo: la maceta.
+
+El error uno es una maceta demasiado grande. Retiene la humedad mucho más tiempo del que las raíces realmente necesitan. Imagine una bola de raíces pequeña dentro de un bloque grande de tierra, que se mantiene húmeda por días después de que las raíces cercanas ya tomaron lo que necesitaban. Esa humedad sobrante es exactamente lo que busca la pudrición de raíces. Aquí está la solución: suba de tamaño solo uno o dos pulgadas de diámetro, no más. Una sansevieria funciona mejor un poco apretada en su maceta. Es la única vez que más grande no es mejor, y le cuesta menos mezcla de tierra, no más.
+
+El error dos ocurre justo en la base de las hojas. Cuando el agua va directo a esa roseta apretada del centro en vez de a la tierra, se queda ahí y permanece húmeda mucho más tiempo. Muchos jardineros y clínicas de plantas reportan que este es a menudo el primer lugar donde aparecen los problemas: esa humedad constante en la corona simplemente no es un buen lugar para una sansevieria. Solución: riegue la tierra a un lado, y deje la corona completamente seca.
+
+El error tres es la tierra misma. La mezcla común de interior retiene humedad para plantas sedientas, todo lo contrario de lo que quiere una sansevieria. Cambie a una mezcla de drenaje rápido para cactus o suculentas, con perlita extra, y el agua pasa en segundos en vez de acumularse alrededor de las raíces por días. Una bolsa de mezcla para cactus cuesta casi lo mismo que una bolsa de tierra común: no es una mejora costosa, es simplemente la herramienta correcta.
+
+Aquí está la razón por la que esos tres se conectan. Imagine la tierra como una bañera. Cuando drena rápido, el aire vuelve a entrar detrás del agua. Cuando no puede drenar, la bañera se queda llena, y las raíces se quedan ahí como conteniendo la respiración. Ese bolsillo inundado y sin aire es exactamente lo que hongos como Pythium y Phytophthora necesitan para propagarse — algunos incluso producen esporas que nadan por el agua estancada para llegar a las raíces. Sin agua estancada, no tienen forma de moverse. Cada uno de estos hongos necesita lo mismo para sobrevivir. Elimine el agua estancada, y los habrá vencido a todos a la vez.
+
+El error cuatro es regar la misma cantidad en un rincón oscuro que en un lugar iluminado. La poca luz ralentiza todo: la planta absorbe menos agua, y la tierra se mantiene húmeda mucho más tiempo. La misma rutina que funciona bien en una ventana soleada puede terminar ahogando una planta en un pasillo oscuro. Misma agua, mismo horario, resultado completamente diferente, porque el cuarto cambió, no la planta.
+
+El error cinco es regar según un horario fijo en vez de revisar la tierra. Las sansevierias son suculentas: almacenan agua justo en esas hojas gruesas. Meta un dedo dos pulgadas hacia abajo, y si está seco hasta el fondo, esa es su señal. Algunos meses eso significa pasar todo un mes sin regar, y eso está completamente bien. Las líneas de extensión y las clínicas de plantas escuchan esta misma historia cada año: una sansevieria de aspecto saludable que colapsa, y el dueño insiste en que la estaba regando "responsablemente" todo el tiempo. Casi siempre, "responsablemente" solo significaba "según el horario," no "cuando realmente lo necesitaba."
+
+Ninguno de estos cinco hábitos parece descuido. Todos parecen cuidado, y por eso la pudrición de raíces sorprende a tanta gente. Aquí está cómo detectarlo a tiempo, porque las hojas suelen ser lo último en mostrar el problema: una base más suave de lo normal, hojas que se separan con casi ninguna resistencia, o un olor agrio y a pantano viniendo de la maceta. Cualquiera de esas señales, y es hora del rescate.
+
+Una nota de seguridad antes de empezar, porque importa para muchos hogares: las sansevierias son tóxicas tanto para perros como para gatos. El riesgo viene de las saponinas en las hojas, y una mascota que muerda una puede tener vómitos, náuseas o diarrea. Ese riesgo aumenta durante un rescate, ya que tendrá raíces cortadas y tierra suelta al descubierto por un rato. Mantenga a las mascotas y a los niños lejos del área mientras trabaja, y si sospecha que una mascota o un niño curioso comió parte de la planta, llame a ASPCA Animal Poison Control al ocho ocho ocho, cuatro dos seis, cuatro cuatro tres cinco.
+
+Ahora el rescate. Saque la planta de su maceta y enjuague la tierra de las raíces para ver bien con qué está trabajando. Cualquier raíz negra, marrón o blanda debe irse: corte hasta la raíz sana, firme y blanca, usando tijeras que haya limpiado primero con alcohol.
+
+Algunos jardineros espolvorean los extremos cortados con canela en polvo. Aquí está la razón: un estudio de laboratorio del dos mil veinticinco encontró que un extracto de corteza de canela al cinco por ciento suprimió el hongo Fusarium sporotrichioides en un setenta por ciento después de siete días, y otra investigación en el European Journal of Plant Pathology encontró que un enjuague de canela al uno por ciento redujo el crecimiento del moho Botrytis en más de un ochenta por ciento después de seis días. Así que el efecto antifúngico es real, no es solo folclore. Pero la canela no es una hormona de enraizamiento: no hará que las raíces nuevas crezcan más rápido. Lo que sí puede hacer es proteger esa superficie recién cortada mientras la planta sana por sí sola.
+
+Deje que las raíces se aireen un rato, y luego replante en un recipiente limpio con mezcla fresca de drenaje rápido, la misma de cactus y perlita de antes. No reutilice la tierra vieja; a menudo todavía tiene el hongo que causó el problema.
+
+No importa en qué zona USDA esté ni cómo sea el clima afuera: esto es completamente un problema de interior, así que los cinco hábitos aplican igual en todas partes.
+
+Entonces, aquí es donde esto lo deja a usted. La reputación de la sansevieria de ser "imposible de matar" es en su mayoría cierta, hasta que uno de estos cinco hábitos trabaja silenciosamente en su contra. Revise el tamaño de la maceta, mantenga el agua fuera de la corona, use una mezcla de drenaje rápido, ajuste para la poca luz, y riegue según la tierra, no el calendario. Nada de esto cuesta dinero extra: es solo un puñado de hábitos pequeños apuntados en la dirección correcta.
+
+Vaya a revisar la suya esta noche. Sienta la tierra, revise la maceta, y dele una mirada rápida a la corona: lo sabrá en un minuto.
+
+Corrija el hábito, salve la planta, manténgala saludable por años. Que le vaya bien en el jardín.

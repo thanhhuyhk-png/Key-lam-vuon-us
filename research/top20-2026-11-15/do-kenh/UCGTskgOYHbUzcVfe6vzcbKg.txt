@@ -1,0 +1,150 @@
+# Đo kênh: UCGTskgOYHbUzcVfe6vzcbKg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 436 |
+| n_trong_danh_sach | 119 |
+| n_dai | 100 |
+| n_short | 19 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 205,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2022-09-01 |
+| n_ngoai_cua_so | 12 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 3,422 |
+| cao_nhat | 28,914 |
+| thap_nhat | 1,230 |
+| phan_tan | 8.45 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 0.33 |
+| ngay_video_dau | 2020-04-04 |
+| tuoi_tu_video_dau | 2,417 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 84.82 |
+| sub_moi_video | 470 |
+| video_30_ngay | 15 |
+| ty_trong_view_short | 0.04 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2020-04-04 | 2,417 | 0SpzaEG6OBc | 5,612 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to Plant Aloe Vera in Containers In Order To Save Space and Soil. |
+| 2020-04-05 | 2,416 | 6lqHQR37Pi0 | 4,706 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How To Grow and Maintain Containerized Aloe Vera |
+| 2020-04-06 | 2,415 | xgirnnr6qeA | 9,036 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How To Plant Small Aloe Vera Pups In Containers |
+| 2020-04-07 | 2,414 | B0iIexpqU5k | 15,284 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | What will happen to the Aloe Vera plant if you place in indoor? |
+| 2020-04-08 | 2,413 | 903RAGPSnN0 | 1,651 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to get the gel from the Aloe Vera leaf using a spoon |
+| 2020-04-13 | 2,408 | -MhgkIDGLH4 | 4,233 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Very Easy To Make Aloe vera and Banana Milkshake at Home |
+| 2020-04-14 | 2,407 | GelZpwSo_pI | 638 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Very Simple Aloe Vera Juice with Fresh Pomelo |
+| 2020-05-01 | 2,390 | 2uvHl-Guba4 | 21,455 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How To Make Aloe Vera Milk Shake - A Healthier Milk. |
+| 2022-09-01 | 1,537 | Cf5jpOTux_I | 3,148 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Aloe vera The Plant of Immortality |
+| 2022-09-02 | 1,536 | iWJd-mI1oGU | 11,586 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How To Make Aloe vera Vinegar |
+| 2022-09-04 | 1,534 | m6HpH5R4_ts | 13,393 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Why You Should Separate Aloe vera Pups |
+| 2022-09-06 | 1,532 | gIyzRkJjUWs | 56,273 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | When and How Often Do You Harvest Aloe vera? |
+| 2022-09-07 | 1,531 | e-exGSgg0PI | 2,248 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Aloe vera Juice with Fresh Grapes |
+| 2022-09-08 | 1,530 | -o706n7HCHs | 126,995 | 5 | 11,586 | 10.96 | 5 | 2.56 | can_kiem_ky | – | Không | How To Make Aloe vera Grow Big Faster |
+| 2022-09-10 | 1,528 | eys6DYo6CmE | 12,867 | 6 | 12,490 | 1.03 | 5 | 2.44 | binh_thuong | – | Không | Over watering Aloe vera Plant |
+| 2022-09-13 | 1,525 | 7Vm8JpnqSAM | 14,606 | 7 | 12,867 | 1.14 | 5 | 2.37 | binh_thuong | – | Không | Propagated Aloe vera leaves |
+| 2022-09-14 | 1,524 | wQIFdHIjVgA | 35,113 | 8 | 13,130 | 2.67 | 5 | 2.26 | hoi_cao | – | Không | 3 Ingredients Aloe vera Whole Leaf Soap |
+| 2022-09-17 | 1,521 | wxVQDRCtjFI | 30,435 | 9 | 13,393 | 2.27 | 5 | 0.95 | hoi_cao | – | Không | How To Make Aloe vera Fertilizer at Home |
+| 2022-09-19 | 1,519 | CT82eCfEZM4 | 29,688 | 10 | 14,000 | 2.12 | 5 | 0.91 | hoi_cao | – | Không | What Are the Causes of Aloe vera Black Spots and How To Avoid Them |
+| 2022-09-22 | 1,516 | -QF8bs48nwU | 2,884,073 | 11 | 14,606 | 197 | 5 | 0.88 | can_kiem_ky | – | Không | How To Plant Aloe vera from Leaf Cuttings |
+| 2022-09-29 | 1,509 | aj9dPmqimSI | 12,789 | 12 | 22,147 | 0.58 | 5 | 1.10 | binh_thuong | – | Không | Barbadensis vs Chinensis Cuttings - Which Aloe vera Will Root Faster? |
+| 2022-10-15 | 1,493 | oddsfUbXXnc | 5,210 | 13 | 14,606 | 0.36 | 5 | 5.44 | binh_thuong | – | Không | What Will Happen To The Gel of Sunburned Aloe vera Leaves |
+| 2022-10-31 | 1,477 | EfyUdKwst2E | 10,941 | 14 | 14,000 | 0.78 | 5 | 5.67 | binh_thuong | – | Không | Aloe Rust |
+| 2022-11-07 | 1,470 | CtY1mSSDDCc | 79,443 | 15 | 13,393 | 5.93 | 5 | 2.27 | manh | – | Không | How To Propagate Small Aloe vera Leaves |
+| 2022-11-16 | 1,461 | _veSb3jGzlo | 24,387 | 15 | 14,606 | 1.67 | 5 | 7.27 | binh_thuong | – | Không | How Fast Does Aloe vera Grow? |
+| 2022-11-30 | 1,447 | hIQpbOwEdpc | 301,300 | 15 | 24,387 | 12.35 | 5 | 4.35 | can_kiem_ky | – | Không | Easy Way To Save A Rotting Aloe vera Plant |
+| 2022-12-12 | 1,435 | drq7CtLAY3o | 106,161 | 15 | 29,688 | 3.58 | 5 | 1.02 | dang_ghi | – | Không | How To Save Aloe vera With Rotting Leaves |
+| 2023-02-15 | 1,370 | sHmajMH8d2s | 30,375 | 15 | 29,688 | 1.02 | 5 | 0.58 | binh_thuong | – | Không | Aloe vera Barbadensis Leaf Propagation |
+| 2023-03-14 | 1,343 | sME9LHfbCak | 14,495 | 15 | 30,375 | 0.48 | 5 | 0.57 | binh_thuong | – | Không | Will Aloe Vera Grow in Aloe Vera Gel? Shocking Experiment Results! |
+| 2023-06-09 | 1,256 | MI51ism-UBQ | 262,991 | 15 | 29,688 | 8.86 | 5 | 0.58 | manh | – | Không | How to Make Aloe vera Cuttings Root Faster in Water |
+| 2023-06-20 | 1,245 | 1m-RkkvmaLg | 394,688 | 15 | 30,375 | 12.99 | 5 | 0.55 | can_kiem_ky | – | Không | Aloe vera Leaf Propagation: A Step-By-Step Guide |
+| 2023-10-26 | 1,117 | zdBN57DXEbM | 16,843 | 15 | 30,435 | 0.55 | 5 | 0.43 | binh_thuong | – | Không | Propagating Aloe vera Cuttings in Aloe vera Gel |
+| 2023-11-06 | 1,106 | SNWyGOZFUyw | 17,297 | 15 | 30,375 | 0.57 | 5 | 0.30 | binh_thuong | – | Không | A Rotting Aloe vera Plant Can Still Produce Pups |
+| 2024-03-06 | 985 | MLrEoY8qMFA | 9,149 | 15 | 29,688 | 0.31 | 5 | 0.34 | binh_thuong | – | Không | How to Plant Tiny Aloe Vera Pups Without Roots Successfully! |
+| 2024-04-23 | 937 | rCo1OfIpSLs | 47,456 | 15 | 24,387 | 1.95 | 5 | 0.20 | binh_thuong | – | Không | How To Manage Aloe vera Root Rot |
+| 2024-05-21 | 909 | PJzWgD9WiW4 | 13,145 | 15 | 24,387 | 0.54 | 5 | 0.18 | binh_thuong | – | Không | A Guide on How To Manage Aloe vera Leaf Rot |
+| 2024-07-18 | 851 | _Bh1hLeyJVU | 4,863 | 15 | 24,387 | 0.20 | 5 | 0.16 | binh_thuong | – | Không | Propagating Aloe vera Barbadensis Leaves |
+| 2024-08-05 | 833 | ln_d2xyyxR0 | 4,336 | 15 | 24,387 | 0.18 | 5 | 0.16 | binh_thuong | – | Không | How To Take Care of Aloe vera During The Rainy Season |
+| 2024-08-11 | 827 | lfinvx4FsOU | 10,193 | 15 | 24,387 | 0.42 | 5 | 0.16 | binh_thuong | – | Không | Things You Need To Know About Aloe vera Chinensis |
+| 2024-08-18 | 820 | g6guQBe-yQQ | 2,068 | 15 | 17,297 | 0.12 | 5 | 0.26 | binh_thuong | – | Không | Discarded Aloe vera Barbadensis Leaves |
+| 2024-08-25 | 813 | Cu-joq865u4 | 3,108 | 15 | 16,843 | 0.18 | 5 | 0.27 | binh_thuong | – | Không | This Will Happen If You Add MSG To Aloe vera? |
+| 2024-09-01 | 806 | hLjkDYfJdNc | 3,794 | 15 | 14,495 | 0.26 | 5 | 0.31 | binh_thuong | – | Không | Natural Home Remedy for Dandruff |
+| 2024-09-08 | 799 | FO3z4KfGwgM | 20,981 | 15 | 13,145 | 1.60 | 5 | 0.34 | binh_thuong | – | Không | How To Replant Tall Aloe vera |
+| 2024-09-15 | 792 | BujXP0RIzgo | 7,793 | 15 | 13,145 | 0.59 | 5 | 0.34 | binh_thuong | – | Không | How Make Aloe vera Produce More Pups and More Often |
+| 2024-09-23 | 784 | fGzOFxXi4Bk | 4,492 | 15 | 10,193 | 0.44 | 5 | 0.49 | binh_thuong | – | Không | The Effects of JADAM Liquid Fertilizer (JLF) on Aloe vera |
+| 2024-09-30 | 777 | Jg0xKjfRTCY | 2,680 | 15 | 9,149 | 0.29 | 5 | 0.55 | binh_thuong | – | Không | What Causes Aloe vera Leaf Rot? |
+| 2024-10-06 | 771 | _iDBueX_GaY | 1,585 | 15 | 7,793 | 0.20 | 5 | 0.66 | binh_thuong | – | Không | How to Make Aloe Vera Soap with Fresh Durian – Unique DIY Soap Recipe! |
+| 2024-10-21 | 756 | 0WqxVTOJcg4 | 87,390 | 15 | 4,863 | 17.97 | 5 | 1.03 | can_kiem_ky | – | Không | How To Plant Aloe vera: A Beginners Guide |
+| 2024-11-27 | 719 | ajtGy3dv0uo | 11,624 | 15 | 4,863 | 2.39 | 5 | 1.03 | hoi_cao | – | Không | How to Propagate Aloe Vera Leaves: Which Method Works Best? |
+| 2024-12-29 | 687 | gjGE9_SCitI | 4,994 | 15 | 4,863 | 1.03 | 5 | 1.06 | binh_thuong | – | Không | Aloe vera Leaf Propagation Updates |
+| 2025-01-04 | 681 | p-t0Vqo7UdY | 4,540 | 15 | 4,863 | 0.93 | 5 | 1.06 | binh_thuong | – | Không | Aloe vera Soil Experiment: Compost vs. Cow Manure vs. Old Potting Soil |
+| 2025-01-13 | 672 | 4ovRN4Hp4SI | 5,166 | 15 | 4,540 | 1.14 | 5 | 1.61 | binh_thuong | – | Không | Beautiful and Unique Aloe vera |
+| 2025-01-20 | 665 | vmZ_x7puKL4 | 4,633 | 15 | 4,540 | 1.02 | 5 | 2.26 | binh_thuong | – | Không | Propagating Aloe vera Leaves Inside the Bottle |
+| 2025-01-26 | 659 | hT313j4XjXo | 13,103 | 15 | 4,633 | 2.83 | 5 | 2.21 | hoi_cao | – | Không | How to Choose the Right Pot for Aloe Vera? |
+| 2025-02-05 | 649 | 12FiIZV5NaA | 51,718 | 15 | 4,633 | 11.16 | 5 | 1.58 | can_kiem_ky | – | Không | How To Propagate Aloe vera - Complete Guide |
+| 2025-02-12 | 642 | AgetrcJ4Snc | 3,737 | 15 | 4,994 | 0.75 | 5 | 2.05 | binh_thuong | – | Không | The HIDDEN Pest Destroying Your Aloe Vera (You Won't Believe This!) |
+| 2025-02-16 | 638 | fMIEoErIgGY | 7,311 | 15 | 4,994 | 1.46 | 5 | 2.05 | binh_thuong | – | Không | What To Do If You Have an Aloe vera That is Rotting from the Crown |
+| 2025-02-21 | 633 | y3Z3aUEf6oM | 10,245 | 15 | 5,166 | 1.98 | 5 | 0.54 | binh_thuong | – | Không | How To Make You Own Aloe vera Face Wash at Home |
+| 2025-02-24 | 630 | XTuMbUWjeoA | 179,549 | 15 | 5,166 | 34.76 | 5 | 0.54 | can_kiem_ky | – | Không | How to Make Transparent Aloe Vera Gel at Home (DIY Guide) |
+| 2025-02-25 | 629 | _65pNkRnazs | 2,523 | 15 | 5,166 | 0.49 | 5 | 1.11 | binh_thuong | – | Không | How To Check Whether Your Plant Has Root Rot |
+| 2025-02-26 | 628 | rDbYVXJWf-s | 61,828 | 15 | 5,166 | 11.97 | 5 | 1.11 | can_kiem_ky | – | Không | DIY Aloe Vera Hair Styling Gel \| Easy Homemade Hair Gel for a Natural Hold |
+| 2025-03-08 | 618 | Ie6G_2cNsYs | 2,766 | 15 | 7,311 | 0.38 | 5 | 0.79 | binh_thuong | – | Không | Rotten Aloe vera Pups? Here's How I Saved Them! |
+| 2025-03-12 | 614 | WydO2S5rMpA | 2,764 | 15 | 7,311 | 0.38 | 5 | 0.99 | binh_thuong | – | Không | Where To Place Small Aloe vera Pups After Planting? |
+| 2025-03-14 | 612 | 1QAycexFqUE | 5,758 | 15 | 5,166 | 1.11 | 5 | 1.47 | binh_thuong | – | Không | How To Extract  and Prepare Aloe vera for Hair: Explainer Video |
+| 2025-03-16 | 610 | 3MOcGMbcr6o | 10,033 | 15 | 5,166 | 1.94 | 5 | 1.40 | binh_thuong | – | Không | DIY Aloe Vera & Moringa Soap – Hydrate & Nourish Your Skin Naturally! |
+| 2025-03-20 | 606 | 7JQWP3raecE | 7,215 | 15 | 5,758 | 1.25 | 5 | 1.32 | binh_thuong | – | Không | Aloe Vera Leaf Propagation: My First Unexpected Discovery! |
+| 2025-03-24 | 602 | kIR2fG1b17Y | 3,461 | 15 | 7,215 | 0.48 | 5 | 1.05 | binh_thuong | – | Không | How to Replenish Aloe Vera Soil Without Stressing Your Plant! |
+| 2025-03-28 | 598 | 9ThZ7EC6Ass | 15,333 | 15 | 7,215 | 2.13 | 5 | 1.05 | hoi_cao | – | Không | What You Didn’t Know About Aloe Vera Flowers and Seeds! |
+| 2025-04-01 | 594 | xMLoT7Kq_Zg | 7,592 | 15 | 7,311 | 1.04 | 5 | 0.87 | binh_thuong | – | Không | How Adding Fresh Aloe Vera to My Daily Routine Changed Everything |
+| 2025-04-05 | 590 | ZS9_v4mJt6o | 3,576 | 15 | 7,311 | 0.49 | 5 | 1.10 | binh_thuong | – | Không | Why So Many People Mistake Other Plants for Aloe Vera |
+| 2025-04-09 | 586 | jeFLl9N5QUQ | 12,539 | 15 | 7,215 | 1.74 | 5 | 0.88 | binh_thuong | – | Không | Natural Soap Recipe with Aloe Vera and Lemongrass \| Easy Cold Process |
+| 2025-04-13 | 582 | F0D3ULRQTq8 | 6,016 | 15 | 7,311 | 0.82 | 5 | 1.10 | binh_thuong | – | Không | How to take care of Aloe vera Plants in Containers |
+| 2025-04-17 | 578 | mDrbGOf3X7c | 8,246 | 15 | 7,215 | 1.14 | 5 | 1.12 | binh_thuong | – | Không | How to Save a Dying Aloe Vera Plant and Grow More Pups! |
+| 2025-05-10 | 555 | yqsvoFa8jPc | 6,360 | 15 | 7,215 | 0.88 | 5 | 1.12 | binh_thuong | – | Không | How to Make a Mild Aloe Vera Face Wash with Tomato \| Glowing Skin Naturally |
+| 2025-05-28 | 537 | v55ZRAVYEUI | 8,049 | 15 | 6,360 | 1.27 | 5 | 2.00 | binh_thuong | – | Không | Removing Aloe Vera Pups from an Overcrowded Pot & Rescuing the Rotting Mother Plant |
+| 2025-06-21 | 513 | Zkcz-ZfJ_kw | 6,217 | 15 | 7,215 | 0.86 | 5 | 1.76 | binh_thuong | – | Không | Why Aloe Vera Leaves Rot and How to Stop It! |
+| 2025-06-27 | 507 | y4G7etKuXys | 22,082 | 15 | 6,360 | 3.47 | 5 | 1.08 | dang_ghi | – | Không | Why Aloe Vera Leaves Are Turning Brown and How To Manage It |
+| 2025-07-05 | 499 | SPpzOfWa3WE | 21,221 | 15 | 7,215 | 2.94 | 5 | 0.89 | hoi_cao | – | Không | How To Make Aloe vera Shampoo at Home \| 3 Easy Ways for Healthier Hair |
+| 2025-07-09 | 495 | n4zMAj7SCmk | 6,409 | 15 | 7,592 | 0.84 | 5 | 0.66 | binh_thuong | – | Không | How To Remove The Bitter Taste of Aloe Vera Naturally (It Really Works!) |
+| 2025-07-13 | 491 | NEuHt68VsZM | 12,689 | 15 | 7,592 | 1.67 | 5 | 0.49 | binh_thuong | – | Không | Should We Keep Aloe vera In Direct Sunlight or In Shade |
+| 2025-07-16 | 488 | 4IDPfwAPBPk | 6,849 | 15 | 7,592 | 0.90 | 5 | 0.47 | binh_thuong | – | Không | Do Aloe vera Cuttings Need To Callus or Dry Out Before Planting? |
+| 2025-07-20 | 484 | XnEbeahL5S8 | 3,739 | 15 | 7,592 | 0.49 | 5 | 0.47 | binh_thuong | – | Không | Root Rot and Stem Rot? How Aloe Vera Survives When Left Alone |
+| 2025-07-26 | 478 | tLrCkJKdhjM | 5,008 | 15 | 7,592 | 0.66 | 5 | 0.39 | binh_thuong | – | Không | How to Make Aloe Vera Face Wash with Fresh Rosemary \| Gentle & Natural Skincare |
+| 2025-08-01 | 472 | 7I7CtQLsUm8 | 2,943 | 15 | 6,849 | 0.43 | 5 | 0.33 | binh_thuong | – | Không | How to SAVE your Aloe Vera Plant after Shipping Damage & Rot |
+| 2025-08-06 | 467 | 63u76lE0boI | 3,548 | 15 | 6,409 | 0.55 | 5 | 0.35 | binh_thuong | – | Không | Chinensis vs  Barbadensis: Which Aloe Vera Grows Better in Water? |
+| 2025-08-10 | 463 | qSHjSm9scO0 | 2,271 | 15 | 6,409 | 0.35 | 5 | 0.38 | binh_thuong | – | Không | The Strange Truth About Aloe Vera: Tougher Than You Think |
+| 2025-08-13 | 460 | QcXIzChPbTU | 4,053 | 15 | 6,360 | 0.64 | 5 | 0.39 | binh_thuong | – | Không | The Secret to Growing Aloe Vera Barbadensis from a Single Leaf |
+| 2025-08-17 | 456 | UFK5YlT2E4k | 2,028 | 15 | 6,360 | 0.32 | 5 | 1.06 | binh_thuong | – | Không | Planting Aloe Vera in a Banana: Genius Hack or Total Myth? |
+| 2025-08-24 | 449 | HRsnQtGZISE | 2,192 | 15 | 6,217 | 0.35 | 5 | 1.25 | binh_thuong | – | Không | Best Way to Pack and Ship Fresh Aloe Vera Leaves |
+| 2025-08-31 | 442 | PsYZSpRLEdA | 2,453 | 15 | 5,008 | 0.49 | 5 | 1.56 | binh_thuong | – | Không | Why My Aloe Vera Pups Are Crowded in a Pot |
+| 2025-09-04 | 438 | lq1xgl8mcIQ | 6,720 | 15 | 4,053 | 1.66 | 5 | 2.11 | binh_thuong | – | Không | DIY Aloe Vera Soap & Shampoo Infused with Moringa \| Easy Herbal Recipe |
+| 2025-09-07 | 435 | KQKiB5nmUKI | 12,618 | 15 | 4,053 | 3.11 | 5 | 1.92 | dang_ghi | – | Không | How to Force Your Aloe Vera Barbadensis to Produce Pups Early |
+| 2025-09-12 | 430 | 349kYhsHgyc | 7,795 | 15 | 4,053 | 1.92 | 5 | 2.07 | binh_thuong | – | Không | How To Propagate Aloe vera Barbadensis Leaves |
+| 2025-09-20 | 422 | HdEcPsp0hY8 | 8,570 | 15 | 4,053 | 2.11 | 5 | 1.21 | hoi_cao | – | Không | Does Aloe Vera Really Work as a Rooting Hormone? |
+| 2025-10-15 | 397 | PdfjEMDDRkk | 4,920 | 15 | 4,053 | 1.21 | 5 | 0.86 | binh_thuong | – | Không | Best Aloe Vera Planting Techniques for Small Spaces |
+| 2025-11-05 | 376 | -XxhGchK-zU | 28,914 | 15 | 4,053 | 7.13 | 5 | 0.86 | manh | – | Không | What to Do When Your Aloe Vera Plant Grows Too Tall |
+| 2025-12-03 | 348 | 8JpefJS33o4 | 2,007 | 15 | 4,053 | 0.50 | 5 | 0.86 | binh_thuong | – | Không | My Aloe Garden is a Mess—But It's Thriving! |
+| 2026-01-20 | 300 | Fj8SK9JzHLc | 8,376 | 15 | 4,053 | 2.07 | 5 | 0.83 | hoi_cao | – | Không | Growing Aloe Vera in Water |
+| 2026-02-06 | 283 | SrjerR8frxI | 3,470 | 15 | 4,053 | 0.86 | 5 | 0.83 | binh_thuong | – | Không | My Failed Aloe Vera Experiments |
+| 2026-03-19 | 242 | gfUb1lXgwEo | 3,374 | 15 | 4,053 | 0.83 | 5 | 0.57 | binh_thuong | – | Không | Why Aloe Vera Produces More Pups After Crown Rot |
+| 2026-05-09 | 191 | mjBxGfpIUOQ | 3,702 | 15 | 4,053 | 0.91 | 5 | 0.45 | binh_thuong | – | Không | Never Throw Away a Rotted Aloe Vera — Here's Why |
+| 2026-06-10 | 159 | d0fYNXePmuA | 1,281 | 15 | 4,053 | 0.32 | 5 | 0.57 | binh_thuong | – | Không | When One Pup Takes Over the Aloe Vera Pot |
+| 2026-06-18 | 151 | JQAcfRTJt0c | 2,320 | 15 | 3,702 | 0.63 | 5 | 0.49 | binh_thuong | – | Không | The Biggest Aloe vera Chinensis Myth on the Internet |
+| 2026-07-03 | 136 | 3Q-69nX_u8Q | 4,694 | 15 | 3,702 | 1.27 | 4 | – | binh_thuong | – | Không | Why I Completely Stopped Layering My Aloe Vera Plants |
+| 2026-07-05 | 134 | JaqHYdewyGQ | 1,829 | 15 | 4,694 | 0.39 | 3 | – | binh_thuong | – | Không | How to Make Fresh Aloe Vera and Lemon Soap at Home \| Cold Process Soap Making |
+| 2026-07-10 | 129 | NestUTC8bns | 1,230 | 15 | 4,694 | 0.26 | 2 | – | binh_thuong | – | Không | Every Aloe vera Plant Has A Story To Tell |
+| 2026-07-26 | 113 | ozurJ-d_bLs | 2,542 | 15 | 3,702 | 0.69 | 1 | – | binh_thuong | – | Không | Understanding Aloe vera Leaves \| Why Your Aloe Vera Leaves Look Different? |
+| 2026-07-28 | 111 | A-zdUrWIC_0 | 1,501 | 15 | 3,470 | 0.43 | 0 | – | binh_thuong | – | Không | A Flash Flood Submerged My Entire Aloe Vera Garden |

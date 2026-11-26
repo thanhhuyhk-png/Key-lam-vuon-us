@@ -1,0 +1,150 @@
+# Đo kênh: UCxUoymx9-uTPVgFI0D9RUSg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 430 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 66,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-06-11 |
+| n_ngoai_cua_so | 31 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 2,446 |
+| cao_nhat | 123,952 |
+| thap_nhat | 1,367 |
+| phan_tan | 50.67 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.04 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.74 |
+| ngay_video_dau | 2024-05-22 |
+| tuoi_tu_video_dau | 908 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 72.69 |
+| sub_moi_video | 153 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2024-06-28 | 871 | IYNdBVA-XNQ | 9,191 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Farmers Pick Millions Of Pineapples - Pineapple Harvesting - Farming Documentary |
+| 2024-07-02 | 867 | -k0nGpqc854 | 12,289 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Exploring Prunes Production: Picking Billions of Plums in California \| Farming Documentary |
+| 2024-07-06 | 863 | 1F-WJ4PpBLQ | 32,845 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to Cocoa Fruit Harvesting - Cocoa Bean Processing to Chocolate Factory \| Farming Documentary |
+| 2024-07-08 | 861 | mZhEkgJp4G4 | 12,757 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to Harvest Billions of Peaches: The Story of American Farming Excellence \| Farming Documentary |
+| 2024-07-10 | 859 | QkfvbkIze3k | 46,673 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Japanese Farmers Harvest Millions of Shiitake Mushrooms in Forests \| Farming Documentary |
+| 2024-07-11 | 858 | 57I8eyzbm4k | 7,786 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Billions Of Cider Apples Are Harvested This Way In America \| Farming Documentary |
+| 2024-07-12 | 857 | -CdScpRVYjI | 86,579 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Millions Of Pounds Of Coffee Are Processed At Brazil Coffee Farms \| Farming Documentary |
+| 2024-07-13 | 856 | nU4lG5krgkI | 11,934 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to 6.9 Million Tons of Citrus Are Produced Annually in America \| Farming Documentary |
+| 2025-06-11 | 523 | vi1JFOInKrI | 1,110,582 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Taiwan Farmers Harvest Rice - Rice Planting and Harvesting Process \| Farming Documentary |
+| 2025-06-12 | 522 | ycqjDMQd6ks | 2,539 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Farmers Raise and Process Millions of Crocodiles for Skin & Meat \| Farming Documentary |
+| 2025-06-13 | 521 | ybH2P1RFzdY | 4,811 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How American Farmers Harvest Oranges: Juice Making Process in Factory  \| Farming Documentary |
+| 2025-06-14 | 520 | ag28iGW2EOM | 5,051 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Spaghetti Noodles Are Made – Incredible Million Tons of Pasta Processing In Factory |
+| 2025-06-15 | 519 | bFWkjZ_HKng | 7,931 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Farmers Harvest 79 Million Pounds Of Agave - Tequila Made From Agave Blue \| Farming Documentary |
+| 2025-06-16 | 518 | 29JZNF32gxY | 14,901 | 5 | 5,051 | 2.95 | 5 | 3.57 | hoi_cao | – | Không | How US Farmers Harvest 1.44 Billion Pounds of Cucumbers by Machine Every Year \| Farming Documentary |
+| 2025-06-17 | 517 | p9Ki8R5QldA | 18,954 | 6 | 6,491 | 2.92 | 5 | 2.49 | hoi_cao | – | Không | How Farmers Raise Thousands of Chickens On High Hills This Way \| Farming Documentary |
+| 2025-06-18 | 516 | NQe3u0Sp1L8 | 9,367 | 7 | 7,931 | 1.18 | 5 | 2.27 | binh_thuong | – | Không | How Vietnamese Farmers Harvest Longan Hung Yen - Grow Longan Trees by Grafting \| Farming Documentary |
+| 2025-06-19 | 515 | fNnv9Q4law4 | 2,072 | 8 | 8,649 | 0.24 | 5 | 2.08 | binh_thuong | – | Không | How Farmers Are Raising Millions of Cattle  From the Air \| Farming Documentary |
+| 2025-06-20 | 514 | Wjo1hbLWAjo | 21,925 | 9 | 7,931 | 2.76 | 5 | 2.27 | hoi_cao | – | Không | How Farmers Harvest Macadamia Nuts: Modern Macadamia Harvesting and Processing \| Farming Documentary |
+| 2025-06-21 | 513 | ztK8nXickio | 18,031 | 10 | 8,649 | 2.08 | 5 | 11.25 | hoi_cao | – | Không | How Millions of Tomatoes Are Processed: Tomato Harvesting and Tomato Sauce Production in The Factory |
+| 2025-06-22 | 512 | 09fMpN27Fug | 16,152 | 11 | 9,367 | 1.72 | 5 | 10.39 | binh_thuong | – | Không | How American Farmers Harvest Millions of Plums – Prune Production Process \| Farming Documentary |
+| 2025-06-23 | 511 | 6CTjWB0sOoo | 1,072,440 | 12 | 12,134 | 88.38 | 5 | 7.58 | can_kiem_ky | – | Không | How Farmers Harvest 3.9 Million Tons of Cashew Nuts and Process Them This Way \| Farming Documentary |
+| 2025-06-24 | 510 | UnJpGox-AWY | 8,084 | 13 | 14,901 | 0.54 | 5 | 6.53 | binh_thuong | – | Không | Amazing Peacock Farming: How Chinese Farmer Makes Profits from Raising Peafowl \| Farming Documentary |
+| 2025-06-25 | 509 | TFYuRQh0R_M | 146,574 | 14 | 12,134 | 12.08 | 5 | 7.58 | can_kiem_ky | – | Không | How Farmers Harvest Tons of Watermelons – Modern Watermelon Cultivation \| Farming Documentary |
+| 2025-06-26 | 508 | iHNH-WNF9pM | 97,327 | 15 | 14,901 | 6.53 | 5 | 3.23 | manh | – | Không | How Chinese Farmers Raise Hundreds of Guinea Fowl for Business \| Farming Documentary |
+| 2025-06-27 | 507 | 9yPTOAXezhM | 92,014 | 15 | 14,901 | 6.18 | 5 | 1.16 | manh | – | Không | How Thai Farmers Harvest and Process Millions of Tons of Rice Each Year \| Farming Documentary |
+| 2025-06-28 | 506 | yrtCwXsi35k | 48,156 | 15 | 16,152 | 2.98 | 5 | 1.07 | hoi_cao | – | Không | How Tons of Foie Gras Are Processed: Goose Farming and Foie Gras Production in The Factory |
+| 2025-06-29 | 505 | 8KBrawXijYg | 232,610 | 15 | 18,031 | 12.90 | 5 | 0.52 | can_kiem_ky | – | Không | How Indian Farmers Harvest Palmyra Palms for Toddy & Process Jaggery \| Farming Documentary |
+| 2025-06-30 | 504 | Fhmx5EzXs6Q | 4,501 | 15 | 18,954 | 0.24 | 5 | 0.49 | binh_thuong | – | Không | How Coca-Cola Is Made In Factory – Modern Coca-Cola Production Technology |
+| 2025-07-01 | 503 | 2CjafVI1E2U | 17,255 | 15 | 18,954 | 0.91 | 5 | 0.38 | binh_thuong | – | Không | How to Raise Black Chickens: Why Black Chicken Eggs and Meat Are So Expensive \| Farming Documentary |
+| 2025-07-03 | 501 | hZtwkw-hQjI | 4,237 | 15 | 18,954 | 0.22 | 5 | 0.49 | binh_thuong | – | Không | How China Farms Millions of Deer for Antlers and Meat \| Farming Documentary |
+| 2025-07-04 | 500 | 3_fcJZeX1iY | 63,718 | 15 | 18,031 | 3.53 | 5 | 0.52 | dang_ghi | – | Không | How Farmers Cultivate and Harvest Ginger With Modern Technology \| Farming Documentary |
+| 2025-07-05 | 499 | TI3RSmy0ISk | 9,293 | 15 | 21,925 | 0.42 | 5 | 0.32 | binh_thuong | – | Không | How Apple Juice Is Made in Factory – Modern Fruit Juice Production Technology |
+| 2025-07-06 | 498 | dJoJaHINbwM | 7,112 | 15 | 21,925 | 0.32 | 5 | 0.82 | binh_thuong | – | Không | How US Farmers Harvest Thousands Of Tons Of Fruits And Vegetables by Machine \| Farming Documentary |
+| 2025-07-07 | 497 | HTgc1_bA6v8 | 7,028 | 15 | 18,031 | 0.39 | 5 | 0.99 | binh_thuong | – | Không | How Condensed Milk is Made \| Amazing Milk Process In Factory |
+| 2025-07-08 | 496 | hh3bgKxeAmo | 233,508 | 15 | 17,255 | 13.53 | 5 | 1.04 | can_kiem_ky | – | Không | How Farmers Raise Organic Chickens on Poultry Farms \| Farming Documentary |
+| 2025-07-09 | 495 | c4wcnRjsTuI | 17,877 | 15 | 48,156 | 0.37 | 5 | 0.39 | binh_thuong | – | Không | How US Farmers Harvest and Process 3.6 Billion Pounds of Almonds Each Year \| Farming Documentary |
+| 2025-07-10 | 494 | ByBC4WfvJ64 | 4,904 | 15 | 17,877 | 0.27 | 5 | 1.05 | binh_thuong | – | Không | How Farmers Raise Millions Tiny Deer - Asia’s Mouse Deer Farming This Way \| Farming Documentary |
+| 2025-07-11 | 493 | k7MKJlCfKpI | 35,495 | 15 | 17,877 | 1.99 | 5 | 1.05 | binh_thuong | – | Không | How American Farmers Harvest 300,000 Tons Of Pears: Amazing Pear Cultivation \| Farming Documentary |
+| 2025-07-12 | 492 | t0TaIDx-4t4 | 7,394 | 15 | 17,877 | 0.41 | 5 | 2.46 | binh_thuong | – | Không | How Corn Flakes Are Made in a Factory - Mass Production of Corn Flakes Factory Process |
+| 2025-07-13 | 491 | danG09r89Y0 | 18,841 | 15 | 17,255 | 1.09 | 5 | 2.55 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Tons of Peanuts for Peanut Butter \| Farming Documentary |
+| 2025-07-15 | 489 | 2Gnq9ItamXI | 43,970 | 15 | 17,255 | 2.55 | 5 | 0.87 | hoi_cao | – | Không | How Farmers Raise 2,000 Muscovy Ducks for Eggs – Muscovy Duck Farm \| Farming Documentary |
+| 2025-07-16 | 488 | MeQnzfG1Ags | 15,092 | 15 | 17,255 | 0.87 | 5 | 0.35 | binh_thuong | – | Không | How Farmers Harvest Millions of Cashew Nuts for Modern Processing \| Farming Documentary |
+| 2025-09-12 | 430 | EKrkFCl5F0I | 49,298 | 15 | 15,092 | 3.27 | 5 | 0.40 | dang_ghi | – | Không | How Billions of Pistachios Are Harvested and Processed in a Modern Factory \| Farming Documentary |
+| 2025-09-15 | 427 | ukhZqjkOji4 | 538,286 | 15 | 17,255 | 31.20 | 5 | 0.28 | can_kiem_ky | – | Không | How Japanese Farmers Harvest the World's Most Expensive Persimmon \| Farming Documentary |
+| 2025-09-18 | 424 | B6T7cIzTp48 | 6,013 | 15 | 17,877 | 0.34 | 5 | 0.16 | binh_thuong | – | Không | How Farmers Harvest Million of Red Raspberries - Amazing Raspberries Factory \| Farming Documentary |
+| 2025-09-21 | 421 | KH8iSIFCKrs | 6,061 | 15 | 17,877 | 0.34 | 5 | 0.13 | binh_thuong | – | Không | How Farmers Harvest of Pears - Amazing Pears Farming and Harvesting Process \| Farming Documentary |
+| 2025-09-24 | 418 | 9ruznJSQXKE | 4,797 | 15 | 15,092 | 0.32 | 5 | 0.13 | binh_thuong | – | Không | How Kiwi Fruit Harvesting Picking and Packing - Kiwi Farming Morden Technology \| Farming Documentary |
+| 2025-09-27 | 415 | 44_zwLoxU54 | 2,251 | 15 | 15,092 | 0.15 | 5 | 0.12 | binh_thuong | – | Không | How US Farmers Harvest 2.9 Billion Pounds Of Sweet Corn: Processing Factory \| Farming Documentary |
+| 2025-10-07 | 405 | R_GulZ2iW9o | 1,893 | 15 | 15,092 | 0.13 | 5 | 0.12 | binh_thuong | – | Không | How Farmers Harvest Millions Of Tons Of Wheat  Wheat Processing Factory  Farming Documentary |
+| 2025-10-10 | 402 | k0g14i_yBaI | 2,795 | 15 | 15,092 | 0.19 | 5 | 0.12 | binh_thuong | – | Không | How Tons of Fresh Red Hot Chili Pepper Are Harvested and Processed Efficiently \| Farming Documentary |
+| 2025-10-13 | 399 | IlOo95UUjiA | 1,793 | 15 | 7,394 | 0.24 | 5 | 0.28 | binh_thuong | – | Không | How American Farm Workers Efficiently Harvest Millions Of Tons Of Vegetables \| Farming Documentary |
+| 2025-10-16 | 396 | 3XQ-B6ehMO8 | 1,722 | 15 | 6,061 | 0.28 | 5 | 0.44 | binh_thuong | – | Không | How US Farmers Harvest Thousands Of Tons Of Walnuts \| Farming Documentary |
+| 2025-10-19 | 393 | 1HxTcSE5Sfg | 1,841 | 15 | 6,061 | 0.30 | 5 | 0.86 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Blueberries in a Factory \| Farming Documentary |
+| 2025-10-22 | 390 | LJUaiPai1tk | 2,653 | 15 | 6,013 | 0.44 | 5 | 0.87 | binh_thuong | – | Không | How Farmers Harvest Celery Root: Awesome Agriculture Technology \| Farming Documentary |
+| 2025-10-25 | 387 | OMCGLarmfR4 | 2,069 | 15 | 4,797 | 0.43 | 5 | 1.09 | binh_thuong | – | Không | How Farmers Harvest Amazing Luffa Sponges: The Loofa Cultivation Process \| Farming Documentary |
+| 2025-10-28 | 384 | xXJqbUH32-o | 5,207 | 15 | 2,795 | 1.86 | 5 | 1.40 | binh_thuong | – | Không | Harvesting & Processing Carrots - Modern Carrot Farming Techniques \| Farming Documentary |
+| 2025-10-31 | 381 | cDHjv8xHa4I | 7,275 | 15 | 2,795 | 2.60 | 5 | 1.40 | hoi_cao | – | Không | How Cucumbers are Harvest And Processed to Make Pickles - Mega Pickle Factory \| Farming Documentary |
+| 2025-11-03 | 378 | 6qn3voUY_pk | 6,249 | 15 | 2,795 | 2.24 | 5 | 1.28 | hoi_cao | – | Không | How to Harvest Durian \| Cultivation Technology and Asian Durian Processing \| Farming Documentary |
+| 2025-11-06 | 375 | T6G2ZtM77vI | 1,797 | 15 | 2,795 | 0.64 | 5 | 1.28 | binh_thuong | – | Không | How 1.8 Million Tons Of Sweet Potatoes In America Are Harvested \| Farming Documentary |
+| 2025-11-09 | 372 | Z0A0xmpAFK8 | 3,922 | 15 | 2,653 | 1.48 | 5 | 0.95 | binh_thuong | – | Không | How US Farmers Harvest 1.1 Billion Pounds of Pumpkins: Processing Factory \| Farming Documentary |
+| 2025-11-18 | 363 | lmDiL2Y6xO0 | 3,590 | 15 | 2,653 | 1.35 | 5 | 0.82 | binh_thuong | – | Không | How Farmers Harvest Sunflower Seeds and the Sunflower Oil Processing Journey \| Farming Documentary |
+| 2025-11-21 | 360 | YwI2qAbjMyw | 9,026 | 15 | 2,653 | 3.40 | 5 | 0.61 | dang_ghi | – | Không | How Farmers Harvest Onion Crops with Advanced Techniques: Processing Factory \| Farming Documentary |
+| 2025-11-24 | 357 | Wi18D7Z1eY0 | 2,520 | 15 | 2,653 | 0.95 | 5 | 0.53 | binh_thuong | – | Không | How US Farm Workers Harvest Thousands of Tons of Fruits and Vegetables \| Farming Documentary |
+| 2025-11-27 | 354 | aNlc2IiEg9E | 1,396 | 15 | 2,653 | 0.53 | 5 | 0.61 | binh_thuong | – | Không | How to Use Advanced Tech for Garlic Cultivation, Farming, Harvesting \| Farming Documentary |
+| 2025-11-30 | 351 | RSZ0kp5Mvw0 | 2,178 | 15 | 2,653 | 0.82 | 5 | 0.61 | binh_thuong | – | Không | How Buddha's Hand Fruit is Harvested and Why It's So Expensive \| Farming Documentary |
+| 2025-12-03 | 348 | FjfZkS0jUmE | 1,071 | 15 | 2,520 | 0.42 | 5 | 0.64 | binh_thuong | – | Không | How Chamomile is Harvested and Processed for Essential Oil in Factories \| Farming Documentary |
+| 2025-12-06 | 345 | yKL_F3oE0FQ | 1,616 | 15 | 2,520 | 0.64 | 5 | 0.55 | binh_thuong | – | Không | How Asian Farmer Harvesting Cashew Nuts and Processing in Modern Factory \| Farming Documentary |
+| 2025-12-09 | 342 | 1yQ2deQqr9c | 1,105 | 15 | 2,520 | 0.44 | 5 | 0.96 | binh_thuong | – | Không | How Farmers Produce Millions of Asparagus and Harvesting \| Farming Documentary |
+| 2025-12-12 | 339 | yrQ3uLc03OA | 5,068 | 15 | 2,520 | 2.01 | 5 | 0.72 | hoi_cao | – | Không | How China Farmers Successfully Grow and Harvest Morel Mushrooms \| Farming Documentary |
+| 2025-12-16 | 335 | NOIj43ls6wM | 3,103 | 15 | 2,520 | 1.23 | 5 | 0.71 | binh_thuong | – | Không | How Farmers Harvest Millions of Asian Radishes: Modern Machines & Processing \| Farming Documentary |
+| 2025-12-19 | 332 | 056BV2X1Q0w | 985 | 15 | 3,103 | 0.32 | 5 | 0.57 | binh_thuong | – | Không | How Agriculture Technology Revolutionizes Artichoke Cultivation and Processing \| Farming Documentary |
+| 2025-12-22 | 329 | pIvtvQdzBCk | 1,385 | 15 | 2,520 | 0.55 | 5 | 0.71 | binh_thuong | – | Không | How Texas Farmers Harvest Peanuts with Modern Agricultural Technology Machines \| Farming Documentary |
+| 2025-12-25 | 326 | 5HnVzHqKhsY | 2,415 | 15 | 2,178 | 1.11 | 5 | 0.80 | binh_thuong | – | Không | How Billions of Eco-Friendly Bamboo Products Are Made \| Farming Documentary |
+| 2025-12-28 | 323 | ZTUT0RdiEYI | 1,804 | 15 | 2,178 | 0.83 | 5 | 0.80 | binh_thuong | – | Không | How Farmers Harvest Millions of Cauliflowers with Modern Technology \| Farming Documentary |
+| 2025-12-31 | 320 | pJPN_P7T870 | 1,780 | 15 | 2,178 | 0.82 | 5 | 0.74 | binh_thuong | – | Không | How Farmers Harvest Million Mushrooms with Machine: Cultivation Technology \| Farming Documentary |
+| 2026-01-03 | 317 | cWZ_0BnoaxQ | 1,621 | 15 | 1,804 | 0.90 | 5 | 0.84 | binh_thuong | – | Không | How US Farmers Harvest Millions of Tons of Crops from the 2026 Season \| Farming documentary |
+| 2026-01-06 | 314 | m2bsoWBqxtg | 1,350 | 15 | 1,780 | 0.76 | 5 | 0.85 | binh_thuong | – | Không | How Farmers Harvest Celery Root: Awesome Agriculture Technology & Farming \| Farming Documentary |
+| 2026-01-09 | 311 | Q_hWGKtZhCM | 1,752 | 15 | 1,621 | 1.08 | 5 | 0.94 | binh_thuong | – | Không | How Farmers Harvest and Process Blue Agave for Tequila Production in Factories  Farming Documentary |
+| 2026-01-12 | 308 | Gwy0ZUIHPJM | 3,159 | 15 | 1,621 | 1.95 | 5 | 0.94 | binh_thuong | – | Không | How to Harvest Tons of Oil Palm Fruit Using Machines: Palm Oil Processing \| Farming Documentary |
+| 2026-01-15 | 305 | q3vCDxMRdzs | 1,516 | 15 | 1,752 | 0.87 | 5 | 0.94 | binh_thuong | – | Không | How to Harvest Aeroponics Potato: Modern Potato Agriculture Technology \| Farming Documentary |
+| 2026-01-18 | 302 | 0zU5ltwJE7Q | 1,515 | 15 | 1,621 | 0.93 | 5 | 1.02 | binh_thuong | – | Không | How Farmers Harvest Awesome Hydroponic Strawberries \| Farming Documentary |
+| 2026-01-21 | 299 | eGHO4fdyq5k | 1,463 | 15 | 1,621 | 0.90 | 5 | 1.02 | binh_thuong | – | Không | How American Farmers Raised 33.7 Million Beef Cattle in 2024 \| Farming Documentary |
+| 2026-01-24 | 296 | eAJpNfyCbr8 | 2,266 | 15 | 1,621 | 1.40 | 5 | 0.97 | binh_thuong | – | Không | How American Farmers Raised 9.2 Million Horses for Ranching \| Farming Documentary |
+| 2026-01-27 | 293 | IL7Zb6msfh4 | 1,650 | 15 | 1,752 | 0.94 | 5 | 0.90 | binh_thuong | – | Không | Japanese Farmers Harvest Giant Bean Sprouts! Japan Agriculture Technology \| Farming Documentary |
+| 2026-01-30 | 290 | 0o0g5kSmNW4 | 1,769 | 15 | 1,650 | 1.07 | 5 | 0.95 | binh_thuong | – | Không | How Korean Farmers Harvest CRAZY Amounts of Ginseng: Processing Factory \| Farming Documentary |
+| 2026-02-02 | 287 | QKhNduZEFqs | 1,021 | 15 | 1,650 | 0.62 | 5 | 1.36 | binh_thuong | – | Không | How Farmers Harvest MILLIONS of Tons of Olives: Olive Oil  Processing Factory \| Farming Documentary |
+| 2026-02-05 | 284 | w_fvMRCBKA4 | 1,549 | 15 | 1,650 | 0.94 | 5 | 3.58 | binh_thuong | – | Không | How Farmers Harvest Millions of Chayote - Chayote Processing Factory \| Farming Documentary |
+| 2026-02-08 | 281 | QTXegXNzAiw | 1,573 | 15 | 1,650 | 0.95 | 5 | 3.58 | binh_thuong | – | Không | Farmers Harvesting and Packing Golden Berry This Way: Processing Factory \| Farming Documentary |
+| 2026-02-11 | 278 | X5DSpabi7sM | 5,908 | 15 | 1,621 | 3.64 | 5 | 4.80 | dang_ghi | – | Không | How To Harvest Millions Of Soursop Fruits: Soursop Processing Factory \| Farming Documentary |
+| 2026-02-14 | 275 | uJ5tqwlKu2o | 2,244 | 15 | 1,621 | 1.38 | 5 | 4.80 | binh_thuong | – | Không | Taiwanese Farmers Harvest Mushrooms: Mushroom Processing Factory \| Farming Documentary |
+| 2026-02-17 | 272 | kLeJSKTLySg | 8,340 | 15 | 1,621 | 5.14 | 5 | 1.97 | manh | – | Không | How Farmers Harvest Seaweed and What Happens Inside a Processing Factory |
+| 2026-02-20 | 269 | ItE2tfM1zCM | 123,952 | 15 | 1,650 | 75.12 | 5 | 1.45 | can_kiem_ky | – | Không | How Taiwan Farmers Harvest Rice: Amazing Rice Planting & Processing Harvest |
+| 2026-02-23 | 266 | sJ940O2gmWg | 1,614 | 15 | 1,752 | 0.92 | 5 | 1.80 | binh_thuong | – | Không | How Farmers Harvest Snow Grapes - Snow Grape Winery Process \| Farming Documentary |
+| 2026-02-26 | 263 | lVBgSzzsYtE | 7,788 | 15 | 1,650 | 4.72 | 5 | 1.84 | dang_ghi | – | Không | How Mexico Farmers Harvest Chia Seeds: Cultivation Technology \| Farming Documentary |
+| 2026-03-02 | 259 | PJPUDyAXddI | 3,199 | 15 | 1,650 | 1.94 | 5 | 1.45 | binh_thuong | – | Không | How Farmers Harvest Mangoes: Awesome Dried Mango Processing Factory \| Farming Documentary |
+| 2026-03-05 | 256 | NNceDBQTBbw | 1,777 | 15 | 1,769 | 1.00 | 5 | 1.35 | binh_thuong | – | Không | How Thai Farmers Harvest Pisang Awak Bananas - Thai Street Food \| Farming Documentary |
+| 2026-03-08 | 253 | 7mqQWpiSAeM | 2,391 | 15 | 1,777 | 1.35 | 5 | 1.41 | binh_thuong | – | Không | How Farmers Harvest Lime Fruit: Cultivation Technology & Processing Factory \| Farming Documentary |
+| 2026-03-11 | 250 | G0hWZab1h10 | 3,157 | 15 | 2,244 | 1.41 | 5 | 1.06 | binh_thuong | – | Không | How Taiwanese Farmers Harvest Pomelo: Dried Pomelo Processing Factory \| Farming Documentary |
+| 2026-03-14 | 247 | 2DWQw3EIE8c | 3,042 | 15 | 2,244 | 1.36 | 5 | 1.04 | binh_thuong | – | Không | How To Harvest Grapes in the Volcanic Land: Volcano Wine Processing Factory \| Farming Documentary |
+| 2026-03-17 | 244 | o5qqZRh6J4k | 2,344 | 15 | 2,391 | 0.98 | 5 | 0.75 | binh_thuong | – | Không | How Farmers Harvest Apricots: The Apricot Processing Factory \| Farming Documentary |
+| 2026-03-20 | 241 | CPPprJ1HhHM | 2,376 | 15 | 2,391 | 0.99 | 5 | 0.65 | binh_thuong | – | Không | How Farmers Harvest And Process Millions of Bananas Using Modern Technology \| Farming Documentary |
+| 2026-03-23 | 238 | rjDH40NxOrI | 2,502 | 15 | 2,391 | 1.05 | 5 | 0.65 | binh_thuong | – | Không | How Farmers Harvest Tons of Green Peas: Frozen Peas Processing Factory \| Farming Documentary |
+| 2026-03-26 | 235 | SgOlZoi0HCg | 1,550 | 15 | 2,502 | 0.62 | 5 | 0.72 | binh_thuong | – | Không | How To Harvest Millions of Peanuts for Worldwide Market Distribution \| Farming Documentary |
+| 2026-03-29 | 232 | TGX4MDTw5eE | 1,804 | 15 | 2,502 | 0.72 | 4 | – | binh_thuong | – | Không | How Farmers Harvest Lemons Using Modern Methods at the Processing Factory \| Farming Documentary |
+| 2026-04-01 | 229 | -Faz4uT6SmY | 1,550 | 15 | 2,391 | 0.65 | 3 | – | binh_thuong | – | Không | How Farmers Harvest Snow Apple: How Japanese Farmers Store Apple Under Snow \| Farming Documentary |
+| 2026-04-04 | 226 | kVtP4PFJXpk | 1,367 | 15 | 2,391 | 0.57 | 2 | – | binh_thuong | – | Không | How Farmers Harvest Yellow Squash: Processing Factory in the US \| Farming Documentary |
+| 2026-04-07 | 223 | 6riJygFLlQw | 2,630 | 15 | 2,376 | 1.11 | 1 | – | binh_thuong | – | Không | How Farmers Harvest Sugar Beets: Sugar Processing Factory and Production \| Farming Documentary |
+| 2026-04-10 | 220 | tqwfED-m95s | 9,459 | 15 | 2,376 | 3.98 | 0 | – | dang_ghi | – | Không | How American Farmers Harvest Millions of Wild Blueberries by Machine \| Farming Documentary |

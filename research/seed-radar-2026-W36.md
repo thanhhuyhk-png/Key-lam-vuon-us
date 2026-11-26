@@ -1,0 +1,1 @@
+> ĐÃ NGỪNG 18/11/2026 — bản gốc ở _luu-tru/2026-11-18/research/seed-radar-2026-W36.md. Dò trend dùng tools/do_trend.py (xem references/topic-gate-en.md). Có thể xoá tệp này.

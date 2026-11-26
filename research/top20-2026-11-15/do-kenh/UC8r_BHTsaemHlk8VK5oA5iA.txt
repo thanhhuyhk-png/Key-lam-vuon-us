@@ -1,0 +1,45 @@
+# Đo kênh: UC8r_BHTsaemHlk8VK5oA5iA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 24 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 34 |
+| n_trong_danh_sach | 12 |
+| n_dai | 1 |
+| n_short | 11 |
+| n_dai_dung_tinh | 0 |
+| nguong_tuoi_video | 14 |
+| subs | 4,030 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-11-12 |
+| n_ngoai_cua_so | 12 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | – |
+| cao_nhat | – |
+| thap_nhat | – |
+| phan_tan | – |
+| so_video_tren_2x | – |
+| ty_le_tren_2x | – |
+| trung_vi_chia_sub | – |
+| ty_le_like_trung_vi | – |
+| da_trung_vi | – |
+| ngay_video_dau | 2026-11-04 |
+| tuoi_tu_video_dau | 12 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | – |
+| sub_moi_video | – |
+| video_30_ngay | 12 |
+| ty_trong_view_short | 0.96 |
+| ty_trong_view_short_nguon | mau |
+| sub_moi_video_tho | 119 |
+| sub_moi_ngay_video_dau_tho | 336 |
+
+**Cờ:** TRUNG_VI_DUNG_VIDEO_TU_14_NGAY, KHONG_DU_VIDEO_DAI_DU_30_NGAY, KENH_QUA_MOI_DUOI_14_NGAY, NHIEU_SHORT, SUB_LAN_SHORTS, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-11-12 | 4 | QaZZCIAuU_A | 1,911 | 0 | – | – | 0 | – | – | it_hon_5_video_truoc | Không | What If the WHOLE FAMILY Got Trapped Inside Roblox? 🏠 |

@@ -1,0 +1,86 @@
+# Đo kênh: UCb3sv3ExB80CeFKagIrAn9g.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 44 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 44 |
+| n_trong_danh_sach | 44 |
+| n_dai | 44 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 186,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-02-06 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 159,898 |
+| cao_nhat | 1,237,019 |
+| thap_nhat | 28,663 |
+| phan_tan | 7.74 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.86 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 0.36 |
+| ngay_video_dau | 2026-02-06 |
+| tuoi_tu_video_dau | 283 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 657 |
+| sub_moi_video | 4,227 |
+| video_30_ngay | 5 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-02-06 | 283 | h9UaXTKPE3Y | 19,922 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Stop Wasting Money: 15 Ways to Save on Groceries |
+| 2026-02-10 | 279 | 9-mVQ51uQFQ | 206,832 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Only BUY these 22 groceries EVERY week! (STOP wasting money on the rest) |
+| 2026-02-13 | 276 | f7ZJHCWCDEA | 199,633 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 21 Great Depression Habits That’ll Save You Thousands in 2026 |
+| 2026-02-16 | 273 | -kV0iCgBHF4 | 51,971 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | WARNING: Don’t Fall for These Grocery Store Traps |
+| 2026-02-21 | 268 | yafBO19mqX8 | 110,286 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 35 Things That Are a COMPLETE Waste of Your Money |
+| 2026-02-27 | 262 | aJiExQrlJBg | 1,033,027 | 5 | 110,286 | 9.37 | 5 | 0.38 | manh | – | Không | 10 Amazon Shopping Secrets You Can’t Afford to Ignore! |
+| 2026-03-04 | 257 | 9ZQwxBrJ4i0 | 474,391 | 6 | 154,960 | 3.06 | 5 | 0.27 | dang_ghi | – | Không | 15 Places Seniors DON’T know give BIG Discounts |
+| 2026-03-09 | 252 | xz8U4LlnSow | 42,121 | 7 | 199,633 | 0.21 | 5 | 0.21 | binh_thuong | – | Không | 15 Old Fashioned Habits That’ll Save You Thousands in 2026 |
+| 2026-03-13 | 248 | DiqtY1YxMIo | 839,279 | 8 | 154,960 | 5.42 | 5 | 0.27 | manh | – | Không | 12 MORE Places Seniors DON’T Know Give BIG Discounts |
+| 2026-03-19 | 242 | 2L3dsiuGD9c | 41,642 | 9 | 199,633 | 0.21 | 5 | 0.26 | binh_thuong | – | Không | 16 Foods to STOCKPILE That NEVER EXPIRE |
+| 2026-03-25 | 236 | UD5QSJ7GgvM | 9,148 | 10 | 154,960 | 0.06 | 5 | 1.32 | binh_thuong | – | Không | 10 Great Depression Habits That Still Work Today (Most Ignore These) |
+| 2026-03-30 | 231 | dVd0aMgdgn4 | 7,883 | 11 | 110,286 | 0.07 | 5 | 6.58 | binh_thuong | – | Không | 10 Biblical Habits That SECURE Your Retirement |
+| 2026-04-04 | 226 | YydqWbVVI90 | 51,802 | 12 | 81,128 | 0.64 | 5 | 8.94 | binh_thuong | – | Không | 12 Forgotten Poor Man Meals Our Grandparents Ate to Survive |
+| 2026-04-11 | 219 | xzWDqMNITaA | 725,671 | 13 | 51,971 | 13.96 | 5 | 6.41 | can_kiem_ky | – | Không | 21 Benefits of White Vinegar Most People Don’t Know |
+| 2026-04-17 | 213 | jsP5EWRX4cc | 204,578 | 14 | 81,128 | 2.52 | 5 | 4.11 | hoi_cao | – | Không | 21 Baking Soda Benefits Most People Don’t Know |
+| 2026-04-24 | 206 | ENia5T8xlmg | 2,192,195 | 15 | 110,286 | 19.88 | 5 | 2.12 | can_kiem_ky | – | Không | 18 Benefits of Hydrogen Peroxide Most People Don’t Know |
+| 2026-05-02 | 198 | qThSb6cSRU8 | 1,526,588 | 15 | 199,633 | 7.65 | 5 | 1.17 | manh | – | Không | 16 Benefits of Borax Most People Don’t Know |
+| 2026-05-07 | 193 | lURLRbRHt2A | 92,317 | 15 | 199,633 | 0.46 | 5 | 1.51 | binh_thuong | – | Không | White Vinegar vs Apple Cider Vinegar: Most People Get This Wrong! |
+| 2026-05-11 | 189 | oKOD1X7yQ7o | 333,202 | 15 | 110,286 | 3.02 | 5 | 2.12 | dang_ghi | – | Không | 15 Fuel Saving Secrets Gas Stations Hope You Never Find Out |
+| 2026-05-21 | 179 | ohNqhnFbq60 | 233,668 | 15 | 204,578 | 1.14 | 5 | 1.47 | binh_thuong | – | Không | 14 Weird Facts About COSTCO No Shopper Really Knows |
+| 2026-05-24 | 176 | w_nMwdGSMyA | 114,775 | 15 | 233,668 | 0.49 | 5 | 1.29 | binh_thuong | – | Không | 15 Foods to NEVER Buy Organic (And 5 You ABSOLUTELY Should) |
+| 2026-06-02 | 167 | XHU6y6atN6c | 301,169 | 15 | 204,578 | 1.47 | 5 | 0.25 | binh_thuong | – | Không | 17 Hydrogen Peroxide SUMMER Uses Most People Don’t Know |
+| 2026-06-11 | 158 | 9QBIQW4tgKI | 313,622 | 15 | 204,578 | 1.53 | 5 | 0.25 | binh_thuong | – | Không | 17 Sam’s Club Secrets They Don’t Want You To Know! |
+| 2026-06-18 | 151 | BwFQPKgH644 | 28,663 | 15 | 233,668 | 0.12 | 5 | 0.98 | binh_thuong | – | Không | 12 Old-School Remedies That Work and 5 Grandma Got Wrong |
+| 2026-06-25 | 144 | GTTXb6b8BXw | 448,316 | 15 | 204,578 | 2.19 | 5 | 1.12 | hoi_cao | – | Không | 18 Benefits for Rubbing Alcohol Most People Don’t Know |
+| 2026-07-06 | 133 | LVHnfShKw70 | 38,108 | 15 | 233,668 | 0.16 | 5 | 2.31 | binh_thuong | – | Không | 14 Grocery Items People Stopped Buying Because of Crazy Prices —And What to Buy Instead |
+| 2026-07-11 | 128 | dUSuSvUc0yo | 52,037 | 15 | 233,668 | 0.22 | 5 | 2.31 | binh_thuong | – | Không | 15 Peroxide Hacks for Your Garden to Save You Money |
+| 2026-07-18 | 121 | YiyNHKOFFqs | 228,635 | 15 | 233,668 | 0.98 | 5 | 2.31 | binh_thuong | – | Không | 14 Epsom Salt Uses Most People Don’t Know |
+| 2026-07-25 | 114 | V9bujpTpc7k | 878,401 | 15 | 233,668 | 3.76 | 5 | 1.48 | dang_ghi | – | Không | 12 WD-40 Uses Most People Don’t Know |
+| 2026-08-02 | 106 | 9zTwPovLiQQ | 1,237,019 | 15 | 233,668 | 5.29 | 5 | 0.31 | manh | – | Không | 15 Uses for Dawn Dish Soap Most People Don’t Know |
+| 2026-08-14 | 94 | xCez03qUgnY | 540,135 | 15 | 301,169 | 1.79 | 5 | 0.24 | binh_thuong | – | Không | 15 Castor Oil Uses Most People Don’t Know |
+| 2026-08-21 | 87 | BaLiNwgp1jo | 345,094 | 15 | 301,169 | 1.15 | 5 | 0.22 | binh_thuong | – | Không | 13 Coconut Oil Uses Most People Don’t Know |
+| 2026-08-28 | 80 | 5lufjG2xQA4 | 72,759 | 15 | 301,169 | 0.24 | 5 | 0.22 | binh_thuong | – | Không | 14 Lemon Juice Uses Most People Don’t Know |
+| 2026-09-06 | 71 | MEBRGaqMdTI | 66,867 | 15 | 301,169 | 0.22 | 5 | 0.15 | binh_thuong | – | Không | Stock up before WINTER- 18 Foods You Didn’t Know You Could Freeze |
+| 2026-09-11 | 66 | OI-saTKNAwg | 40,230 | 15 | 233,668 | 0.17 | 5 | 0.41 | binh_thuong | – | Không | 14 UNSEXY Frugal Habits That Save Serious Money |
+| 2026-09-15 | 62 | qog5ytg5Ans | 95,214 | 15 | 228,635 | 0.42 | 5 | 0.90 | binh_thuong | – | Không | BEFORE You Turn on Your Heat This Fall, Do These 10 Things |
+| 2026-09-23 | 54 | pzq1tAwNNoE | 33,908 | 15 | 228,635 | 0.15 | 5 | 1.40 | binh_thuong | – | Không | 12 Scams Targeting Seniors that Will Erase Their Savings |
+| 2026-10-03 | 44 | HC2CD4KJpYM | 205,021 | 15 | 95,214 | 2.15 | 5 | 5.78 | hoi_cao | – | Không | 17 Vicks VapoRub Uses: Which Ones Actually Work? |
+| 2026-10-09 | 38 | pxYToPVKi3M | 46,450 | 15 | 95,214 | 0.49 | 5 | 5.78 | binh_thuong | – | Không | 10 Laundry Mistakes That Are Costing You HUNDREDS! |
+| 2026-10-18 | 29 | TpPZEzT3v6Y | 550,463 | 15 | 95,214 | 5.78 | 4 | – | chua_chin | – | Không | 16 Uses for Washing Soda Most People Don’t Know |
+| 2026-10-25 | 22 | -0Aap8EeiJc | 319,162 | 15 | 95,214 | 3.35 | 3 | – | chua_chin | – | Không | 14 Fels-Naptha Uses Most People Don’t Know |
+| 2026-10-31 | 16 | GnEhIWX2Tng | 1,118,993 | 15 | 205,021 | 5.46 | 2 | – | chua_chin | – | Không | 14 Reasons Why You Should Mix Baking Soda and Hydrogen Peroxide! |
+| 2026-11-06 | 10 | q63MNFf2pDg | 1,183,009 | 15 | 228,635 | 5.17 | 1 | – | chua_chin | – | Không | 21 Uses For Vaseline MOST People Don’t Know |
+| 2026-11-13 | 3 | Lqb-KUk6J2M | 17,906 | 15 | 319,162 | 0.06 | 0 | – | chua_chin | – | Không | 10 Reasons to Rinse Your Mouth With Hydrogen Peroxide |

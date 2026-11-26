@@ -1,0 +1,146 @@
+# Đo kênh: UCkN5jNYky03jok8jy5mKhzw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 127 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 462 |
+| n_trong_danh_sach | 96 |
+| n_dai | 96 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 238,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-08 |
+| n_ngoai_cua_so | 31 |
+| so_hoi_vien | 4 |
+| trung_vi_20_dai | 21,818 |
+| cao_nhat | 224,821 |
+| thap_nhat | 3,458 |
+| phan_tan | 10.30 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.09 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.99 |
+| ngay_video_dau | 2025-08-05 |
+| tuoi_tu_video_dau | 468 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 509 |
+| sub_moi_video | 515 |
+| video_30_ngay | 26 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** HOI_VIEN, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-08-05 | 468 | nbBEBoG84Xw | 47,319 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Old House Styles No Longer Built Today |
+| 2025-08-06 | 467 | OOEhnStUPy0 | 10,933 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Items from the 1980s That FAILED! |
+| 2025-08-06 | 467 | Xcy--agcwIM | 40,488 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Home Styles from the 1970s That No Longer Exist ! |
+| 2025-08-06 | 467 | QW2zyA4nv1w | 19,079 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Mall Restaurants from the 1980s That No Longer Exist |
+| 2025-08-07 | 466 | Q8k-6gBJL58 | 11,937 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 WORST Restaurants From the 1970s That No Longer Exist |
+| 2025-08-07 | 466 | UajtZpuYGwo | 13,110 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 WORST Restaurants From the 1970s That No Longer Exist |
+| 2025-08-07 | 466 | IJ7SCRixLEY | 21,432 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Mysterious Home Features No Longer Used |
+| 2025-08-08 | 465 | CgC38mvHGk8 | 120,973 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Items from the 1970s That FAILED! |
+| 2026-08-08 | 100 | shuWJmwKbEo | 1,417 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Cooking Tricks Only Poor Families Knew (Food Actually Tasted Better) |
+| 2026-08-09 | 99 | sSqEDZEj4ys | 10,267 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 33 FREE Gardening Hacks Grandma Knew That Save Time, Money & Backbreaking Work |
+| 2026-08-10 | 98 | hdn6FS7tbJA | 2,230 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 21 Forgotten Wartime Garden Hacks Our Grandparents Used That Still Work Better Than Anything Today |
+| 2026-08-11 | 97 | KF7xpAAH1Uo | 59,293 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 "Poor Man" Gardening Tricks That Make $3,000 Modern Systems Look Like a Scam |
+| 2026-08-12 | 96 | MQmklPoLs1o | 2,643 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Unpopular Gardening Tricks That Grew More Food Than Chemical Fertilizers Ever Could |
+| 2026-08-13 | 95 | gVkF62UsfF4 | 2,934 | 5 | 2,643 | 1.11 | 5 | 1.29 | binh_thuong | – | Không | 25 FORGOTTEN Hair Tricks From the 1970s That Make Salon Visits Look Like a Rip-Off |
+| 2026-08-14 | 94 | hvrBD5_e_Zo | 942 | 6 | 2,788 | 0.34 | 5 | 1.23 | binh_thuong | – | Không | 25 Natural Pest-Control Tricks from the 1950s That Outsmart the Pesticide Industry |
+| 2026-08-15 | 93 | jp68M1WDQeM | 18,462 | 7 | 2,643 | 6.99 | 5 | 1.29 | manh | – | Không | 25 Vintage Items From Grandma That Worth A Fortune Today (Don’t Throw These Away!) |
+| 2026-08-16 | 92 | OPbPSsk9FqQ | 12,143 | 8 | 2,788 | 4.35 | 5 | 0.56 | dang_ghi | – | Không | 25 Survival Garden Hacks That Render Modern Garden Centers Obsolete |
+| 2026-08-17 | 91 | eFrc3jyYhko | 1,441 | 9 | 2,934 | 0.49 | 5 | 1.17 | binh_thuong | – | Không | 17 FORGOTTEN Tricks Our Grandparents Used to Get Unlimited Water for the Garden |
+| 2026-08-18 | 90 | 9Sl-ozPIF0U | 3,420 | 10 | 2,788 | 1.23 | 5 | 1.86 | binh_thuong | – | Không | 20 Forgotten 1940s Gardening Hacks That Make Modern Systems a Total Waste of Money |
+| 2026-08-19 | 89 | wAkgj4APys0 | 966 | 11 | 2,934 | 0.33 | 5 | 1.77 | binh_thuong | – | Không | 25 Homestead Skills Every American Parent Taught Their Kids (No One Teaches Anymore) |
+| 2026-08-20 | 88 | t-MwU7r7H7U | 5,190 | 12 | 2,788 | 1.86 | 5 | 3.94 | binh_thuong | – | Không | NEVER Grill Your Steak Again — Try This Old Trick From Grandma Butcher |
+| 2026-08-21 | 87 | _WxwgliRrPw | 1,557 | 13 | 2,934 | 0.53 | 5 | 37.22 | binh_thuong | – | Không | 25 FREE Garden Hacks from Country Grandma That Science Now Proves She Was Right |
+| 2026-08-22 | 86 | 2CNq-yl6WMA | 2,662,237 | 14 | 2,788 | 955 | 5 | 3.94 | can_kiem_ky | – | Không | Tastes Like Apple and Honey. Grandma Planted It Once — Why Does Nobody Grow It Now? |
+| 2026-08-23 | 85 | jCxInJICQTo | 10,991 | 15 | 2,934 | 3.75 | 5 | 3.63 | dang_ghi | – | Không | 35 MORE Cooking Tricks from Grandma Restaurants Hope You Never Find Out |
+| 2026-08-24 | 84 | U64FSl4mzus | 3,623 | 15 | 3,420 | 1.06 | 5 | 31.93 | binh_thuong | – | Không | 20 Old Items in Your Grandma's Barn Worth Thousands! (Here's How to Spot Them) |
+| 2026-08-25 | 83 | -EJHBS3gja4 | 194,258 | 15 | 3,420 | 56.80 | 5 | 10.68 | can_kiem_ky | – | Không | More Protein That BEEF. Grandma Grow It On The Windowsill — Why Does Nobody Plant It? |
+| 2026-08-26 | 82 | pFukfpksNfA | 109,209 | 15 | 3,623 | 30.14 | 5 | 3.95 | can_kiem_ky | – | Không | 13 BEST Animals That Transform 1/2 Acre Into a Self-Sustaining Homestead |
+| 2026-08-27 | 81 | 5Kr_fSM5AvA | 10,640 | 15 | 3,623 | 2.94 | 5 | 3.95 | hoi_cao | – | Không | 25 "WEIRD" Gardening Tips from Grandma That Work Surprisingly Well |
+| 2026-08-28 | 80 | hvq5Tm6UkOs | 7,987 | 15 | 5,190 | 1.54 | 5 | 2.76 | binh_thuong | – | Không | Black as Coal, White as Snow. Grandma Sowed It Every September — Why Does Nobody Grow It Now? |
+| 2026-08-29 | 79 | UMM9riJbb-o | 304,976 | 15 | 7,987 | 38.18 | 5 | 1.79 | can_kiem_ky | – | Không | Tastes Like Lemonade. Grows Wild Without Care — Why Do People Cut It Down? |
+| 2026-08-30 | 78 | wF5NEu7hcQw | 36,517 | 15 | 10,640 | 3.43 | 5 | 1.35 | dang_ghi | – | Không | STOP Frying Eggs The Old Way! Try These 80-year-old Grandma Tricks |
+| 2026-08-31 | 77 | OahDTJ_I40c | 14,327 | 15 | 10,640 | 1.35 | 5 | 1.60 | binh_thuong | – | Không | 20 GENIUS Slow Cooker Tricks Grandma Never Wrote Down |
+| 2026-09-01 | 76 | f3M-q2IiHrU | 3,009 | 15 | 10,640 | 0.28 | 5 | 3.24 | binh_thuong | – | Không | Stop Using The Wrong Tools – 17 Garden Essentials Pros Swear By |
+| 2026-09-02 | 75 | Hhwrfzl7Akc | 3,868 | 15 | 10,640 | 0.36 | 5 | 3.65 | binh_thuong | – | Không | 25 Forgotten Homemade Snacks From the 1970s That Are BETTER Than Store-Bought! |
+| 2026-09-03 | 74 | bbdqa1tx_ms | 17,022 | 15 | 10,640 | 1.60 | 5 | 3.65 | binh_thuong | – | Không | Better Than Potatoes. Grandma Planted It Once – Why No One Knows About It? |
+| 2026-09-05 | 72 | hpj8jHqOQNM | 290,969 | 15 | 10,991 | 26.47 | 5 | 3.13 | can_kiem_ky | – | Không | 25 Pieces Of Old Glassware That Worth A Fortune Today (You Might Own One) |
+| 2026-09-06 | 71 | G8B-X--7drQ | 38,786 | 15 | 14,327 | 2.71 | 5 | 0.81 | hoi_cao | – | Không | The Painkiller That Grandma Grows for FREE. Why No One Plants It Anymore? |
+| 2026-09-07 | 70 | frkchVm1DZA | 34,427 | 15 | 17,022 | 2.02 | 5 | 0.46 | hoi_cao | – | Không | 12 Vintage Jewelry Pieces Grandma Owned That Look Fake but Are Worth Thousands |
+| 2026-09-08 | 69 | dgGOqc4Dh5E | 97,543 | 15 | 17,022 | 5.73 | 5 | 0.46 | manh | – | Không | 25 Gardening Tricks People Used Before Modern Tools |
+| 2026-09-09 | 68 | CkXTGbZukJw | 5,202 | 15 | 34,427 | 0.15 | 5 | 0.23 | binh_thuong | – | Không | 85 Years Old But Looks 65 — These Are 10 Plants Grandma Uses Every Single Day |
+| 2026-09-10 | 67 | OTa9HwBOX4w | 7,848 | 15 | 34,427 | 0.23 | 5 | 0.24 | binh_thuong | – | Không | NEVER Fry Your Pork Chops Again — Try This 80-year-old Grandma’s Method |
+| 2026-09-11 | 66 | Iru4VOEOJm0 | 11,548 | 15 | 17,022 | 0.68 | 5 | 0.48 | binh_thuong | – | Không | 25 Old Kitchen Items Worth A REAL Fortune Today (Grandma Never Threw Away) |
+| 2026-09-12 | 65 | djK05nmmZGY | 5,937 | 15 | 14,327 | 0.41 | 5 | 0.59 | binh_thuong | – | Không | 20 Things Grandma Households Never Throw Away (Americans Now Toss Them Weekly) |
+| 2026-09-13 | 64 | XGsUMONaz9A | 8,459 | 15 | 14,327 | 0.59 | 5 | 0.71 | binh_thuong | – | Không | 25 CHEAP 1950s Dinners Every Grandma Made to Feed Her Family on a Budget |
+| 2026-09-14 | 63 | b8tgSYQr5uw | 3,049 | 15 | 14,327 | 0.21 | 5 | 0.78 | binh_thuong | – | Không | 25 Magnesium Rich Foods Grandmother Ate Daily — Number 1 Is Thrown Away Every October |
+| 2026-09-15 | 62 | wMvSjmLAtKk | 8,130 | 15 | 11,548 | 0.70 | 5 | 0.97 | binh_thuong | – | Không | More Omega-3 Than Salmon Per Leaf — Why Grandma Never Pulled This “Weed” |
+| 2026-09-16 | 61 | lYfXaWhK_JQ | 10,204 | 15 | 8,459 | 1.21 | 5 | 1.32 | binh_thuong | – | Không | 12 Old Sewing Machines Grandma Used That Worth BIG Money (How to Spot Them) |
+| 2026-09-17 | 60 | 2NuoZ65TNZ8 | 162,602 | 15 | 8,459 | 19.22 | 5 | 1.32 | can_kiem_ky | – | Không | 12 Old Cut Crystal Pieces That Worth A Fortune Today (You Might Own One) |
+| 2026-09-18 | 59 | _6PCbO8YDIg | 11,187 | 15 | 10,204 | 1.10 | 5 | 1.40 | binh_thuong | – | Không | 25 Freezer Hacks Grandma Used to Keep Groceries Fresh and Save Hundreds |
+| 2026-09-19 | 58 | wY3Y289i5-Q | 52,392 | 15 | 11,187 | 4.68 | 5 | 1.27 | dang_ghi | – | Không | 25 "WEIRD" Gardening Tricks from Grandma That Actually Work Better |
+| 2026-09-20 | 57 | 92YE81olfgw | 4,778 | 15 | 11,187 | 0.43 | 5 | 1.27 | binh_thuong | – | Không | 35 Home-Defense Tricks from Grandpa That Make $4,000 Security Systems Look Ridiculous |
+| 2026-09-21 | 56 | G2vNmJPzaC8 | 5,923 | 15 | 10,204 | 0.58 | 5 | 1.77 | binh_thuong | – | Không | EMERGENCY Heat Without Electricity! 25 Heating Sources Our Grandparents Used |
+| 2026-09-22 | 55 | K7_3pyoDBII | 14,253 | 15 | 8,459 | 1.68 | 5 | 2.78 | binh_thuong | – | Không | 12 Ugly Jewelry Pieces Grandma Owned That Are Secretly Worth A Fortune |
+| 2026-09-23 | 54 | odTSRuFn1sk | 18,069 | 15 | 8,459 | 2.14 | 5 | 3.09 | hoi_cao | – | Không | 15 Pantry Staples Grandma Buy in Bulk Before Winter, All Under $5 at Walmart |
+| 2026-09-24 | 53 | IX-OWsvGFMg | 26,167 | 15 | 8,459 | 3.09 | 5 | 4.90 | dang_ghi | – | Không | 12 Vintage CorningWare Dishes in Grandma's Kitchen Worth a Fortune Today |
+| 2026-09-25 | 52 | xBRL6Sb3VEA | 3,761 | 15 | 10,204 | 0.37 | 5 | 4.06 | binh_thuong | – | Không | Before Central Heating, How Did Our Grandparents Survive Freezing Winters? |
+| 2026-09-26 | 51 | cMsxZNfDgV8 | 23,516 | 15 | 10,204 | 2.30 | 5 | 4.06 | hoi_cao | – | Không | The "Infinite Food" System Our Grandparents Built in 1941 — Why Does Nobody Know About It Now? |
+| 2026-09-27 | 50 | 0hKaIIQwGdc | 90,582 | 15 | 10,204 | 8.88 | 5 | 1.77 | manh | – | Không | 25 Survival Gardening Tricks Grandparents Used From the 1950s That Still Work Today |
+| 2026-09-28 | 49 | ZjNvIokcGb0 | 41,470 | 15 | 11,187 | 3.71 | 5 | 1.62 | dang_ghi | – | Không | 15 Old Earrings Grandma Owned That Look Fake But Are Worth Thousands |
+| 2026-09-29 | 48 | HXc35bwbcyo | 165,546 | 15 | 14,253 | 11.61 | 5 | 1.27 | can_kiem_ky | – | Không | 17 Dollar Tree Heating Items That'll Be WORTH GOLD in Winter Blackout |
+| 2026-09-30 | 47 | I3OF8DX8ZNg | 9,834 | 15 | 18,069 | 0.54 | 5 | 1.00 | binh_thuong | – | Không | 35 Old CAST IRON SKILLET Tricks Grandma Used That Still Work Today |
+| 2026-10-01 | 46 | Gcg-BP5bjC8 | 18,078 | 15 | 18,069 | 1.00 | 5 | 1.44 | binh_thuong | – | Không | No Chemicals. No Fancy Tools. Grandma Still Grew More Food. Why Did We Stop Gardening This Way? |
+| 2026-10-02 | 45 | EhnVeMxoF5o | 3,458 | 15 | 18,078 | 0.19 | 5 | 1.44 | binh_thuong | – | Không | 20 Walmart Items Smart Preppers Are Quietly Buying in October (Most under $5) |
+| 2026-10-03 | 44 | I1tXarEM4LA | 25,973 | 15 | 18,069 | 1.44 | 5 | 0.79 | binh_thuong | – | Không | 15 Crops Everyone Can Still Plant in October You CANNOT Skip! |
+| 2026-10-04 | 43 | D_YLVcnmPbk | 26,806 | 15 | 18,078 | 1.48 | 5 | 0.48 | binh_thuong | – | Không | 25 Old Glass Pieces Grandma Owned That Are Secretly Worth Thousands Today |
+| 2026-10-05 | 42 | dJ7z3v5FlYg | 4,984 | 15 | 18,078 | 0.28 | 5 | 0.79 | binh_thuong | – | Không | 25 Forgotten Things Only Grandma Remembers About 1960s Department Stores |
+| 2026-10-06 | 41 | vLS7yIYB5tM | 189,925 | 15 | 18,078 | 10.51 | 5 | 0.79 | can_kiem_ky | – | Không | 25 VANISHED 1950s Accessories Every Woman Owned That Are Coming Back in Style |
+| 2026-10-07 | 40 | 7ZjzjChLDPg | 14,268 | 15 | 23,516 | 0.61 | 5 | 0.84 | binh_thuong | – | Không | 27 Money-Saving Tricks Grandma Used When Every Penny Mattered |
+| 2026-10-08 | 39 | eheHWFghVVE | 6,924 | 15 | 23,516 | 0.29 | 5 | 1.83 | binh_thuong | – | Không | Hydrogen Peroxide Kills Roaches, Ants and Mice, The $1 Bottle Exterminators Hide (Grandma's Old Way) |
+| 2026-10-09 | 38 | hqP6Z4eM1Cc | 8,704 | 15 | 23,516 | 0.37 | 5 | 1.83 | binh_thuong | – | Không | 25 Old Gardening Tricks from the 1940s Grandma Used Before Every Winter Hits |
+| 2026-10-10 | 37 | mgKjunZ7abY | 42,950 | 15 | 18,078 | 2.38 | 5 | 1.10 | hoi_cao | – | Không | 15 Cheap Dollar Tree Items That'll Be WORTH GOLD in Winter (Buy in Bulk Now) |
+| 2026-10-11 | 36 | TOBV7uGEzB8 | 19,810 | 15 | 23,516 | 0.84 | 5 | 4.44 | binh_thuong | – | Không | Taste Like Apple, Sweet as Honey. Grow Wild Without Care. Why Does Nobody Plant It? |
+| 2026-10-12 | 35 | Q8gOkHI8CrY | 104,394 | 15 | 19,810 | 5.27 | 5 | 1.20 | manh | – | Không | 25 Great Depression Winter Survival Tricks for Seniors Living Alone (That Cost Pennies!) |
+| 2026-10-13 | 34 | OkH3CHLYYr0 | 224,821 | 15 | 19,810 | 11.35 | 5 | 1.20 | can_kiem_ky | – | Không | 17 Dollar Tree Heating Items That'll Be WORTH GOLD in Every Winter Emergencies |
+| 2026-10-14 | 33 | JmbfGxhd32s | 13,813 | 15 | 19,810 | 0.70 | 5 | 1.20 | binh_thuong | – | Không | The TRUTH About Filling Raised Garden Beds With Logs - Old Grandma Tricks |
+| 2026-10-15 | 32 | 4X1eyodCzpA | 13,073 | 15 | 18,078 | 0.72 | 5 | 2.77 | binh_thuong | – | Không | 25 FORGOTTEN 1950s Makeup Tricks Only 2% of Women Still Remember |
+| 2026-10-16 | 31 | M2hn_48oQws | 116,178 | 15 | 18,078 | 6.43 | 5 | 1.32 | manh | – | Không | 25 Old-fashioned Gardening Tricks That Work Better Than ANYTHING You Can Buy Today |
+| 2026-10-17 | 30 | rxYrqbZ0JDc | 23,827 | 15 | 19,810 | 1.20 | 5 | 0.57 | binh_thuong | – | Không | Grow These 15 Crops for Fresh Vegetables All Winter Long |
+| 2026-10-19 | 28 | ys-Mlhi3vIM | 50,099 | 15 | 23,827 | 2.10 | 5 | 0.47 | chua_chin | – | Không | 25 Old Christmas Decorations That Are Secretly Worth A Fortune (Check Your Cabinet) |
+| 2026-10-20 | 27 | 8g1xcMLFZcA | 8,638 | 15 | 23,827 | 0.36 | 5 | 0.47 | chua_chin | – | Không | 25 Old-School Garden Tricks from the 1950s That Only 3% of People Still Use |
+| 2026-10-21 | 26 | FrAO1DgkZL0 | 287,609 | 15 | 19,810 | 14.52 | 5 | 0.57 | chua_chin | – | Không | 17 Cheap Tractor Supply Items That Smart Preppers Stockpile Before Anyone Else |
+| 2026-10-22 | 25 | i4iqEAk4VOY | 5,212 | 15 | 23,827 | 0.22 | 5 | 0.47 | chua_chin | – | Không | 13 Foods Quietly Disappearing Before November 1st (Preppers Are Buying Them FAST) |
+| 2026-10-23 | 24 | Ze7v58V8xwk | 11,231 | 15 | 19,810 | 0.57 | 5 | 0.56 | chua_chin | – | Không | 17 Survival Cooking Tricks Grandma Used When the Grid Goes Down |
+| 2026-10-24 | 23 | EdPLtWI4V9w | 101,687 | 15 | 19,810 | 5.13 | 5 | 0.56 | chua_chin | – | Không | 30 Cheap Winter Survival Tricks That Become WORTH GOLD When Your Furnace Dies |
+| 2026-10-25 | 22 | OTF97mw_N4Q | 10,884 | 15 | 23,827 | 0.46 | 5 | 0.55 | chua_chin | – | Không | 25 Forgotten Home Tools Grandma Used That Still Work When the Grid Dies |
+| 2026-10-26 | 21 | gfjEPJvY9dE | 34,178 | 15 | 23,827 | 1.43 | 5 | 0.55 | chua_chin | – | Không | Plant THIS Around Your House to Stop Mice Forever – Grandma’s Trick |
+| 2026-10-27 | 20 | nL7FhmK5awQ | 9,416 | 15 | 23,827 | 0.40 | 5 | 0.55 | chua_chin | – | Không | 25 Old Tricks Grandma Used to Keep the Bed Warm When the Furnace Quits |
+| 2026-10-28 | 19 | of8nGIG4Om8 | 11,099 | 15 | 23,827 | 0.47 | 5 | 0.55 | chua_chin | – | Không | Stop Wasting Food! 25 Freezer Hacks Grandma Used to Keep It Fresh All Winter |
+| 2026-10-29 | 18 | OCCgBxBMuE4 | 169,465 | 15 | 13,813 | 12.27 | 5 | 0.75 | chua_chin | – | Không | 20 Cheap Tractor Supply Items That Smart Preppers Stockpile Before the Next Blackout |
+| 2026-10-30 | 17 | vUH8iSmoXeo | 13,141 | 15 | 13,813 | 0.95 | 5 | 0.41 | chua_chin | – | Không | Grandma Put Foil on the Door Knob Every Night — A Retired Locksmith Explains Why |
+| 2026-10-31 | 16 | HC_wMlfjvDw | 54,471 | 15 | 13,141 | 4.15 | 5 | 0.43 | chua_chin | – | Không | 20 CHEAP Items at Harbor Freight That'll Be WORTH GOLD in a Winter Blackout |
+| 2026-11-01 | 15 | G_kMA1NEDI0 | 10,337 | 15 | 23,827 | 0.43 | 5 | 0.24 | chua_chin | – | Không | 25 VANISHED 1950s Fashion Pieces Every Woman Wore That Are Coming Back in Style |
+| 2026-11-02 | 14 | N4ve3PYjy5Q | 4,860 | 15 | 13,141 | 0.37 | 5 | 0.43 | chua_chin | – | Không | 25 FREE Garden Tricks from the 1950s That Work Better Than Modern Methods |
+| 2026-11-03 | 13 | VmlzM0PSpeA | 5,626 | 15 | 11,231 | 0.50 | 5 | 0.51 | chua_chin | – | Không | 15 Self-Defense Tools for Women at Dollar Tree That Feel Illegal to Own (But Aren't) |
+| 2026-11-04 | 12 | NhdNaRAaVDM | 5,532 | 15 | 11,099 | 0.50 | 5 | 0.54 | chua_chin | – | Không | 25 Strange Features Built Into Grandma Kitchens — And What They Were REALLY For |
+| 2026-11-05 | 11 | tt9hryWeksM | 57,290 | 15 | 11,099 | 5.16 | 5 | 0.51 | chua_chin | – | Không | 20 Cheap Items at Hobby Lobby Smart Preppers Stockpile Before a Winter Blackout |
+| 2026-11-07 | 9 | U9dlySgCz0I | 6,001 | 15 | 11,099 | 0.54 | 5 | 0.49 | chua_chin | – | Không | No Power for 3 Days? 25 Cheap Costco Items That Keep You Warm, Fed & Safe |
+| 2026-11-08 | 8 | 24L3RsIZZLo | 5,479 | 15 | 11,099 | 0.49 | 5 | 0.37 | chua_chin | – | Không | 20 Winter Clothing Tricks Grandma Used That Keep You Warmer Than Modern Heating |
+| 2026-11-09 | 7 | XA9BZlELz2k | 5,714 | 15 | 10,884 | 0.52 | 5 | 0.34 | chua_chin | – | Không | 25 Cheap Blackout Meals That Need No Stove, No Fridge & No Boiling Water |
+| 2026-11-10 | 6 | Phzz4nBt5t8 | 48,043 | 15 | 10,337 | 4.65 | 4 | – | chua_chin | – | Không | 15 Easy Blackout Shelters You Can Build in Your Home (Stay Warm for Days With No Heat) |
+| 2026-11-12 | 4 | TeppLokcJZY | 3,699 | 15 | 10,337 | 0.36 | 3 | – | chua_chin | – | Không | 25 Walmart Items That DISAPPEAR by Day 3 of Brutal Winter Blackout (Stockpile NOW) |
+| 2026-11-13 | 3 | 3Ul3-TfovXo | 4,135 | 15 | 9,416 | 0.44 | 2 | – | chua_chin | – | Không | 17 Things You MUST DO in the First Hour of  Winter Blackout (And 5 Mistakes to Avoid) |
+| 2026-11-14 | 2 | cIUohY8Urx4 | 3,097 | 15 | 6,001 | 0.52 | 1 | – | chua_chin | – | Không | 25 EASY Grandma's Thanksgiving Dishes You Can Make From Dollar Tree (On a $20 Budget) |
+| 2026-11-15 | 1 | blUOIiqN-ns | 290 | 15 | 5,714 | 0.05 | 0 | – | chua_chin | – | Không | 15 Crops EVERYONE Can Plant in November That NEVER Fail! |

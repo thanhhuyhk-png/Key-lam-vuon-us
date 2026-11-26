@@ -1,0 +1,76 @@
+# Đo kênh: UCatWmfMdNC_mElTaXSUkbXA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 35 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 35 |
+| n_trong_danh_sach | 34 |
+| n_dai | 34 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 665 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-21 |
+| n_ngoai_cua_so | 1 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 94.50 |
+| cao_nhat | 33,775 |
+| thap_nhat | 18 |
+| phan_tan | 357 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.14 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 1.22 |
+| ngay_video_dau | 2018-06-09 |
+| tuoi_tu_video_dau | 3,082 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 0.22 |
+| sub_moi_video | 19.00 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-04-21 | 209 | JL3XRncaFGI | 124 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Depression-Era Tricks That Helped Families Survive |
+| 2026-04-22 | 208 | egyGRJCdXz4 | 30 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Rugged Pioneer Habits That Would Save Your Life If Society Collapsed Tomorrow |
+| 2026-04-23 | 207 | RjdOF-SjcQ4 | 24 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Lost Appalachian Survival Secrets Passed Down Only by Word of Mouth |
+| 2026-04-24 | 206 | ua-32xqRMdY | 970 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Depression-Era Tricks the Government Doesn’t Want You Remembering |
+| 2026-04-25 | 205 | ZzsSe2AfALo | 38 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Things WWII Soldiers Taught Their Families Before They Left for War |
+| 2026-04-26 | 204 | A9T2jzc2qR8 | 264 | 5 | 38 | 6.95 | 5 | 3.82 | manh | – | Không | 25 “Illegal” Off-Grid Living Tricks Our Grandparents Used That Still Work Today |
+| 2026-04-27 | 203 | Nn4j15DjHsY | 145 | 6 | 81.00 | 1.79 | 5 | 0.94 | binh_thuong | – | Không | 25 Survival Skills Frontier Families Used That Nobody Teaches Anymore |
+| 2026-04-28 | 202 | -Ql1CF28kYg | 184 | 7 | 124 | 1.48 | 5 | 0.61 | binh_thuong | – | Không | 25 Old Homestead Skills Our Grandparents Used That Are Now Illegal in 47 States |
+| 2026-04-29 | 201 | Ydu3cQf-5U0 | 76 | 8 | 134 | 0.57 | 5 | 1.92 | binh_thuong | – | Không | 25 Forgotten Old West Survival Tricks That Would Save Your Life in a Blackout |
+| 2026-04-30 | 200 | lbmW-mzUg_8 | 275 | 9 | 124 | 2.22 | 5 | 0.77 | hoi_cao | – | Không | 20 Off-Grid Skills That Were Legal 50 Years Ago but Could Get You Fined Today |
+| 2026-05-01 | 199 | VaaiVv0un3Q | 51 | 10 | 134 | 0.38 | 5 | 1.92 | binh_thuong | – | Không | 20 Homestead Skills Your Great-Grandmother Knew by Age 12 (That Adults Can't Do Today) |
+| 2026-05-09 | 191 | JzoNYoK30U8 | 14 | 11 | 124 | 0.11 | 5 | 2.08 | binh_thuong | – | Không | 25 Lost Appalachian Survival Secrets Passed Down Only by Word of Mouth |
+| 2026-05-10 | 190 | 5942zfbq6jk | 258 | 12 | 100 | 2.58 | 5 | 1.31 | hoi_cao | – | Không | 20 Great Depression Hacks the Government Hopes Americans Never Remember |
+| 2026-05-11 | 189 | ic4xB-N-JMc | 1,849 | 13 | 124 | 14.91 | 5 | 1.06 | can_kiem_ky | – | Không | 20 Forbidden Self Reliance Skills Our Grandparents Used Weekly That Are Quietly Illegal Now |
+| 2026-05-12 | 188 | ceRt7Efr-2g | 95 | 14 | 134 | 0.71 | 5 | 0.97 | binh_thuong | – | Không | 20 Forgotten Survival Skills Every American Kid Learned Before Age 12 |
+| 2026-05-13 | 187 | mLxGTl8tZ9Q | 922 | 15 | 124 | 7.44 | 5 | 0.19 | manh | – | Không | 20 Lost American Homestead Skills That Vanished With the Greatest Generation |
+| 2026-05-14 | 186 | B67T5wADcck | 131 | 15 | 145 | 0.90 | 5 | 0.17 | binh_thuong | – | Không | 30 Forgotten Poor Man Pasta Dinners From the Great Depression No One Makes Anymore |
+| 2026-05-15 | 185 | x9Xd2X93f9A | 19 | 15 | 145 | 0.13 | 5 | 0.51 | binh_thuong | – | Không | 25 Forgotten Poor Man Casseroles From the 1950s Our Grandmas Swore By |
+| 2026-05-16 | 184 | TV0lTQASnEk | 664 | 15 | 145 | 4.58 | 5 | 0.21 | dang_ghi | – | Không | 25 Dirt-Cheap Ground Beef Meals Granddads Living Alone Swear By |
+| 2026-05-17 | 183 | 8lSol_XTyvU | 24 | 15 | 145 | 0.17 | 5 | 0.51 | binh_thuong | – | Không | 25 Forgotten Cowboy Breakfasts Ranch Hands ACTUALLY Ate Before Sunrise |
+| 2026-05-18 | 182 | NWrE8UfvAQc | 23 | 15 | 145 | 0.16 | 5 | 0.65 | binh_thuong | – | Không | 25 Forgotten Poor Man Canned Food Meals From WWII No One Remembers |
+| 2026-05-19 | 181 | FUcGHgckWls | 74 | 15 | 131 | 0.56 | 5 | 0.72 | binh_thuong | – | Không | 25 Forgotten Cowboy One-Pot Meals Seniors Living Alone Need to Remember |
+| 2026-05-20 | 180 | TG-S0bixdXE | 168 | 15 | 95 | 1.77 | 5 | 0.40 | binh_thuong | – | Không | 25 Hillbilly Food Hacks That Are Now Technically Illegal in Most States |
+| 2026-05-21 | 179 | 7bm17E8Ija0 | 31 | 15 | 95 | 0.33 | 5 | 0.99 | binh_thuong | – | Không | 25 "Illegal" Depression-Era Recipes the Government Hopes You Forget |
+| 2026-05-22 | 178 | NlgrOvTwD0k | 33,775 | 15 | 95 | 356 | 5 | 0.59 | can_kiem_ky | – | Không | 25 Forgotten 3-Ingredient Poor Man Suppers Seniors Living Alone Need to Remember |
+| 2026-05-23 | 177 | F7f9moc9de8 | 94 | 15 | 95 | 0.99 | 5 | 0.58 | binh_thuong | – | Không | 30 CHEAP Vintage Poor Man Breakfasts From the 1950s for Seniors Living Alone |
+| 2026-05-24 | 176 | IdR6VdNP-4o | 38 | 15 | 95 | 0.40 | 5 | 0.59 | binh_thuong | – | Không | 30 FORGOTTEN Poor Man Sandwiches From the 1970s No One Makes Anymore |
+| 2026-05-25 | 175 | vH7IRHD_wvQ | 18 | 15 | 95 | 0.19 | 5 | 1.18 | binh_thuong | – | Không | 25 Foods ACTUALLY Served on the Titanic the Night It Sank |
+| 2026-05-26 | 174 | YZY6s-JBsaI | 112 | 15 | 94 | 1.19 | 5 | 1.32 | binh_thuong | – | Không | 25 FORGOTTEN Cowboy ONE-POT MEALS for Seniors Living ALONE |
+| 2026-05-27 | 173 | xp5yL9vnt2Q | 56 | 15 | 94 | 0.60 | 4 | – | binh_thuong | – | Không | 25 Forgotten Poor Man Dinners Ready in 10 Minutes |
+| 2026-05-28 | 172 | iMUOvGkD964 | 55 | 15 | 74 | 0.74 | 3 | – | binh_thuong | – | Không | 25 Forgotten Campfire Meals Cowboys ACTUALLY Ate on the Trail |
+| 2026-05-29 | 171 | RMJeCCM8xqA | 124 | 15 | 56 | 2.21 | 2 | – | hoi_cao | – | Không | 25 FORGOTTEN Poor Man Breakfasts From the 1950s No One Makes Anymore |
+| 2026-05-30 | 170 | Kb2tf0IQJPk | 170 | 15 | 56 | 3.04 | 1 | – | dang_ghi | – | Không | 30 FORGOTTEN Poor Man Soups From the Great Depression for Seniors Living Alone |
+| 2026-05-31 | 169 | EG8dogYFqe8 | 698 | 15 | 74 | 9.43 | 0 | – | manh | – | Không | 30 FORGOTTEN Poor Man 3-Ingredient Meals Our Grandmas Swore By |

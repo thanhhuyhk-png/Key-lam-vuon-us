@@ -1,0 +1,150 @@
+# Đo kênh: UCSbyncU597LMwb3HhnAI_4w.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 843 |
+| n_trong_danh_sach | 115 |
+| n_dai | 100 |
+| n_short | 15 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 4,130,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-04-24 |
+| n_ngoai_cua_so | 16 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 161,607 |
+| cao_nhat | 1,631,105 |
+| thap_nhat | 49,484 |
+| phan_tan | 10.09 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.15 |
+| trung_vi_chia_sub | 0.04 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.25 |
+| ngay_video_dau | 2013-02-28 |
+| tuoi_tu_video_dau | 5,009 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 825 |
+| sub_moi_video | 4,899 |
+| video_30_ngay | 13 |
+| ty_trong_view_short | 0.19 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2013-02-28 | 5,009 | i3-9u-HtFG8 | 768,430 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Deep Water Culture (DWC) Hydroponics System Tutorial |
+| 2013-02-28 | 5,009 | YamKuTcQMJw | 433,397 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to Prepare Water for Hydroponics |
+| 2013-03-01 | 5,008 | sPsyxuXL2u4 | 120,480 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Can You Grow Hydroponic Onions? |
+| 2013-03-03 | 5,006 | NHjwfpHlTs0 | 39,115 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Building a Cheap Hydroponic Herb Garden |
+| 2013-05-13 | 4,935 | x8V6rBhEIr8 | 358,394 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Easy Seed Starting for Hydroponics |
+| 2013-05-16 | 4,932 | PrZsh9mUln0 | 44,622 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Germinating Seeds for Hydroponics |
+| 2013-05-18 | 4,930 | L0HskNtahUQ | 71,271 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Starting Seeds for Hydroponics: pH Water and Add Nutrients |
+| 2013-08-15 | 4,841 | HwmG3vDtU38 | 39,503 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Starting Seeds with LEDs: Good or Bad? |
+| 2025-04-24 | 571 | lwUGrL92HQo | 359,379 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Growing Beans Is So Easy, You'll Drown In The Harvests 🫘 |
+| 2025-04-29 | 566 | 3IG0qSABMuI | 156,321 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Choose the RIGHT Bagged Soil for Your Plants |
+| 2025-05-01 | 564 | M6ahP0Sh1ak | 264,474 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The 12 Best Crops to Plant in May ASAP! |
+| 2025-05-08 | 557 | sRUE1VUo0CA | 471,905 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Secret to Huge Strawberry Harvests in Containers 🍓🪴 |
+| 2025-05-12 | 553 | 8y0u32gUOYQ | 363,494 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How To Grow Hundreds of Pounds of Potatoes in Buckets |
+| 2025-05-16 | 549 | xt6AQucM0nY | 129,186 | 5 | 359,379 | 0.36 | 5 | 0.35 | binh_thuong | – | Không | Plant These 20 Crops With Your Tomatoes And Watch Them Explode |
+| 2025-05-22 | 543 | Ro-jnItbY1g | 74,921 | 6 | 311,926 | 0.24 | 5 | 0.75 | binh_thuong | – | Không | We Built the Ultimate Starter Garden and Smart Chicken Coop |
+| 2025-05-27 | 538 | 9th7-ee1MeM | 96,006 | 7 | 264,474 | 0.36 | 5 | 1.65 | binh_thuong | – | Không | 9 Citrus Trees That THRIVE in Cold Climates🍊❄️ |
+| 2025-05-29 | 536 | XUjQG0yjVV0 | 126,365 | 8 | 210,398 | 0.60 | 5 | 2.08 | binh_thuong | – | Không | Grow Your Own Mushrooms In a 5 Gallon Bucket (EASY) 🍄‍🟫🪣 |
+| 2025-05-31 | 534 | r8Y6Gs3c4N8 | 234,805 | 9 | 156,321 | 1.50 | 5 | 2.79 | binh_thuong | – | Không | 8 Crops You'd Be WILD Not To Plant in June! |
+| 2025-06-05 | 529 | wBlIaazbQ2U | 643,111 | 10 | 195,563 | 3.29 | 5 | 1.37 | dang_ghi | – | Không | We Grew Potatoes 8 Different Ways, Here's What Happened 🥔 |
+| 2025-06-07 | 527 | B8zUgffJAoQ | 1,683,487 | 11 | 234,805 | 7.17 | 5 | 0.82 | manh | – | Không | My Basil Pruning Trick for Bigger, Bushier Plants! 🪴 |
+| 2025-06-14 | 520 | _3QMrBsxJ08 | 436,657 | 12 | 249,640 | 1.75 | 5 | 0.44 | binh_thuong | – | Không | Grow Tomatoes Upside Down With This Simple Method 🍅 |
+| 2025-06-19 | 515 | wfYheTTnC7w | 104,442 | 13 | 264,474 | 0.39 | 5 | 0.54 | binh_thuong | – | Không | I Can't Believe We Harvested This From a Backyard... |
+| 2025-06-26 | 508 | A6XH-5DSilI | 191,752 | 14 | 249,640 | 0.77 | 5 | 0.58 | binh_thuong | – | Không | Watch This Before Growing Peppers 🌶️🔥 |
+| 2025-06-28 | 506 | BC3iU1f-Va8 | 267,668 | 15 | 234,805 | 1.14 | 5 | 0.61 | binh_thuong | – | Không | 11 Crops You Can STILL Plant in July 🌱 |
+| 2025-07-05 | 499 | 3F1pOhVRGS4 | 110,508 | 15 | 234,805 | 0.47 | 5 | 0.84 | binh_thuong | – | Không | 5 Fruits I'll Always Grow In My Garden 🍎 |
+| 2025-07-11 | 493 | TIaYP99MKFM | 95,878 | 15 | 234,805 | 0.41 | 5 | 0.86 | binh_thuong | – | Không | These Bad Bugs LOOK Like Good Bugs...Don't Get Them Confused! |
+| 2025-07-17 | 487 | f2WKGhxWbeE | 143,858 | 15 | 191,752 | 0.75 | 5 | 1.16 | binh_thuong | – | Không | Here’s How I Finally Got Melons Right |
+| 2025-07-19 | 485 | 54kVkJ9nTG0 | 595,361 | 15 | 143,858 | 4.14 | 5 | 1.55 | dang_ghi | – | Không | We Tested Pruning Peppers To See If It Doubled Our Harvests |
+| 2025-07-24 | 480 | 7emSoU8PvwU | 196,419 | 15 | 143,858 | 1.37 | 5 | 1.76 | binh_thuong | – | Không | Watch This Before Growing Grapes 🍇 |
+| 2025-07-26 | 478 | _r5LtLeBoHI | 222,354 | 15 | 191,752 | 1.16 | 5 | 1.32 | binh_thuong | – | Không | Here's How To Grow MASSIVE Pumpkins Before Halloween |
+| 2025-07-31 | 473 | yu0C5J6mrd4 | 201,212 | 15 | 196,419 | 1.02 | 5 | 1.29 | binh_thuong | – | Không | 11 Crops You Can  STILL Plant August! |
+| 2025-08-04 | 469 | 2TIY0Rvo3L4 | 253,027 | 15 | 201,212 | 1.26 | 5 | 1.66 | binh_thuong | – | Không | How to Grow Perfect Watermelons |
+| 2025-08-08 | 465 | kUqIbvgfIyI | 771,532 | 15 | 222,354 | 3.47 | 5 | 1.25 | dang_ghi | – | Không | We Grew Garlic 7 Different Ways, Here's What Happened 🧄 |
+| 2025-08-11 | 462 | tvt4N-u92W4 | 333,769 | 15 | 222,354 | 1.50 | 5 | 0.71 | binh_thuong | – | Không | The Weird Powdery Mildew Fix That Actually Works |
+| 2025-08-14 | 459 | MZcrRrvNKYo | 128,262 | 15 | 222,354 | 0.58 | 5 | 0.71 | binh_thuong | – | Không | Ice Cream Beans: The Underrated Tree You NEED to Grow🍦 |
+| 2025-08-21 | 452 | SQvrz98D-H0 | 66,622 | 15 | 201,212 | 0.33 | 5 | 0.78 | binh_thuong | – | Không | Easy Ways to Attract Birds to Your Garden |
+| 2025-08-25 | 448 | DIUm85x5q98 | 780,849 | 15 | 196,419 | 3.98 | 5 | 0.80 | dang_ghi | – | Không | Pro Gardener Reacts to Unconventional Gardening Hacks |
+| 2025-08-29 | 444 | npMOiJibzC4 | 278,717 | 15 | 201,212 | 1.39 | 5 | 0.57 | binh_thuong | – | Không | 19 Crops to Plant in September ASAP! |
+| 2025-09-02 | 440 | h_CudSWC3LU | 157,209 | 15 | 222,354 | 0.71 | 5 | 0.35 | binh_thuong | – | Không | Shade Cloth vs No Cloth: Which Harvest Was Better? |
+| 2025-09-04 | 438 | QKeEUHZzWvQ | 53,186 | 15 | 201,212 | 0.26 | 5 | 0.57 | binh_thuong | – | Không | We Buried Tacos Under Tomatoes, Here's What Happened |
+| 2025-09-13 | 429 | QVcWOwrz5JA | 77,267 | 15 | 201,212 | 0.38 | 5 | 0.57 | binh_thuong | – | Không | We Failed At Gardening... |
+| 2025-09-18 | 424 | VGZtKP1ZbNQ | 161,136 | 15 | 201,212 | 0.80 | 5 | 0.55 | binh_thuong | – | Không | Is Keeping Chickens Even Worth It? |
+| 2025-09-26 | 416 | CmeQejbnBF8 | 114,684 | 15 | 201,212 | 0.57 | 5 | 0.55 | binh_thuong | – | Không | 14 Crops You NEED To Start In October |
+| 2025-10-03 | 409 | Wf6TYKnPPFI | 78,141 | 15 | 196,419 | 0.40 | 5 | 0.56 | binh_thuong | – | Không | Her Garden Got Destroyed, So We Built Her a New One |
+| 2025-10-14 | 398 | IRhu5yeOCTs | 121,023 | 15 | 161,136 | 0.75 | 5 | 0.69 | binh_thuong | – | Không | Pro Gardeners React To Futuristic Gardening Hacks |
+| 2025-10-23 | 389 | PXvgj8EtIU0 | 95,227 | 15 | 157,209 | 0.61 | 5 | 1.45 | binh_thuong | – | Không | He Grows Some Of The Biggest Vegetables In The UK |
+| 2025-10-30 | 382 | k5Tr87Ys37k | 110,482 | 15 | 128,262 | 0.86 | 5 | 1.77 | binh_thuong | – | Không | 5 Common Garlic Planting Mistakes To Avoid! |
+| 2025-11-07 | 374 | jTgS4YTHbNY | 320,174 | 15 | 121,023 | 2.65 | 5 | 1.88 | hoi_cao | – | Không | Growing Pomegranates, the Fruit Of The Gods |
+| 2025-11-15 | 366 | czAllhISeQ8 | 77,941 | 15 | 121,023 | 0.64 | 5 | 2.13 | binh_thuong | – | Không | Revealing Our 22 NEW Seed Varieties for 2026! |
+| 2025-11-20 | 361 | 6pyxfHm3Zec | 1,048,422 | 15 | 114,684 | 9.14 | 5 | 1.98 | manh | – | Không | Grow These 29 Perennial Crops for Endless Harvests |
+| 2025-12-04 | 347 | yHP_rmRn9Dg | 227,204 | 15 | 114,684 | 1.98 | 5 | 2.25 | binh_thuong | – | Không | How to Prune Grapes The Right Way (COMPLETE GUIDE) |
+| 2025-12-10 | 341 | 3MTeMGm1XyY | 115,781 | 15 | 121,023 | 0.96 | 5 | 2.13 | binh_thuong | – | Không | Why Smart Gardeners Plant These 12 Crops in Winter |
+| 2025-12-18 | 333 | iJeTMPMtHZs | 257,901 | 15 | 115,781 | 2.23 | 5 | 1.49 | hoi_cao | – | Không | Watch This If You Want To Grow Your Own Food in 2026 |
+| 2026-01-08 | 312 | MCoFVXeptMA | 673,807 | 15 | 115,781 | 5.82 | 5 | 1.49 | manh | – | Không | I Left My Dream Homestead. |
+| 2026-01-13 | 307 | U3yp3NKteS0 | 143,046 | 15 | 115,781 | 1.24 | 5 | 1.49 | binh_thuong | – | Không | 15 Crops You Should Plant In Your 2026 Garden |
+| 2026-01-20 | 300 | TJavOgZsa5s | 354,430 | 15 | 121,023 | 2.93 | 5 | 1.43 | hoi_cao | – | Không | We Tested Every Carrot Germination Trick (One Blew Us Away) |
+| 2026-01-29 | 291 | z2hdcDsl-o0 | 149,293 | 15 | 143,046 | 1.04 | 5 | 1.42 | binh_thuong | – | Không | 14 Crops To Start Planting In February |
+| 2026-02-05 | 284 | KnxIIaQJMcA | 172,705 | 15 | 143,046 | 1.21 | 5 | 1.70 | binh_thuong | – | Không | Watch This Before You Start Seeds |
+| 2026-02-12 | 277 | mK_cFMMeW8M | 942,035 | 15 | 149,293 | 6.31 | 5 | 1.36 | manh | – | Không | 20 Years of Gardening Knowledge in 44 Minutes |
+| 2026-02-14 | 275 | sICQRt-3u44 | 73,997 | 15 | 172,705 | 0.43 | 5 | 1.40 | binh_thuong | – | Không | Growing Spinach, the Cold-Loving SUPER Green |
+| 2026-02-19 | 270 | q9QTNK6PLms | 242,602 | 15 | 172,705 | 1.40 | 5 | 1.17 | binh_thuong | – | Không | Professional Gardeners React to Viral Seed Starting Hacks |
+| 2026-02-24 | 265 | 5ZGJfIKmWpM | 202,757 | 15 | 227,204 | 0.89 | 5 | 1.04 | binh_thuong | – | Không | Pro Gardeners Answer Seed Starting Questions! |
+| 2026-02-28 | 261 | u8sRxVwgdbI | 434,944 | 15 | 227,204 | 1.91 | 5 | 0.66 | binh_thuong | – | Không | 9 Proven Ways to Boost Your Soil Health |
+| 2026-03-03 | 258 | TWLMDt8x5X8 | 151,031 | 15 | 227,204 | 0.66 | 5 | 0.73 | binh_thuong | – | Không | 16 Crops to Plant in March ASAP! |
+| 2026-03-07 | 254 | aZMMhW9B-uA | 292,834 | 15 | 227,204 | 1.29 | 5 | 0.48 | binh_thuong | – | Không | How To Start Seeds Indoors Under Lights (COMPLETE GUIDE) |
+| 2026-03-12 | 249 | 5XXwMdPRhbw | 73,966 | 15 | 227,204 | 0.33 | 5 | 0.48 | binh_thuong | – | Không | 21 Tomatoes We're Planting This Year |
+| 2026-03-19 | 242 | 1MMw7_MsYeQ | 237,324 | 15 | 202,757 | 1.17 | 5 | 0.54 | binh_thuong | – | Không | I Grew Sweet Potatoes 3 Different Ways, Here's What Happened |
+| 2026-03-26 | 235 | 82Fmaph238k | 76,588 | 15 | 237,324 | 0.32 | 5 | 0.70 | binh_thuong | – | Không | How to Prune Pomegranate Trees for BIG Harvests |
+| 2026-03-31 | 230 | szNVCNrDLms | 165,254 | 15 | 202,757 | 0.82 | 5 | 0.54 | binh_thuong | – | Không | 16 Crops You NEED To Start In April |
+| 2026-04-09 | 221 | L4Khuw2wlJY | 109,578 | 15 | 172,705 | 0.63 | 5 | 0.85 | binh_thuong | – | Không | Stop Believing These 7 Backyard Chicken Myths |
+| 2026-04-11 | 219 | DupREIsRriA | 48,079 | 15 | 172,705 | 0.28 | 5 | 1.07 | binh_thuong | – | Không | How to Grow Perfect Parsnips, from Seed to Harvest |
+| 2026-04-16 | 214 | ocE1Z_HEklc | 185,422 | 15 | 165,254 | 1.12 | 5 | 0.89 | binh_thuong | – | Không | 9 Flowers EVERY Vegetable Gardener Should Grow (And Why) |
+| 2026-04-18 | 212 | CVP9oeAqdy8 | 287,263 | 15 | 172,705 | 1.66 | 5 | 0.85 | binh_thuong | – | Không | He Grows 90% of His Groceries For a Family of 6 |
+| 2026-04-23 | 207 | KA98NTKzuOg | 72,837 | 15 | 185,422 | 0.39 | 5 | 0.92 | binh_thuong | – | Không | Turning a Dirt Lot Into a Suburban Homestead in 6 Years \| Full Tour |
+| 2026-04-26 | 204 | nFJD7Z8Kzj4 | 147,426 | 15 | 165,254 | 0.89 | 5 | 1.13 | binh_thuong | – | Không | 13 Crops You Can Start In May RIGHT NOW! |
+| 2026-05-02 | 198 | qEFTRCVEYLk | 186,464 | 15 | 165,254 | 1.13 | 5 | 1.03 | binh_thuong | – | Không | 7 Things Smart Gardeners Do That Beginners Don't |
+| 2026-05-09 | 191 | TS640LNpDgk | 101,694 | 15 | 165,254 | 0.62 | 5 | 1.14 | binh_thuong | – | Không | We Rebuilt His Garden, He Has 30 Days To Keep It Alive |
+| 2026-05-16 | 184 | fcwb46Rj7bY | 170,267 | 15 | 151,031 | 1.13 | 5 | 1.25 | binh_thuong | – | Không | We Tried The Viral Seed Snail Technique & This Happened |
+| 2026-05-25 | 175 | uyGWCC3iO1Y | 259,643 | 15 | 151,031 | 1.72 | 5 | 0.88 | binh_thuong | – | Không | Pro Gardeners Expose The Truth Behind Viral Garden Hacks |
+| 2026-05-28 | 172 | YyLpQkkzIho | 188,706 | 15 | 165,254 | 1.14 | 5 | 0.81 | binh_thuong | – | Không | 16 Crops You Should Plant In June ASAP |
+| 2026-06-06 | 163 | RY2oY2tsj-M | 69,304 | 15 | 165,254 | 0.42 | 5 | 1.16 | binh_thuong | – | Không | We Gave Our Team Member a Garden Makeover |
+| 2026-06-13 | 156 | SkGUjkUllwo | 254,856 | 15 | 165,254 | 1.54 | 5 | 0.81 | binh_thuong | – | Không | Growing Moringa: The Best Tree You've Never Heard Of |
+| 2026-06-20 | 149 | fwMdk2r8d_w | 133,240 | 15 | 165,254 | 0.81 | 5 | 1.05 | binh_thuong | – | Không | The Fastest Crops You Can Grow (Seed to Plate in WEEKS) |
+| 2026-06-28 | 141 | 65Op9LiVTBE | 133,434 | 15 | 165,254 | 0.81 | 5 | 1.05 | binh_thuong | – | Không | 12 Crops You Can STILL Start In July RIGHT NOW! |
+| 2026-07-05 | 134 | rjX-FLw2WMk | 202,644 | 15 | 147,426 | 1.37 | 5 | 0.94 | binh_thuong | – | Không | Exactly How Much To Plant for a Family of 4 |
+| 2026-07-13 | 126 | lOURyxDWywU | 190,968 | 15 | 170,267 | 1.12 | 5 | 0.81 | binh_thuong | – | Không | Finally, A Better Irrigation System For Raised Beds |
+| 2026-07-21 | 118 | G7xFh0ZS7WI | 74,024 | 15 | 185,422 | 0.40 | 5 | 0.75 | binh_thuong | – | Không | We Tried The Laziest Potato-Growing Method & This Happened |
+| 2026-07-26 | 113 | 5XDrNB93EnQ | 173,031 | 15 | 170,267 | 1.02 | 5 | 0.81 | binh_thuong | – | Không | Inside The Epic Scale of Obama's Presidential Garden |
+| 2026-07-30 | 109 | KQEWKULNd98 | 139,266 | 15 | 170,267 | 0.82 | 5 | 0.49 | binh_thuong | – | Không | 17 Crops You NEED To Start in August |
+| 2026-08-01 | 107 | BO7e53AsP0o | 53,084 | 15 | 170,267 | 0.31 | 5 | 0.81 | binh_thuong | – | Không | How Organic Rice Is Grown \| Grow & Tell |
+| 2026-08-07 | 101 | HBFNA-Evkag | 138,655 | 15 | 170,267 | 0.81 | 5 | 0.95 | binh_thuong | – | Không | How To Grow PERFECT Citrus In Containers |
+| 2026-08-11 | 97 | z1PaYI_FkFU | 82,869 | 15 | 139,266 | 0.60 | 5 | 1.32 | binh_thuong | – | Không | From Bare Yard to THRIVING Garden in 30 Days \| Epic Garden Makeover |
+| 2026-08-14 | 94 | W7H7qkg-pQ0 | 1,631,105 | 15 | 139,266 | 11.71 | 5 | 1.17 | can_kiem_ky | – | Không | I Bought Weird Seeds From eBay and Grew Them |
+| 2026-08-20 | 88 | gFpFNLmnO_Y | 49,484 | 15 | 139,266 | 0.36 | 5 | 1.17 | binh_thuong | – | Không | How Green Tea Is Made \| Grow & Tell |
+| 2026-08-27 | 81 | CuUdvxsPzIU | 162,477 | 15 | 138,655 | 1.17 | 5 | 1.33 | binh_thuong | – | Không | 12 Crops You Can STILL Plant in September |
+| 2026-09-03 | 74 | 5_sFgFsI_LQ | 200,842 | 15 | 138,655 | 1.45 | 5 | 1.16 | binh_thuong | – | Không | The Only Soil Video You Ever Need To Watch |
+| 2026-09-05 | 72 | slumMBWuOc0 | 184,113 | 15 | 139,266 | 1.32 | 5 | 1.15 | binh_thuong | – | Không | The Easiest Ways To Make Compost FASTER |
+| 2026-09-12 | 65 | Csr1CkiUoaY | 130,377 | 15 | 139,266 | 0.94 | 5 | 1.58 | binh_thuong | – | Không | Growing Peas, from Seed to Harvest (FULL GROW GUIDE) |
+| 2026-09-18 | 59 | HdgKWKLNSMY | 160,737 | 15 | 139,266 | 1.15 | 5 | 1.58 | binh_thuong | – | Không | Gardeners React to YOUR Garden Disasters |
+| 2026-09-21 | 56 | sx8p1eVHRHQ | 449,035 | 15 | 160,737 | 2.79 | 5 | 1.37 | hoi_cao | – | Không | These Grow Bag Mistakes Will Cost You Your Harvest |
+| 2026-09-26 | 51 | mkA-AAJRIcM | 141,241 | 15 | 160,737 | 0.88 | 5 | 1.37 | binh_thuong | – | Không | 8 Crops You Should Plant in October ASAP |
+| 2026-10-02 | 45 | CVYYgYozf4A | 1,240,936 | 15 | 141,241 | 8.79 | 5 | 0.76 | manh | – | Không | The TRUTH About Filling Raised Garden Beds With Logs... |
+| 2026-10-08 | 39 | FKUzerUq8j4 | 219,724 | 15 | 160,737 | 1.37 | 5 | 0.64 | binh_thuong | – | Không | 9 Easy Veggies To Plant In Fall And FORGET All Winter |
+| 2026-10-15 | 32 | 3qz37Rv5Gis | 87,916 | 15 | 160,737 | 0.55 | 4 | – | binh_thuong | – | Không | Pro Gardeners React To Ancient Gardening Tools |
+| 2026-10-22 | 25 | yfmbwps8Kms | 355,069 | 15 | 160,737 | 2.21 | 3 | – | chua_chin | – | Không | 5 Perennials That Pay You Back In ONE Season |
+| 2026-10-29 | 18 | A85r_SISIDA | 107,365 | 15 | 162,477 | 0.66 | 2 | – | chua_chin | – | Không | Get Rid Of Root-Knot Nematodes For Good |
+| 2026-10-31 | 16 | Dt8QsnkpStg | 102,776 | 15 | 162,477 | 0.63 | 1 | – | chua_chin | – | Không | Everything You Can Bury Under Crops Ranked |
+| 2026-11-13 | 3 | GfKTi_tIJL0 | 99,340 | 15 | 162,477 | 0.61 | 0 | – | chua_chin | – | Không | I Grew Tomatoes and Potatoes on the Same Plant |

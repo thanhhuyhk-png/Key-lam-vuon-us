@@ -1,0 +1,66 @@
+# Đo kênh: UCKi43IgdJt3nfLdg7ENJSqQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 24 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 24 |
+| n_trong_danh_sach | 24 |
+| n_dai | 24 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 3,850 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-05-01 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 420 |
+| cao_nhat | 76,046 |
+| thap_nhat | 109 |
+| phan_tan | 181 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.11 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 0.33 |
+| ngay_video_dau | 2026-05-01 |
+| tuoi_tu_video_dau | 199 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 19.35 |
+| sub_moi_video | 160 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-05-01 | 199 | 1GJO14DqXAA | 3,029 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 BANNED Amish Food Preservation Tricks Modern Scientists Now Say Were Actually Genius |
+| 2026-05-03 | 197 | QnQoXgCnhKg | 1,444 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Forgotten Amish Funeral Foods That Grieving Communities ACTUALLY Made to Feed Each Other |
+| 2026-05-05 | 195 | IjQwyvvwZKc | 83,430 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Forget Sourdough. This Amish Bread Has 3x More Good Bacteria - And Never Goes Bad |
+| 2026-05-07 | 193 | mhlvE6arMJI | 1,454 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Amish Bread God Designed to Heal You - Proverbs Knew This Long Before Modern Medicine Did |
+| 2026-05-13 | 187 | -X_C6SIbrfg | 919 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Forgotten Amish Winter Suppers That Kept Families Full for Months - Nobody Makes Them Anymore |
+| 2026-05-15 | 185 | cDgtV2lgkgk | 10,964 | 5 | 1,454 | 7.54 | 5 | 0.22 | manh | – | Không | 20 Forgotten Amish Canning Recipes Grandma Took to Her Grave |
+| 2026-05-19 | 181 | x-pU0WDkLy4 | 801 | 6 | 2,242 | 0.36 | 5 | 0.14 | binh_thuong | – | Không | 20 Forgotten Amish Desserts Your Plain Country Grandma Made From Scratch |
+| 2026-05-21 | 179 | oEyS8y8cuA0 | 316 | 7 | 1,454 | 0.22 | 5 | 0.48 | binh_thuong | – | Không | Forget Bone Broth. This Amish Soup Has 5x More Nutrients - And Kept Families Strong All Winter |
+| 2026-05-23 | 177 | 79onriDEam8 | 109 | 8 | 1,449 | 0.08 | 5 | 0.48 | binh_thuong | – | Không | Forget Tupperware. This Amish Preservation Method Keeps Food Fresh 10x Longer - And Costs Nothing |
+| 2026-05-27 | 173 | IU_4Y6gk9GU | 239 | 9 | 1,444 | 0.17 | 5 | 0.48 | binh_thuong | – | Không | Forget Butter. This Amish Spread Has 3x More Flavor - And Keeps for 6 Months Without a Fridge |
+| 2026-05-28 | 172 | q7EBr4jcPmg | 54,433 | 10 | 1,182 | 46.07 | 5 | 0.54 | can_kiem_ky | – | Không | Forget Kombucha. This Amish Fermented Drink Has 4x More Live Cultures - And Is Cheap To Make |
+| 2026-05-30 | 170 | 3gfsmiwikZ0 | 727 | 11 | 1,444 | 0.50 | 5 | 0.44 | binh_thuong | – | Không | Forget Kefir. This Amish Cultured Milk Fixed Gut Problems Since the 1800s - And Science Agrees |
+| 2026-06-01 | 168 | 4VCo5rUo9P0 | 696 | 12 | 1,182 | 0.59 | 5 | 0.54 | binh_thuong | – | Không | Forget Greek Yogurt. This Amish Farmer's Cheese Has 3x More Protein - Grandma Made It in 20 Minutes |
+| 2026-06-02 | 167 | p3jSFFMulUc | 640 | 13 | 919 | 0.70 | 5 | 0.33 | binh_thuong | – | Không | Forget Apple Cider Vinegar. This Amish Tonic Was Their Daily Medicine — And Doctors Are Noticing |
+| 2026-06-03 | 166 | 602A0W79zEo | 174 | 14 | 860 | 0.20 | 5 | 0.35 | binh_thuong | – | Không | Forget Collagen Supplements. Amish Bone Broth Extracts 6x More Nutrients - Around for 200 Years |
+| 2026-06-04 | 165 | NbN7JKAbvmU | 299 | 15 | 801 | 0.37 | 5 | 0.34 | binh_thuong | – | Không | 20 Forgotten Amish Cold Remedies That Worked Before Anyone Sold You a Pill for It |
+| 2026-06-05 | 164 | pmnI52sDKT0 | 7,120 | 15 | 727 | 9.79 | 5 | 0.28 | manh | – | Không | Forget Probiotics. This Amish Fermented Brine Has 20x More Live Cultures. And Costs Almost Nothing |
+| 2026-06-08 | 161 | a_h6JOEJmJY | 76,046 | 15 | 727 | 105 | 5 | 0.28 | can_kiem_ky | – | Không | Forget Overnight Oats. The Amish Fermented Theirs Overnight for 3x More Zinc and Magnesium |
+| 2026-06-09 | 160 | 1fiisUzq07o | 201 | 15 | 727 | 0.28 | 5 | 0.28 | binh_thuong | – | Không | Forget Vegetable Oil. This Amish Rendered Fat Was Demonized for 50 Years. Researchers Disagree Now |
+| 2026-06-10 | 159 | 8fOuSnrBqvQ | 120 | 15 | 696 | 0.17 | 4 | – | binh_thuong | – | Không | 25 FORGOTTEN Amish Sunday Suppers Plain Families Made That Have Completely Disappeared |
+| 2026-06-11 | 158 | hwPTdU0ZUBg | 271 | 15 | 640 | 0.42 | 3 | – | binh_thuong | – | Không | 25 CHEAP Amish 3-Ingredient Dinners for Seniors Living Alone That Cost Pennies |
+| 2026-06-13 | 156 | _kp1pNhIOcg | 204 | 15 | 316 | 0.65 | 2 | – | binh_thuong | – | Không | 25 BANNED Amish Kitchen Habits Doctors Now Admit Were Actually Healthier Than Modern Cooking |
+| 2026-06-13 | 156 | yuZFwLtGUv4 | 203 | 15 | 299 | 0.68 | 1 | – | binh_thuong | – | Không | 25 Genius Amish Grandma Tricks That Stretched One Chicken Into a Week of Meals |
+| 2026-06-14 | 155 | JERbHIk7R7Q | 524 | 15 | 271 | 1.93 | 0 | – | binh_thuong | – | Không | 25 FORGOTTEN Amish Breakfasts From the 1950s That Kept Plain Families Working All Day |

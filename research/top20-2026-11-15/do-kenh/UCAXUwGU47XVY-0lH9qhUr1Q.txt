@@ -1,0 +1,150 @@
+# Đo kênh: UCAXUwGU47XVY-0lH9qhUr1Q.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 1,093 |
+| n_trong_danh_sach | 115 |
+| n_dai | 100 |
+| n_short | 15 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 1,200,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-12-08 |
+| n_ngoai_cua_so | 16 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 153,548 |
+| cao_nhat | 829,054 |
+| thap_nhat | 18,272 |
+| phan_tan | 5.40 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.13 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 0.87 |
+| ngay_video_dau | 2018-03-11 |
+| tuoi_tu_video_dau | 3,172 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 378 |
+| sub_moi_video | 1,098 |
+| video_30_ngay | 8 |
+| ty_trong_view_short | 0.02 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2018-03-11 | 3,172 | 2MvXpSvcGv4 | 2,982 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Tomato and Pepper Varieties for My 2018 Garden |
+| 2018-03-11 | 3,172 | r__HDoRFWHg | 9,008 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Planting Dwarf Tomatoes In Containers |
+| 2018-03-13 | 3,170 | hbrKJYwYYgQ | 5,265 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Prepping Containers for Container Gardening |
+| 2018-03-18 | 3,165 | V6Hc5Z75sUo | 54,087 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How To Grow Tomatoes In Containers |
+| 2018-03-23 | 3,160 | tRPZ040TRDI | 10,624 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How To Grow Determinate Tomatoes |
+| 2018-03-29 | 3,154 | B7zClIyuhvc | 8,318 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How To Separate Seedlings Safely Without Damaging The Roots |
+| 2018-04-09 | 3,143 | 0Gw2VXcFxwU | 1,607 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to Grow Lettuce All Season Long: The Eternal Lettuce Harvest! |
+| 2018-04-15 | 3,137 | Tg-pb6RvUgM | 20,266 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Growing Potato Plants In Containers From Grocery Store Potatoes |
+| 2025-12-08 | 343 | d_x454Fd0XQ | 139,074 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | STOP Planting These 5 AWFUL Vegetables Immediately! |
+| 2025-12-12 | 339 | 7SJem0sQbhM | 20,190 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Are Flat Free Tires A SCAM? An Honest Review |
+| 2025-12-15 | 336 | 94zuBG7jclo | 23,318 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | A Smarter Way To Plant In Raised Garden Beds |
+| 2025-12-19 | 332 | fhlbG5B-HxQ | 337,245 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | I Made A DUMB Mistake Planting Asparagus: Do THIS Instead |
+| 2025-12-22 | 329 | ey797wQerZo | 74,137 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Major Homestead Update: An Exciting New Chapter Begins! |
+| 2025-12-26 | 325 | Ep-7S0EO5dQ | 45,895 | 5 | 74,137 | 0.62 | 5 | 0.69 | binh_thuong | – | Không | This is Why Grocery Store Produce Tastes SO BAD. |
+| 2025-12-29 | 322 | V7GerBWMdK4 | 138,294 | 6 | 60,016 | 2.30 | 5 | 0.86 | hoi_cao | – | Không | DON'T WAIT! Plant These 50 Awesome Crops In JANUARY NOW! |
+| 2026-01-02 | 318 | egkb5Ifm2t4 | 31,643 | 7 | 74,137 | 0.43 | 5 | 0.82 | binh_thuong | – | Không | How to Buy Fertilizer and SAVE: Don't Fall for Marketing Tricks |
+| 2026-01-05 | 315 | 4mEEQ7iDraY | 51,425 | 8 | 60,016 | 0.86 | 5 | 1.32 | binh_thuong | – | Không | WARNING: These Mistakes Will RUIN Your Garden! |
+| 2026-01-07 | 313 | y5SIZYBMhho | 31,195 | 9 | 51,425 | 0.61 | 5 | 2.15 | binh_thuong | – | Không | It Happened! |
+| 2026-01-09 | 311 | A_GnOUAXd70 | 79,212 | 10 | 48,660 | 1.63 | 5 | 2.27 | binh_thuong | – | Không | 12 Insanely COLD HARDY CITRUS You REALLY CAN Grow In Ground! |
+| 2026-01-12 | 308 | TEW5Jckef88 | 60,783 | 11 | 51,425 | 1.18 | 5 | 2.15 | binh_thuong | – | Không | Outdoor Potting Mix Is NOT SAFE To Start Seeds. STOP Using It! |
+| 2026-01-16 | 304 | 0v2XILREqvg | 309,287 | 12 | 56,104 | 5.51 | 5 | 1.54 | manh | – | Không | BIG FRUIT, Small Yard: 6 Tiny Fruit Trees For HUGE Harvests! |
+| 2026-01-19 | 301 | Nl0c4MlMn4A | 110,500 | 13 | 60,783 | 1.82 | 5 | 1.42 | binh_thuong | – | Không | Unlock MASSIVE Tomato Harvests: 6 New Bulletproof Varieties! |
+| 2026-01-23 | 297 | KRPkVOM2ldo | 205,660 | 14 | 67,460 | 3.05 | 5 | 1.17 | dang_ghi | – | Không | 4 Reasons I'm NOT Gardening In 2026 |
+| 2026-01-26 | 294 | UQLlEKMTxw0 | 78,687 | 15 | 74,137 | 1.06 | 5 | 1.01 | binh_thuong | – | Không | The 5 Most Productive Veggies You MUST Grow In 2026! |
+| 2026-01-30 | 290 | QGXqNkuD0O4 | 86,240 | 15 | 74,137 | 1.16 | 5 | 0.84 | binh_thuong | – | Không | DON'T WAIT! Plant These 55 Crops In FEBRUARY Right Now! |
+| 2026-02-02 | 287 | fdYucAUnIw8 | 62,020 | 15 | 78,687 | 0.79 | 5 | 0.75 | binh_thuong | – | Không | How To INSTANTLY Ruin Your Garden |
+| 2026-02-06 | 283 | HiCda10pACo | 103,946 | 15 | 78,687 | 1.32 | 5 | 0.75 | binh_thuong | – | Không | These FREE Containers Are Your Garden's New BEST FRIEND! |
+| 2026-02-09 | 280 | 4TZkwBmLle4 | 74,978 | 15 | 78,687 | 0.95 | 5 | 0.75 | binh_thuong | – | Không | 5 Tricks To Make Your Garden EXPLODE This Year! |
+| 2026-02-13 | 276 | 55mHqUaCu5k | 15,032 | 15 | 78,687 | 0.19 | 5 | 1.87 | binh_thuong | – | Không | What Happens When You Re-Graft A Dead Fruit Tree? |
+| 2026-02-16 | 273 | DjdGZ8m7orw | 58,885 | 15 | 78,687 | 0.75 | 5 | 1.87 | binh_thuong | – | Không | These Plants DON'T NEED Fertilizer! Lazy Gardening On A Budget |
+| 2026-02-20 | 269 | TBUBSiQIbEw | 50,621 | 15 | 74,978 | 0.68 | 5 | 1.96 | binh_thuong | – | Không | We Got CRUSHED! |
+| 2026-02-23 | 266 | T7j3q1tS5kE | 523,470 | 15 | 74,978 | 6.98 | 5 | 1.33 | manh | – | Không | The Soil Mix Slowly POISONING Your Garden Beds |
+| 2026-02-27 | 262 | UWHEYq4b02Q | 146,901 | 15 | 78,687 | 1.87 | 5 | 1.26 | binh_thuong | – | Không | Plant This In March NOW, Or Regret It Later! |
+| 2026-03-02 | 259 | ffdn5tlrOgo | 259,665 | 15 | 79,212 | 3.28 | 5 | 1.25 | dang_ghi | – | Không | Add THIS To Your Soil NOW For EXTREME Production! |
+| 2026-03-06 | 255 | MiJkCiFcEHg | 98,932 | 15 | 86,240 | 1.15 | 5 | 0.66 | binh_thuong | – | Không | DO NOT Plant Cucumbers, Squash Or Melons BEFORE Watching This! |
+| 2026-03-09 | 252 | XQP1fpTzBgw | 99,392 | 15 | 98,932 | 1.00 | 5 | 0.57 | binh_thuong | – | Không | Stop KILLING Your Seedlings: Fix These Mistakes NOW! |
+| 2026-03-13 | 248 | rGugkJ9Oe-E | 56,505 | 15 | 98,932 | 0.57 | 5 | 1.30 | binh_thuong | – | Không | This New Way To Start Seeds Makes Transplanting EASY! |
+| 2026-03-16 | 245 | yTzT48UP8Hc | 28,430 | 15 | 86,240 | 0.33 | 5 | 1.49 | binh_thuong | – | Không | The Pruning Mistake Millions Make Every Year [And How To Fix It] |
+| 2026-03-20 | 241 | 0X-gnELD0Wo | 142,416 | 15 | 78,687 | 1.81 | 5 | 1.63 | binh_thuong | – | Không | How to Prune FIG TREES for Small Size and MAXIMUM Production! |
+| 2026-03-23 | 238 | XOwc3faLgmQ | 46,637 | 15 | 86,240 | 0.54 | 5 | 2.23 | binh_thuong | – | Không | 8 Rare and Exciting Veggies That Bring Fun Back to Gardening! |
+| 2026-03-27 | 234 | Pl4r6nGFJuc | 280,102 | 15 | 74,978 | 3.74 | 5 | 1.71 | dang_ghi | – | Không | Transplant Tomatoes Like This For MORE Fruit And FASTER Growth! |
+| 2026-03-30 | 231 | fOGINGvCzxk | 128,428 | 15 | 98,932 | 1.30 | 5 | 1.24 | binh_thuong | – | Không | Plant This in April NOW, or You’ll Regret It! |
+| 2026-04-03 | 227 | 2ZrdVkluZLQ | 109,634 | 15 | 98,932 | 1.11 | 5 | 1.24 | binh_thuong | – | Không | 10 Things I WISH They Told Me About WEED BARRIER! |
+| 2026-04-06 | 224 | Bl5yWkUqm-w | 200,367 | 15 | 99,392 | 2.02 | 5 | 0.94 | hoi_cao | – | Không | Gardening In GROW BAGS Is So EASY It's Like Cheating! |
+| 2026-04-10 | 220 | soQa3-z6V5I | 192,037 | 15 | 109,634 | 1.75 | 5 | 0.80 | binh_thuong | – | Không | The $5 DIY Irrigation Grid Your Raised Garden Beds Need! |
+| 2026-04-13 | 217 | -kr5Li-MPTY | 41,358 | 15 | 128,428 | 0.32 | 5 | 0.73 | binh_thuong | – | Không | Tell Your HOA to POUND SAND and Plant These 5 SECRET Fruit Trees! |
+| 2026-04-17 | 213 | UeSwFY7skDc | 122,998 | 15 | 128,428 | 0.96 | 5 | 0.73 | binh_thuong | – | Không | 2 SECRET FERTILIZERS For Record Breaking Veggie Harvests! |
+| 2026-04-20 | 210 | fPo7lS5qpQA | 26,307 | 15 | 122,998 | 0.21 | 5 | 0.76 | binh_thuong | – | Không | How to Grow a FREE Garden in a Cardboard Box Raised Bed! |
+| 2026-04-24 | 206 | e2ykM-e9JQ4 | 93,136 | 15 | 109,634 | 0.85 | 5 | 1.06 | binh_thuong | – | Không | 10 Awesome Crops You Should Plant in May RIGHT NOW! |
+| 2026-04-27 | 203 | K6SbfbI6-5g | 88,098 | 15 | 99,392 | 0.89 | 5 | 1.36 | binh_thuong | – | Không | Garden Catastrophe! The Watering Mistake That Will RUIN Your Year! |
+| 2026-05-01 | 199 | 478cnL8y_Y0 | 135,399 | 15 | 99,392 | 1.36 | 5 | 1.17 | binh_thuong | – | Không | You're Using Mulch WRONG: 5 Errors That Will Wreck Your Garden! |
+| 2026-05-04 | 196 | h8pXcu2f-Wc | 116,390 | 15 | 109,634 | 1.06 | 5 | 1.54 | binh_thuong | – | Không | These Powerful Plants STOP Garden Pests Without Harsh Chemicals! |
+| 2026-05-08 | 192 | Q_QLiRJ4xhM | 54,033 | 15 | 116,390 | 0.46 | 5 | 1.45 | binh_thuong | – | Không | Don't Lose Your Plants! Do THIS and STOP Diseases Before They Start |
+| 2026-05-11 | 189 | 4J_8Eq8n5hg | 186,822 | 15 | 116,390 | 1.61 | 5 | 1.45 | binh_thuong | – | Không | Ranking Every Compost From BEST to WORST [2 Were AWFUL!] |
+| 2026-05-15 | 185 | LR_rZQHNnio | 318,491 | 15 | 116,390 | 2.74 | 5 | 1.07 | hoi_cao | – | Không | STOP REMOVING TOMATO SUCKERS!!! It's Killing Your Tomato Plants |
+| 2026-05-18 | 182 | kVJdj8IHVLg | 94,462 | 15 | 122,998 | 0.77 | 5 | 1.37 | binh_thuong | – | Không | The ONLY Way You'll Grow Onions From Now On: INSANE Harvests! |
+| 2026-05-22 | 178 | NLq3j6NMeHU | 168,629 | 15 | 116,390 | 1.45 | 5 | 1.07 | binh_thuong | – | Không | Saying GOODBYE to My Old Garden: I'm DONE Gardening Outdoors! |
+| 2026-05-25 | 175 | DHlR-kufBDk | 69,260 | 15 | 116,390 | 0.60 | 5 | 1.87 | binh_thuong | – | Không | 5 EASY Plants Make New Gardeners Feel Like Pros [You'll LOVE Them!] |
+| 2026-05-29 | 171 | wlo4iumZUJU | 217,724 | 15 | 116,390 | 1.87 | 5 | 1.07 | binh_thuong | – | Không | 5 Crops You'll SERIOUSLY Regret Not Planting in June! |
+| 2026-06-01 | 168 | N5dlvDBgDqw | 124,249 | 15 | 116,390 | 1.07 | 5 | 0.70 | binh_thuong | – | Không | This BS Fertilizing Scam Is Out of Control!! |
+| 2026-06-05 | 164 | n05nCktWSWE | 323,243 | 15 | 116,390 | 2.78 | 5 | 0.70 | hoi_cao | – | Không | Do This NOW and Your Peppers Will NEVER STOP Producing! |
+| 2026-06-08 | 161 | mUR-By36Vr0 | 64,900 | 15 | 122,998 | 0.53 | 5 | 0.78 | binh_thuong | – | Không | Weirdly Brilliant Ways to Grow Vegetables WITHOUT a Garden or Yard! |
+| 2026-06-12 | 157 | VEFvkqvpPnY | 368,643 | 15 | 116,390 | 3.17 | 5 | 0.83 | dang_ghi | – | Không | Do This NOW For ENDLESS Cucumbers: It's Like Magic! |
+| 2026-06-15 | 154 | -IR90ifIJHI | 34,712 | 15 | 124,249 | 0.28 | 5 | 0.78 | binh_thuong | – | Không | How to FERTIGATE: Easy INSTANT Fertilizing With a Fertilizer Injector! |
+| 2026-06-19 | 150 | gU-KQ0PKnDw | 81,806 | 15 | 124,249 | 0.66 | 5 | 0.78 | binh_thuong | – | Không | Spray This to INSTANTLY Stop Cucumber Beetles and Squash Bugs! |
+| 2026-06-22 | 147 | mi7CU2B2fJc | 118,637 | 15 | 124,249 | 0.95 | 5 | 0.70 | binh_thuong | – | Không | Do This NOW and Your Tomato Plants Will LOVE You! |
+| 2026-06-26 | 143 | H0cNxz3lhAA | 96,304 | 15 | 118,637 | 0.81 | 5 | 0.52 | binh_thuong | – | Không | My Garden is RUINING My Life! |
+| 2026-06-29 | 140 | v3whRWh44RM | 856,786 | 15 | 118,637 | 7.22 | 5 | 0.52 | manh | – | Không | 5 Crops You'll DEEPLY Regret Not Planting in July! |
+| 2026-07-03 | 136 | iaBQBapX7ek | 44,564 | 15 | 124,249 | 0.36 | 5 | 0.56 | binh_thuong | – | Không | HEAT WAVE Survival Guide: Save Your Garden NOW Before It's Too Late! |
+| 2026-07-06 | 133 | l9cQMrL0R4c | 55,135 | 15 | 118,637 | 0.46 | 5 | 0.73 | binh_thuong | – | Không | 6 GIGANTIC Tomatoes With OFF THE CHARTS Production! |
+| 2026-07-10 | 129 | UM4LUC59aUw | 86,675 | 15 | 96,304 | 0.90 | 5 | 0.73 | binh_thuong | – | Không | Your Zucchini Plants Will FAIL Unless You STOP Doing This! |
+| 2026-07-13 | 126 | n6TxsahD-sk | 61,886 | 15 | 96,304 | 0.64 | 5 | 1.06 | binh_thuong | – | Không | This Year Nearly Broke Me, but My Garden Is UNSTOPPABLE! |
+| 2026-07-17 | 122 | gefwE8CjIG0 | 102,460 | 15 | 86,675 | 1.18 | 5 | 1.74 | binh_thuong | – | Không | I Haven’t Been Honest With You All... |
+| 2026-07-20 | 119 | JwXiKVVmR3U | 70,019 | 15 | 96,304 | 0.73 | 5 | 1.57 | binh_thuong | – | Không | You'll DEEPLY Regret Not Starting These Fall Crops in Late Summer NOW! |
+| 2026-07-24 | 115 | cHnrn8jXWg8 | 218,612 | 15 | 86,675 | 2.52 | 5 | 1.74 | hoi_cao | – | Không | These Forgotten Fruits Provide 6 MONTHS of NONSTOP Harvests! |
+| 2026-07-27 | 112 | tqvxmXzXZ-U | 40,079 | 15 | 86,675 | 0.46 | 5 | 1.74 | binh_thuong | – | Không | I QUIT! The Garden Mistake You'll QUICKLY Regret |
+| 2026-07-31 | 108 | ieBE2sgMS6k | 361,534 | 15 | 81,806 | 4.42 | 5 | 1.10 | dang_ghi | – | Không | 5 Crops You'll Hate NOT Planting in August! |
+| 2026-08-03 | 105 | LOhfmQ26ySI | 151,235 | 15 | 86,675 | 1.74 | 5 | 1.03 | binh_thuong | – | Không | This is Why Your Tomatoes AREN'T Turning Red [FIX THIS!] |
+| 2026-08-07 | 101 | oBqXCJT2J3U | 71,831 | 15 | 86,675 | 0.83 | 5 | 1.03 | binh_thuong | – | Không | 5 URGENT August Garden Tasks Every Gardener Must Do NOW! |
+| 2026-08-10 | 98 | UonJqGJRYwg | 766,745 | 15 | 86,675 | 8.85 | 5 | 1.03 | manh | – | Không | America's Lost Fruit Tree Will Be Your New OBSESSION! |
+| 2026-08-14 | 94 | WGXXNin2WZQ | 89,603 | 15 | 96,304 | 0.93 | 5 | 2.24 | binh_thuong | – | Không | My Container Garden FAILED! 4 STUPID Mistakes I Made |
+| 2026-08-17 | 91 | nK4_Tb7FMH0 | 59,601 | 15 | 89,603 | 0.67 | 5 | 2.41 | binh_thuong | – | Không | This is Why Your Tomato Plants Are DYING Too Soon [FIX THIS!] |
+| 2026-08-21 | 87 | hctdRhxOzzI | 216,085 | 15 | 86,675 | 2.49 | 5 | 7.38 | hoi_cao | – | Không | 3 Fruit Trees You'll Be ADDICTED to Collecting! |
+| 2026-08-24 | 84 | RKwwqV_p5B4 | 64,492 | 15 | 86,675 | 0.74 | 5 | 7.38 | binh_thuong | – | Không | Stop Worms and Caterpillars FAST With This Organic Spray! |
+| 2026-08-28 | 80 | xQgG-cYQkSU | 829,054 | 15 | 86,675 | 9.57 | 5 | 4.85 | manh | – | Không | 5 Crops EVERYONE Can Plant in September You'll HATE Skipping! |
+| 2026-08-31 | 77 | fFogKH-a6hE | 640,072 | 15 | 89,603 | 7.14 | 5 | 1.39 | manh | – | Không | $1 vs $30 Garlic: How to Grow INFINITE Garlic for Nearly FREE! |
+| 2026-09-04 | 73 | dOx-DosPJ1E | 124,352 | 15 | 102,460 | 1.21 | 5 | 1.78 | binh_thuong | – | Không | 5 September Gardening Secrets for MASSIVE Harvests, EVERYWHERE! |
+| 2026-09-07 | 70 | OX2toqeTSk0 | 654,829 | 15 | 124,352 | 5.27 | 5 | 1.47 | manh | – | Không | How is the CHEAPEST Wood Chipper SO GOOD? Endless FREE Mulch is Here! |
+| 2026-09-11 | 66 | v1DDQUXCHM8 | 420,361 | 15 | 151,235 | 2.78 | 5 | 1.21 | hoi_cao | – | Không | I Tried EVERY Hot Pepper in My Garden and Almost DIED! |
+| 2026-09-14 | 63 | poz3035mzGE | 100,779 | 15 | 216,085 | 0.47 | 5 | 0.85 | binh_thuong | – | Không | 1 Easy System for YEAR ROUND Gardening in ANY Zone That Really Works! |
+| 2026-09-18 | 59 | TDjnd58A3Ec | 71,594 | 15 | 151,235 | 0.47 | 5 | 1.21 | binh_thuong | – | Không | How to Plant BRASSICAS for 6 MONTHS of Nonstop Harvests! |
+| 2026-09-21 | 56 | wIJZnJCCYOE | 182,743 | 15 | 151,235 | 1.21 | 5 | 1.36 | binh_thuong | – | Không | 7 Plants You Can Dig Up and Overwinter RIGHT NOW! |
+| 2026-09-25 | 52 | oznVX7Zl76Q | 206,110 | 15 | 151,235 | 1.36 | 5 | 1.67 | binh_thuong | – | Không | Another Year WASTED on Bad Advice From Outdated Garden Experts! |
+| 2026-09-28 | 49 | zUPAJmoKJoQ | 460,865 | 15 | 182,743 | 2.52 | 5 | 0.61 | hoi_cao | – | Không | 5 Crops EVERYONE Can STILL Plant in October You CANNOT Skip! |
+| 2026-10-02 | 45 | wTfMzuj2z0c | 111,094 | 15 | 206,110 | 0.54 | 5 | 0.55 | binh_thuong | – | Không | My LAST Garden Tour! |
+| 2026-10-05 | 42 | _sr0TYv_VQc | 35,164 | 15 | 182,743 | 0.19 | 5 | 0.62 | binh_thuong | – | Không | 3 INVINCIBLE Squash Plants You Will FALL IN LOVE With! |
+| 2026-10-09 | 38 | EoovaKQb1kg | 301,255 | 15 | 182,743 | 1.65 | 5 | 0.62 | binh_thuong | – | Không | This Innocent Looking Tree Will DESTROY All Your Persimmons! |
+| 2026-10-12 | 35 | GFN7M0cAs3o | 252,730 | 15 | 206,110 | 1.23 | 5 | 0.35 | binh_thuong | – | Không | 5 Crops That Are a WASTE OF TIME [Grow THIS Instead!] |
+| 2026-10-14 | 33 | GUmvL7s6b2w | 18,272 | 15 | 206,110 | 0.09 | 5 | 0.55 | binh_thuong | – | Không | The ULTIMATE Crop Variety Database: I Need YOUR Reviews! |
+| 2026-10-16 | 31 | -gXt_9uJATs | 113,635 | 15 | 206,110 | 0.55 | 5 | 1.31 | binh_thuong | – | Không | The BIG Reason Healthy Gardeners NEVER Wear Garden Gloves! |
+| 2026-10-19 | 28 | yasMj4j0za8 | 40,012 | 15 | 182,743 | 0.22 | 5 | 1.48 | chua_chin | – | Không | How Gardening Can Help Heal an Illness and Recover Faster |
+| 2026-10-23 | 24 | dKgChJ33yIE | 414,233 | 15 | 124,352 | 3.33 | 5 | 0.60 | chua_chin | – | Không | 5 Smart Ways to Turn LEAVES into Endless FREE Compost! |
+| 2026-10-26 | 21 | MrOqdvjwlF0 | 71,719 | 15 | 182,743 | 0.39 | 5 | 1.18 | chua_chin | – | Không | 5 Tricks Keep Container Gardens Warm for NONSTOP Growth ALL Winter! |
+| 2026-10-30 | 17 | Qr6BuPZhNIk | 640,518 | 15 | 113,635 | 5.64 | 4 | – | chua_chin | – | Không | 5 Crops EVERYONE Can Plant in November That NEVER Fail! |
+| 2026-11-02 | 14 | qI99Qxa0H4U | 270,487 | 15 | 113,635 | 2.38 | 3 | – | chua_chin | – | Không | 3 Things Your Tired Soil DESPERATELY Needs This Winter! |
+| 2026-11-06 | 10 | ZlnmwExSCE8 | 46,780 | 15 | 182,743 | 0.26 | 2 | – | chua_chin | – | Không | 3 SPECTACULAR Fruit Trees for Nonstop Harvests ALL WINTER! |
+| 2026-11-09 | 7 | qhtiwHsmh-o | 74,203 | 15 | 182,743 | 0.41 | 1 | – | chua_chin | – | Không | The Most HATED Cold Hardy Crops That Are Actually AMAZING! |
+| 2026-11-13 | 3 | W4KBb8MGORE | 214,992 | 15 | 113,635 | 1.89 | 0 | – | chua_chin | – | Không | The Toxic Mulch Slowly POISONING Your Soil! |

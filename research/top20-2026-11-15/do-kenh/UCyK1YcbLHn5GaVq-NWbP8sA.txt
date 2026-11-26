@@ -1,0 +1,44 @@
+# Đo kênh: UCyK1YcbLHn5GaVq-NWbP8sA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 2 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 2 |
+| n_trong_danh_sach | 2 |
+| n_dai | 2 |
+| n_short | 0 |
+| n_dai_dung_tinh | 2 |
+| nguong_tuoi_video | 30 |
+| subs | 3,420 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-07-19 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | – |
+| cao_nhat | – |
+| thap_nhat | – |
+| phan_tan | – |
+| so_video_tren_2x | – |
+| ty_le_tren_2x | – |
+| trung_vi_chia_sub | – |
+| ty_le_like_trung_vi | – |
+| da_trung_vi | – |
+| ngay_video_dau | 2026-07-19 |
+| tuoi_tu_video_dau | 120 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 28.50 |
+| sub_moi_video | 1,710 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** KHONG_DU_VIDEO_DAI_DU_30_NGAY, IT_VIDEO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-07-19 | 120 | IGRj8IMA5Gc | 13,434 | 0 | – | – | 1 | – | – | it_hon_5_video_truoc | Không | 15 Perennial Container Vegetables You Plant Once and Harvest for Years |
+| 2026-07-21 | 118 | ftVQ3nVAbio | 139,837 | 1 | – | – | 0 | – | – | it_hon_5_video_truoc | Không | 15 Vegetables You Should Plant in August ASAP — Do It Now! |

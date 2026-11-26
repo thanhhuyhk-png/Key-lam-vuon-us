@@ -1,0 +1,150 @@
+# Đo kênh: UCAYbhNuk7YEZsq1ZgyjIxsA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 155 |
+| n_trong_danh_sach | 122 |
+| n_dai | 100 |
+| n_short | 22 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 297,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2021-08-17 |
+| n_ngoai_cua_so | 9 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 57,399 |
+| cao_nhat | 132,629 |
+| thap_nhat | 32,829 |
+| phan_tan | 2.31 |
+| so_video_tren_2x | 2 |
+| ty_le_tren_2x | 0.10 |
+| trung_vi_chia_sub | 0.19 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 0.79 |
+| ngay_video_dau | 2019-12-20 |
+| tuoi_tu_video_dau | 2,523 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 118 |
+| sub_moi_video | 1,916 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.07 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2019-12-20 | 2,523 | 9wPFVWVSrcA | 1,245 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 5 Ways to Decorate a Home With Plants |
+| 2020-05-28 | 2,363 | uT-rZi4Im50 | 3,017 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Beginner's Guide to Houseplants |
+| 2020-06-03 | 2,357 | rTLdd51dRxk | 426,728 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Tomato Gardening\| How to prune and stake your tomato plants for optimal growth. |
+| 2020-06-07 | 2,353 | MoNY9BiDQF8 | 2,217,194 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Prune zucchini and squash plants for MAXIMUM production\| Promotes new growth and prevents disease |
+| 2020-06-15 | 2,345 | n6UdLaUsSis | 19,280 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Keep Your Hanging Baskets Blooming All Summer Long\| 3 Tips |
+| 2020-07-07 | 2,323 | NYmmW6-AXkw | 322,434 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to grow watermelons and cantaloupes in raised beds |
+| 2020-07-19 | 2,311 | tLikEwD6imI | 4,663 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Part 2 \|Keep Your Hanging Baskets Blooming All Summer Long\| Follow Up Video |
+| 2020-08-15 | 2,284 | 4ABizVrIGzA | 9,801 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Do You Know When Watermelons Are Ripe? \|Cantaloupes included as well\| |
+| 2021-08-17 | 1,917 | qCR751ehxxQ | 70,139 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Propagate String of Pearls \|Simple and Easy\| |
+| 2021-08-19 | 1,915 | o12Vf7J89KA | 50,795 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Nursery Tour \|Shrubs and Trees You Need to Know About\| |
+| 2021-08-27 | 1,907 | dikdwgjSC48 | 431,143 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Propagate Hydrangeas \|Simple Way to Get Cuttings to Root Faster\| |
+| 2021-09-08 | 1,895 | xNXGP_EtCik | 353,262 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Top 5 Shrubs for Shade \|S&K Greenhouse\| |
+| 2021-09-20 | 1,883 | khONBO14cqM | 664,832 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Foundational Plants \|Low Maintenance Shrubs\| |
+| 2021-09-22 | 1,881 | Br3JcUBm0lo | 132,664 | 5 | 353,262 | 0.38 | 5 | 0.13 | binh_thuong | – | Không | GARDEN TOUR: This Couple Was Brand New to Gardening! |
+| 2021-10-06 | 1,867 | cjdzVBTvIjA | 5,522 | 6 | 242,963 | 0.02 | 5 | 0.19 | binh_thuong | – | Không | Planting Long Lasting Fall Containers 🍂🍁 |
+| 2021-10-28 | 1,845 | yi6xKErFms4 | 148,638 | 7 | 132,664 | 1.12 | 5 | 0.17 | binh_thuong | – | Không | How to Landscape the Front of Your House \|Part 1\| |
+| 2021-11-04 | 1,838 | -cIfQUK7aIA | 434,509 | 8 | 140,651 | 3.09 | 5 | 0.14 | dang_ghi | – | Không | How to Repot a Meyer Lemon Tree \|Plus Organic Care Tips\| |
+| 2021-11-06 | 1,836 | fUG_TxlDrgc | 6,626 | 9 | 148,638 | 0.04 | 5 | 0.13 | binh_thuong | – | Không | Overwintering Pepper Plants \|Start Out With Mature Plants Next Year!\| |
+| 2021-12-07 | 1,805 | PChxCWothtU | 46,303 | 10 | 140,651 | 0.33 | 5 | 0.14 | binh_thuong | – | Không | How to Landscape Your House Pt. 2 \|The Shady Side of the House\| |
+| 2022-01-26 | 1,755 | TUm5vq4eB2I | 19,056 | 11 | 132,664 | 0.14 | 5 | 0.17 | binh_thuong | – | Không | 5 Common Calathea Culprits \|How to Solve Them With Ease\| |
+| 2022-04-14 | 1,677 | xkZXpGMB5rU | 22,517 | 12 | 101,402 | 0.22 | 5 | 0.40 | binh_thuong | – | Không | Planting a Small Walkway Using Petite Shrubs |
+| 2022-04-28 | 1,663 | WC0CFXsJgvQ | 6,177 | 13 | 70,139 | 0.09 | 5 | 2.02 | binh_thuong | – | Không | New Greenhouse! \|Here's What's Happening Around the Nursery\| |
+| 2022-05-26 | 1,635 | j6oAm_gtVV8 | 7,093 | 14 | 60,467 | 0.12 | 5 | 2.34 | binh_thuong | – | Không | Overwintering Pepper Plants Pt. 2 \|The Results May Surprise You!\| |
+| 2022-06-01 | 1,629 | wFxCA8JLmnU | 141,366 | 15 | 50,795 | 2.78 | 5 | 2.15 | hoi_cao | – | Không | How To Stop Blossom End Rot On Tomatoes \|5 Simple Tips\| |
+| 2022-06-02 | 1,628 | DS-8eKQ_-o0 | 40,073 | 15 | 50,795 | 0.79 | 5 | 5.07 | binh_thuong | – | Không | Easily Change the Color of Your Hydrangea Blooms |
+| 2022-06-09 | 1,621 | iYtg1spF3j8 | 382,504 | 15 | 46,303 | 8.26 | 5 | 4.00 | manh | – | Không | 5 MAJOR Benefits of Training Squash and Zucchini Vertically\| I'll Never Go Back!\| |
+| 2022-06-13 | 1,617 | LAW7P4U8cz8 | 257,744 | 15 | 46,303 | 5.57 | 5 | 2.36 | manh | – | Không | How to STOP the Squash Vine Borer! \|This Actually Works\| |
+| 2022-06-20 | 1,610 | l2oVYuzBrmM | 109,435 | 15 | 46,303 | 2.36 | 5 | 4.00 | hoi_cao | – | Không | How to Grow TONS of Cucumbers With Just a Few Plants! \|Maximize Your Harvest\| |
+| 2022-06-23 | 1,607 | 7FC56dR02FQ | 27,969 | 15 | 46,303 | 0.60 | 5 | 4.00 | binh_thuong | – | Không | 3 Ways to Produce More Peppers 🌶️ \|Double Flower Production and Receive a Killer Harvest\| |
+| 2022-07-05 | 1,595 | 9y02ukBirmQ | 721,356 | 15 | 40,073 | 18.00 | 5 | 4.63 | can_kiem_ky | – | Không | 7 Mistakes to AVOID When Growing Tomatoes \|Are You Guilty of These?\| |
+| 2022-07-14 | 1,586 | G9MKNkzMgF4 | 185,419 | 15 | 46,303 | 4.00 | 5 | 0.83 | dang_ghi | – | Không | How to Grow Blueberries in Pots \|Simple and Easy Care Tips\| |
+| 2022-07-25 | 1,575 | 4Fih9yZMmEU | 17,341 | 15 | 46,303 | 0.37 | 5 | 14.12 | binh_thuong | – | Không | Shocking Raised Bed Harvest! \|I Had to Taste Everything 🍉🥒🌶️\| |
+| 2022-08-08 | 1,561 | w33c3vkLzj8 | 653,973 | 15 | 40,073 | 16.32 | 5 | 2.86 | can_kiem_ky | – | Không | Breathtaking Garden Tour \|Learn the Secrets From an Expert Gardener!\| |
+| 2022-08-18 | 1,551 | JgWH2HQrxN8 | 38,385 | 15 | 46,303 | 0.83 | 5 | 2.47 | binh_thuong | – | Không | 7 Vegetables to Plant Now (August) for Fall Harvest! |
+| 2022-08-24 | 1,545 | k3Ohp4jxhhQ | 1,818,407 | 15 | 40,073 | 45.38 | 5 | 2.86 | can_kiem_ky | – | Không | Low Maintenance and Easy Shrubs to Grow Around Your Home! |
+| 2022-09-08 | 1,530 | Twv7ymgZjwY | 9,397 | 15 | 109,435 | 0.09 | 5 | 1.05 | binh_thuong | – | Không | 8 Easy Vegetables to Grow this Fall 🥦 \|Save $ on Your Grocery Bill!\| |
+| 2022-09-15 | 1,523 | _taBmwyRSyc | 802,423 | 15 | 109,435 | 7.33 | 5 | 1.05 | manh | – | Không | How to Propagate any Plant \|Multiply Your Plants for Free!\| |
+| 2022-09-21 | 1,517 | I3-85Mwcx3c | 114,596 | 15 | 141,366 | 0.81 | 5 | 1.64 | binh_thuong | – | Không | Conifer and Evergreen Tour! \|Conifers that Grow In the South🌲\| |
+| 2022-09-29 | 1,509 | 3k8GTOurNfk | 92,560 | 15 | 141,366 | 0.65 | 5 | 1.64 | binh_thuong | – | Không | How to Grow Shrubs in Containers \|7 Pro Tips\| |
+| 2022-10-06 | 1,502 | gx64LaDiNMY | 651,243 | 15 | 114,596 | 5.68 | 5 | 0.93 | manh | – | Không | Top 5 Privacy Screen Trees \|Grow a Living Fence\| |
+| 2022-10-19 | 1,489 | Vlyyi2TXxIY | 26,686 | 15 | 185,419 | 0.14 | 5 | 0.57 | binh_thuong | – | Không | Spectacular Garden Tour \|Transitioning From Summer to Fall\| |
+| 2022-10-25 | 1,483 | 0JP9oliJZxs | 231,589 | 15 | 114,596 | 2.02 | 5 | 0.46 | hoi_cao | – | Không | How to Harvest and Cook Collard Greens \|Make ANYONE Love Collards!\| |
+| 2022-11-01 | 1,476 | 656L1yW4_pw | 537,464 | 15 | 114,596 | 4.69 | 5 | 0.46 | dang_ghi | – | Không | How to Grow Huge Broccoli Crowns 🥦 \|3 Easy-To-Follow Tips\| |
+| 2022-11-07 | 1,470 | i__0Oe8RGk4 | 106,543 | 15 | 185,419 | 0.57 | 5 | 0.28 | binh_thuong | – | Không | How to Harvest Broccoli 🥦\|Avoid These 3 Costly Mistakes!\| |
+| 2022-11-14 | 1,463 | o8RuKAvUdcs | 52,778 | 15 | 185,419 | 0.28 | 5 | 0.23 | binh_thuong | – | Không | The Most UNDERRATED Perennial for Shade! |
+| 2022-11-22 | 1,455 | fh1ETVFrqgw | 15,142 | 15 | 114,596 | 0.13 | 5 | 0.37 | binh_thuong | – | Không | 1,000,000,000 lbs. Wasted Annually! \|STOP Throwing Away Free Fertilizer!\| |
+| 2022-12-06 | 1,441 | weLLTh7xMkg | 9,012 | 15 | 106,543 | 0.08 | 5 | 0.40 | binh_thuong | – | Không | Do This NOW to Your Garden and Watch Your Plants EXPLODE Next Spring!!! |
+| 2022-12-19 | 1,428 | kou0kWx8btQ | 333,885 | 15 | 106,543 | 3.13 | 5 | 0.40 | dang_ghi | – | Không | Low Maintenance Evergreen Shrubs to Grow Around Your Home! |
+| 2022-12-21 | 1,426 | jN34JnTzjX8 | 491,085 | 15 | 106,543 | 4.61 | 5 | 0.40 | dang_ghi | – | Không | How to Make Your Christmas Cactus Bloom! 🌵\|Care and Propagation Tips!\| |
+| 2023-02-14 | 1,371 | 8jKfkusi-vQ | 42,945 | 15 | 114,596 | 0.37 | 5 | 0.40 | binh_thuong | – | Không | 4 Reasons to Eat Broccoli Leaves \|I Can't STOP Eating Them Now!\| |
+| 2023-02-23 | 1,362 | VEiOI2rS6_k | 20,071 | 15 | 106,543 | 0.19 | 5 | 0.64 | binh_thuong | – | Không | Starting Seeds and Planning Your Spring Garden! 🥒🌶️🌽🥕 |
+| 2023-03-14 | 1,343 | nP8VEt7j9E8 | 24,501 | 15 | 106,543 | 0.23 | 5 | 1.54 | binh_thuong | – | Không | 5 Fruit Bearing Plants Worth Growing Around Your Home! |
+| 2023-03-27 | 1,330 | MNaOYg4LXXU | 67,747 | 15 | 92,560 | 0.73 | 5 | 2.27 | binh_thuong | – | Không | Phenomenal Conifer Tour! \|Evergreens and Conifers That Grow in the South\| |
+| 2023-05-23 | 1,273 | hMHoY9Zx5_U | 45,371 | 15 | 67,747 | 0.67 | 5 | 3.36 | binh_thuong | – | Không | Crucial Planting Tips for a Successful Raised Bed Garden! |
+| 2023-05-31 | 1,265 | UHlkQSjXEM8 | 227,668 | 15 | 52,778 | 4.31 | 5 | 4.15 | dang_ghi | – | Không | Garden Center Tour \|Awe-Inspiring Plant Ideas!\| |
+| 2023-06-15 | 1,250 | wEB6-Ncfn-w | 209,753 | 15 | 52,778 | 3.97 | 5 | 5.21 | dang_ghi | – | Không | Top 7 Deer Resistant Perennials! |
+| 2023-06-20 | 1,245 | Fe1L8fCMDoU | 163,576 | 15 | 67,747 | 2.41 | 5 | 4.06 | hoi_cao | – | Không | Easily Propagate Tomatoes 🍅 \|3 Simple Steps\| |
+| 2023-07-06 | 1,229 | YDfljxfVxKY | 543,099 | 15 | 67,747 | 8.02 | 5 | 3.23 | manh | – | Không | BEST Way to Grow Sweet Potatoes from Store Bought Potatoes \|Complete Guide!\| |
+| 2023-07-31 | 1,204 | ze6rBcfiuWw | 530,552 | 15 | 67,747 | 7.83 | 5 | 3.23 | manh | – | Không | Magical Garden Tour! Journey Through this Mind-blowing Yard! |
+| 2023-08-14 | 1,190 | HdPuPgMzEK0 | 218,993 | 15 | 67,747 | 3.23 | 5 | 1.63 | dang_ghi | – | Không | Jaw-Dropping Garden Tour! Flowers, Shrubs and Conifers at Every Turn! |
+| 2023-08-29 | 1,175 | V6WS-5xdlqc | 275,083 | 15 | 163,576 | 1.68 | 5 | 0.67 | binh_thuong | – | Không | Incredible Low Maintenance and Easy-Care Shrubs for Your home! |
+| 2023-10-02 | 1,141 | Yot_MYEq2EY | 110,162 | 15 | 209,753 | 0.53 | 5 | 0.44 | binh_thuong | – | Không | Eye-opening Conifer Tour: Discover Evergreens and Conifers That Thrive in the South! |
+| 2023-10-11 | 1,132 | 4nAkgoykG0Y | 66,786 | 15 | 209,753 | 0.32 | 5 | 0.44 | binh_thuong | – | Không | Grow Vibrant Cool-Season Flowers! \|Ultimate Pansy and Viola Guide\| |
+| 2023-10-19 | 1,124 | MWucXn-wnho | 989,721 | 15 | 163,576 | 6.05 | 5 | 0.57 | manh | – | Không | Top 10 Shrub Combinations to Plant In Front of Your Home! |
+| 2023-10-27 | 1,116 | wAKLgCz5Tns | 92,958 | 15 | 163,576 | 0.57 | 5 | 0.38 | binh_thuong | – | Không | Thrilling Garden Tour!  A Magnificent Blend of New and Established Plants! |
+| 2023-11-17 | 1,095 | 8Cq2upwIEDg | 147,927 | 15 | 163,576 | 0.90 | 5 | 0.25 | binh_thuong | – | Không | Mastering Clay and Compacted Soils: Step-by-Step Guide to Successful Planting! |
+| 2023-11-23 | 1,089 | NkOzF6iZoAs | 15,070 | 15 | 163,576 | 0.09 | 5 | 0.25 | binh_thuong | – | Không | Top 10 Gift Ideas For Gardeners! |
+| 2024-02-01 | 1,019 | HJZvuLQb1aU | 41,404 | 15 | 163,576 | 0.25 | 5 | 0.38 | binh_thuong | – | Không | 5 Shrubs to Grow for Extraordinary Winter Color! |
+| 2024-02-29 | 991 | zvgHgjvSAdc | 121,896 | 15 | 163,576 | 0.75 | 5 | 0.38 | binh_thuong | – | Không | Top 10 Foundation Shrubs and Trees for Corner Plantings! |
+| 2024-03-19 | 972 | Jlktk3hJfiQ | 62,425 | 15 | 163,576 | 0.38 | 5 | 0.57 | binh_thuong | – | Không | Fascinating Conifer Tour: Unique Species That Thrive in the South! |
+| 2024-03-28 | 963 | VgBesjsNQrI | 38,501 | 15 | 147,927 | 0.26 | 5 | 0.63 | binh_thuong | – | Không | I Started a Raised Garden Bed Company... |
+| 2024-04-08 | 952 | bWMfJOlU6fs | 40,574 | 15 | 121,896 | 0.33 | 5 | 0.94 | binh_thuong | – | Không | [Revealed] The Secret to Filling Your Raised Garden Bed Without Breaking the Bank! |
+| 2024-05-31 | 899 | -L4BVTMFNF0 | 92,783 | 15 | 110,162 | 0.84 | 5 | 1.04 | binh_thuong | – | Không | 7 Best Perennial Flowers to Attract Pollinators to Your Garden |
+| 2024-06-10 | 889 | NPGdT03ifUI | 236,359 | 15 | 92,958 | 2.54 | 5 | 0.58 | hoi_cao | – | Không | 15 Compact Shrubs for Small Spaces |
+| 2024-06-19 | 880 | XDAWZDPPpOc | 117,901 | 15 | 92,958 | 1.27 | 5 | 0.58 | binh_thuong | – | Không | Once-in-a-Lifetime Garden Tour: Journey Through this Unforgettable Conifer Collection! |
+| 2024-06-24 | 875 | 7Xdm3DQDOuU | 43,485 | 15 | 92,958 | 0.47 | 5 | 1.24 | binh_thuong | – | Không | 7 Proven Tips to Maximize your Cucumber Harvest! |
+| 2024-07-15 | 854 | 2utf6DJcK7c | 114,932 | 15 | 92,783 | 1.24 | 5 | 1.22 | binh_thuong | – | Không | Captivating Garden Tour: Discover the Wisdom of a Lifelong Gardener! |
+| 2024-08-01 | 837 | rTYvQdUa2FU | 53,515 | 15 | 92,783 | 0.58 | 5 | 1.22 | binh_thuong | – | Không | How I Grew 100 Ears of Corn in a Raised Bed!🌽 |
+| 2024-08-20 | 818 | I9k--k80kOU | 23,711 | 15 | 92,783 | 0.26 | 5 | 1.22 | binh_thuong | – | Không | How to Plant a Conifer in the South \|Expert Tips from a Lifelong Gardener\| |
+| 2024-08-27 | 811 | tSVpMu1LVc0 | 136,525 | 15 | 62,425 | 2.19 | 5 | 1.16 | hoi_cao | – | Không | Design Your Dream Landscape: Best Shrub Combos for Your Home! |
+| 2024-09-11 | 796 | uIEF1gjVTyQ | 224,356 | 15 | 62,425 | 3.59 | 5 | 1.16 | dang_ghi | – | Không | Top 10 Beautiful Trees for Privacy Screens! \|UPDATED\| |
+| 2024-09-19 | 788 | 73enebdy68g | 112,799 | 15 | 62,425 | 1.81 | 5 | 1.13 | binh_thuong | – | Không | Best Deer-Resistant Shrubs to Grow Around Your Home! |
+| 2024-10-22 | 755 | HSg7uYH2j3U | 70,497 | 15 | 92,783 | 0.76 | 5 | 0.36 | binh_thuong | – | Không | Rare and Eye-Catching Conifers \|Add Year-Round Interest to your Landscape!\| |
+| 2024-11-12 | 734 | aI4o4ZiHT5M | 72,199 | 15 | 92,783 | 0.78 | 5 | 0.36 | binh_thuong | – | Không | How to Grow Collards In Raised Beds \|Complete Guide\| |
+| 2024-11-20 | 726 | -kKXITMXuiE | 24,337 | 15 | 72,199 | 0.34 | 5 | 0.62 | binh_thuong | – | Không | Rusty Garden Tools? Try This Simple Household Fix! |
+| 2024-12-09 | 707 | LWJ5udVDfjo | 118,177 | 15 | 72,199 | 1.64 | 5 | 0.46 | binh_thuong | – | Không | How to Keep Your Poinsettias Alive! (And Blooming Again!) |
+| 2025-02-03 | 651 | N7WED9OIKJY | 33,154 | 15 | 92,783 | 0.36 | 5 | 0.48 | binh_thuong | – | Không | Late Winter Pruning: The Ultimate Guide You Can’t Miss! |
+| 2025-03-06 | 620 | UNiGLAahTdg | 29,132 | 15 | 92,783 | 0.31 | 5 | 0.68 | binh_thuong | – | Không | You'll NEVER Garden the Same Way Again... |
+| 2025-03-24 | 602 | qhNEDqCi3Tc | 101,410 | 15 | 72,199 | 1.40 | 5 | 0.80 | binh_thuong | – | Không | Discover the Best Conifers to Create a Breathtaking Landscape! |
+| 2025-04-23 | 572 | k4nU9N94Ugo | 44,754 | 15 | 72,199 | 0.62 | 5 | 0.88 | binh_thuong | – | Không | You’ll Want EVERYTHING! 🌼 Spring Garden Tour of Astounding Plants! |
+| 2025-06-13 | 521 | VUOQHw5Xh9E | 32,829 | 15 | 70,497 | 0.47 | 5 | 0.90 | binh_thuong | – | Không | How to Grow Lemongrass from Seed to Harvest \|Complete Guide\| |
+| 2025-06-24 | 510 | LjWMpb1wcQc | 63,374 | 15 | 70,497 | 0.90 | 5 | 1.37 | binh_thuong | – | Không | This Garden Breaks All the Rules.. And It's Absolutely Beautiful! |
+| 2025-07-03 | 501 | qt9evrdkUCM | 121,867 | 15 | 63,374 | 1.92 | 5 | 1.06 | binh_thuong | – | Không | The Legendary Garden Tour Is Back! |
+| 2025-07-14 | 490 | u7LTgGNCtMk | 57,693 | 15 | 70,497 | 0.82 | 5 | 0.95 | binh_thuong | – | Không | This Garden Made a Magazine Cover—And the Fertilizer? Alpacas.. |
+| 2025-08-01 | 472 | CXh5_hS_7Z8 | 132,629 | 15 | 70,497 | 1.88 | 5 | 0.69 | binh_thuong | – | Không | STOP Planting Shrubs Like This! (Top 5 Mistakes) |
+| 2025-08-08 | 465 | AiAAcQ1mASs | 45,605 | 15 | 70,497 | 0.65 | 5 | 0.69 | binh_thuong | – | Không | 15 Bold Conifers that Instantly Boost Curb Appeal! |
+| 2025-08-28 | 445 | Dhi4NA-VnNg | 96,906 | 15 | 63,374 | 1.53 | 5 | 0.73 | binh_thuong | – | Không | Designer Worthy Shrub Combinations You Can Create in a Weekend |
+| 2025-10-02 | 410 | LUhXW50HqNY | 66,869 | 15 | 63,374 | 1.06 | 5 | 0.73 | binh_thuong | – | Không | Plant Collector’s Dream Tour: Gorgeous Conifers You Must See! |
+| 2025-10-15 | 397 | iO8DqFmS0dc | 35,054 | 15 | 63,374 | 0.55 | 5 | 0.77 | binh_thuong | – | Không | Conifers So Rare... You'll Have to See to Believe🌲 |
+| 2025-10-28 | 384 | AbMcwTARIlY | 48,859 | 15 | 57,693 | 0.85 | 5 | 1.00 | binh_thuong | – | Không | We Came Back… And His Garden Is Even Better 🤯 |
+| 2025-12-10 | 341 | 7NA4DDDqkbI | 46,359 | 15 | 57,693 | 0.80 | 5 | 1.00 | binh_thuong | – | Không | 15 Shrubs for Amazing Winter Color! |
+| 2026-02-16 | 273 | N8LaswER7is | 36,880 | 15 | 48,859 | 0.75 | 5 | 1.17 | binh_thuong | – | Không | Top 10 Conifers That EXPLODE With Color in Spring! |
+| 2026-03-11 | 250 | YcHLKnSq5MQ | 57,407 | 15 | 48,859 | 1.17 | 5 | 1.17 | binh_thuong | – | Không | Wait Until You See These Conifers… |
+| 2026-04-15 | 215 | nnpWtMCStBg | 59,416 | 15 | 57,407 | 1.03 | 4 | – | binh_thuong | – | Không | Conifers and Japanese Maples that Don't Look Real! |
+| 2026-06-08 | 161 | VcXNW0ukGnU | 67,716 | 15 | 57,407 | 1.18 | 3 | – | binh_thuong | – | Không | The Best Shrub Combinations for Jaw-Dropping Curb Appeal! |
+| 2026-07-23 | 116 | --dDbPJ46eU | 57,391 | 15 | 57,693 | 0.99 | 2 | – | binh_thuong | – | Không | I Visit This Garden Every Year... It Never Disappoints |
+| 2026-08-05 | 103 | E7Q9ds8bdq4 | 41,652 | 15 | 57,693 | 0.72 | 1 | – | binh_thuong | – | Không | I Thought I'd Seen It All... Then She Tripled Her Garden! |
+| 2026-09-29 | 48 | pYeRfSNuoRg | 53,897 | 15 | 57,407 | 0.94 | 0 | – | binh_thuong | – | Không | We Just Got THOUSANDS of Conifers… You Have to See These! 🌲 |

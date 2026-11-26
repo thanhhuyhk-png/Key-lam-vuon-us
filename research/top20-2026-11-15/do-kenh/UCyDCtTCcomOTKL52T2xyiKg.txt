@@ -1,0 +1,113 @@
+# Đo kênh: UCyDCtTCcomOTKL52T2xyiKg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 94 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 986 |
+| n_trong_danh_sach | 78 |
+| n_dai | 63 |
+| n_short | 15 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 378,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-06-13 |
+| n_ngoai_cua_so | 16 |
+| so_hoi_vien | 35 |
+| trung_vi_20_dai | 19,162 |
+| cao_nhat | 89,397 |
+| thap_nhat | 11,508 |
+| phan_tan | 4.67 |
+| so_video_tren_2x | 2 |
+| ty_le_tren_2x | 0.10 |
+| trung_vi_chia_sub | 0.05 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 1.38 |
+| ngay_video_dau | 2017-10-02 |
+| tuoi_tu_video_dau | 3,332 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 113 |
+| sub_moi_video | 383 |
+| video_30_ngay | 13 |
+| ty_trong_view_short | 0.12 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** HOI_VIEN, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2017-10-02 | 3,332 | Vq5oUt9Czx4 | 10,335 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Never buy celery again! |
+| 2017-11-11 | 3,292 | h1LY4zNc4r0 | 3,185 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Quick tips for thinning carrots |
+| 2017-11-11 | 3,292 | _km7-nvvILI | 6,385 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Quick tip for germinating carrots |
+| 2017-11-11 | 3,292 | dAfa5vpUatY | 6,874 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Quick tip for using eggshells in the garden |
+| 2018-07-20 | 3,041 | bGxJTYpEQCE | 24,646 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Saving Sunflower Seeds |
+| 2018-08-15 | 3,015 | Yvj_p7wC2xk | 2,742 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Lacinato Kale growing up! |
+| 2018-09-26 | 2,973 | 3vq8SSme6J4 | 7,541 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Garden Hack: How to use coffee grounds in the garden |
+| 2018-09-26 | 2,973 | ItSvqGcp9o0 | 3,724 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Garden Hack: 2 Things to do before planting flowers ​ |
+| 2025-06-13 | 521 | BkyCBlbZLI0 | 17,071 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | HOT SUMMER Garden Survival Guide: Must-Do June Tasks |
+| 2025-06-20 | 514 | ZickFZNd4vU | 20,067 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 8 Best FLOWERS for HOT Summer Gardens (Arizona Tested!) |
+| 2025-06-24 | 510 | 9ZI0_1Jz-U4 | 29,181 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 8 Best Crops for HOT Summer Gardens (Arizona Tested!) |
+| 2025-06-27 | 507 | Sub--HE0SR8 | 17,489 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | HEATWAVE GARDEN SURVIVAL: How to Garden Through a 110°F Heatwave |
+| 2025-07-02 | 502 | YCQPP7gBu68 | 9,791 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | WORKING TOUR: Small Space Gardening Update + Summer Planting Update |
+| 2025-07-11 | 493 | 0MK6RyieGKE | 31,324 | 5 | 17,489 | 1.79 | 5 | 1.79 | binh_thuong | – | Không | THREE SISTERS IN A RAISED BED GARDEN: Companion PlantingThat Works! |
+| 2025-07-18 | 486 | sFwWXRFnSBw | 47,582 | 6 | 18,778 | 2.53 | 5 | 1.47 | hoi_cao | – | Không | TOMATILLO GROWING SECRETS: What I Wish I Knew Sooner |
+| 2025-08-01 | 472 | VQp_3M8WxEs | 51,269 | 7 | 20,067 | 2.55 | 5 | 1.11 | hoi_cao | – | Không | Why Your Beans Aren’t Producing (And How to Fix It) |
+| 2025-08-15 | 458 | 1MrgccO4WKo | 31,262 | 8 | 24,624 | 1.27 | 5 | 0.73 | binh_thuong | – | Không | How to Grow Campanula (Canterbury Bells) for Stunning Spring Blooms |
+| 2025-08-22 | 451 | nRdM0Ta_9Aw | 27,572 | 9 | 29,181 | 0.94 | 5 | 0.62 | binh_thuong | – | Không | SUMMER SQUASH GROWING GUIDE: Timing, Watering, Pollination & More |
+| 2025-08-29 | 444 | l_8BlXRC0L8 | 18,078 | 10 | 28,376 | 0.64 | 5 | 0.39 | binh_thuong | – | Không | CUCUMBER GROWING TIPS for Hot, Dry Climates |
+| 2025-09-19 | 423 | ll9ly8rAbkM | 22,280 | 11 | 27,572 | 0.81 | 5 | 0.40 | binh_thuong | – | Không | ARIZONA GARDEN TOUR: Summer Survivors & Fall Garden Prep |
+| 2025-09-26 | 416 | WD956QKPm8U | 11,015 | 12 | 24,926 | 0.44 | 5 | 0.47 | binh_thuong | – | Không | FALL FRUIT TREE CARE (Container Fruit Trees, too!) |
+| 2025-10-01 | 411 | _XH7L1FFjCQ | 8,687 | 13 | 22,280 | 0.39 | 5 | 0.71 | binh_thuong | – | Không | FALL HERB CARE: What to Save, What to Replace |
+| 2025-10-03 | 409 | zmRRRFFsHlw | 41,913 | 14 | 21,174 | 1.98 | 5 | 0.55 | binh_thuong | – | Không | 10 BEST SHRUBS for a Beautiful DESERT Landscape (and 3 to Skip) |
+| 2025-10-08 | 404 | VZ_Y917jKXQ | 4,318 | 15 | 22,280 | 0.19 | 5 | 0.71 | binh_thuong | – | Không | Rose Heaven: Touring Heirloom Roses’ Private Fields |
+| 2025-10-10 | 402 | gGJX7D65DTU | 11,678 | 15 | 22,280 | 0.52 | 5 | 0.82 | binh_thuong | – | Không | 10 EASIEST FALL VEGGIES for Mild Winters (and 3 to Skip!) |
+| 2025-10-15 | 397 | uxc-BhTGMbk | 36,287 | 15 | 22,280 | 1.63 | 5 | 0.82 | binh_thuong | – | Không | SWEET ALYSSUM GROWING GUIDE: Natural Pest Control |
+| 2025-10-17 | 395 | FOXSkXVZUpU | 15,736 | 15 | 22,280 | 0.71 | 5 | 1.01 | binh_thuong | – | Không | 10 COOL-SEASON FLOWERS to Plant From Seed (+ 3 to Buy as Transplants) |
+| 2025-10-22 | 390 | TaMFXW8525s | 5,776 | 15 | 22,280 | 0.26 | 5 | 1.01 | binh_thuong | – | Không | How to Water Raised Beds: Watering Grids & Season-Start Checklist |
+| 2025-10-24 | 388 | cV9ngVA2sMU | 18,374 | 15 | 22,280 | 0.82 | 5 | 1.01 | binh_thuong | – | Không | FAVA BEAN GROWING GUIDE: Grow for Food and Better Soil |
+| 2025-10-31 | 381 | ds5t7Wq96-s | 22,507 | 15 | 18,374 | 1.22 | 5 | 1.04 | binh_thuong | – | Không | LOBELIA GROWING GUIDE: Vibrant Blooms All Season |
+| 2025-11-07 | 374 | eDmlA9VLARw | 25,019 | 15 | 18,374 | 1.36 | 5 | 1.04 | binh_thuong | – | Không | Arizona Fall Garden Tour: What I’m Planting Now |
+| 2025-11-14 | 367 | V55EIDcK7Ck | 58,876 | 15 | 18,374 | 3.20 | 5 | 1.04 | dang_ghi | – | Không | SMALL GARDEN, BIG HARVEST: 2×6 Elevated Bed Planting Layout |
+| 2025-11-21 | 360 | 7P7AAtVZIT0 | 14,983 | 15 | 18,374 | 0.82 | 5 | 1.29 | binh_thuong | – | Không | CUT FLOWER GARDEN 101: Grow Your Own Bouquets |
+| 2025-11-26 | 355 | F2rjJcWNMuw | 19,138 | 15 | 18,078 | 1.06 | 5 | 1.31 | binh_thuong | – | Không | Late Fall Desert Garden Tour: Surprises, Setbacks & What’s Next |
+| 2025-12-05 | 346 | YqL_onGnveg | 13,080 | 15 | 18,374 | 0.71 | 5 | 1.56 | binh_thuong | – | Không | 10 GARDENING MISTAKES I Made So You Don’t Have To |
+| 2025-12-12 | 339 | NKGUKVFBw7s | 54,704 | 15 | 15,736 | 3.48 | 5 | 1.82 | dang_ghi | – | Không | 10 FRUIT TREES That Produce in Hot Climates: 3 TO SKIP |
+| 2026-01-02 | 318 | HVqgMvkEnM8 | 23,717 | 15 | 18,374 | 1.29 | 5 | 1.85 | binh_thuong | – | Không | CROPS & TASKS: What to PLANT & DO in JANUARY (Mild Winter Climates) |
+| 2026-01-09 | 311 | WN0_f1CF-GE | 28,649 | 15 | 19,138 | 1.50 | 5 | 1.88 | binh_thuong | – | Không | GROW TOMATOES in the HEAT: Best VARIETIES, Soil and Planting Tips |
+| 2026-01-16 | 304 | h-chQLCxctk | 16,022 | 15 | 19,138 | 0.84 | 5 | 1.88 | binh_thuong | – | Không | Why You’re Not Getting Butterflies in Your Garden |
+| 2026-02-06 | 283 | iMHkvt6oq0w | 34,045 | 15 | 19,138 | 1.78 | 5 | 1.88 | binh_thuong | – | Không | 10 Best Gardening Habits: What Actually Works |
+| 2026-02-13 | 276 | q_1W9U6YHrw | 53,192 | 15 | 22,507 | 2.36 | 5 | 1.60 | hoi_cao | – | Không | How to Grow Lemongrass (Regrow Store Stalks, Harvest, Divide) |
+| 2026-02-20 | 269 | Rk1_zUTKSmY | 35,949 | 15 | 22,507 | 1.60 | 5 | 0.72 | binh_thuong | – | Không | VINCA GROWING GUIDE : Easy Summer Color Even in HOT Climates |
+| 2026-03-06 | 255 | xdIopgfDGo4 | 344,334 | 15 | 23,717 | 14.52 | 5 | 0.69 | can_kiem_ky | – | Không | What these worms do will TRANSFORM your garden: In-Bed Vermicomposting |
+| 2026-03-13 | 248 | NMYvhXv0tyE | 13,238 | 15 | 25,019 | 0.53 | 5 | 1.42 | binh_thuong | – | Không | CROPS & TASKS: What to PLANT & DO in March (Mild Winter Climates) |
+| 2026-03-20 | 241 | chkmsJjcin8 | 16,250 | 15 | 25,019 | 0.65 | 5 | 1.42 | binh_thuong | – | Không | Rootbound Citrus in Containers: When to Repot, Root Prune, and Refresh Soil |
+| 2026-03-27 | 234 | 6huGej_q8GQ | 39,784 | 15 | 25,019 | 1.59 | 5 | 1.33 | binh_thuong | – | Không | It’s Getting Hotter Earlier. Here’s How I’m Changing My Garden |
+| 2026-04-03 | 227 | UdxnGsiWWqA | 15,670 | 15 | 28,649 | 0.55 | 5 | 1.16 | binh_thuong | – | Không | CROPS & TASKS: What to PLANT & DO in APRIL Gardens |
+| 2026-04-10 | 220 | zxlQpJMPofY | 36,901 | 15 | 23,717 | 1.56 | 5 | 0.81 | binh_thuong | – | Không | SMALL GARDEN, BIG HARVEST: Elevated Bed SUMMER Planting Layout |
+| 2026-04-17 | 213 | L7oNmHHvnFw | 35,583 | 15 | 28,649 | 1.24 | 5 | 0.67 | binh_thuong | – | Không | Stop Buying Transplants: Plant These 12 Heat-Tolerant Seeds Instead |
+| 2026-04-24 | 206 | prc9rsJZ1sc | 33,351 | 15 | 34,045 | 0.98 | 5 | 0.55 | binh_thuong | – | Không | Best Vines for a Desert Yard: What to Plant and Where |
+| 2026-05-01 | 199 | IAA-_uUpPbs | 17,169 | 15 | 34,045 | 0.50 | 5 | 0.55 | binh_thuong | – | Không | What to Plant & Do in May Before Desert Summer Hits |
+| 2026-05-08 | 192 | CDiSyrhYC7M | 19,136 | 15 | 33,351 | 0.57 | 5 | 0.48 | binh_thuong | – | Không | Arizona Garden Tour: Early Heat Changed My Spring Garden Plans |
+| 2026-05-15 | 185 | 5QCGskyrnes | 16,116 | 15 | 33,351 | 0.48 | 5 | 0.48 | binh_thuong | – | Không | Can This Raised Bed Survive Summer? |
+| 2026-05-22 | 178 | WuQ7Zp4fEgQ | 19,189 | 15 | 33,351 | 0.58 | 5 | 0.48 | binh_thuong | – | Không | Why Fertilizer is Making Your Garden Worse (Not Better) |
+| 2026-05-29 | 171 | ny8RNAQg09I | 18,724 | 15 | 33,351 | 0.56 | 5 | 0.48 | binh_thuong | – | Không | What to PLANT & DO (and not do) in JUNE Desert Gardens |
+| 2026-05-31 | 169 | CDSvSUqzgYQ | 11,508 | 15 | 19,189 | 0.60 | 5 | 0.87 | binh_thuong | – | Không | Start Here: A Full Year of Low Desert Gardening Guides |
+| 2026-06-12 | 157 | Nc9uKQOCLEs | 15,977 | 15 | 19,136 | 0.83 | 5 | 0.88 | binh_thuong | – | Không | Barbados Cherry Surprised Me in My Desert Yard |
+| 2026-06-19 | 150 | NDH4_awKvgo | 12,893 | 15 | 18,724 | 0.69 | 5 | 0.91 | binh_thuong | – | Không | How I Shade My Garden From the Afternoon Sun: Sunflowers for Shade |
+| 2026-06-26 | 143 | MSvX8GBBl6Q | 17,108 | 15 | 17,169 | 1.00 | 5 | 1.53 | binh_thuong | – | Không | Your Best Fall Garden Starts Now: July in the Low Desert |
+| 2026-07-03 | 136 | 2ulHdLu1t0s | 16,788 | 15 | 17,169 | 0.98 | 5 | 1.82 | binh_thuong | – | Không | Yardlong Beans: The Best Bean for Hot Summers |
+| 2026-07-17 | 122 | nHcX6EEwIYk | 89,397 | 15 | 17,169 | 5.21 | 5 | 1.53 | manh | – | Không | Why Her Arizona Yard Feels 20° Cooler: Epic Yard Farm Video No. 1 |
+| 2026-07-24 | 115 | 7Kg2lCNchTg | 15,745 | 15 | 17,169 | 0.92 | 5 | 1.82 | binh_thuong | – | Không | How to Set Up a Raised Bed for Extreme Heat |
+| 2026-08-07 | 101 | khBIGs51Ork | 31,247 | 15 | 17,169 | 1.82 | 5 | 1.53 | binh_thuong | – | Không | I Plant Marigolds Everywhere, But Not for the Reason You Think |
+| 2026-08-14 | 94 | FiJxvu7823I | 26,195 | 15 | 17,169 | 1.53 | 5 | 1.52 | binh_thuong | – | Không | Grow Food With 90% Less Water? Aquaponics in Arizona |
+| 2026-09-02 | 75 | xs_cHZ8Nv2A | 36,336 | 15 | 17,169 | 2.12 | 5 | 1.26 | hoi_cao | – | Không | From Grass & Gravel to Desert Food Forest: Epic Yard Farm Video No. 2 |
+| 2026-09-30 | 47 | hg8RuUo2oAY | 26,155 | 15 | 17,169 | 1.52 | 5 | 1.12 | binh_thuong | – | Không | 150 Fruit Trees in a Hot Desert Yard: Full Food Forest Tour |
+| 2026-10-14 | 33 | P-iiU8aDthU | 48,757 | 15 | 18,724 | 2.60 | 4 | – | hoi_cao | – | Không | Back in the Garden: Fall Garden Tour & Cancer Update |
+| 2026-10-21 | 26 | -DXNrtRzWcQ | 19,267 | 15 | 18,724 | 1.03 | 3 | – | chua_chin | – | Không | Herbal Tea Garden in My Elevated Bed |
+| 2026-10-28 | 19 | m5_rTauUUlQ | 21,653 | 15 | 19,189 | 1.13 | 2 | – | chua_chin | – | Không | 10 Best Fall Veggies in the Desert (and 3 I’d Skip) |
+| 2026-11-04 | 12 | w6WIA0zTbsw | 12,737 | 15 | 19,267 | 0.66 | 1 | – | chua_chin | – | Không | How to Grow a Cut Flower Garden in the Desert |
+| 2026-11-11 | 5 | 6FOL1Eb_ebU | 15,431 | 15 | 19,267 | 0.80 | 0 | – | chua_chin | – | Không | 7 Easy Flower Combos for Fall Containers |

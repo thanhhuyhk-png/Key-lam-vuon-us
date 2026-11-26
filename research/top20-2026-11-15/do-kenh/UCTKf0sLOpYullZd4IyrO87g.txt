@@ -1,0 +1,144 @@
+# Đo kênh: UCTKf0sLOpYullZd4IyrO87g.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 102 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 102 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 36,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-03-07 |
+| n_ngoai_cua_so | 2 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 11,594 |
+| cao_nhat | 385,373 |
+| thap_nhat | 2,423 |
+| phan_tan | 33.24 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.32 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 1.27 |
+| ngay_video_dau | 2025-02-21 |
+| tuoi_tu_video_dau | 633 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 56.87 |
+| sub_moi_video | 353 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-02-21 | 633 | q5R1Sr-I32g | 37,062 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Our Plan To Transform This English Country Garden |
+| 2025-02-28 | 626 | mekhsjUjY-8 | 191,952 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Composting is Easy Once You Know This |
+| 2025-03-07 | 619 | 51-gXOERrbQ | 5,801 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | A Beginner's Guide To Sowing Vegetable Seeds |
+| 2025-03-14 | 612 | C-H32sSyEtA | 6,850 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Trick To Pruning Your Hydrangea Correctly |
+| 2025-03-17 | 609 | oVcBk9Y0mcs | 7,564 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | We Found An Abandoned Pizza Oven In Our Garden |
+| 2025-03-21 | 605 | lW-iIWCx9Es | 8,711 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | DON’T Use Your Raised Bed Until You've Watched This |
+| 2025-03-28 | 598 | iEIz1u64FWs | 3,802 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Growing Onions is EASY Once You Know This |
+| 2025-04-04 | 591 | t9AdMwj_zaQ | 4,503 | 5 | 6,850 | 0.66 | 5 | 5.29 | binh_thuong | – | Không | Fix Your Leggy Tomato Seedlings With This Clever Hack |
+| 2025-04-11 | 584 | p6-lqOz2Bag | 162,043 | 6 | 6,326 | 25.62 | 5 | 5.73 | can_kiem_ky | – | Không | The BEST Way To STOP Weeds In Your Garden |
+| 2025-04-18 | 577 | OtwP3qLRzJw | 191,817 | 7 | 6,850 | 28.00 | 5 | 4.05 | can_kiem_ky | – | Không | Stop Throwing Out Your Old Potting Soil |
+| 2025-04-25 | 570 | ZnzOlq8BuiY | 27,721 | 8 | 7,207 | 3.85 | 5 | 2.24 | dang_ghi | – | Không | Your Plants Growth Will Explode With This |
+| 2025-05-02 | 563 | v4LWp6s440s | 16,143 | 9 | 7,564 | 2.13 | 5 | 4.79 | hoi_cao | – | Không | How to Build a Beautiful Container Garden on a Budget |
+| 2025-05-09 | 556 | 40GYmVUDdQw | 36,228 | 10 | 8,138 | 4.45 | 5 | 5.43 | dang_ghi | – | Không | Garden Centers DON'T Want You To Know This Trick! |
+| 2025-05-16 | 549 | _KbwqtocAtU | 109,785 | 11 | 8,711 | 12.60 | 5 | 1.73 | can_kiem_ky | – | Không | Why Watering Like This Will KILL Your Plants |
+| 2025-05-23 | 542 | OL4lngSw3yQ | 5,547 | 12 | 12,427 | 0.45 | 5 | 1.21 | binh_thuong | – | Không | Grow Tomatoes NOT Leaves |
+| 2025-05-30 | 535 | F0VMZpXnmpQ | 15,088 | 13 | 8,711 | 1.73 | 5 | 5.07 | binh_thuong | – | Không | STOP Digging in Your Garden (Do This Instead) |
+| 2025-06-06 | 528 | W1Nlplmq6bA | 44,159 | 14 | 11,900 | 3.71 | 5 | 0.94 | dang_ghi | – | Không | 12 Perennials EVERY Garden Should Have |
+| 2025-06-13 | 521 | LKGac2-j7qA | 267,882 | 15 | 15,088 | 17.75 | 5 | 0.67 | can_kiem_ky | – | Không | 12 Plants You Should NEVER Grow in Your Garden |
+| 2025-06-20 | 514 | d5ru6wIpG1g | 9,031 | 15 | 16,143 | 0.56 | 5 | 0.69 | binh_thuong | – | Không | The EASIEST Way to Start a Raised Bed |
+| 2025-06-27 | 507 | MN8MkXmE_14 | 4,038 | 15 | 16,143 | 0.25 | 5 | 0.69 | binh_thuong | – | Không | This Trick Makes Growing Potatoes EASY |
+| 2025-07-04 | 500 | q7gB4DgXZqw | 50,295 | 15 | 16,143 | 3.12 | 5 | 0.63 | dang_ghi | – | Không | STOP Making These 10 Composting Mistakes |
+| 2025-07-11 | 493 | CuKTZ1ruQdI | 11,190 | 15 | 27,721 | 0.40 | 5 | 0.16 | binh_thuong | – | Không | I Wish I Never Did This To My Plants |
+| 2025-07-18 | 486 | tbvmH7nkzwE | 10,097 | 15 | 27,721 | 0.36 | 5 | 0.15 | binh_thuong | – | Không | Tour Our Thriving English Country Garden |
+| 2025-07-25 | 479 | GxTwGkH289w | 201,801 | 15 | 27,721 | 7.28 | 5 | 0.15 | manh | – | Không | Bindweed Nearly Killed Us...Until We Did This |
+| 2025-08-01 | 472 | NfgJPfwacWk | 2,906 | 15 | 27,721 | 0.10 | 5 | 0.16 | binh_thuong | – | Không | The Smart Way to Water Your Garden in a Drought |
+| 2025-08-08 | 465 | c7J49JuUF1Y | 4,476 | 15 | 16,143 | 0.28 | 5 | 0.25 | binh_thuong | – | Không | Do This For ENDLESS Summer Flowers |
+| 2025-08-15 | 458 | Lgesekq383E | 4,039 | 15 | 15,088 | 0.27 | 5 | 0.25 | binh_thuong | – | Không | 20 Essential Tips To Make Your Garden Thrive |
+| 2025-08-22 | 451 | M3iQvmgsse4 | 3,823 | 15 | 11,190 | 0.34 | 5 | 1.34 | binh_thuong | – | Không | We’re FINISHED growing in containers, here’s why |
+| 2025-09-05 | 437 | wD0CswDCEz0 | 18,019 | 15 | 10,097 | 1.78 | 5 | 0.34 | binh_thuong | – | Không | The Secret to Weeding Like a Pro |
+| 2025-09-12 | 430 | fuu6PmLYn_U | 22,465 | 15 | 10,097 | 2.22 | 5 | 0.34 | hoi_cao | – | Không | 12 Plants That Cause CHAOS in Your Garden |
+| 2025-09-19 | 423 | nbVDlzD52JE | 3,441 | 15 | 11,190 | 0.31 | 5 | 0.45 | binh_thuong | – | Không | STOP Using Fertiliser In The Garden |
+| 2025-09-22 | 420 | C54yGUMJ6YU | 3,403 | 15 | 10,097 | 0.34 | 5 | 0.50 | binh_thuong | – | Không | How To Grow Artichoke In A Cold Climate |
+| 2025-09-26 | 416 | BIgSlVNkzao | 15,049 | 15 | 9,031 | 1.67 | 5 | 0.55 | binh_thuong | – | Không | Why You Should NEVER Leave Your Soil Bare |
+| 2025-09-29 | 413 | iofeGXI22ow | 3,025 | 15 | 9,031 | 0.33 | 5 | 0.55 | binh_thuong | – | Không | Grow ENDLESS Ginger From Store Bought Ginger |
+| 2025-10-03 | 409 | sn1pEkP0bY4 | 5,005 | 15 | 4,476 | 1.12 | 5 | 1.25 | binh_thuong | – | Không | 10 Winter Jobs Pro Gardeners Are Doing Right Now |
+| 2025-10-10 | 402 | 4Hvtp0-XESo | 63,962 | 15 | 5,005 | 12.78 | 5 | 1.12 | can_kiem_ky | – | Không | The Secret To Making Great Compost In Winter |
+| 2025-10-17 | 395 | 7iAmGZhuBnQ | 4,248 | 15 | 5,005 | 0.85 | 5 | 1.12 | binh_thuong | – | Không | Why We’re NOT Planting Yellow Daffodils This Year |
+| 2025-10-24 | 388 | HnUETgFpUW0 | 5,615 | 15 | 4,476 | 1.25 | 5 | 0.90 | binh_thuong | – | Không | 6 GENIUS Ways To Save A Fortune On Potting Soil |
+| 2025-10-31 | 381 | HWdOXA6HaA8 | 2,320 | 15 | 4,476 | 0.52 | 5 | 0.90 | binh_thuong | – | Không | I Wish I Knew This Garlic Growing Tip 5 Years Ago |
+| 2025-11-07 | 374 | 8SSx6BTsDXU | 845,351 | 15 | 4,248 | 199 | 5 | 0.94 | can_kiem_ky | – | Không | Better Than Roundup! A Natural Weed Killer That Works! |
+| 2025-11-14 | 367 | 1fDzDWZr1P8 | 18,006 | 15 | 4,476 | 4.02 | 5 | 0.63 | dang_ghi | – | Không | The Smart Way To Turn Leaves Into Free Soil |
+| 2025-11-21 | 360 | nptm2qJSJ78 | 2,819 | 15 | 5,005 | 0.56 | 5 | 0.80 | binh_thuong | – | Không | 10 Plants You Should NEVER Cut Back In Winter |
+| 2025-11-28 | 353 | yr5-r0JHQJY | 4,007 | 15 | 5,005 | 0.80 | 5 | 0.50 | binh_thuong | – | Không | Debunking 10 Gardening Myths In 10 Minutes |
+| 2025-12-05 | 346 | GWPqmthZE5M | 2,333 | 15 | 5,005 | 0.47 | 5 | 0.95 | binh_thuong | – | Không | Never Plant Without This In The Garden |
+| 2025-12-12 | 339 | 6KAaoTtyJUU | 5,054 | 15 | 4,248 | 1.19 | 5 | 0.59 | binh_thuong | – | Không | The Complete Guide To Controlling Weeds In Your Garden |
+| 2026-01-02 | 318 | GiG41N0X8Lc | 2,501 | 15 | 4,248 | 0.59 | 5 | 1.02 | binh_thuong | – | Không | 10 Reasons Gardening Will Change Your Life In 2026 |
+| 2026-01-09 | 311 | TfTDo45gYeA | 4,745 | 15 | 4,248 | 1.12 | 5 | 1.02 | binh_thuong | – | Không | Everything You Need To Start Composting In 2026 |
+| 2026-01-16 | 304 | aT37ik-AlL4 | 1,792 | 15 | 4,745 | 0.38 | 5 | 0.91 | binh_thuong | – | Không | Plant Jargon Finally Explained! |
+| 2026-01-23 | 297 | ma9YL4EDKPE | 7,941 | 15 | 4,248 | 1.87 | 5 | 1.02 | binh_thuong | – | Không | How To Attract More Worms Into Your Garden Naturally |
+| 2026-01-30 | 290 | 3m09m22zpTk | 1,291 | 15 | 4,745 | 0.27 | 5 | 1.01 | binh_thuong | – | Không | Plant Types Finally Explained! |
+| 2026-02-06 | 283 | nr_ewvoW2pg | 4,332 | 15 | 4,248 | 1.02 | 5 | 1.76 | binh_thuong | – | Không | Why NOT Digging Is So Much Better For Your Garden |
+| 2026-02-13 | 276 | NnmVLK85MYs | 16,558 | 15 | 4,248 | 3.90 | 5 | 1.13 | dang_ghi | – | Không | I Wish I Knew This Before Buying A Greenhouse |
+| 2026-02-20 | 269 | R0DRO7Vy-_M | 4,007 | 15 | 4,332 | 0.92 | 5 | 1.11 | binh_thuong | – | Không | How This 1/4 Acre Garden Feeds A Family Of 4 All Year |
+| 2026-02-27 | 262 | 2Ls4RRVueGs | 7,459 | 15 | 4,007 | 1.86 | 5 | 1.20 | binh_thuong | – | Không | Why Seed Starting Soil Is A Con |
+| 2026-03-04 | 257 | k3sPy0comug | 4,800 | 15 | 4,332 | 1.11 | 5 | 2.46 | binh_thuong | – | Không | 10 Seeds You'd Be Mad Not To Sow In March |
+| 2026-03-06 | 255 | 6t8kgjJSiUs | 25,465 | 15 | 4,332 | 5.88 | 5 | 2.46 | manh | – | Không | We Do THIS Every Spring And Our Garden THRIVES! |
+| 2026-03-10 | 251 | O7DheOa7B1o | 4,080 | 15 | 4,332 | 0.94 | 5 | 4.16 | binh_thuong | – | Không | The BEST Way to Beat Slugs in The Garden |
+| 2026-03-13 | 248 | jcR6uFnl8qs | 3,964 | 15 | 4,332 | 0.92 | 5 | 4.16 | binh_thuong | – | Không | The Secret To Building The Perfect Soil |
+| 2026-03-20 | 241 | 9USNqGXxkNY | 10,663 | 15 | 4,332 | 2.46 | 5 | 4.16 | hoi_cao | – | Không | Stop Buying Plant Supports! Make These Instead |
+| 2026-03-23 | 238 | CBryEhqvkHU | 18,012 | 15 | 4,745 | 3.80 | 5 | 18.01 | dang_ghi | – | Không | Why You Should STOP Weeding Dandelions |
+| 2026-03-27 | 234 | xJRhFkhV8gQ | 609,238 | 15 | 4,745 | 128 | 5 | 18.01 | can_kiem_ky | – | Không | Why Pros Never Throw Out Old Potting Soil |
+| 2026-04-03 | 227 | E9pL33ZvgS0 | 85,464 | 15 | 4,800 | 17.80 | 5 | 36.70 | can_kiem_ky | – | Không | 7 Common Mistakes To Avoid That Kill Seedlings |
+| 2026-04-10 | 220 | aJqlm29hado | 15,908 | 15 | 7,459 | 2.13 | 5 | 23.62 | hoi_cao | – | Không | The Lazy Way to Eliminate Weeds That Actually Works |
+| 2026-04-14 | 216 | y_rg89UBW0Y | 11,998 | 15 | 7,941 | 1.51 | 5 | 22.19 | binh_thuong | – | Không | The Most Important Seed You'll Sow In Your Garden |
+| 2026-04-17 | 213 | qwxph44n2lc | 234,264 | 15 | 10,663 | 21.97 | 5 | 3.69 | can_kiem_ky | – | Không | This Method Of Sowing Lawn Seed Guarantees Germination! |
+| 2026-04-21 | 209 | FmQlFAhjSnA | 176,183 | 15 | 11,998 | 14.68 | 5 | 3.28 | can_kiem_ky | – | Không | 10 Plants You Should NEVER Grow In Your Garden |
+| 2026-04-24 | 206 | eUCDu5LGnVw | 552,515 | 15 | 15,908 | 34.73 | 5 | 2.38 | can_kiem_ky | – | Không | Better Than Miracle Gro! A Natural Fertiliser That Works |
+| 2026-04-28 | 202 | g4T54paX7Fg | 37,837 | 15 | 15,908 | 2.38 | 5 | 2.13 | hoi_cao | – | Không | Why You Should STOP Feeding Birds This Summer |
+| 2026-05-01 | 199 | 46Zw-XFVyQM | 12,654 | 15 | 18,012 | 0.70 | 5 | 2.18 | binh_thuong | – | Không | Watering Like This Will Kill Your Plants |
+| 2026-05-05 | 195 | FUlcJp1ef3E | 39,332 | 15 | 18,012 | 2.18 | 5 | 1.88 | hoi_cao | – | Không | Better Than Lavender! 8 No-Fuss Alternatives |
+| 2026-05-08 | 192 | wc79eitzLAM | 40,352 | 15 | 25,465 | 1.58 | 5 | 1.33 | binh_thuong | – | Không | Composting Is EASY As Soon As You Know This |
+| 2026-05-12 | 188 | C_CneFfe-MI | 33,872 | 15 | 37,837 | 0.90 | 5 | 0.38 | binh_thuong | – | Không | 10 Lazy Perennials That THRIVE in Pots |
+| 2026-05-15 | 185 | GQ0wqxcH4f8 | 14,378 | 15 | 37,837 | 0.38 | 5 | 1.17 | binh_thuong | – | Không | Why Pros Never Throw Out Old Plant Pots |
+| 2026-05-19 | 181 | Rh9D6EeDz78 | 80,231 | 15 | 37,837 | 2.12 | 5 | 1.05 | hoi_cao | – | Không | This One Trick Makes Hosta Leaves Last Way Longer |
+| 2026-05-22 | 178 | aKKqbkPRUWU | 7,320 | 15 | 39,332 | 0.19 | 5 | 1.01 | binh_thuong | – | Không | This Way of Sowing Carrots Guarantees Germination |
+| 2026-05-29 | 171 | ljTfZABOYJQ | 44,177 | 15 | 39,332 | 1.12 | 5 | 0.67 | binh_thuong | – | Không | 10 Composting Hacks to Turbocharge Your Slow Pile |
+| 2026-06-05 | 164 | qN_Q4OlNJBw | 8,252 | 15 | 39,332 | 0.21 | 5 | 0.67 | binh_thuong | – | Không | Pests RUINED Our Garden Until We Did This |
+| 2026-06-12 | 157 | 1G_37Uf9o9Q | 44,773 | 15 | 37,837 | 1.18 | 5 | 0.70 | binh_thuong | – | Không | Stop Believing These Composting Myths! |
+| 2026-06-16 | 153 | wikxttbwWes | 39,591 | 15 | 39,332 | 1.01 | 5 | 0.67 | binh_thuong | – | Không | Why Your Hydrangea Is All Leaves and No Flowers |
+| 2026-06-19 | 150 | 8ODwtEf0FPs | 7,692 | 15 | 39,591 | 0.19 | 5 | 0.67 | binh_thuong | – | Không | Why Smart Growers NEVER Buy Plants |
+| 2026-06-23 | 146 | YquHydNWhis | 26,540 | 15 | 39,332 | 0.67 | 5 | 0.31 | binh_thuong | – | Không | Everything I Wish I Knew Before Buying A Greenhouse |
+| 2026-06-26 | 143 | Dsy8s0ezMcs | 3,667 | 15 | 37,837 | 0.10 | 5 | 0.33 | binh_thuong | – | Không | Better Than Miracle Gro! Turn Grass Into Free Fertiliser |
+| 2026-06-30 | 139 | NudUNcKYlns | 385,373 | 15 | 33,872 | 11.38 | 5 | 0.37 | can_kiem_ky | – | Không | Fix Bare Patches In Your Lawn For Good |
+| 2026-07-03 | 136 | 3WLWqhsakjk | 38,020 | 15 | 33,872 | 1.12 | 5 | 0.37 | binh_thuong | – | Không | Bindweed DESTROYED Our Garden...Until We Did This |
+| 2026-07-07 | 132 | q_qyln-bcEY | 10,817 | 15 | 38,020 | 0.28 | 5 | 0.33 | binh_thuong | – | Không | Why Using Fertiliser Is An Awful Idea |
+| 2026-07-10 | 129 | X6IXu_AJjyg | 12,372 | 15 | 33,872 | 0.37 | 5 | 0.18 | binh_thuong | – | Không | This Will Change The Way You Water Your Garden |
+| 2026-07-14 | 125 | rde1XRo7j6I | 6,006 | 15 | 26,540 | 0.23 | 5 | 0.20 | binh_thuong | – | Không | Garden Looking Scruffy After Spring? Do THIS Now! |
+| 2026-07-17 | 122 | svXwKXWJEQ8 | 22,017 | 15 | 14,378 | 1.53 | 5 | 0.37 | binh_thuong | – | Không | How to Get a Lawn Your Neighbours are Jealous of |
+| 2026-07-21 | 118 | fFP8rGxK7xY | 13,662 | 15 | 22,017 | 0.62 | 5 | 0.24 | binh_thuong | – | Không | Inside Our English Countryside Garden |
+| 2026-07-24 | 115 | 8unOi27zmQA | 2,740 | 15 | 13,662 | 0.20 | 5 | 0.39 | binh_thuong | – | Không | Why Your Chili Plants Are All Leaves And No Fruit |
+| 2026-07-28 | 111 | UJv3WrdJq8c | 2,816 | 15 | 13,662 | 0.21 | 5 | 0.54 | binh_thuong | – | Không | The Secret To Hanging Basket Success |
+| 2026-07-31 | 108 | pUPdVMM6IGE | 5,280 | 15 | 12,372 | 0.43 | 5 | 0.62 | binh_thuong | – | Không | 10 Plants That Will Change Your Garden Forever |
+| 2026-08-07 | 101 | 9AMAuQgh9co | 7,707 | 15 | 12,372 | 0.62 | 5 | 1.52 | binh_thuong | – | Không | STOP Making These 5 Planting Mistakes |
+| 2026-08-21 | 87 | 0VyyZtBupQk | 7,327 | 15 | 10,817 | 0.68 | 5 | 1.73 | binh_thuong | – | Không | 10 Plants That Look Their Best From Now Until Autumn |
+| 2026-08-25 | 83 | e70dB0NyOBA | 2,423 | 15 | 7,707 | 0.31 | 5 | 5.42 | binh_thuong | – | Không | Do This Now or Your Magnolia Won’t Flower Next Year |
+| 2026-08-28 | 80 | L0N28iJ3-bQ | 18,752 | 15 | 7,707 | 2.43 | 5 | 5.42 | hoi_cao | – | Không | The Planting Mistake That Will Kill a Tree Years Later |
+| 2026-09-04 | 73 | b0C5Eag13ag | 46,738 | 15 | 7,707 | 6.06 | 5 | 2.55 | manh | – | Không | I Tried Growing A Tomato From A Burger King Whopper |
+| 2026-09-08 | 69 | QFoTHRBlGAM | 102,507 | 15 | 10,817 | 9.48 | 4 | – | manh | – | Không | Why Your Compost Is Taking FOREVER |
+| 2026-09-11 | 66 | kpJkQCVExE0 | 9,097 | 15 | 10,817 | 0.84 | 3 | – | binh_thuong | – | Không | I've Been Planting Bulbs Wrong for Years |
+| 2026-09-14 | 63 | RCwkm5zDEX8 | 41,763 | 15 | 9,097 | 4.59 | 2 | – | dang_ghi | – | Không | Pretty Plants That Turn Into Absolute THUGS |
+| 2026-09-18 | 59 | cUPzj7HfPH8 | 19,658 | 15 | 9,097 | 2.16 | 1 | – | hoi_cao | – | Không | You’ve Made Your Own Compost. Now What? |
+| 2026-09-25 | 52 | gygrQ7fLvP0 | 10,657 | 15 | 9,097 | 1.17 | 0 | – | binh_thuong | – | Không | Stop Throwing Away Your Autumn Leaves |

@@ -1,0 +1,150 @@
+# Đo kênh: UC9TcuDlGy9FTaYxhkOet0Ig.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 446 |
+| n_trong_danh_sach | 123 |
+| n_dai | 100 |
+| n_short | 23 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 272,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-02-25 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 5,438 |
+| cao_nhat | 122,978 |
+| thap_nhat | 1,652 |
+| phan_tan | 22.61 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.59 |
+| ngay_video_dau | 2024-09-05 |
+| tuoi_tu_video_dau | 802 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 339 |
+| sub_moi_video | 610 |
+| video_30_ngay | 10 |
+| ty_trong_view_short | 0.01 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2024-09-05 | 802 | VReM7SVQf_g | 794,599 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Amish Keep Food COLD Without Refrigeration |
+| 2024-09-06 | 801 | aBbRPqMn7O0 | 4,138 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 15 Great Depression Foods To STOCKPILE That NEVER Expire! |
+| 2024-09-06 | 801 | DonPU0STYZc | 26,708 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Amish Water Bath Canning Method That Makes Food NEVER Expire |
+| 2024-09-07 | 800 | LcFKXVh_QDE | 5,864 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 15 Depression Era Meals Under $5 That Saved America |
+| 2024-09-07 | 800 | Ao4BTQeTzKk | 89,660 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Amish Foods To Stockpile That Never Expire |
+| 2024-09-09 | 798 | hs0WFx8BCWs | 25,460 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 15 Food Preservation Methods To Give To The Next Generation |
+| 2024-09-17 | 790 | cN_CLWUMvWo | 1,705,297 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Amish HEAT Their Homes Without Gas/Electricity |
+| 2024-09-18 | 789 | bN63GT5wT-A | 13,656 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Amish Families Are Cutting Costs by 50% |
+| 2026-02-25 | 264 | fADYVAbYYek | 2,748 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Amish Create Endless Heat For Their Homes Without Electricity/Gas |
+| 2026-02-27 | 262 | gPDrc6-aPQs | 3,212 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | They Grow Food HERE?! The Amish Methods Use 'Wasted' Space |
+| 2026-03-04 | 257 | jgHM2V2IxUw | 6,866 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Amish Secrets That Outsmart Pests & Boost Harvests |
+| 2026-03-06 | 255 | xMIXcb_hUeE | 2,472 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Amish Wisdom For Dealing With Large Garden Pests |
+| 2026-03-08 | 253 | OUSWDyf-33U | 8,927 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 LOW STRESS Amish Garden Ideas You’ve Never Thought Of |
+| 2026-03-09 | 252 | 1yC9CJtW1YM | 55,963 | 5 | 3,212 | 17.42 | 5 | 2.35 | can_kiem_ky | – | Không | Amish Sourdough is So Much Easier Than You Think |
+| 2026-03-10 | 251 | xc4yzy5UkuU | 7,549 | 6 | 5,039 | 1.50 | 5 | 0.85 | binh_thuong | – | Không | 18 Amish Seeds Start Tricks That Grow 3x Bigger Vegetables |
+| 2026-03-11 | 250 | AJOZH0jECuU | 4,259 | 7 | 6,866 | 0.62 | 5 | 0.43 | binh_thuong | – | Không | 17 Of The EASIEST Amish Cheese Recipes You Can Try TODAY |
+| 2026-03-14 | 247 | G7IzUWhwXFM | 790 | 8 | 5,562 | 0.14 | 5 | 4.63 | binh_thuong | – | Không | 15 Homestead Income Streams You NEVER would have Considered That PAY |
+| 2026-03-15 | 246 | UjI9lZiMKU0 | 33,508 | 9 | 4,259 | 7.87 | 5 | 6.05 | manh | – | Không | How Amish Stockpile Food for 20+ Years Without Electricity |
+| 2026-03-18 | 243 | 3vpKhkn5zMQ | 200,355 | 10 | 5,562 | 36.02 | 5 | 0.53 | can_kiem_ky | – | Không | They HID These 20 Amish Fermented Foods From American Families |
+| 2026-03-20 | 241 | S3OrjeVSaPg | 2,945 | 11 | 6,866 | 0.43 | 5 | 0.37 | binh_thuong | – | Không | 15 Forgotten Amish Tricks Stop Pests Before They Start |
+| 2026-03-23 | 238 | iaDUDozwb8M | 2,288 | 12 | 5,562 | 0.41 | 5 | 0.46 | binh_thuong | – | Không | STOP Buying Pesticides: 20 Birds Amish Farmers Attract Instead |
+| 2026-03-26 | 235 | ucCSV-rT4_8 | 25,762 | 13 | 4,259 | 6.05 | 5 | 0.60 | manh | – | Không | 45 Forgotten Amish Recipes Your Grandmother Never Shared |
+| 2026-03-29 | 232 | luEXvMM2o5U | 31,405 | 14 | 5,562 | 5.65 | 5 | 0.46 | manh | – | Không | 30 Things to Stockpile NOW Before Prices Skyrocket |
+| 2026-04-02 | 228 | XOlZr9d4lLQ | 2,563 | 15 | 6,866 | 0.37 | 5 | 0.45 | binh_thuong | – | Không | How The Amish Stay Thin WITHOUT Ozempic, Wegovy, or Any Pill |
+| 2026-04-05 | 225 | lxc6Ve_UAng | 2,024 | 15 | 6,866 | 0.29 | 5 | 0.50 | binh_thuong | – | Không | How Amish Make Their FAMOUS Soil So Healthy (You Can Too) |
+| 2026-04-08 | 222 | Y4nDNILn5sA | 1,029 | 15 | 6,866 | 0.15 | 5 | 0.54 | binh_thuong | – | Không | STOP Believing These 15 Myths About the Amish... Here's What They ACTUALLY Do |
+| 2026-04-09 | 221 | XaiVJBog7xE | 3,447 | 15 | 4,259 | 0.81 | 5 | 0.88 | binh_thuong | – | Không | STOP Buying Store Milk: What the Amish Drink Instead (And Why It's Better) |
+| 2026-04-13 | 217 | 7vKIRxHcXjw | 3,074 | 15 | 4,259 | 0.72 | 5 | 0.88 | binh_thuong | – | Không | This Cooling Trick Can Cut Your Power Bill 25% (Most Ignore It) |
+| 2026-04-15 | 215 | rDpvIvY2Aoo | 4,008 | 15 | 3,447 | 1.16 | 5 | 0.77 | binh_thuong | – | Không | Amish Cooking Methods You'll Wish You Knew Before the Grid Went Down |
+| 2026-04-16 | 214 | kVxEvYWqTuw | 7,524 | 15 | 3,447 | 2.18 | 5 | 0.77 | hoi_cao | – | Không | The PERFECT Garden Blueprint starting with 6 plants: What We Learned from the Amish |
+| 2026-04-22 | 208 | 8a7_Q4Xdf7Q | 3,730 | 15 | 3,447 | 1.08 | 5 | 0.77 | binh_thuong | – | Không | STOP Doing These 30 Broken Life Hacks: What The Amish Do Instead |
+| 2026-04-24 | 206 | fFRfuznrdgI | 2,639 | 15 | 3,447 | 0.77 | 5 | 3.82 | binh_thuong | – | Không | 🐤FAVORITE Amish Backyard Chickens + Beginner Tips to Get You Started |
+| 2026-04-29 | 201 | PnsLPeYmksQ | 2,243 | 15 | 3,447 | 0.65 | 5 | 3.82 | binh_thuong | – | Không | 50 Tomato Secrets Most Gardeners NEVER Learn |
+| 2026-05-01 | 199 | J0wz1s_7ikA | 1,692 | 15 | 3,074 | 0.55 | 5 | 4.29 | binh_thuong | – | Không | Clean 15 vs Dirty Dozen (What’s Actually Worth Your Money?) |
+| 2026-05-04 | 196 | GD1V4G5afyE | 381,756 | 15 | 2,945 | 130 | 5 | 2.55 | can_kiem_ky | – | Không | STOP Refrigerating These 20 Foods — The Amish Left Them Out On Purpose |
+| 2026-05-07 | 193 | ealdtaCSoJg | 51,997 | 15 | 3,074 | 16.92 | 5 | 2.04 | can_kiem_ky | – | Không | 20 Things the Amish Ferment That Nobody's Talking About |
+| 2026-05-10 | 190 | a2HypCQLcYY | 13,181 | 15 | 3,447 | 3.82 | 5 | 1.81 | dang_ghi | – | Không | IRS Took His Horses - The Amish Fight That Changed American Law |
+| 2026-05-12 | 188 | SOL_6a55eXY | 7,500 | 15 | 3,447 | 2.18 | 5 | 1.33 | hoi_cao | – | Không | Sourdough Secrets Most Beginners Never Learn (+10 Full Recipes) |
+| 2026-05-14 | 186 | GY1RzNAsMTw | 2,776 | 15 | 3,447 | 0.81 | 5 | 1.33 | binh_thuong | – | Không | Amish Foods That Rebuilt Your Immune System Naturally |
+| 2026-05-17 | 183 | uYXAShLwkOc | 4,044 | 15 | 3,447 | 1.17 | 5 | 1.33 | binh_thuong | – | Không | 25 Plant Warning Signals the Amish Recognize Before Anyone Else |
+| 2026-05-19 | 181 | oo48Oi5j5ck | 6,256 | 15 | 3,730 | 1.68 | 5 | 1.23 | binh_thuong | – | Không | 40 Amish Money-Saving Hacks THEY Don’t Want You To Know |
+| 2026-05-21 | 179 | 6AXSJMueINI | 14,779 | 15 | 4,008 | 3.69 | 5 | 1.12 | dang_ghi | – | Không | 10 Water Bath Canning Recipes Every Beginner Needs — Plus the 8 Mistakes That Ruin Jars |
+| 2026-05-25 | 175 | 732lNr1olsk | 4,598 | 15 | 4,044 | 1.14 | 5 | 0.55 | binh_thuong | – | Không | 60 Homestead Hacks Every Man Should Know |
+| 2026-05-28 | 172 | abF3FjEHrxM | 1,384 | 15 | 4,598 | 0.30 | 5 | 0.73 | binh_thuong | – | Không | What Coca-Cola USED to Be — And How ALL Medicine Was Replaced |
+| 2026-05-30 | 170 | KSX1PW0uJDw | 2,212 | 15 | 4,598 | 0.48 | 5 | 0.73 | binh_thuong | – | Không | STOP Buying Supplements: This $2 Seed Grows 40x More Nutrients Than a Head of Broccoli |
+| 2026-05-31 | 169 | PEWICiZJ7VM | 5,566 | 15 | 4,044 | 1.38 | 5 | 0.81 | binh_thuong | – | Không | How Amish Raise Chickens For Almost Nothing — The Complete Beginner's Guide |
+| 2026-06-02 | 167 | KjkfhfRmBDY | 4,471 | 15 | 4,598 | 0.97 | 5 | 0.55 | binh_thuong | – | Không | STOP Gardening The Hard Way: 20 Amish Tricks That Actually Work |
+| 2026-06-04 | 165 | pX4WjZfUgZw | 1,253 | 15 | 4,598 | 0.27 | 5 | 0.55 | binh_thuong | – | Không | Biblical Super Foods You’ll Wish You Knew Sooner |
+| 2026-06-06 | 163 | UZ-kLudC4yI | 3,370 | 15 | 4,598 | 0.73 | 5 | 0.54 | binh_thuong | – | Không | 10 Amish Watering Rules That Make Roots Grow DEEPER |
+| 2026-06-08 | 161 | T-DaHA2uxNs | 3,292 | 15 | 4,598 | 0.72 | 5 | 0.48 | binh_thuong | – | Không | What Amish Families Cook When Hens Lay More Eggs Than They Need |
+| 2026-06-10 | 159 | KbBoPaNjqUE | 2,225 | 15 | 4,471 | 0.50 | 5 | 0.48 | binh_thuong | – | Không | 20 Sourdough Recipes That Actually WORK — Cinnamon Rolls, Crepes, Pizza, and Muffins |
+| 2026-06-12 | 157 | z26827Bj104 | 2,540 | 15 | 4,044 | 0.63 | 5 | 0.53 | binh_thuong | – | Không | 25 'Banned' Foods the Amish Still Eat — And You Should Too |
+| 2026-06-15 | 154 | LqbXaXwru14 | 1,565 | 15 | 3,370 | 0.46 | 5 | 0.67 | binh_thuong | – | Không | How Old World Kitchens Made the Cheapest Foods Taste Amazing |
+| 2026-06-18 | 151 | VehbxFFygt8 | 2,474 | 15 | 3,292 | 0.75 | 5 | 0.65 | binh_thuong | – | Không | STOP Buying Fruit Trees — The Amish Grow Hundreds for Almost Nothing |
+| 2026-06-21 | 148 | RiQjuu1zqHw | 2,146 | 15 | 3,292 | 0.65 | 5 | 0.69 | binh_thuong | – | Không | Amish Pantry Rules That Make Food Last 10x Longer |
+| 2026-06-24 | 145 | u6JeI13lnAY | 1,736 | 15 | 2,540 | 0.68 | 5 | 0.89 | binh_thuong | – | Không | 10 Amish Remedies Better Than Pills: Headaches, Blood Pressure, and More |
+| 2026-06-26 | 143 | AAtvTsiyUIE | 2,264 | 15 | 2,474 | 0.92 | 5 | 0.77 | binh_thuong | – | Không | 20 Natural Ways to Beat Ticks — One Eats 500 a Day and One Breaks the Lyme Cycle at the Source |
+| 2026-06-29 | 140 | zRrhC_y_wTE | 2,591 | 15 | 2,264 | 1.14 | 5 | 0.84 | binh_thuong | – | Không | The Amish Pantry Test: Why Most Survival Food is a Lie |
+| 2026-07-01 | 138 | XYbCMAb2zDM | 1,904 | 15 | 2,264 | 0.84 | 5 | 0.95 | binh_thuong | – | Không | HEAL Your Brain Fog, Inflammation & Fatigue with These Foods |
+| 2026-07-03 | 136 | vUFElD7v3zE | 3,554 | 15 | 2,264 | 1.57 | 5 | 0.95 | binh_thuong | – | Không | While America Starved, the Amish THRIVED — Here's Why |
+| 2026-07-06 | 133 | rF2uqQu-YSA | 1,153 | 15 | 2,474 | 0.47 | 5 | 2.35 | binh_thuong | – | Không | Gardening Secrets Behind the World's Largest Vegetables |
+| 2026-07-08 | 131 | NBzGKrjnkqs | 1,569 | 15 | 2,264 | 0.69 | 5 | 2.57 | binh_thuong | – | Không | The Century That Changed American Food Forever |
+| 2026-07-10 | 129 | zOI0U68TCb8 | 2,140 | 15 | 2,225 | 0.96 | 5 | 3.13 | binh_thuong | – | Không | The Best Egg Preservation Method You Never Heard Of |
+| 2026-07-15 | 124 | ewZUy0H61Ow | 5,809 | 15 | 2,225 | 2.61 | 5 | 19.22 | hoi_cao | – | Không | 35 Amish Vegetable Gardening Hacks You'll Wish You Knew Sooner |
+| 2026-07-17 | 122 | cV3uaHi4mqM | 42,767 | 15 | 2,225 | 19.22 | 5 | 3.13 | can_kiem_ky | – | Không | 100 More Amish Gardening Hacks That Will Change How You Garden |
+| 2026-07-21 | 118 | 9lj05-HRC2k | 84,486 | 15 | 2,225 | 37.97 | 5 | 1.00 | can_kiem_ky | – | Không | DON’T Buy a Dehydrator: 20 Foods the Amish Dry Without Electricity |
+| 2026-07-23 | 116 | ZXqYo5nVYoc | 2,235 | 15 | 2,264 | 0.99 | 5 | 0.88 | binh_thuong | – | Không | STOP Buying Soda — Make This Ancient Probiotic Drink for Pennies |
+| 2026-07-27 | 112 | qrsPlu_LGPs | 6,964 | 15 | 2,235 | 3.12 | 5 | 0.82 | dang_ghi | – | Không | Stop Buying Seeds! The Amish Method for Saving Seeds |
+| 2026-07-31 | 108 | KvH3GBRy0nc | 99,700 | 15 | 2,264 | 44.04 | 5 | 0.81 | can_kiem_ky | – | Không | 50 Amish Gardening Secrets That Save Time and Money and Work |
+| 2026-08-03 | 105 | hXHfnvXbYPg | 1,996 | 15 | 2,264 | 0.88 | 5 | 0.66 | binh_thuong | – | Không | Forgotten Amish Secrets to Infinite Food Preservation |
+| 2026-08-11 | 97 | vRQ_EDvq7qc | 1,505 | 15 | 2,264 | 0.66 | 5 | 0.81 | binh_thuong | – | Không | STOP Fighting Heat in Your Garden — Amish Do THIS Instead |
+| 2026-08-14 | 94 | WcYBaUI8U2Y | 995 | 15 | 2,264 | 0.44 | 5 | 0.92 | binh_thuong | – | Không | 33 Garden Surplus Recipes to Never Waste a Harvest Again |
+| 2026-08-16 | 92 | SBrzv1jhcYw | 1,827 | 15 | 2,235 | 0.82 | 5 | 0.94 | binh_thuong | – | Không | STOP Canning It Wrong: 12 Foods Amish Families Preserve At Home |
+| 2026-08-18 | 90 | _divuEXE-Lw | 2,093 | 15 | 2,140 | 0.98 | 5 | 1.01 | binh_thuong | – | Không | The Forgotten Amish Remedy That REPLACES Cough Syrup (Oxymel From Scratch) |
+| 2026-08-20 | 88 | SAERtquqwo8 | 1,373 | 15 | 2,140 | 0.64 | 5 | 1.10 | binh_thuong | – | Không | 40 Kitchen Scraps: Which Plants Love Them Which Plants Hate Them |
+| 2026-08-22 | 86 | nefg_32mv9Q | 3,647 | 15 | 2,093 | 1.74 | 5 | 1.13 | binh_thuong | – | Không | Amish Fathers Went to Jail — And Won a Right Every Homeschool Family Uses Today |
+| 2026-08-24 | 84 | G2lx1lJmMhA | 2,158 | 15 | 2,140 | 1.01 | 5 | 1.23 | binh_thuong | – | Không | STOP These Poisonous Plants — They're Killing Pets & Livestock |
+| 2026-08-26 | 82 | SuljvxHWJWI | 1,765 | 15 | 2,158 | 0.82 | 5 | 2.32 | binh_thuong | – | Không | STOP Swatting Mosquitoes: 17 Amish Tricks That Actually WORK |
+| 2026-08-28 | 80 | gd_X2L-eLpQ | 110,557 | 15 | 2,158 | 51.23 | 5 | 2.32 | can_kiem_ky | – | Không | How Amish Kitchens Work WITHOUT Waste — 100 Food Hacks That Actually Work |
+| 2026-08-30 | 78 | bXgJ8uLp3PE | 2,357 | 15 | 2,158 | 1.09 | 5 | 2.32 | binh_thuong | – | Không | 20 Wild Plants Growing in Your Yard RIGHT NOW and How to Make Food and Medicine with Them |
+| 2026-09-01 | 76 | YkGPuSdh0kQ | 2,637 | 15 | 2,158 | 1.22 | 5 | 2.32 | binh_thuong | – | Không | Kitchen Waste The Amish Use As Garden Gold |
+| 2026-09-03 | 74 | ETYJ0eNqTDQ | 5,017 | 15 | 2,158 | 2.32 | 5 | 2.04 | hoi_cao | – | Không | 18 Restaurant Meals You Can Make at Home for Under $2 |
+| 2026-09-05 | 72 | N4pj1OM8a50 | 122,978 | 15 | 2,158 | 56.99 | 5 | 2.04 | can_kiem_ky | – | Không | 25 Amish Greenhouse Hacks That Will Save You Money |
+| 2026-09-07 | 70 | QPLh03U_rjQ | 5,860 | 15 | 2,158 | 2.72 | 5 | 2.04 | hoi_cao | – | Không | The Amish Smokehouse Secret That Makes Meat Last A Year |
+| 2026-09-09 | 68 | vHJ0b_ILfCI | 4,402 | 15 | 2,158 | 2.04 | 5 | 1.98 | hoi_cao | – | Không | 20 Amish Kitchen Tricks So Crazy They Actually WORK |
+| 2026-09-16 | 61 | M98peCWtlSI | 4,281 | 15 | 2,357 | 1.82 | 5 | 3.65 | binh_thuong | – | Không | Amish Grandmothers Were Right: 20 Things They Kept That We Should Never Have Replaced |
+| 2026-09-22 | 55 | sK1-UUnlsns | 3,466 | 15 | 2,637 | 1.31 | 5 | 3.26 | binh_thuong | – | Không | How Amish Families Save Summer Fruit WITHOUT a Refrigerator |
+| 2026-09-25 | 52 | b0hXjHBw5Vc | 62,365 | 15 | 3,466 | 17.99 | 5 | 2.36 | can_kiem_ky | – | Không | STOP Wasting Money: 60 Amish Tricks That Actually Work |
+| 2026-09-27 | 50 | hqWbYcrRPy8 | 9,303 | 15 | 3,647 | 2.55 | 5 | 0.96 | hoi_cao | – | Không | Foods The Amish Keep OUT of the Refrigerator |
+| 2026-09-29 | 48 | S9IafBrgdYI | 2,782 | 15 | 4,281 | 0.65 | 5 | 0.82 | binh_thuong | – | Không | STOP Buying Skin Creams: Amish Grandmothers Use This $6 Oil Instead |
+| 2026-10-01 | 46 | 3u5BS_04YGg | 8,605 | 15 | 4,281 | 2.01 | 5 | 0.82 | hoi_cao | – | Không | How Amish Root Cellars Feed a Family All Winter Without Electricity |
+| 2026-10-03 | 44 | x5SXqaVLisw | 8,181 | 15 | 4,402 | 1.86 | 5 | 0.80 | binh_thuong | – | Không | Root Cellar vs. Freezer vs. Canning: Which One Actually Wins? |
+| 2026-10-05 | 42 | WJkL99rHyHs | 3,516 | 15 | 5,017 | 0.70 | 5 | 1.36 | binh_thuong | – | Không | STOP Ignoring Cabbage It’s the Cheapest Superfood in the Produce Aisle |
+| 2026-10-07 | 40 | 0Erd5PBc6Wc | 2,478 | 15 | 5,017 | 0.49 | 5 | 2.18 | binh_thuong | – | Không | 40 FORGOTTEN Beeswax Hacks You Never Heard Of |
+| 2026-10-09 | 38 | IgrfTIv9euU | 1,652 | 15 | 4,402 | 0.38 | 5 | 3.55 | binh_thuong | – | Không | Recipes from Classic Movies - Sound of Music, Wizard of OZ, It's A Wonderful Life |
+| 2026-10-11 | 36 | 9U8cF0YdQVk | 10,957 | 15 | 4,402 | 2.49 | 5 | 3.55 | hoi_cao | – | Không | 40 Amish Gardening Hacks You'll Wish You Knew Sooner |
+| 2026-10-15 | 32 | uCu-pAoQ7gw | 28,725 | 15 | 5,017 | 5.73 | 5 | 3.11 | manh | – | Không | 12 Meats You Can Pressure Can at Home |
+| 2026-10-17 | 30 | MYvtgLE7TYg | 6,837 | 15 | 5,860 | 1.17 | 5 | 2.66 | binh_thuong | – | Không | STOP Heating Your Greenhouse: Build This Underground Instead |
+| 2026-10-20 | 27 | jH3dqw5gC9g | 19,912 | 15 | 5,860 | 3.40 | 5 | 0.85 | chua_chin | – | Không | STOP Wasting Money:  100 Amish Home Hacks You’ll Wish You Knew Sooner |
+| 2026-10-25 | 22 | ZXC2wUeufJs | 15,612 | 15 | 6,837 | 2.28 | 5 | 0.48 | chua_chin | – | Không | The Real Amish Chicken Coop (It’s Not a Weekend Project) |
+| 2026-10-26 | 21 | Sa0HHjfMC5k | 4,998 | 15 | 8,181 | 0.61 | 5 | 0.40 | chua_chin | – | Không | 45 Amish-Style Holiday Recipes, From Wood Stove Turkey To Christmas Eggnog |
+| 2026-10-29 | 18 | WUFOD0BB-v4 | 25,724 | 15 | 8,181 | 3.14 | 5 | 0.40 | chua_chin | – | Không | 50 Lost Amish Recipes That Cost PENNIES (You’ll Wish You Knew Sooner) |
+| 2026-11-02 | 14 | z61KjN36Z3U | 1,886 | 15 | 8,605 | 0.22 | 5 | 0.38 | chua_chin | – | Không | 6 Watering Mistakes That Are Secretly STUNTING Your Garden |
+| 2026-11-05 | 11 | rAGa5t5wwOk | 2,930 | 15 | 8,181 | 0.36 | 4 | – | chua_chin | – | Không | Why Your Homemade Fries Go Soggy, And The Fat McDonald’s Stopped Using |
+| 2026-11-10 | 6 | nTeRth8Fe_g | 3,277 | 15 | 6,837 | 0.48 | 3 | – | chua_chin | – | Không | STOP Throwing Away Eggshells: 22 Uses The Amish Never Forgot |
+| 2026-11-11 | 5 | r_jZdhVA-JA | 4,106 | 15 | 6,837 | 0.60 | 2 | – | chua_chin | – | Không | Things Amish Homesteads Have That You’ve Never Seen Anywhere Else |
+| 2026-11-13 | 3 | pbfB1wpr45g | 4,235 | 15 | 4,998 | 0.85 | 1 | – | chua_chin | – | Không | How Amish Grow Fresh Food All Winter With No Greenhouse |
+| 2026-11-15 | 1 | y4r8EdtZx-o | 53 | 15 | 4,235 | 0.01 | 0 | – | chua_chin | – | Không | 60 Ways the Amish Heat Their Homes WITHOUT Electricity |

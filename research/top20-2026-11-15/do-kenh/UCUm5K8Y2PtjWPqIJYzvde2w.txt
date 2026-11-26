@@ -1,0 +1,66 @@
+# Đo kênh: UCUm5K8Y2PtjWPqIJYzvde2w.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 24 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 24 |
+| n_trong_danh_sach | 24 |
+| n_dai | 24 |
+| n_short | 0 |
+| n_dai_dung_tinh | 10 |
+| nguong_tuoi_video | 30 |
+| subs | 4,410 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-07-08 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 3,806 |
+| cao_nhat | 48,287 |
+| thap_nhat | 845 |
+| phan_tan | 12.69 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.86 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | – |
+| ngay_video_dau | 2026-07-08 |
+| tuoi_tu_video_dau | 131 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 33.66 |
+| sub_moi_video | 184 |
+| video_30_ngay | 14 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-07-08 | 131 | zr_vpzN55p4 | 845 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 3 Water Storing Mistakes That Make It POISONOUS #prepper |
+| 2026-07-10 | 129 | 1AR08iN-iDg | 3,834 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to SURVIVE the First 90 Days After SHTF (Step-by-Step Guide) |
+| 2026-07-16 | 123 | OiUpg_oQrew | 1,004 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Survival Lessons That Might SAVE Your Life In Bad Times (If Things Get Worse) |
+| 2026-07-22 | 117 | Z_fBed92zcI | 28,096 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 11 Items Under $20 That'll be Worth More Than Gold When the World Has Ended |
+| 2026-07-23 | 116 | N_0JdrrlDuI | 5,172 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Protect Your House From Marauders When the World Has Ended |
+| 2026-07-24 | 115 | khlNMhFF9qM | 1,158 | 5 | 3,834 | 0.30 | 5 | 0.99 | binh_thuong | – | Không | 10 Mistakes UNPREPARED Will Make When Collapse Begins |
+| 2026-07-25 | 114 | vFJRCKe_IaI | 48,287 | 6 | 2,496 | 19.35 | 5 | 0.62 | can_kiem_ky | – | Không | How to Survive a Cold Winter If the World Has Ended |
+| 2026-10-06 | 41 | X4rJwU3FyPQ | 3,779 | 7 | 3,834 | 0.99 | 5 | 0.22 | binh_thuong | – | Không | 7 Things That Become MONEY EVERY Time After Collapse (Stockpile Them NOW) |
+| 2026-10-08 | 39 | No2qBCbnYKo | 14,794 | 8 | 3,806 | 3.89 | 5 | 0.17 | dang_ghi | – | Không | 9 Things to Do IMMEDIATELY After an EMP (Before the First Night Falls) |
+| 2026-10-17 | 30 | 13uOdt9pZrs | 853 | 9 | 3,834 | 0.22 | 5 | 0.16 | binh_thuong | – | Không | 15 Items YOU'LL WISH YOU HAD When the World Burns (Prepare Now) |
+| 2026-10-18 | 29 | awVuPe6WPHc | 1,548 | 10 | 3,806 | 0.41 | 5 | 0.16 | chua_chin | – | Không | Marauders Will AVOID Your House If You Do THIS One Thing... |
+| 2026-10-22 | 25 | JJe7Kd3M9Uw | 637 | 11 | 3,779 | 0.17 | 5 | 0.16 | chua_chin | – | Không | 5 Off-Grid Inventions Veterans Trust When the Grid Goes Down (Never Depend on Power Again) |
+| 2026-10-23 | 24 | euL6tqjtPv0 | 617 | 12 | 2,664 | 0.23 | 5 | 0.43 | chua_chin | – | Không | 11 Winter Blackout Survival Tricks Veterans Know (When the Grid Dies and Help Isn't Coming) |
+| 2026-10-24 | 23 | siZROWxecZk | 606 | 13 | 1,548 | 0.39 | 5 | 0.92 | chua_chin | – | Không | 10 Things Veterans Buy Before Every Major Disaster (Veterans Know Better) |
+| 2026-10-25 | 22 | 1-_a07BbMDM | 558 | 14 | 1,353 | 0.41 | 5 | 1.05 | chua_chin | – | Không | 9 Canned Foods Veterans STOCKPILE That NEVER Expire (Under $3 Each) |
+| 2026-10-26 | 21 | Q6NCtOoRflI | 1,150 | 15 | 1,158 | 0.99 | 5 | 1.22 | chua_chin | – | Không | The $50 Survival Setup That Army Veterans Trust More Than Expensive Prepper Gear |
+| 2026-10-27 | 20 | tTw14FDXlQw | 6,062 | 15 | 1,158 | 5.23 | 5 | 0.74 | chua_chin | – | Không | 11 CHEAP Items at Tractor Supply That Veterans STOCPILE Before Anyone Else |
+| 2026-10-28 | 19 | txHWFyfn2aY | 2,749 | 15 | 1,158 | 2.37 | 5 | 0.24 | chua_chin | – | Không | 9 Grey Man Rules Military Veterans Follow That Most Preppers Never Learn |
+| 2026-10-30 | 17 | Wsqy3TvpzkA | 1,418 | 15 | 1,548 | 0.92 | 5 | 0.11 | chua_chin | – | Không | 7 U.S. States That Become FORTRESSES When the Grid Goes Down (Veterans Are Quietly Moving Here) |
+| 2026-11-02 | 14 | y8Q2PiCpG8E | 852 | 15 | 1,418 | 0.60 | 4 | – | chua_chin | – | Không | 9 Home Depot Items Veterans Always Keep in Their Trucks (Most Drivers Overlook These) |
+| 2026-11-10 | 6 | tRt_BlhQqNs | 173 | 15 | 1,158 | 0.15 | 3 | – | chua_chin | – | Không | 8 Walmart Items That Look Useless Until the Power Goes Out (Veterans Know Better) |
+| 2026-11-12 | 4 | OrS5XTFF7qk | 280 | 15 | 1,150 | 0.24 | 2 | – | chua_chin | – | Không | 15 Items That VANISH From Walmart in the First 12 Hours After Grid Collapse (What Veterans Grab Ins |
+| 2026-11-13 | 3 | 5IlBIfPLqz8 | 105 | 15 | 853 | 0.12 | 1 | – | chua_chin | – | Không | 9 Grey Man Rules Veterans Follow to Stay Invisible During a Collapse (Most Preppers Get These Wrong |
+| 2026-11-15 | 1 | fMRyunWZQ00 | 135 | 15 | 852 | 0.16 | 0 | – | chua_chin | – | Không | 11 Things Veterans Grab at an Army Surplus Store That Civilians Walk Past (Veterans Know Better) |

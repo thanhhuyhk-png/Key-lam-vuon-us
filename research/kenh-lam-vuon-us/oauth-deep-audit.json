@@ -1,0 +1,6210 @@
+{
+  "fetched_at": "2026-11-25T18:00:11.617244+00:00",
+  "date_end": "2026-11-26",
+  "channel_meta": {
+    "kind": "youtube#channelListResponse",
+    "etag": "bEe0zebQwOi1aowiDeWC5_eRDMU",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#channel",
+        "etag": "tP2I9p1lmDswfQCPjdkW7pgeYiE",
+        "id": "UCnCALMh5O4Ykpv_ESjZ6WqA",
+        "snippet": {
+          "title": "Senior Garden Guide",
+          "description": "Finding peace in the garden shouldn’t hurt your back—or your wallet. At Senior Garden Guide, we help brand-new senior gardeners grow fresh food and flowers in a gentle, healing, and budget-friendly way.\nOur approach is simple and senior-first: clear step-by-step lessons, safe posture and movement tips, and calm pacing you can follow without rushing. We focus on the basics that matter—choosing the right, resilient varieties, caring for plants the easy way, and setting up low-maintenance beds and containers. You’ll also learn money-saving habits like seed starting, composting, regrowing kitchen scraps, and smart seasonal timing.\nThis channel is for beginners, older adults with limited mobility or arthritis, caregivers helping a loved one, and anyone who wants a soothing hobby that also trims the grocery bill. We keep instructions large-print on screen, speak slowly, and repeat the key steps so you never feel left behind.\n",
+          "customUrl": "@seniorgardenguide",
+          "publishedAt": "2025-09-10T02:32:13.694177Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/O8Ku2WLuSSUUVV3piorad0NnwZRCHfeOOot5EpKq5SpJ0majyH5pNJpKg_6UWjlDtsTEDjbCy5g=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/O8Ku2WLuSSUUVV3piorad0NnwZRCHfeOOot5EpKq5SpJ0majyH5pNJpKg_6UWjlDtsTEDjbCy5g=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/O8Ku2WLuSSUUVV3piorad0NnwZRCHfeOOot5EpKq5SpJ0majyH5pNJpKg_6UWjlDtsTEDjbCy5g=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Senior Garden Guide",
+            "description": "Finding peace in the garden shouldn’t hurt your back—or your wallet. At Senior Garden Guide, we help brand-new senior gardeners grow fresh food and flowers in a gentle, healing, and budget-friendly way.\nOur approach is simple and senior-first: clear step-by-step lessons, safe posture and movement tips, and calm pacing you can follow without rushing. We focus on the basics that matter—choosing the right, resilient varieties, caring for plants the easy way, and setting up low-maintenance beds and containers. You’ll also learn money-saving habits like seed starting, composting, regrowing kitchen scraps, and smart seasonal timing.\nThis channel is for beginners, older adults with limited mobility or arthritis, caregivers helping a loved one, and anyone who wants a soothing hobby that also trims the grocery bill. We keep instructions large-print on screen, speak slowly, and repeat the key steps so you never feel left behind.\n"
+          },
+          "country": "US"
+        },
+        "statistics": {
+          "viewCount": "6054442",
+          "subscriberCount": "62900",
+          "hiddenSubscriberCount": false,
+          "videoCount": "260"
+        },
+        "topicDetails": {
+          "topicIds": [
+            "/m/01k8wb",
+            "/m/019_rr"
+          ],
+          "topicCategories": [
+            "https://en.wikipedia.org/wiki/Knowledge",
+            "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+          ]
+        },
+        "status": {
+          "privacyStatus": "public",
+          "isLinked": true,
+          "longUploadsStatus": "allowed",
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false,
+          "isChannelMonetizationEnabled": true
+        },
+        "brandingSettings": {
+          "channel": {
+            "title": "Senior Garden Guide",
+            "description": "Finding peace in the garden shouldn’t hurt your back—or your wallet. At Senior Garden Guide, we help brand-new senior gardeners grow fresh food and flowers in a gentle, healing, and budget-friendly way.\nOur approach is simple and senior-first: clear step-by-step lessons, safe posture and movement tips, and calm pacing you can follow without rushing. We focus on the basics that matter—choosing the right, resilient varieties, caring for plants the easy way, and setting up low-maintenance beds and containers. You’ll also learn money-saving habits like seed starting, composting, regrowing kitchen scraps, and smart seasonal timing.\nThis channel is for beginners, older adults with limited mobility or arthritis, caregivers helping a loved one, and anyone who wants a soothing hobby that also trims the grocery bill. We keep instructions large-print on screen, speak slowly, and repeat the key steps so you never feel left behind.\n",
+            "country": "US"
+          },
+          "image": {
+            "bannerExternalUrl": "https://yt3.googleusercontent.com/I9QUVIVuzAFBzsTrc6j8zm_b4pvCjutAvQNHGlBT3UWOG-fpvGZNoM8xVTbqoeWhCVQF6OFnHQ"
+          }
+        }
+      }
+    ]
+  },
+  "monthly_trend": {
+    "error": "API error 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Date range (2026-11-26) in field parameters.end-date does not align to chosen date dimension.\",\n    \"errors\": [\n      {\n        \"message\": \"Date range (2026-11-26) in field parameters.end-date does not align to chosen date dimension.\",\n        \"domain\": \"global\",\n        \"reason\": \"badRequest\"\n      }\n    ]\n  }\n}\n"
+  },
+  "monthly_revenue": {
+    "error": "API error 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Date range (2026-11-26) in field parameters.end-date does not align to chosen date dimension.\",\n    \"errors\": [\n      {\n        \"message\": \"Date range (2026-11-26) in field parameters.end-date does not align to chosen date dimension.\",\n        \"domain\": \"global\",\n        \"reason\": \"badRequest\"\n      }\n    ]\n  }\n}\n"
+  },
+  "geo_by_era": {
+    "peak_jan_apr": [
+      {
+        "country": "US",
+        "views": 2267072,
+        "estimatedMinutesWatched": 8025777,
+        "averageViewDuration": 212,
+        "averageViewPercentage": 26.590000000000003,
+        "subscribersGained": 25437
+      },
+      {
+        "country": "IN",
+        "views": 410290,
+        "estimatedMinutesWatched": 1041173,
+        "averageViewDuration": 153,
+        "averageViewPercentage": 21.67,
+        "subscribersGained": 2527
+      },
+      {
+        "country": "AU",
+        "views": 340901,
+        "estimatedMinutesWatched": 1190645,
+        "averageViewDuration": 209,
+        "averageViewPercentage": 24.61,
+        "subscribersGained": 2087
+      },
+      {
+        "country": "CA",
+        "views": 264290,
+        "estimatedMinutesWatched": 905668,
+        "averageViewDuration": 205,
+        "averageViewPercentage": 26.789999999999996,
+        "subscribersGained": 1879
+      },
+      {
+        "country": "GB",
+        "views": 260190,
+        "estimatedMinutesWatched": 842000,
+        "averageViewDuration": 194,
+        "averageViewPercentage": 25.34,
+        "subscribersGained": 1620
+      },
+      {
+        "country": "PH",
+        "views": 144760,
+        "estimatedMinutesWatched": 575834,
+        "averageViewDuration": 239,
+        "averageViewPercentage": 28.000000000000004,
+        "subscribersGained": 589
+      },
+      {
+        "country": "ZA",
+        "views": 124281,
+        "estimatedMinutesWatched": 477465,
+        "averageViewDuration": 230,
+        "averageViewPercentage": 27.38,
+        "subscribersGained": 713
+      },
+      {
+        "country": "MY",
+        "views": 49643,
+        "estimatedMinutesWatched": 184364,
+        "averageViewDuration": 222,
+        "averageViewPercentage": 26.340000000000003,
+        "subscribersGained": 33
+      },
+      {
+        "country": "NZ",
+        "views": 48142,
+        "estimatedMinutesWatched": 173242,
+        "averageViewDuration": 215,
+        "averageViewPercentage": 25.35,
+        "subscribersGained": 46
+      },
+      {
+        "country": "PK",
+        "views": 31770,
+        "estimatedMinutesWatched": 82238,
+        "averageViewDuration": 155,
+        "averageViewPercentage": 21.17,
+        "subscribersGained": 33
+      },
+      {
+        "country": "TT",
+        "views": 31329,
+        "estimatedMinutesWatched": 143550,
+        "averageViewDuration": 274,
+        "averageViewPercentage": 32.18,
+        "subscribersGained": 24
+      },
+      {
+        "country": "DE",
+        "views": 30349,
+        "estimatedMinutesWatched": 91197,
+        "averageViewDuration": 180,
+        "averageViewPercentage": 22.54,
+        "subscribersGained": 22
+      },
+      {
+        "country": "SG",
+        "views": 30133,
+        "estimatedMinutesWatched": 104926,
+        "averageViewDuration": 208,
+        "averageViewPercentage": 26.74,
+        "subscribersGained": 11
+      },
+      {
+        "country": "NL",
+        "views": 28910,
+        "estimatedMinutesWatched": 94560,
+        "averageViewDuration": 196,
+        "averageViewPercentage": 25.040000000000003,
+        "subscribersGained": 59
+      },
+      {
+        "country": "KE",
+        "views": 20296,
+        "estimatedMinutesWatched": 81904,
+        "averageViewDuration": 242,
+        "averageViewPercentage": 29.049999999999997,
+        "subscribersGained": 11
+      },
+      {
+        "country": "JM",
+        "views": 18499,
+        "estimatedMinutesWatched": 88541,
+        "averageViewDuration": 287,
+        "averageViewPercentage": 33.16,
+        "subscribersGained": 0
+      },
+      {
+        "country": "BD",
+        "views": 16036,
+        "estimatedMinutesWatched": 37849,
+        "averageViewDuration": 141,
+        "averageViewPercentage": 18.94,
+        "subscribersGained": 0
+      },
+      {
+        "country": "SE",
+        "views": 14558,
+        "estimatedMinutesWatched": 46992,
+        "averageViewDuration": 193,
+        "averageViewPercentage": 25.05,
+        "subscribersGained": 0
+      },
+      {
+        "country": "IE",
+        "views": 14192,
+        "estimatedMinutesWatched": 48047,
+        "averageViewDuration": 203,
+        "averageViewPercentage": 26.56,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ID",
+        "views": 14124,
+        "estimatedMinutesWatched": 43463,
+        "averageViewDuration": 184,
+        "averageViewPercentage": 21.45,
+        "subscribersGained": 0
+      },
+      {
+        "country": "LK",
+        "views": 13262,
+        "estimatedMinutesWatched": 35815,
+        "averageViewDuration": 162,
+        "averageViewPercentage": 20.46,
+        "subscribersGained": 0
+      },
+      {
+        "country": "FR",
+        "views": 12128,
+        "estimatedMinutesWatched": 38936,
+        "averageViewDuration": 192,
+        "averageViewPercentage": 23.77,
+        "subscribersGained": 10
+      },
+      {
+        "country": "JP",
+        "views": 11932,
+        "estimatedMinutesWatched": 41194,
+        "averageViewDuration": 207,
+        "averageViewPercentage": 25.95,
+        "subscribersGained": 0
+      },
+      {
+        "country": "AE",
+        "views": 11605,
+        "estimatedMinutesWatched": 31667,
+        "averageViewDuration": 163,
+        "averageViewPercentage": 23.31,
+        "subscribersGained": 0
+      },
+      {
+        "country": "IT",
+        "views": 11469,
+        "estimatedMinutesWatched": 34855,
+        "averageViewDuration": 182,
+        "averageViewPercentage": 22.14,
+        "subscribersGained": 0
+      }
+    ],
+    "mid_may_aug": [
+      {
+        "country": "US",
+        "views": 308156,
+        "estimatedMinutesWatched": 1217213,
+        "averageViewDuration": 244,
+        "averageViewPercentage": 29.049999999999997,
+        "subscribersGained": 2577
+      },
+      {
+        "country": "IN",
+        "views": 148016,
+        "estimatedMinutesWatched": 307189,
+        "averageViewDuration": 133,
+        "averageViewPercentage": 20.51,
+        "subscribersGained": 183
+      },
+      {
+        "country": "CA",
+        "views": 50431,
+        "estimatedMinutesWatched": 184501,
+        "averageViewDuration": 222,
+        "averageViewPercentage": 27.35,
+        "subscribersGained": 35
+      },
+      {
+        "country": "GB",
+        "views": 42591,
+        "estimatedMinutesWatched": 154843,
+        "averageViewDuration": 223,
+        "averageViewPercentage": 26.76,
+        "subscribersGained": 25
+      },
+      {
+        "country": "AU",
+        "views": 30492,
+        "estimatedMinutesWatched": 109662,
+        "averageViewDuration": 220,
+        "averageViewPercentage": 26.340000000000003,
+        "subscribersGained": 13
+      },
+      {
+        "country": "PH",
+        "views": 26080,
+        "estimatedMinutesWatched": 107317,
+        "averageViewDuration": 256,
+        "averageViewPercentage": 29.31,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ZA",
+        "views": 14851,
+        "estimatedMinutesWatched": 55920,
+        "averageViewDuration": 232,
+        "averageViewPercentage": 27.52,
+        "subscribersGained": 0
+      },
+      {
+        "country": "PK",
+        "views": 9697,
+        "estimatedMinutesWatched": 22213,
+        "averageViewDuration": 141,
+        "averageViewPercentage": 19.18,
+        "subscribersGained": 0
+      },
+      {
+        "country": "MY",
+        "views": 8376,
+        "estimatedMinutesWatched": 31407,
+        "averageViewDuration": 230,
+        "averageViewPercentage": 27.98,
+        "subscribersGained": 0
+      },
+      {
+        "country": "BD",
+        "views": 8007,
+        "estimatedMinutesWatched": 14882,
+        "averageViewDuration": 117,
+        "averageViewPercentage": 17.71,
+        "subscribersGained": 0
+      },
+      {
+        "country": "DE",
+        "views": 7717,
+        "estimatedMinutesWatched": 22156,
+        "averageViewDuration": 177,
+        "averageViewPercentage": 21.38,
+        "subscribersGained": 0
+      },
+      {
+        "country": "UZ",
+        "views": 5585,
+        "estimatedMinutesWatched": 747,
+        "averageViewDuration": 16,
+        "averageViewPercentage": 62.27,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NL",
+        "views": 5575,
+        "estimatedMinutesWatched": 18369,
+        "averageViewDuration": 201,
+        "averageViewPercentage": 24.12,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ID",
+        "views": 5320,
+        "estimatedMinutesWatched": 12604,
+        "averageViewDuration": 161,
+        "averageViewPercentage": 21.46,
+        "subscribersGained": 0
+      },
+      {
+        "country": "IT",
+        "views": 5136,
+        "estimatedMinutesWatched": 14968,
+        "averageViewDuration": 185,
+        "averageViewPercentage": 21.59,
+        "subscribersGained": 0
+      },
+      {
+        "country": "VN",
+        "views": 5099,
+        "estimatedMinutesWatched": 2878,
+        "averageViewDuration": 63,
+        "averageViewPercentage": 15.160000000000002,
+        "subscribersGained": 0
+      },
+      {
+        "country": "JP",
+        "views": 5066,
+        "estimatedMinutesWatched": 15191,
+        "averageViewDuration": 191,
+        "averageViewPercentage": 25.19,
+        "subscribersGained": 0
+      },
+      {
+        "country": "KE",
+        "views": 4764,
+        "estimatedMinutesWatched": 19180,
+        "averageViewDuration": 243,
+        "averageViewPercentage": 27.390000000000004,
+        "subscribersGained": 0
+      },
+      {
+        "country": "SG",
+        "views": 4565,
+        "estimatedMinutesWatched": 17219,
+        "averageViewDuration": 229,
+        "averageViewPercentage": 29.04,
+        "subscribersGained": 0
+      },
+      {
+        "country": "TT",
+        "views": 4510,
+        "estimatedMinutesWatched": 20472,
+        "averageViewDuration": 274,
+        "averageViewPercentage": 31.09,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NZ",
+        "views": 4478,
+        "estimatedMinutesWatched": 16785,
+        "averageViewDuration": 228,
+        "averageViewPercentage": 27.26,
+        "subscribersGained": 0
+      },
+      {
+        "country": "LK",
+        "views": 4422,
+        "estimatedMinutesWatched": 8797,
+        "averageViewDuration": 129,
+        "averageViewPercentage": 18.44,
+        "subscribersGained": 0
+      },
+      {
+        "country": "FR",
+        "views": 4201,
+        "estimatedMinutesWatched": 13304,
+        "averageViewDuration": 196,
+        "averageViewPercentage": 23.26,
+        "subscribersGained": 0
+      },
+      {
+        "country": "AE",
+        "views": 4168,
+        "estimatedMinutesWatched": 11858,
+        "averageViewDuration": 171,
+        "averageViewPercentage": 25.86,
+        "subscribersGained": 0
+      },
+      {
+        "country": "SE",
+        "views": 2588,
+        "estimatedMinutesWatched": 9053,
+        "averageViewDuration": 211,
+        "averageViewPercentage": 25.82,
+        "subscribersGained": 0
+      }
+    ],
+    "recent_sep_nov": [
+      {
+        "country": "US",
+        "views": 93928,
+        "estimatedMinutesWatched": 249886,
+        "averageViewDuration": 270,
+        "averageViewPercentage": 32.48,
+        "subscribersGained": 204
+      },
+      {
+        "country": "IN",
+        "views": 37535,
+        "estimatedMinutesWatched": 38417,
+        "averageViewDuration": 154,
+        "averageViewPercentage": 18.57,
+        "subscribersGained": 0
+      },
+      {
+        "country": "AU",
+        "views": 14220,
+        "estimatedMinutesWatched": 33202,
+        "averageViewDuration": 235,
+        "averageViewPercentage": 27.96,
+        "subscribersGained": 0
+      },
+      {
+        "country": "GB",
+        "views": 11356,
+        "estimatedMinutesWatched": 27724,
+        "averageViewDuration": 257,
+        "averageViewPercentage": 31.04,
+        "subscribersGained": 0
+      },
+      {
+        "country": "CA",
+        "views": 9952,
+        "estimatedMinutesWatched": 28035,
+        "averageViewDuration": 266,
+        "averageViewPercentage": 32.56,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ZA",
+        "views": 9815,
+        "estimatedMinutesWatched": 23137,
+        "averageViewDuration": 267,
+        "averageViewPercentage": 32.42,
+        "subscribersGained": 0
+      },
+      {
+        "country": "PH",
+        "views": 6863,
+        "estimatedMinutesWatched": 17817,
+        "averageViewDuration": 263,
+        "averageViewPercentage": 31.240000000000002,
+        "subscribersGained": 0
+      },
+      {
+        "country": "PK",
+        "views": 3343,
+        "estimatedMinutesWatched": 4076,
+        "averageViewDuration": 146,
+        "averageViewPercentage": 16.31,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ID",
+        "views": 3002,
+        "estimatedMinutesWatched": 4541,
+        "averageViewDuration": 155,
+        "averageViewPercentage": 20.18,
+        "subscribersGained": 0
+      },
+      {
+        "country": "DE",
+        "views": 2583,
+        "estimatedMinutesWatched": 4074,
+        "averageViewDuration": 200,
+        "averageViewPercentage": 24.09,
+        "subscribersGained": 0
+      },
+      {
+        "country": "MY",
+        "views": 2572,
+        "estimatedMinutesWatched": 5769,
+        "averageViewDuration": 263,
+        "averageViewPercentage": 30.91,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NZ",
+        "views": 2487,
+        "estimatedMinutesWatched": 5942,
+        "averageViewDuration": 257,
+        "averageViewPercentage": 30.65,
+        "subscribersGained": 0
+      },
+      {
+        "country": "IT",
+        "views": 1939,
+        "estimatedMinutesWatched": 2855,
+        "averageViewDuration": 201,
+        "averageViewPercentage": 23.96,
+        "subscribersGained": 0
+      },
+      {
+        "country": "BD",
+        "views": 1876,
+        "estimatedMinutesWatched": 1956,
+        "averageViewDuration": 115,
+        "averageViewPercentage": 13.819999999999999,
+        "subscribersGained": 0
+      },
+      {
+        "country": "SG",
+        "views": 1243,
+        "estimatedMinutesWatched": 3066,
+        "averageViewDuration": 262,
+        "averageViewPercentage": 31.259999999999998,
+        "subscribersGained": 0
+      },
+      {
+        "country": "FR",
+        "views": 1102,
+        "estimatedMinutesWatched": 1708,
+        "averageViewDuration": 190,
+        "averageViewPercentage": 23.19,
+        "subscribersGained": 0
+      },
+      {
+        "country": "JP",
+        "views": 993,
+        "estimatedMinutesWatched": 1698,
+        "averageViewDuration": 186,
+        "averageViewPercentage": 25.540000000000003,
+        "subscribersGained": 0
+      },
+      {
+        "country": "KE",
+        "views": 943,
+        "estimatedMinutesWatched": 2645,
+        "averageViewDuration": 253,
+        "averageViewPercentage": 28.74,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NL",
+        "views": 827,
+        "estimatedMinutesWatched": 1836,
+        "averageViewDuration": 260,
+        "averageViewPercentage": 31.41,
+        "subscribersGained": 0
+      },
+      {
+        "country": "LK",
+        "views": 538,
+        "estimatedMinutesWatched": 918,
+        "averageViewDuration": 178,
+        "averageViewPercentage": 20.87,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NG",
+        "views": 452,
+        "estimatedMinutesWatched": 1124,
+        "averageViewDuration": 225,
+        "averageViewPercentage": 24.46,
+        "subscribersGained": 0
+      },
+      {
+        "country": "TT",
+        "views": 452,
+        "estimatedMinutesWatched": 1424,
+        "averageViewDuration": 284,
+        "averageViewPercentage": 33.95,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ES",
+        "views": 348,
+        "estimatedMinutesWatched": 573,
+        "averageViewDuration": 186,
+        "averageViewPercentage": 22.15,
+        "subscribersGained": 0
+      },
+      {
+        "country": "BR",
+        "views": 212,
+        "estimatedMinutesWatched": 285,
+        "averageViewDuration": 138,
+        "averageViewPercentage": 17.57,
+        "subscribersGained": 0
+      },
+      {
+        "country": "KR",
+        "views": 139,
+        "estimatedMinutesWatched": 142,
+        "averageViewDuration": 161,
+        "averageViewPercentage": 20.29,
+        "subscribersGained": 0
+      }
+    ],
+    "last_28d": [
+      {
+        "country": "US",
+        "views": 23596,
+        "estimatedMinutesWatched": 62798,
+        "averageViewDuration": 266,
+        "averageViewPercentage": 32.66,
+        "subscribersGained": 22
+      },
+      {
+        "country": "IN",
+        "views": 8347,
+        "estimatedMinutesWatched": 9152,
+        "averageViewDuration": 163,
+        "averageViewPercentage": 19.14,
+        "subscribersGained": 0
+      },
+      {
+        "country": "AU",
+        "views": 3794,
+        "estimatedMinutesWatched": 9506,
+        "averageViewDuration": 249,
+        "averageViewPercentage": 30.25,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ZA",
+        "views": 2728,
+        "estimatedMinutesWatched": 6112,
+        "averageViewDuration": 262,
+        "averageViewPercentage": 32.56,
+        "subscribersGained": 0
+      },
+      {
+        "country": "CA",
+        "views": 2264,
+        "estimatedMinutesWatched": 6821,
+        "averageViewDuration": 281,
+        "averageViewPercentage": 34.58,
+        "subscribersGained": 0
+      },
+      {
+        "country": "GB",
+        "views": 2161,
+        "estimatedMinutesWatched": 5601,
+        "averageViewDuration": 268,
+        "averageViewPercentage": 32.67,
+        "subscribersGained": 0
+      },
+      {
+        "country": "PH",
+        "views": 2022,
+        "estimatedMinutesWatched": 5125,
+        "averageViewDuration": 262,
+        "averageViewPercentage": 30.36,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ID",
+        "views": 835,
+        "estimatedMinutesWatched": 1286,
+        "averageViewDuration": 150,
+        "averageViewPercentage": 19.85,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NZ",
+        "views": 797,
+        "estimatedMinutesWatched": 2072,
+        "averageViewDuration": 282,
+        "averageViewPercentage": 34.67,
+        "subscribersGained": 0
+      },
+      {
+        "country": "PK",
+        "views": 613,
+        "estimatedMinutesWatched": 850,
+        "averageViewDuration": 160,
+        "averageViewPercentage": 17.36,
+        "subscribersGained": 0
+      },
+      {
+        "country": "MY",
+        "views": 555,
+        "estimatedMinutesWatched": 1311,
+        "averageViewDuration": 269,
+        "averageViewPercentage": 31.259999999999998,
+        "subscribersGained": 0
+      },
+      {
+        "country": "BD",
+        "views": 349,
+        "estimatedMinutesWatched": 353,
+        "averageViewDuration": 101,
+        "averageViewPercentage": 12.13,
+        "subscribersGained": 0
+      },
+      {
+        "country": "IT",
+        "views": 277,
+        "estimatedMinutesWatched": 700,
+        "averageViewDuration": 278,
+        "averageViewPercentage": 33.29,
+        "subscribersGained": 0
+      },
+      {
+        "country": "DE",
+        "views": 272,
+        "estimatedMinutesWatched": 449,
+        "averageViewDuration": 191,
+        "averageViewPercentage": 22.79,
+        "subscribersGained": 0
+      },
+      {
+        "country": "KE",
+        "views": 259,
+        "estimatedMinutesWatched": 722,
+        "averageViewDuration": 263,
+        "averageViewPercentage": 29.78,
+        "subscribersGained": 0
+      },
+      {
+        "country": "SG",
+        "views": 190,
+        "estimatedMinutesWatched": 479,
+        "averageViewDuration": 269,
+        "averageViewPercentage": 31.22,
+        "subscribersGained": 0
+      },
+      {
+        "country": "JP",
+        "views": 160,
+        "estimatedMinutesWatched": 408,
+        "averageViewDuration": 200,
+        "averageViewPercentage": 27.32,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NG",
+        "views": 157,
+        "estimatedMinutesWatched": 262,
+        "averageViewDuration": 177,
+        "averageViewPercentage": 19.28,
+        "subscribersGained": 0
+      },
+      {
+        "country": "KR",
+        "views": 71,
+        "estimatedMinutesWatched": 67,
+        "averageViewDuration": 147,
+        "averageViewPercentage": 17.14,
+        "subscribersGained": 0
+      },
+      {
+        "country": "BR",
+        "views": 69,
+        "estimatedMinutesWatched": 89,
+        "averageViewDuration": 104,
+        "averageViewPercentage": 13.51,
+        "subscribersGained": 0
+      },
+      {
+        "country": "PL",
+        "views": 63,
+        "estimatedMinutesWatched": 60,
+        "averageViewDuration": 172,
+        "averageViewPercentage": 26.47,
+        "subscribersGained": 0
+      },
+      {
+        "country": "TT",
+        "views": 61,
+        "estimatedMinutesWatched": 227,
+        "averageViewDuration": 348,
+        "averageViewPercentage": 40.53,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ES",
+        "views": 47,
+        "estimatedMinutesWatched": 121,
+        "averageViewDuration": 226,
+        "averageViewPercentage": 26.289999999999996,
+        "subscribersGained": 0
+      },
+      {
+        "country": "FR",
+        "views": 47,
+        "estimatedMinutesWatched": 93,
+        "averageViewDuration": 163,
+        "averageViewPercentage": 20,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NL",
+        "views": 32,
+        "estimatedMinutesWatched": 62,
+        "averageViewDuration": 168,
+        "averageViewPercentage": 22.04,
+        "subscribersGained": 0
+      }
+    ],
+    "prev_28d": [
+      {
+        "country": "US",
+        "views": 30070,
+        "estimatedMinutesWatched": 84276,
+        "averageViewDuration": 273,
+        "averageViewPercentage": 32.56,
+        "subscribersGained": 27
+      },
+      {
+        "country": "IN",
+        "views": 12495,
+        "estimatedMinutesWatched": 13103,
+        "averageViewDuration": 154,
+        "averageViewPercentage": 18.61,
+        "subscribersGained": 0
+      },
+      {
+        "country": "AU",
+        "views": 4764,
+        "estimatedMinutesWatched": 11028,
+        "averageViewDuration": 230,
+        "averageViewPercentage": 27.47,
+        "subscribersGained": 0
+      },
+      {
+        "country": "GB",
+        "views": 3787,
+        "estimatedMinutesWatched": 9631,
+        "averageViewDuration": 258,
+        "averageViewPercentage": 30.91,
+        "subscribersGained": 0
+      },
+      {
+        "country": "CA",
+        "views": 3414,
+        "estimatedMinutesWatched": 9541,
+        "averageViewDuration": 260,
+        "averageViewPercentage": 32.01,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ZA",
+        "views": 3283,
+        "estimatedMinutesWatched": 8079,
+        "averageViewDuration": 273,
+        "averageViewPercentage": 33.9,
+        "subscribersGained": 0
+      },
+      {
+        "country": "PH",
+        "views": 2178,
+        "estimatedMinutesWatched": 5828,
+        "averageViewDuration": 263,
+        "averageViewPercentage": 31.55,
+        "subscribersGained": 0
+      },
+      {
+        "country": "DE",
+        "views": 972,
+        "estimatedMinutesWatched": 1765,
+        "averageViewDuration": 218,
+        "averageViewPercentage": 26.25,
+        "subscribersGained": 0
+      },
+      {
+        "country": "PK",
+        "views": 962,
+        "estimatedMinutesWatched": 1176,
+        "averageViewDuration": 143,
+        "averageViewPercentage": 16.2,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ID",
+        "views": 922,
+        "estimatedMinutesWatched": 1511,
+        "averageViewDuration": 166,
+        "averageViewPercentage": 21.82,
+        "subscribersGained": 0
+      },
+      {
+        "country": "MY",
+        "views": 887,
+        "estimatedMinutesWatched": 2100,
+        "averageViewDuration": 271,
+        "averageViewPercentage": 32,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NZ",
+        "views": 827,
+        "estimatedMinutesWatched": 1908,
+        "averageViewDuration": 239,
+        "averageViewPercentage": 28.71,
+        "subscribersGained": 0
+      },
+      {
+        "country": "BD",
+        "views": 626,
+        "estimatedMinutesWatched": 653,
+        "averageViewDuration": 112,
+        "averageViewPercentage": 12.83,
+        "subscribersGained": 0
+      },
+      {
+        "country": "IT",
+        "views": 580,
+        "estimatedMinutesWatched": 963,
+        "averageViewDuration": 200,
+        "averageViewPercentage": 23.87,
+        "subscribersGained": 0
+      },
+      {
+        "country": "SG",
+        "views": 503,
+        "estimatedMinutesWatched": 1392,
+        "averageViewDuration": 279,
+        "averageViewPercentage": 32.2,
+        "subscribersGained": 0
+      },
+      {
+        "country": "FR",
+        "views": 408,
+        "estimatedMinutesWatched": 749,
+        "averageViewDuration": 212,
+        "averageViewPercentage": 26.1,
+        "subscribersGained": 0
+      },
+      {
+        "country": "JP",
+        "views": 351,
+        "estimatedMinutesWatched": 627,
+        "averageViewDuration": 189,
+        "averageViewPercentage": 25.53,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NL",
+        "views": 218,
+        "estimatedMinutesWatched": 609,
+        "averageViewDuration": 284,
+        "averageViewPercentage": 33.77,
+        "subscribersGained": 0
+      },
+      {
+        "country": "KE",
+        "views": 202,
+        "estimatedMinutesWatched": 684,
+        "averageViewDuration": 282,
+        "averageViewPercentage": 29.95,
+        "subscribersGained": 0
+      },
+      {
+        "country": "LK",
+        "views": 160,
+        "estimatedMinutesWatched": 311,
+        "averageViewDuration": 176,
+        "averageViewPercentage": 20.15,
+        "subscribersGained": 0
+      },
+      {
+        "country": "TT",
+        "views": 140,
+        "estimatedMinutesWatched": 406,
+        "averageViewDuration": 252,
+        "averageViewPercentage": 31.11,
+        "subscribersGained": 0
+      },
+      {
+        "country": "NG",
+        "views": 95,
+        "estimatedMinutesWatched": 316,
+        "averageViewDuration": 295,
+        "averageViewPercentage": 33.87,
+        "subscribersGained": 0
+      },
+      {
+        "country": "ES",
+        "views": 71,
+        "estimatedMinutesWatched": 114,
+        "averageViewDuration": 154,
+        "averageViewPercentage": 19.73,
+        "subscribersGained": 0
+      },
+      {
+        "country": "JM",
+        "views": 45,
+        "estimatedMinutesWatched": 155,
+        "averageViewDuration": 299,
+        "averageViewPercentage": 33.98,
+        "subscribersGained": 0
+      },
+      {
+        "country": "BR",
+        "views": 44,
+        "estimatedMinutesWatched": 42,
+        "averageViewDuration": 108,
+        "averageViewPercentage": 15.65,
+        "subscribersGained": 0
+      }
+    ]
+  },
+  "demographics_by_era": {
+    "peak_jan_apr": [
+      {
+        "ageGroup": "age13-17",
+        "gender": "female",
+        "viewerPercentage": 0.4
+      },
+      {
+        "ageGroup": "age13-17",
+        "gender": "male",
+        "viewerPercentage": 0.5
+      },
+      {
+        "ageGroup": "age13-17",
+        "gender": "genderUserSpecified",
+        "viewerPercentage": 0
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "female",
+        "viewerPercentage": 0.6
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "male",
+        "viewerPercentage": 0.7
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "genderUserSpecified",
+        "viewerPercentage": 0
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "female",
+        "viewerPercentage": 2.5
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "male",
+        "viewerPercentage": 2.9
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "genderUserSpecified",
+        "viewerPercentage": 0
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "female",
+        "viewerPercentage": 4.3
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "male",
+        "viewerPercentage": 4.9
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "genderUserSpecified",
+        "viewerPercentage": 0
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "female",
+        "viewerPercentage": 7.2
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "male",
+        "viewerPercentage": 7.7
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "genderUserSpecified",
+        "viewerPercentage": 0
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "female",
+        "viewerPercentage": 11.6
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "male",
+        "viewerPercentage": 12
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "genderUserSpecified",
+        "viewerPercentage": 0
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "female",
+        "viewerPercentage": 21
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "male",
+        "viewerPercentage": 23.5
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "genderUserSpecified",
+        "viewerPercentage": 0.1
+      }
+    ],
+    "mid_may_aug": [
+      {
+        "ageGroup": "age13-17",
+        "gender": "female",
+        "viewerPercentage": 1
+      },
+      {
+        "ageGroup": "age13-17",
+        "gender": "male",
+        "viewerPercentage": 0.9
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "female",
+        "viewerPercentage": 1.4
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "male",
+        "viewerPercentage": 1.5
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "female",
+        "viewerPercentage": 6.3
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "male",
+        "viewerPercentage": 5.9
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "female",
+        "viewerPercentage": 8
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "male",
+        "viewerPercentage": 7.4
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "female",
+        "viewerPercentage": 8.7
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "male",
+        "viewerPercentage": 7.6
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "female",
+        "viewerPercentage": 10.1
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "male",
+        "viewerPercentage": 9
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "female",
+        "viewerPercentage": 15.7
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "male",
+        "viewerPercentage": 16.5
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "genderUserSpecified",
+        "viewerPercentage": 0
+      }
+    ],
+    "recent_sep_nov": [
+      {
+        "ageGroup": "age13-17",
+        "gender": "female",
+        "viewerPercentage": 0.3
+      },
+      {
+        "ageGroup": "age13-17",
+        "gender": "male",
+        "viewerPercentage": 0.4
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "female",
+        "viewerPercentage": 1.1
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "male",
+        "viewerPercentage": 1.2
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "female",
+        "viewerPercentage": 5
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "male",
+        "viewerPercentage": 5.9
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "female",
+        "viewerPercentage": 6.4
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "male",
+        "viewerPercentage": 7.8
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "female",
+        "viewerPercentage": 7.4
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "male",
+        "viewerPercentage": 8.3
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "female",
+        "viewerPercentage": 9.6
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "male",
+        "viewerPercentage": 10.7
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "female",
+        "viewerPercentage": 15.9
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "male",
+        "viewerPercentage": 20
+      }
+    ],
+    "last_28d": [
+      {
+        "ageGroup": "age13-17",
+        "gender": "female",
+        "viewerPercentage": 0.1
+      },
+      {
+        "ageGroup": "age13-17",
+        "gender": "male",
+        "viewerPercentage": 0.1
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "female",
+        "viewerPercentage": 0.9
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "male",
+        "viewerPercentage": 1
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "female",
+        "viewerPercentage": 4.7
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "male",
+        "viewerPercentage": 5.6
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "female",
+        "viewerPercentage": 5.9
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "male",
+        "viewerPercentage": 7.8
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "female",
+        "viewerPercentage": 7.4
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "male",
+        "viewerPercentage": 8.8
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "female",
+        "viewerPercentage": 9.6
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "male",
+        "viewerPercentage": 11.7
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "female",
+        "viewerPercentage": 15.2
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "male",
+        "viewerPercentage": 21.4
+      }
+    ],
+    "prev_28d": [
+      {
+        "ageGroup": "age13-17",
+        "gender": "female",
+        "viewerPercentage": 0.5
+      },
+      {
+        "ageGroup": "age13-17",
+        "gender": "male",
+        "viewerPercentage": 0.4
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "female",
+        "viewerPercentage": 1.2
+      },
+      {
+        "ageGroup": "age18-24",
+        "gender": "male",
+        "viewerPercentage": 1.1
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "female",
+        "viewerPercentage": 5.1
+      },
+      {
+        "ageGroup": "age25-34",
+        "gender": "male",
+        "viewerPercentage": 5.9
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "female",
+        "viewerPercentage": 6.4
+      },
+      {
+        "ageGroup": "age35-44",
+        "gender": "male",
+        "viewerPercentage": 8.1
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "female",
+        "viewerPercentage": 7.6
+      },
+      {
+        "ageGroup": "age45-54",
+        "gender": "male",
+        "viewerPercentage": 8.2
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "female",
+        "viewerPercentage": 9.7
+      },
+      {
+        "ageGroup": "age55-64",
+        "gender": "male",
+        "viewerPercentage": 10.6
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "female",
+        "viewerPercentage": 15.9
+      },
+      {
+        "ageGroup": "age65-",
+        "gender": "male",
+        "viewerPercentage": 19.5
+      }
+    ]
+  },
+  "sub_status_by_era": {
+    "peak_jan_apr": [
+      {
+        "subscribedStatus": "UNSUBSCRIBED",
+        "views": 4442808,
+        "estimatedMinutesWatched": 15153611,
+        "averageViewDuration": 204,
+        "averageViewPercentage": 25.7
+      },
+      {
+        "subscribedStatus": "SUBSCRIBED",
+        "views": 122039,
+        "estimatedMinutesWatched": 499603,
+        "averageViewDuration": 268,
+        "averageViewPercentage": 32.22
+      }
+    ],
+    "mid_may_aug": [
+      {
+        "subscribedStatus": "UNSUBSCRIBED",
+        "views": 795684,
+        "estimatedMinutesWatched": 2605991,
+        "averageViewDuration": 205,
+        "averageViewPercentage": 26.090000000000003
+      },
+      {
+        "subscribedStatus": "SUBSCRIBED",
+        "views": 50236,
+        "estimatedMinutesWatched": 138908,
+        "averageViewDuration": 222,
+        "averageViewPercentage": 28.499999999999996
+      }
+    ],
+    "recent_sep_nov": [
+      {
+        "subscribedStatus": "UNSUBSCRIBED",
+        "views": 235839,
+        "estimatedMinutesWatched": 517212,
+        "averageViewDuration": 239,
+        "averageViewPercentage": 28.67
+      },
+      {
+        "subscribedStatus": "SUBSCRIBED",
+        "views": 18468,
+        "estimatedMinutesWatched": 33708,
+        "averageViewDuration": 240,
+        "averageViewPercentage": 30.37
+      }
+    ],
+    "last_28d": [
+      {
+        "subscribedStatus": "UNSUBSCRIBED",
+        "views": 58232,
+        "estimatedMinutesWatched": 131208,
+        "averageViewDuration": 241,
+        "averageViewPercentage": 29.38
+      },
+      {
+        "subscribedStatus": "SUBSCRIBED",
+        "views": 3760,
+        "estimatedMinutesWatched": 7944,
+        "averageViewDuration": 249,
+        "averageViewPercentage": 28.859999999999996
+      }
+    ],
+    "prev_28d": [
+      {
+        "subscribedStatus": "UNSUBSCRIBED",
+        "views": 77041,
+        "estimatedMinutesWatched": 175560,
+        "averageViewDuration": 241,
+        "averageViewPercentage": 28.910000000000004
+      },
+      {
+        "subscribedStatus": "SUBSCRIBED",
+        "views": 5885,
+        "estimatedMinutesWatched": 11382,
+        "averageViewDuration": 244,
+        "averageViewPercentage": 30.990000000000002
+      }
+    ]
+  },
+  "traffic_abs_by_era": {
+    "peak_jan_apr": [
+      {
+        "insightTrafficSourceType": "SUBSCRIBER",
+        "views": 4021864,
+        "estimatedMinutesWatched": 12662511
+      },
+      {
+        "insightTrafficSourceType": "RELATED_VIDEO",
+        "views": 329002,
+        "estimatedMinutesWatched": 2134471
+      },
+      {
+        "insightTrafficSourceType": "NO_LINK_OTHER",
+        "views": 53147,
+        "estimatedMinutesWatched": 179411
+      },
+      {
+        "insightTrafficSourceType": "YT_SEARCH",
+        "views": 46599,
+        "estimatedMinutesWatched": 186894
+      },
+      {
+        "insightTrafficSourceType": "YT_OTHER_PAGE",
+        "views": 28946,
+        "estimatedMinutesWatched": 145821
+      },
+      {
+        "insightTrafficSourceType": "EXT_URL",
+        "views": 27756,
+        "estimatedMinutesWatched": 99713
+      },
+      {
+        "insightTrafficSourceType": "YT_CHANNEL",
+        "views": 15925,
+        "estimatedMinutesWatched": 76314
+      },
+      {
+        "insightTrafficSourceType": "SHORTS",
+        "views": 14082,
+        "estimatedMinutesWatched": 1191
+      },
+      {
+        "insightTrafficSourceType": "END_SCREEN",
+        "views": 10526,
+        "estimatedMinutesWatched": 70050
+      },
+      {
+        "insightTrafficSourceType": "PLAYLIST",
+        "views": 8661,
+        "estimatedMinutesWatched": 56151
+      },
+      {
+        "insightTrafficSourceType": "NOTIFICATION",
+        "views": 7983,
+        "estimatedMinutesWatched": 39371
+      },
+      {
+        "insightTrafficSourceType": "ANNOTATION",
+        "views": 333,
+        "estimatedMinutesWatched": 1225
+      },
+      {
+        "insightTrafficSourceType": "HASHTAGS",
+        "views": 21,
+        "estimatedMinutesWatched": 86
+      },
+      {
+        "insightTrafficSourceType": "SOUND_PAGE",
+        "views": 1,
+        "estimatedMinutesWatched": 0
+      },
+      {
+        "insightTrafficSourceType": "LIVE_REDIRECT",
+        "views": 1,
+        "estimatedMinutesWatched": 0
+      }
+    ],
+    "mid_may_aug": [
+      {
+        "insightTrafficSourceType": "SUBSCRIBER",
+        "views": 583660,
+        "estimatedMinutesWatched": 1773253
+      },
+      {
+        "insightTrafficSourceType": "RELATED_VIDEO",
+        "views": 113901,
+        "estimatedMinutesWatched": 622051
+      },
+      {
+        "insightTrafficSourceType": "SHORTS",
+        "views": 57541,
+        "estimatedMinutesWatched": 5885
+      },
+      {
+        "insightTrafficSourceType": "YT_SEARCH",
+        "views": 32994,
+        "estimatedMinutesWatched": 116299
+      },
+      {
+        "insightTrafficSourceType": "NO_LINK_OTHER",
+        "views": 16182,
+        "estimatedMinutesWatched": 56028
+      },
+      {
+        "insightTrafficSourceType": "EXT_URL",
+        "views": 15998,
+        "estimatedMinutesWatched": 61549
+      },
+      {
+        "insightTrafficSourceType": "YT_OTHER_PAGE",
+        "views": 9602,
+        "estimatedMinutesWatched": 41141
+      },
+      {
+        "insightTrafficSourceType": "NOTIFICATION",
+        "views": 6391,
+        "estimatedMinutesWatched": 18039
+      },
+      {
+        "insightTrafficSourceType": "YT_CHANNEL",
+        "views": 4181,
+        "estimatedMinutesWatched": 18485
+      },
+      {
+        "insightTrafficSourceType": "PLAYLIST",
+        "views": 3398,
+        "estimatedMinutesWatched": 21016
+      },
+      {
+        "insightTrafficSourceType": "END_SCREEN",
+        "views": 1856,
+        "estimatedMinutesWatched": 10491
+      },
+      {
+        "insightTrafficSourceType": "ANNOTATION",
+        "views": 96,
+        "estimatedMinutesWatched": 313
+      },
+      {
+        "insightTrafficSourceType": "SHORTS_CONTENT_LINKS",
+        "views": 63,
+        "estimatedMinutesWatched": 180
+      },
+      {
+        "insightTrafficSourceType": "HASHTAGS",
+        "views": 39,
+        "estimatedMinutesWatched": 161
+      },
+      {
+        "insightTrafficSourceType": "SOUND_PAGE",
+        "views": 18,
+        "estimatedMinutesWatched": 2
+      }
+    ],
+    "recent_sep_nov": [
+      {
+        "insightTrafficSourceType": "SUBSCRIBER",
+        "views": 177335,
+        "estimatedMinutesWatched": 260576
+      },
+      {
+        "insightTrafficSourceType": "RELATED_VIDEO",
+        "views": 35052,
+        "estimatedMinutesWatched": 178077
+      },
+      {
+        "insightTrafficSourceType": "YT_SEARCH",
+        "views": 23477,
+        "estimatedMinutesWatched": 45667
+      },
+      {
+        "insightTrafficSourceType": "EXT_URL",
+        "views": 6784,
+        "estimatedMinutesWatched": 27390
+      },
+      {
+        "insightTrafficSourceType": "NO_LINK_OTHER",
+        "views": 5132,
+        "estimatedMinutesWatched": 15684
+      },
+      {
+        "insightTrafficSourceType": "YT_OTHER_PAGE",
+        "views": 2710,
+        "estimatedMinutesWatched": 10023
+      },
+      {
+        "insightTrafficSourceType": "YT_CHANNEL",
+        "views": 1488,
+        "estimatedMinutesWatched": 3293
+      },
+      {
+        "insightTrafficSourceType": "PLAYLIST",
+        "views": 1002,
+        "estimatedMinutesWatched": 5688
+      },
+      {
+        "insightTrafficSourceType": "NOTIFICATION",
+        "views": 738,
+        "estimatedMinutesWatched": 2416
+      },
+      {
+        "insightTrafficSourceType": "END_SCREEN",
+        "views": 366,
+        "estimatedMinutesWatched": 1972
+      },
+      {
+        "insightTrafficSourceType": "SHORTS",
+        "views": 195,
+        "estimatedMinutesWatched": 20
+      },
+      {
+        "insightTrafficSourceType": "ANNOTATION",
+        "views": 15,
+        "estimatedMinutesWatched": 68
+      },
+      {
+        "insightTrafficSourceType": "HASHTAGS",
+        "views": 13,
+        "estimatedMinutesWatched": 39
+      }
+    ],
+    "last_28d": [
+      {
+        "insightTrafficSourceType": "SUBSCRIBER",
+        "views": 43312,
+        "estimatedMinutesWatched": 69701
+      },
+      {
+        "insightTrafficSourceType": "RELATED_VIDEO",
+        "views": 8039,
+        "estimatedMinutesWatched": 41926
+      },
+      {
+        "insightTrafficSourceType": "YT_SEARCH",
+        "views": 6099,
+        "estimatedMinutesWatched": 11324
+      },
+      {
+        "insightTrafficSourceType": "EXT_URL",
+        "views": 1595,
+        "estimatedMinutesWatched": 6552
+      },
+      {
+        "insightTrafficSourceType": "NO_LINK_OTHER",
+        "views": 1400,
+        "estimatedMinutesWatched": 4193
+      },
+      {
+        "insightTrafficSourceType": "YT_OTHER_PAGE",
+        "views": 657,
+        "estimatedMinutesWatched": 2362
+      },
+      {
+        "insightTrafficSourceType": "YT_CHANNEL",
+        "views": 383,
+        "estimatedMinutesWatched": 991
+      },
+      {
+        "insightTrafficSourceType": "PLAYLIST",
+        "views": 255,
+        "estimatedMinutesWatched": 1099
+      },
+      {
+        "insightTrafficSourceType": "NOTIFICATION",
+        "views": 144,
+        "estimatedMinutesWatched": 404
+      },
+      {
+        "insightTrafficSourceType": "END_SCREEN",
+        "views": 94,
+        "estimatedMinutesWatched": 560
+      },
+      {
+        "insightTrafficSourceType": "SHORTS",
+        "views": 8,
+        "estimatedMinutesWatched": 2
+      },
+      {
+        "insightTrafficSourceType": "ANNOTATION",
+        "views": 3,
+        "estimatedMinutesWatched": 12
+      },
+      {
+        "insightTrafficSourceType": "HASHTAGS",
+        "views": 3,
+        "estimatedMinutesWatched": 20
+      }
+    ],
+    "prev_28d": [
+      {
+        "insightTrafficSourceType": "SUBSCRIBER",
+        "views": 56037,
+        "estimatedMinutesWatched": 86061
+      },
+      {
+        "insightTrafficSourceType": "RELATED_VIDEO",
+        "views": 12397,
+        "estimatedMinutesWatched": 62211
+      },
+      {
+        "insightTrafficSourceType": "YT_SEARCH",
+        "views": 8189,
+        "estimatedMinutesWatched": 15772
+      },
+      {
+        "insightTrafficSourceType": "EXT_URL",
+        "views": 2448,
+        "estimatedMinutesWatched": 9992
+      },
+      {
+        "insightTrafficSourceType": "NO_LINK_OTHER",
+        "views": 1873,
+        "estimatedMinutesWatched": 5256
+      },
+      {
+        "insightTrafficSourceType": "YT_OTHER_PAGE",
+        "views": 825,
+        "estimatedMinutesWatched": 3412
+      },
+      {
+        "insightTrafficSourceType": "YT_CHANNEL",
+        "views": 444,
+        "estimatedMinutesWatched": 1004
+      },
+      {
+        "insightTrafficSourceType": "PLAYLIST",
+        "views": 316,
+        "estimatedMinutesWatched": 1717
+      },
+      {
+        "insightTrafficSourceType": "NOTIFICATION",
+        "views": 264,
+        "estimatedMinutesWatched": 878
+      },
+      {
+        "insightTrafficSourceType": "END_SCREEN",
+        "views": 111,
+        "estimatedMinutesWatched": 589
+      },
+      {
+        "insightTrafficSourceType": "SHORTS",
+        "views": 11,
+        "estimatedMinutesWatched": 2
+      },
+      {
+        "insightTrafficSourceType": "ANNOTATION",
+        "views": 6,
+        "estimatedMinutesWatched": 27
+      },
+      {
+        "insightTrafficSourceType": "HASHTAGS",
+        "views": 5,
+        "estimatedMinutesWatched": 16
+      }
+    ]
+  },
+  "device_by_era": {
+    "peak_jan_apr": [
+      {
+        "deviceType": "TV",
+        "views": 2715916,
+        "estimatedMinutesWatched": 9199572
+      },
+      {
+        "deviceType": "MOBILE",
+        "views": 1259496,
+        "estimatedMinutesWatched": 3797367
+      },
+      {
+        "deviceType": "DESKTOP",
+        "views": 354617,
+        "estimatedMinutesWatched": 1289106
+      },
+      {
+        "deviceType": "TABLET",
+        "views": 231633,
+        "estimatedMinutesWatched": 1354293
+      }
+    ],
+    "mid_may_aug": [
+      {
+        "deviceType": "MOBILE",
+        "views": 394057,
+        "estimatedMinutesWatched": 969947
+      },
+      {
+        "deviceType": "TV",
+        "views": 310045,
+        "estimatedMinutesWatched": 1188181
+      },
+      {
+        "deviceType": "DESKTOP",
+        "views": 94329,
+        "estimatedMinutesWatched": 338368
+      },
+      {
+        "deviceType": "TABLET",
+        "views": 46604,
+        "estimatedMinutesWatched": 245043
+      }
+    ],
+    "recent_sep_nov": [
+      {
+        "deviceType": "MOBILE",
+        "views": 144676,
+        "estimatedMinutesWatched": 225833
+      },
+      {
+        "deviceType": "TV",
+        "views": 65723,
+        "estimatedMinutesWatched": 200059
+      },
+      {
+        "deviceType": "DESKTOP",
+        "views": 34599,
+        "estimatedMinutesWatched": 77155
+      },
+      {
+        "deviceType": "TABLET",
+        "views": 9060,
+        "estimatedMinutesWatched": 46725
+      }
+    ],
+    "last_28d": [
+      {
+        "deviceType": "MOBILE",
+        "views": 33257,
+        "estimatedMinutesWatched": 51809
+      },
+      {
+        "deviceType": "TV",
+        "views": 18221,
+        "estimatedMinutesWatched": 57331
+      },
+      {
+        "deviceType": "DESKTOP",
+        "views": 8316,
+        "estimatedMinutesWatched": 18620
+      },
+      {
+        "deviceType": "TABLET",
+        "views": 2156,
+        "estimatedMinutesWatched": 11163
+      }
+    ],
+    "prev_28d": [
+      {
+        "deviceType": "MOBILE",
+        "views": 47534,
+        "estimatedMinutesWatched": 78431
+      },
+      {
+        "deviceType": "TV",
+        "views": 21486,
+        "estimatedMinutesWatched": 65579
+      },
+      {
+        "deviceType": "DESKTOP",
+        "views": 10629,
+        "estimatedMinutesWatched": 25586
+      },
+      {
+        "deviceType": "TABLET",
+        "views": 3182,
+        "estimatedMinutesWatched": 16935
+      }
+    ]
+  },
+  "per_video_audit": [
+    {
+      "videoId": "AJnyTWUgKWU",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "5 Secrets to Growing Aloe Vera FAST and EASY",
+        "published": "2026-01-07",
+        "dur_s": 977,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "en"
+        ],
+        "total_views": 699032,
+        "total_likes": 16250,
+        "total_comments": 901
+      },
+      "analytics": {
+        "video": "AJnyTWUgKWU",
+        "views": 698016,
+        "estimatedMinutesWatched": 2428690,
+        "averageViewDuration": 223,
+        "averageViewPercentage": 22.91,
+        "subscribersGained": 8589,
+        "subscribersLost": 42,
+        "likes": 16243,
+        "comments": 360,
+        "shares": 6918
+      },
+      "us_pct_exact": 48.1,
+      "tier1_pct_exact": 60.3,
+      "geo_lifetime": {
+        "sum_top10_views": 554847,
+        "us_views": 335418,
+        "us_pct_of_top": 60.5,
+        "tier1_pct_of_top": 75.8,
+        "top5": [
+          {
+            "c": "US",
+            "views": 335418,
+            "pct": 60.5,
+            "avd": 25.6
+          },
+          {
+            "c": "IN",
+            "views": 84144,
+            "pct": 15.2,
+            "avd": 14.5
+          },
+          {
+            "c": "CA",
+            "views": 41990,
+            "pct": 7.6,
+            "avd": 26.7
+          },
+          {
+            "c": "GB",
+            "views": 28972,
+            "pct": 5.2,
+            "avd": 25.4
+          },
+          {
+            "c": "PH",
+            "views": 17717,
+            "pct": 3.2,
+            "avd": 27.3
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 12215,
+        "us_views": 5378,
+        "us_pct_of_top": 44.0,
+        "tier1_pct_of_top": 55.2,
+        "top5": [
+          {
+            "c": "US",
+            "views": 5378,
+            "pct": 44.0,
+            "avd": 32.0
+          },
+          {
+            "c": "IN",
+            "views": 4571,
+            "pct": 37.4,
+            "avd": 14.4
+          },
+          {
+            "c": "PH",
+            "views": 896,
+            "pct": 7.3,
+            "avd": 26.6
+          },
+          {
+            "c": "CA",
+            "views": 769,
+            "pct": 6.3,
+            "avd": 32.9
+          },
+          {
+            "c": "GB",
+            "views": 601,
+            "pct": 4.9,
+            "avd": 31.2
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 587656
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 73246
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 16305
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 8796
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 5482
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 3991
+        }
+      ]
+    },
+    {
+      "videoId": "NmL--ywpKns",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "Grow Avocado From Seed - The Lazy Way That Actually Works",
+        "published": "2026-02-01",
+        "dur_s": 699,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "ko",
+          "bn",
+          "ml",
+          "fr-FR",
+          "pt-BR",
+          "id",
+          "iw",
+          "ja",
+          "pl",
+          "nl-NL",
+          "uk",
+          "en",
+          "ar",
+          "de-DE",
+          "hi",
+          "it",
+          "es-US"
+        ],
+        "total_views": 520422,
+        "total_likes": 9545,
+        "total_comments": 730
+      },
+      "analytics": {
+        "video": "NmL--ywpKns",
+        "views": 519341,
+        "estimatedMinutesWatched": 1613830,
+        "averageViewDuration": 196,
+        "averageViewPercentage": 28.17,
+        "subscribersGained": 5182,
+        "subscribersLost": 25,
+        "likes": 9531,
+        "comments": 249,
+        "shares": 7330
+      },
+      "us_pct_exact": 66.3,
+      "tier1_pct_exact": 79.6,
+      "geo_lifetime": {
+        "sum_top10_views": 454071,
+        "us_views": 344513,
+        "us_pct_of_top": 75.9,
+        "tier1_pct_of_top": 91.1,
+        "top5": [
+          {
+            "c": "US",
+            "views": 344513,
+            "pct": 75.9,
+            "avd": 28.3
+          },
+          {
+            "c": "AU",
+            "views": 36725,
+            "pct": 8.1,
+            "avd": 27.2
+          },
+          {
+            "c": "IN",
+            "views": 17786,
+            "pct": 3.9,
+            "avd": 22.3
+          },
+          {
+            "c": "CA",
+            "views": 16505,
+            "pct": 3.6,
+            "avd": 26.3
+          },
+          {
+            "c": "GB",
+            "views": 11983,
+            "pct": 2.6,
+            "avd": 28.3
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 9373,
+        "us_views": 5188,
+        "us_pct_of_top": 55.4,
+        "tier1_pct_of_top": 68.6,
+        "top5": [
+          {
+            "c": "US",
+            "views": 5188,
+            "pct": 55.4,
+            "avd": 34.8
+          },
+          {
+            "c": "IN",
+            "views": 1832,
+            "pct": 19.5,
+            "avd": 25.1
+          },
+          {
+            "c": "AU",
+            "views": 1245,
+            "pct": 13.3,
+            "avd": 30.6
+          },
+          {
+            "c": "ZA",
+            "views": 976,
+            "pct": 10.4,
+            "avd": 37.7
+          },
+          {
+            "c": "PH",
+            "views": 132,
+            "pct": 1.4,
+            "avd": 29.8
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 421116
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 54375
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 27814
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 7322
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 3729
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 3146
+        }
+      ]
+    },
+    {
+      "videoId": "9qcpNPXL4f8",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "Stop Rooting Cuttings in Water! Use This Instead (50 Plants Free)",
+        "published": "2026-04-18",
+        "dur_s": 684,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "bn",
+          "ko",
+          "ml",
+          "id",
+          "ru",
+          "fr-FR",
+          "pt-BR",
+          "nl-NL",
+          "pl",
+          "pa",
+          "iw",
+          "ja",
+          "te",
+          "uk",
+          "de-DE",
+          "ta",
+          "en",
+          "es-US",
+          "it",
+          "hi"
+        ],
+        "total_views": 186620,
+        "total_likes": 4628,
+        "total_comments": 402
+      },
+      "analytics": {
+        "video": "9qcpNPXL4f8",
+        "views": 186169,
+        "estimatedMinutesWatched": 653390,
+        "averageViewDuration": 221,
+        "averageViewPercentage": 32.32,
+        "subscribersGained": 2676,
+        "subscribersLost": 10,
+        "likes": 4625,
+        "comments": 138,
+        "shares": 2284
+      },
+      "us_pct_exact": 48.7,
+      "tier1_pct_exact": 66.2,
+      "geo_lifetime": {
+        "sum_top10_views": 140970,
+        "us_views": 90705,
+        "us_pct_of_top": 64.3,
+        "tier1_pct_of_top": 87.4,
+        "top5": [
+          {
+            "c": "US",
+            "views": 90705,
+            "pct": 64.3,
+            "avd": 33.1
+          },
+          {
+            "c": "AU",
+            "views": 12235,
+            "pct": 8.7,
+            "avd": 32.4
+          },
+          {
+            "c": "GB",
+            "views": 11436,
+            "pct": 8.1,
+            "avd": 31.1
+          },
+          {
+            "c": "CA",
+            "views": 8856,
+            "pct": 6.3,
+            "avd": 32
+          },
+          {
+            "c": "IN",
+            "views": 4205,
+            "pct": 3.0,
+            "avd": 24.7
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 3571,
+        "us_views": 2814,
+        "us_pct_of_top": 78.8,
+        "tier1_pct_of_top": 94.8,
+        "top5": [
+          {
+            "c": "US",
+            "views": 2814,
+            "pct": 78.8,
+            "avd": 34.1
+          },
+          {
+            "c": "AU",
+            "views": 508,
+            "pct": 14.2,
+            "avd": 39.5
+          },
+          {
+            "c": "ZA",
+            "views": 166,
+            "pct": 4.6,
+            "avd": 33.4
+          },
+          {
+            "c": "GB",
+            "views": 62,
+            "pct": 1.7,
+            "avd": 43.1
+          },
+          {
+            "c": "IN",
+            "views": 21,
+            "pct": 0.6,
+            "avd": 22.7
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 163055
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 11736
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 3917
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 3915
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 1389
+        },
+        {
+          "insightTrafficSourceType": "PLAYLIST",
+          "views": 793
+        }
+      ]
+    },
+    {
+      "videoId": "ac7pP47tYXM",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "I STOPPED Watering My Lemon Tree - What Happened in Week 4 Shocked Me",
+        "published": "2026-01-14",
+        "dur_s": 1088,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "pt-BR",
+          "fr-FR",
+          "es-US",
+          "en",
+          "id",
+          "de-DE",
+          "it"
+        ],
+        "total_views": 481187,
+        "total_likes": 5103,
+        "total_comments": 627
+      },
+      "analytics": {
+        "video": "ac7pP47tYXM",
+        "views": 480883,
+        "estimatedMinutesWatched": 1965851,
+        "averageViewDuration": 249,
+        "averageViewPercentage": 22.94,
+        "subscribersGained": 2739,
+        "subscribersLost": 18,
+        "likes": 5103,
+        "comments": 183,
+        "shares": 4949
+      },
+      "us_pct_exact": 44.6,
+      "tier1_pct_exact": 72.9,
+      "geo_lifetime": {
+        "sum_top10_views": 415252,
+        "us_views": 214263,
+        "us_pct_of_top": 51.6,
+        "tier1_pct_of_top": 84.5,
+        "top5": [
+          {
+            "c": "US",
+            "views": 214263,
+            "pct": 51.6,
+            "avd": 23.2
+          },
+          {
+            "c": "AU",
+            "views": 109008,
+            "pct": 26.3,
+            "avd": 21.3
+          },
+          {
+            "c": "ZA",
+            "views": 30157,
+            "pct": 7.3,
+            "avd": 22.5
+          },
+          {
+            "c": "NZ",
+            "views": 13106,
+            "pct": 3.2,
+            "avd": 21.5
+          },
+          {
+            "c": "IN",
+            "views": 12713,
+            "pct": 3.1,
+            "avd": 22.0
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 2653,
+        "us_views": 1816,
+        "us_pct_of_top": 68.5,
+        "tier1_pct_of_top": 97.1,
+        "top5": [
+          {
+            "c": "US",
+            "views": 1816,
+            "pct": 68.5,
+            "avd": 27.9
+          },
+          {
+            "c": "AU",
+            "views": 761,
+            "pct": 28.7,
+            "avd": 26.6
+          },
+          {
+            "c": "ZA",
+            "views": 42,
+            "pct": 1.6,
+            "avd": 18.6
+          },
+          {
+            "c": "IN",
+            "views": 34,
+            "pct": 1.3,
+            "avd": 27.0
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 414810
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 42674
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 11167
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 6093
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 2349
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 2271
+        }
+      ]
+    },
+    {
+      "videoId": "x0-7HzQnLaU",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "7 Cheap Root Cellar Ideas That Keep Vegetables Fresh ALL WINTER... #4 Costs Almost NOTHING!",
+        "published": "2026-01-18",
+        "dur_s": 703,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "ru",
+          "id",
+          "ml",
+          "bn",
+          "ko",
+          "fr-FR",
+          "pt-BR",
+          "nl-NL",
+          "hi",
+          "it",
+          "ar",
+          "en",
+          "te",
+          "de-DE",
+          "uk",
+          "pl",
+          "es-US",
+          "ja",
+          "iw"
+        ],
+        "total_views": 165292,
+        "total_likes": 6073,
+        "total_comments": 292
+      },
+      "analytics": {
+        "video": "x0-7HzQnLaU",
+        "views": 165087,
+        "estimatedMinutesWatched": 619906,
+        "averageViewDuration": 229,
+        "averageViewPercentage": 32.65,
+        "subscribersGained": 2940,
+        "subscribersLost": 11,
+        "likes": 6074,
+        "comments": 105,
+        "shares": 3073
+      },
+      "us_pct_exact": 75.1,
+      "tier1_pct_exact": 91.4,
+      "geo_lifetime": {
+        "sum_top10_views": 153002,
+        "us_views": 123967,
+        "us_pct_of_top": 81.0,
+        "tier1_pct_of_top": 98.6,
+        "top5": [
+          {
+            "c": "US",
+            "views": 123967,
+            "pct": 81.0,
+            "avd": 32.9
+          },
+          {
+            "c": "CA",
+            "views": 22457,
+            "pct": 14.7,
+            "avd": 33.8
+          },
+          {
+            "c": "GB",
+            "views": 2955,
+            "pct": 1.9,
+            "avd": 33.8
+          },
+          {
+            "c": "AU",
+            "views": 1149,
+            "pct": 0.8,
+            "avd": 26.3
+          },
+          {
+            "c": "DE",
+            "views": 713,
+            "pct": 0.5,
+            "avd": 33.6
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 2664,
+        "us_views": 2439,
+        "us_pct_of_top": 91.6,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 2439,
+            "pct": 91.6,
+            "avd": 31.6
+          },
+          {
+            "c": "CA",
+            "views": 225,
+            "pct": 8.4,
+            "avd": 43.1
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 137350
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 14714
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 5629
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 2606
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 2529
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 1047
+        }
+      ]
+    },
+    {
+      "videoId": "cTuGnXMSdnw",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "7 Indoor Plants That Thrive in JUST Water (No Soil Needed!)",
+        "published": "2026-02-09",
+        "dur_s": 562,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "fr-FR",
+          "pt-BR",
+          "es-US",
+          "en",
+          "ar",
+          "pa",
+          "id",
+          "de-DE"
+        ],
+        "total_views": 986527,
+        "total_likes": 17895,
+        "total_comments": 1700
+      },
+      "analytics": {
+        "video": "cTuGnXMSdnw",
+        "views": 986371,
+        "estimatedMinutesWatched": 2461363,
+        "averageViewDuration": 151,
+        "averageViewPercentage": 26.87,
+        "subscribersGained": 10550,
+        "subscribersLost": 57,
+        "likes": 17893,
+        "comments": 653,
+        "shares": 15849
+      },
+      "us_pct_exact": 29.8,
+      "tier1_pct_exact": 41.9,
+      "geo_lifetime": {
+        "sum_top10_views": 843795,
+        "us_views": 294144,
+        "us_pct_of_top": 34.9,
+        "tier1_pct_of_top": 49.0,
+        "top5": [
+          {
+            "c": "IN",
+            "views": 332456,
+            "pct": 39.4,
+            "avd": 24.2
+          },
+          {
+            "c": "US",
+            "views": 294144,
+            "pct": 34.9,
+            "avd": 28.7
+          },
+          {
+            "c": "CA",
+            "views": 45855,
+            "pct": 5.4,
+            "avd": 28.0
+          },
+          {
+            "c": "AU",
+            "views": 39893,
+            "pct": 4.7,
+            "avd": 30.2
+          },
+          {
+            "c": "PH",
+            "views": 35123,
+            "pct": 4.2,
+            "avd": 32.4
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 590,
+        "us_views": 298,
+        "us_pct_of_top": 50.5,
+        "tier1_pct_of_top": 50.5,
+        "top5": [
+          {
+            "c": "US",
+            "views": 298,
+            "pct": 50.5,
+            "avd": 39.6
+          },
+          {
+            "c": "IN",
+            "views": 292,
+            "pct": 49.5,
+            "avd": 25.4
+          },
+          {
+            "c": "AU",
+            "views": 0,
+            "pct": 0.0,
+            "avd": 0
+          },
+          {
+            "c": "GB",
+            "views": 0,
+            "pct": 0.0,
+            "avd": 0
+          },
+          {
+            "c": "PH",
+            "views": 0,
+            "pct": 0.0,
+            "avd": 0
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 910220
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 45163
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 9708
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 6964
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 6289
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 5440
+        }
+      ]
+    },
+    {
+      "videoId": "7GzeVsMet3s",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "Pour THIS Over Dry Leaves and Watch Them Turn Into Compost in DAYS!",
+        "published": "2026-01-15",
+        "dur_s": 601,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "it",
+          "en",
+          "fr-FR",
+          "pt-BR",
+          "uk",
+          "ja",
+          "pa",
+          "pl",
+          "ru",
+          "es-US",
+          "nl-NL",
+          "ko",
+          "bn"
+        ],
+        "total_views": 81531,
+        "total_likes": 1031,
+        "total_comments": 50
+      },
+      "analytics": {
+        "video": "7GzeVsMet3s",
+        "views": 81314,
+        "estimatedMinutesWatched": 220164,
+        "averageViewDuration": 167,
+        "averageViewPercentage": 27.79,
+        "subscribersGained": 596,
+        "subscribersLost": 4,
+        "likes": 1030,
+        "comments": 20,
+        "shares": 478
+      },
+      "us_pct_exact": 68.6,
+      "tier1_pct_exact": 81.9,
+      "geo_lifetime": {
+        "sum_top10_views": 69856,
+        "us_views": 55787,
+        "us_pct_of_top": 79.9,
+        "tier1_pct_of_top": 95.3,
+        "top5": [
+          {
+            "c": "US",
+            "views": 55787,
+            "pct": 79.9,
+            "avd": 27.0
+          },
+          {
+            "c": "CA",
+            "views": 3813,
+            "pct": 5.5,
+            "avd": 24.6
+          },
+          {
+            "c": "AU",
+            "views": 3341,
+            "pct": 4.8,
+            "avd": 24.1
+          },
+          {
+            "c": "GB",
+            "views": 3198,
+            "pct": 4.6,
+            "avd": 23.1
+          },
+          {
+            "c": "IN",
+            "views": 1375,
+            "pct": 2.0,
+            "avd": 32.6
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 1338,
+        "us_views": 1309,
+        "us_pct_of_top": 97.8,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 1309,
+            "pct": 97.8,
+            "avd": 39.0
+          },
+          {
+            "c": "GB",
+            "views": 15,
+            "pct": 1.1,
+            "avd": 27.0
+          },
+          {
+            "c": "CA",
+            "views": 14,
+            "pct": 1.0,
+            "avd": 36.3
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 72600
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 5482
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 1097
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 766
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 405
+        },
+        {
+          "insightTrafficSourceType": "YT_CHANNEL",
+          "views": 268
+        }
+      ]
+    },
+    {
+      "videoId": "mWWTNg8dY_s",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "7 Secrets to Growing \"Infinite\" Bell Peppers (No Digging!)",
+        "published": "2025-12-25",
+        "dur_s": 819,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "ko",
+          "bn",
+          "en",
+          "fr-FR",
+          "pt-BR",
+          "es-US",
+          "hi",
+          "it",
+          "id",
+          "de-DE"
+        ],
+        "total_views": 344921,
+        "total_likes": 6853,
+        "total_comments": 183
+      },
+      "analytics": {
+        "video": "mWWTNg8dY_s",
+        "views": 344830,
+        "estimatedMinutesWatched": 1402713,
+        "averageViewDuration": 245,
+        "averageViewPercentage": 29.969999999999995,
+        "subscribersGained": 4103,
+        "subscribersLost": 12,
+        "likes": 6851,
+        "comments": 65,
+        "shares": 3563
+      },
+      "us_pct_exact": 57.6,
+      "tier1_pct_exact": 79.0,
+      "geo_lifetime": {
+        "sum_top10_views": 298560,
+        "us_views": 198696,
+        "us_pct_of_top": 66.6,
+        "tier1_pct_of_top": 91.2,
+        "top5": [
+          {
+            "c": "US",
+            "views": 198696,
+            "pct": 66.6,
+            "avd": 29.4
+          },
+          {
+            "c": "GB",
+            "views": 25319,
+            "pct": 8.5,
+            "avd": 27.6
+          },
+          {
+            "c": "CA",
+            "views": 22943,
+            "pct": 7.7,
+            "avd": 28.9
+          },
+          {
+            "c": "AU",
+            "views": 21263,
+            "pct": 7.1,
+            "avd": 28.6
+          },
+          {
+            "c": "ZA",
+            "views": 14303,
+            "pct": 4.8,
+            "avd": 34.7
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 317,
+        "us_views": 317,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 317,
+            "pct": 100.0,
+            "avd": 39.2
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 272865
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 56086
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 6822
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 4205
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 2294
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 1252
+        }
+      ]
+    },
+    {
+      "videoId": "0K3K9vZ4E5o",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "These 6 Weeds Could Be the Most Valuable Plants in Your Yard",
+        "published": "2026-04-08",
+        "dur_s": 754,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "pt-BR",
+          "fr-FR",
+          "bn",
+          "ko",
+          "ml",
+          "ru",
+          "id",
+          "pl",
+          "es-US",
+          "ja",
+          "iw",
+          "pa",
+          "te",
+          "de-DE",
+          "uk",
+          "en",
+          "ar",
+          "ta",
+          "nl-NL",
+          "it",
+          "hi"
+        ],
+        "total_views": 937327,
+        "total_likes": 12675,
+        "total_comments": 1002
+      },
+      "analytics": {
+        "video": "0K3K9vZ4E5o",
+        "views": 937313,
+        "estimatedMinutesWatched": 2798469,
+        "averageViewDuration": 179,
+        "averageViewPercentage": 23.77,
+        "subscribersGained": 6213,
+        "subscribersLost": 26,
+        "likes": 12676,
+        "comments": 342,
+        "shares": 17728
+      },
+      "us_pct_exact": 52.1,
+      "tier1_pct_exact": 83.1,
+      "geo_lifetime": {
+        "sum_top10_views": 831263,
+        "us_views": 488507,
+        "us_pct_of_top": 58.8,
+        "tier1_pct_of_top": 93.6,
+        "top5": [
+          {
+            "c": "US",
+            "views": 488507,
+            "pct": 58.8,
+            "avd": 24.5
+          },
+          {
+            "c": "GB",
+            "views": 125850,
+            "pct": 15.1,
+            "avd": 24.1
+          },
+          {
+            "c": "CA",
+            "views": 96946,
+            "pct": 11.7,
+            "avd": 24.6
+          },
+          {
+            "c": "AU",
+            "views": 58352,
+            "pct": 7.0,
+            "avd": 23.9
+          },
+          {
+            "c": "NL",
+            "views": 12850,
+            "pct": 1.5,
+            "avd": 23.8
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 899268
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 12350
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 9183
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 7333
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 4609
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 2301
+        }
+      ]
+    },
+    {
+      "videoId": "pmOG3rko45A",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "STOP Using Pesticides! This 1 Spoon Kills Aphids & Mealybugs in 10 Seconds - SAFE for Kids & Pets",
+        "published": "2025-11-25",
+        "dur_s": 1128,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "pt-BR",
+          "fr-FR",
+          "ko",
+          "ru",
+          "id",
+          "ml",
+          "uk",
+          "es-US",
+          "ja",
+          "pa",
+          "de-DE",
+          "it",
+          "hi",
+          "en",
+          "ta",
+          "nl-NL"
+        ],
+        "total_views": 508881,
+        "total_likes": 7665,
+        "total_comments": 696
+      },
+      "analytics": {
+        "video": "pmOG3rko45A",
+        "views": 508844,
+        "estimatedMinutesWatched": 2049521,
+        "averageViewDuration": 241,
+        "averageViewPercentage": 21.45,
+        "subscribersGained": 4628,
+        "subscribersLost": 24,
+        "likes": 7667,
+        "comments": 255,
+        "shares": 10142
+      },
+      "us_pct_exact": 31.9,
+      "tier1_pct_exact": 41.8,
+      "geo_lifetime": {
+        "sum_top10_views": 398744,
+        "us_views": 162568,
+        "us_pct_of_top": 40.8,
+        "tier1_pct_of_top": 53.3,
+        "top5": [
+          {
+            "c": "US",
+            "views": 162568,
+            "pct": 40.8,
+            "avd": 22.3
+          },
+          {
+            "c": "IN",
+            "views": 76287,
+            "pct": 19.1,
+            "avd": 15.5
+          },
+          {
+            "c": "PH",
+            "views": 57997,
+            "pct": 14.5,
+            "avd": 22.9
+          },
+          {
+            "c": "AU",
+            "views": 24676,
+            "pct": 6.2,
+            "avd": 20.9
+          },
+          {
+            "c": "ZA",
+            "views": 18110,
+            "pct": 4.5,
+            "avd": 23.4
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 432607
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 57200
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 6122
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 5882
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 3580
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 1255
+        }
+      ]
+    },
+    {
+      "videoId": "pGy_4R5qfv0",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "Save Any Dying Aloe in 5 Steps (Even Mushy Black Roots)",
+        "published": "2026-07-12",
+        "dur_s": 815,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "bn",
+          "pt-BR",
+          "fr-FR",
+          "ko",
+          "ml",
+          "id",
+          "ru",
+          "pl",
+          "pa",
+          "en-US",
+          "de-DE",
+          "ja",
+          "iw",
+          "te",
+          "uk",
+          "es-US",
+          "ta",
+          "ar",
+          "nl-NL",
+          "hi",
+          "it"
+        ],
+        "total_views": 2130,
+        "total_likes": 47,
+        "total_comments": 12
+      },
+      "analytics": {
+        "video": "pGy_4R5qfv0",
+        "views": 2123,
+        "estimatedMinutesWatched": 10569,
+        "averageViewDuration": 306,
+        "averageViewPercentage": 37.64,
+        "subscribersGained": 5,
+        "subscribersLost": 4,
+        "likes": 47,
+        "comments": 5,
+        "shares": 27
+      },
+      "us_pct_exact": 33.1,
+      "tier1_pct_exact": 33.1,
+      "geo_lifetime": {
+        "sum_top10_views": 703,
+        "us_views": 703,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 703,
+            "pct": 100.0,
+            "avd": 39.8
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 1284
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 251
+        },
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 225
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 123
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 67
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 62
+        }
+      ]
+    },
+    {
+      "videoId": "AO3EEPkYqaI",
+      "group": "catalog_hit",
+      "meta": {
+        "title": "5 Minerals That SUPERCHARGE Your Harvest in Just 30 Days",
+        "published": "2025-11-15",
+        "dur_s": 2063,
+        "privacy": "public",
+        "defaultAudioLanguage": null,
+        "defaultLanguage": "en",
+        "localization_langs": [
+          "fr-FR",
+          "pt-BR",
+          "ko",
+          "bn",
+          "ml",
+          "id",
+          "ru",
+          "ja",
+          "iw",
+          "pa",
+          "es-US",
+          "pl",
+          "uk",
+          "de-DE",
+          "te",
+          "en",
+          "ta",
+          "ar",
+          "hi",
+          "it",
+          "nl-NL"
+        ],
+        "total_views": 87737,
+        "total_likes": 3431,
+        "total_comments": 173
+      },
+      "analytics": {
+        "video": "AO3EEPkYqaI",
+        "views": 87705,
+        "estimatedMinutesWatched": 865348,
+        "averageViewDuration": 606,
+        "averageViewPercentage": 29.38,
+        "subscribersGained": 3661,
+        "subscribersLost": 16,
+        "likes": 3431,
+        "comments": 65,
+        "shares": 3337
+      },
+      "us_pct_exact": 41.2,
+      "tier1_pct_exact": 48.2,
+      "geo_lifetime": {
+        "sum_top10_views": 62169,
+        "us_views": 36154,
+        "us_pct_of_top": 58.2,
+        "tier1_pct_of_top": 68.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 36154,
+            "pct": 58.2,
+            "avd": 33.4
+          },
+          {
+            "c": "IN",
+            "views": 7433,
+            "pct": 12.0,
+            "avd": 20.2
+          },
+          {
+            "c": "PH",
+            "views": 6591,
+            "pct": 10.6,
+            "avd": 28.4
+          },
+          {
+            "c": "AU",
+            "views": 2997,
+            "pct": 4.8,
+            "avd": 29.2
+          },
+          {
+            "c": "ZA",
+            "views": 2573,
+            "pct": 4.1,
+            "avd": 27.6
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 51860
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 25840
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 2502
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 2429
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 2092
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 1943
+        }
+      ]
+    },
+    {
+      "videoId": "xYgPSm00Wcs",
+      "group": "recent",
+      "meta": {
+        "title": "7 Flower Seeds to Scatter in Winter — Even on Snow (The Lazy Gardener's Head Start)",
+        "published": "2026-11-25",
+        "dur_s": 897,
+        "privacy": "private",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "nl-NL",
+          "ml",
+          "id",
+          "ru",
+          "de-DE",
+          "en-US",
+          "ko",
+          "es-US",
+          "bn",
+          "ar",
+          "it",
+          "hi",
+          "ja",
+          "iw",
+          "pa",
+          "pl",
+          "uk",
+          "fr-FR",
+          "pt-BR"
+        ],
+        "total_views": 0,
+        "total_likes": 0,
+        "total_comments": 0
+      },
+      "analytics": {},
+      "us_pct_exact": 0.0,
+      "tier1_pct_exact": 0.0,
+      "geo_lifetime": {},
+      "geo_28d": {},
+      "traffic": []
+    },
+    {
+      "videoId": "zK1CQBLKBck",
+      "group": "recent",
+      "meta": {
+        "title": "4 Amish Fall Garden Habits That Beat a Rototiller",
+        "published": "2026-11-25",
+        "dur_s": 719,
+        "privacy": "private",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "bn",
+          "nl-NL",
+          "ko",
+          "en-US",
+          "ru",
+          "id",
+          "de-DE",
+          "ml",
+          "es-US",
+          "te",
+          "uk",
+          "pl",
+          "pa",
+          "ja",
+          "iw",
+          "hi",
+          "it",
+          "fr-FR",
+          "ta",
+          "ar",
+          "pt-BR"
+        ],
+        "total_views": 0,
+        "total_likes": 0,
+        "total_comments": 0
+      },
+      "analytics": {},
+      "us_pct_exact": 0.0,
+      "tier1_pct_exact": 0.0,
+      "geo_lifetime": {},
+      "geo_28d": {},
+      "traffic": []
+    },
+    {
+      "videoId": "3q44GhlmPes",
+      "group": "recent",
+      "meta": {
+        "title": "No Greenhouse Needed 5 Ways to Grow Food All Winter",
+        "published": "2026-11-25",
+        "dur_s": 630,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "es-US",
+          "ml",
+          "de-DE",
+          "en-US",
+          "ru",
+          "id",
+          "ko",
+          "nl-NL",
+          "bn",
+          "fr-FR",
+          "ta",
+          "ar",
+          "pt-BR",
+          "it",
+          "hi",
+          "ja",
+          "iw",
+          "pl",
+          "uk",
+          "te"
+        ],
+        "total_views": 74,
+        "total_likes": 3,
+        "total_comments": 0
+      },
+      "analytics": {},
+      "us_pct_exact": 0.0,
+      "tier1_pct_exact": 0.0,
+      "geo_lifetime": {},
+      "geo_28d": {},
+      "traffic": []
+    },
+    {
+      "videoId": "rdsi3pGRMlg",
+      "group": "recent",
+      "meta": {
+        "title": "Stop Buying Fruit Bushes: Grow 6 for Free From Winter Cuttings",
+        "published": "2026-11-24",
+        "dur_s": 641,
+        "privacy": "private",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "te",
+          "uk",
+          "pl",
+          "pa",
+          "ja",
+          "iw",
+          "fr-FR",
+          "pt-BR",
+          "hi",
+          "it",
+          "ta",
+          "bn",
+          "ko",
+          "nl-NL",
+          "ru",
+          "id",
+          "es-US",
+          "ml",
+          "en-US",
+          "de-DE"
+        ],
+        "total_views": 0,
+        "total_likes": 0,
+        "total_comments": 0
+      },
+      "analytics": {},
+      "us_pct_exact": 0.0,
+      "tier1_pct_exact": 0.0,
+      "geo_lifetime": {},
+      "geo_28d": {},
+      "traffic": []
+    },
+    {
+      "videoId": "krtVPWEZimY",
+      "group": "recent",
+      "meta": {
+        "title": "What to Plant in November 5 Crops That Shrug Off 28°F",
+        "published": "2026-11-22",
+        "dur_s": 713,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "iw",
+          "ja",
+          "pa",
+          "pl",
+          "uk",
+          "pt-BR",
+          "fr-FR",
+          "te",
+          "ta",
+          "ar",
+          "hi",
+          "it",
+          "en-US",
+          "de-DE",
+          "ko",
+          "es-US",
+          "bn",
+          "ml",
+          "nl-NL",
+          "id",
+          "ru"
+        ],
+        "total_views": 207,
+        "total_likes": 0,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "krtVPWEZimY",
+        "views": 142,
+        "estimatedMinutesWatched": 158,
+        "averageViewDuration": 156,
+        "averageViewPercentage": 21.91,
+        "subscribersGained": 0,
+        "subscribersLost": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "us_pct_exact": 62.7,
+      "tier1_pct_exact": 62.7,
+      "geo_lifetime": {
+        "sum_top10_views": 89,
+        "us_views": 89,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 89,
+            "pct": 100.0,
+            "avd": 22.8
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 89,
+        "us_views": 89,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 89,
+            "pct": 100.0,
+            "avd": 22.8
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 101
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 24
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 12
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 3
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 2
+        }
+      ]
+    },
+    {
+      "videoId": "8bHtI8SpcTc",
+      "group": "recent",
+      "meta": {
+        "title": "Root Cellar Without a Cellar 3 Zones That Keep Veggies All Winter",
+        "published": "2026-11-20",
+        "dur_s": 706,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "uk",
+          "te",
+          "pa",
+          "ja",
+          "iw",
+          "nl-NL",
+          "pl",
+          "it",
+          "hi",
+          "es-US",
+          "ar",
+          "ta",
+          "en-US",
+          "de-DE",
+          "ko",
+          "bn",
+          "fr-FR",
+          "pt-BR",
+          "ru",
+          "id",
+          "ml"
+        ],
+        "total_views": 330,
+        "total_likes": 2,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "8bHtI8SpcTc",
+        "views": 272,
+        "estimatedMinutesWatched": 196,
+        "averageViewDuration": 135,
+        "averageViewPercentage": 19.14,
+        "subscribersGained": 0,
+        "subscribersLost": 1,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      },
+      "us_pct_exact": 42.3,
+      "tier1_pct_exact": 42.3,
+      "geo_lifetime": {
+        "sum_top10_views": 115,
+        "us_views": 115,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 115,
+            "pct": 100.0,
+            "avd": 16.8
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 115,
+        "us_views": 115,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 115,
+            "pct": 100.0,
+            "avd": 16.8
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 239
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 16
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 7
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 4
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 2
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 1
+        }
+      ]
+    },
+    {
+      "videoId": "rr_1fCTtuP4",
+      "group": "recent",
+      "meta": {
+        "title": "Nobody Believed Dragon Fruit Could Survive on Desert Sand — Until This Happened",
+        "published": "2026-11-15",
+        "dur_s": 602,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "uk",
+          "te",
+          "es-US",
+          "pa",
+          "iw",
+          "ja",
+          "en-US",
+          "pl",
+          "de-DE",
+          "hi",
+          "it",
+          "ar",
+          "ta",
+          "nl-NL",
+          "fr-FR",
+          "ko",
+          "pt-BR",
+          "bn",
+          "id",
+          "ru",
+          "ml"
+        ],
+        "total_views": 1264,
+        "total_likes": 4,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "rr_1fCTtuP4",
+        "views": 1256,
+        "estimatedMinutesWatched": 1824,
+        "averageViewDuration": 144,
+        "averageViewPercentage": 23.97,
+        "subscribersGained": 0,
+        "subscribersLost": 2,
+        "likes": 4,
+        "comments": 0,
+        "shares": 2
+      },
+      "us_pct_exact": 11.2,
+      "tier1_pct_exact": 11.2,
+      "geo_lifetime": {
+        "sum_top10_views": 691,
+        "us_views": 141,
+        "us_pct_of_top": 20.4,
+        "tier1_pct_of_top": 20.4,
+        "top5": [
+          {
+            "c": "IN",
+            "views": 293,
+            "pct": 42.4,
+            "avd": 17.7
+          },
+          {
+            "c": "ID",
+            "views": 159,
+            "pct": 23.0,
+            "avd": 17.7
+          },
+          {
+            "c": "US",
+            "views": 141,
+            "pct": 20.4,
+            "avd": 22.9
+          },
+          {
+            "c": "BD",
+            "views": 68,
+            "pct": 9.8,
+            "avd": 16.8
+          },
+          {
+            "c": "PH",
+            "views": 19,
+            "pct": 2.7,
+            "avd": 34.6
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 680,
+        "us_views": 141,
+        "us_pct_of_top": 20.7,
+        "tier1_pct_of_top": 20.7,
+        "top5": [
+          {
+            "c": "IN",
+            "views": 293,
+            "pct": 43.1,
+            "avd": 17.7
+          },
+          {
+            "c": "ID",
+            "views": 159,
+            "pct": 23.4,
+            "avd": 17.7
+          },
+          {
+            "c": "US",
+            "views": 141,
+            "pct": 20.7,
+            "avd": 22.9
+          },
+          {
+            "c": "BD",
+            "views": 68,
+            "pct": 10.0,
+            "avd": 16.8
+          },
+          {
+            "c": "PH",
+            "views": 19,
+            "pct": 2.8,
+            "avd": 34.6
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 734
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 458
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 18
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 16
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 15
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 9
+        }
+      ]
+    },
+    {
+      "videoId": "9PWB233HBFc",
+      "group": "recent",
+      "meta": {
+        "title": "You’re Throwing Away Free Plants: Root These 9 in a Glass of Water",
+        "published": "2026-11-11",
+        "dur_s": 677,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "es-US",
+          "ml",
+          "de-DE",
+          "en-US",
+          "ru",
+          "id",
+          "nl-NL",
+          "bn",
+          "ko",
+          "pt-BR",
+          "ar",
+          "ta",
+          "fr-FR",
+          "hi",
+          "it",
+          "pl",
+          "iw",
+          "ja",
+          "pa",
+          "te",
+          "uk"
+        ],
+        "total_views": 987,
+        "total_likes": 12,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "9PWB233HBFc",
+        "views": 961,
+        "estimatedMinutesWatched": 1425,
+        "averageViewDuration": 169,
+        "averageViewPercentage": 25.03,
+        "subscribersGained": 3,
+        "subscribersLost": 0,
+        "likes": 12,
+        "comments": 0,
+        "shares": 2
+      },
+      "us_pct_exact": 29.8,
+      "tier1_pct_exact": 29.8,
+      "geo_lifetime": {
+        "sum_top10_views": 422,
+        "us_views": 286,
+        "us_pct_of_top": 67.8,
+        "tier1_pct_of_top": 67.8,
+        "top5": [
+          {
+            "c": "US",
+            "views": 286,
+            "pct": 67.8,
+            "avd": 30.1
+          },
+          {
+            "c": "JP",
+            "views": 71,
+            "pct": 16.8,
+            "avd": 28.2
+          },
+          {
+            "c": "PL",
+            "views": 45,
+            "pct": 10.7,
+            "avd": 14.6
+          },
+          {
+            "c": "BR",
+            "views": 20,
+            "pct": 4.7,
+            "avd": 14.2
+          },
+          {
+            "c": "CA",
+            "views": 0,
+            "pct": 0.0,
+            "avd": 0
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 422,
+        "us_views": 286,
+        "us_pct_of_top": 67.8,
+        "tier1_pct_of_top": 67.8,
+        "top5": [
+          {
+            "c": "US",
+            "views": 286,
+            "pct": 67.8,
+            "avd": 30.1
+          },
+          {
+            "c": "JP",
+            "views": 71,
+            "pct": 16.8,
+            "avd": 28.2
+          },
+          {
+            "c": "PL",
+            "views": 45,
+            "pct": 10.7,
+            "avd": 14.6
+          },
+          {
+            "c": "BR",
+            "views": 20,
+            "pct": 4.7,
+            "avd": 14.2
+          },
+          {
+            "c": "CA",
+            "views": 0,
+            "pct": 0.0,
+            "avd": 0
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 703
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 185
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 38
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 9
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 9
+        },
+        {
+          "insightTrafficSourceType": "PLAYLIST",
+          "views": 5
+        }
+      ]
+    },
+    {
+      "videoId": "Uanf2aMH0iU",
+      "group": "recent",
+      "meta": {
+        "title": "Don’t Pull Your Pepper Plants Yet. They Can Live for Years",
+        "published": "2026-11-06",
+        "dur_s": 1018,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "it",
+          "hi",
+          "ar",
+          "ta",
+          "te",
+          "uk",
+          "pt-BR",
+          "fr-FR",
+          "pl",
+          "pa",
+          "iw",
+          "ja",
+          "ru",
+          "id",
+          "nl-NL",
+          "ml",
+          "bn",
+          "es-US",
+          "ko",
+          "de-DE",
+          "en-US"
+        ],
+        "total_views": 362,
+        "total_likes": 6,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "Uanf2aMH0iU",
+        "views": 360,
+        "estimatedMinutesWatched": 531,
+        "averageViewDuration": 187,
+        "averageViewPercentage": 18.41,
+        "subscribersGained": 0,
+        "subscribersLost": 4,
+        "likes": 6,
+        "comments": 0,
+        "shares": 1
+      },
+      "us_pct_exact": 26.4,
+      "tier1_pct_exact": 26.4,
+      "geo_lifetime": {
+        "sum_top10_views": 95,
+        "us_views": 95,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 95,
+            "pct": 100.0,
+            "avd": 14.6
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 95,
+        "us_views": 95,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 95,
+            "pct": 100.0,
+            "avd": 14.6
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 265
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 25
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 20
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 19
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 10
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 8
+        }
+      ]
+    },
+    {
+      "videoId": "KybDlhJ-Zgc",
+      "group": "recent",
+      "meta": {
+        "title": "Rose Cuttings in a Potato One Small Study Found No Roots",
+        "published": "2026-11-03",
+        "dur_s": 1155,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "fr-FR",
+          "pt-BR",
+          "ml",
+          "id",
+          "ru",
+          "ko",
+          "bn",
+          "ta",
+          "ar",
+          "es-US",
+          "hi",
+          "it",
+          "de-DE",
+          "en-US",
+          "ja",
+          "iw",
+          "pa",
+          "pl",
+          "te",
+          "nl-NL"
+        ],
+        "total_views": 376,
+        "total_likes": 3,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "KybDlhJ-Zgc",
+        "views": 374,
+        "estimatedMinutesWatched": 454,
+        "averageViewDuration": 185,
+        "averageViewPercentage": 16.05,
+        "subscribersGained": 1,
+        "subscribersLost": 2,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0
+      },
+      "us_pct_exact": 29.9,
+      "tier1_pct_exact": 29.9,
+      "geo_lifetime": {
+        "sum_top10_views": 112,
+        "us_views": 112,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 112,
+            "pct": 100.0,
+            "avd": 16.1
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 112,
+        "us_views": 112,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 112,
+            "pct": 100.0,
+            "avd": 16.1
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 297
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 19
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 18
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 11
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 11
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 6
+        }
+      ]
+    },
+    {
+      "videoId": "ocByKNBqZFg",
+      "group": "recent",
+      "meta": {
+        "title": "Geraniums Will Explode With Flowers If You Do This Now",
+        "published": "2026-10-28",
+        "dur_s": 1071,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "uk",
+          "te",
+          "ja",
+          "iw",
+          "pa",
+          "nl-NL",
+          "pl",
+          "hi",
+          "it",
+          "es-US",
+          "en-US",
+          "ar",
+          "de-DE",
+          "ta",
+          "ko",
+          "bn",
+          "fr-FR",
+          "pt-BR",
+          "id",
+          "ru",
+          "ml"
+        ],
+        "total_views": 755,
+        "total_likes": 6,
+        "total_comments": 2
+      },
+      "analytics": {
+        "video": "ocByKNBqZFg",
+        "views": 754,
+        "estimatedMinutesWatched": 804,
+        "averageViewDuration": 135,
+        "averageViewPercentage": 12.619999999999997,
+        "subscribersGained": 0,
+        "subscribersLost": 1,
+        "likes": 6,
+        "comments": 1,
+        "shares": 2
+      },
+      "us_pct_exact": 24.0,
+      "tier1_pct_exact": 24.0,
+      "geo_lifetime": {
+        "sum_top10_views": 241,
+        "us_views": 181,
+        "us_pct_of_top": 75.1,
+        "tier1_pct_of_top": 75.1,
+        "top5": [
+          {
+            "c": "US",
+            "views": 181,
+            "pct": 75.1,
+            "avd": 13.2
+          },
+          {
+            "c": "KR",
+            "views": 44,
+            "pct": 18.3,
+            "avd": 19
+          },
+          {
+            "c": "IN",
+            "views": 16,
+            "pct": 6.6,
+            "avd": 4.1
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 77,
+        "us_views": 17,
+        "us_pct_of_top": 22.1,
+        "tier1_pct_of_top": 22.1,
+        "top5": [
+          {
+            "c": "KR",
+            "views": 44,
+            "pct": 57.1,
+            "avd": 19
+          },
+          {
+            "c": "US",
+            "views": 17,
+            "pct": 22.1,
+            "avd": 15.2
+          },
+          {
+            "c": "IN",
+            "views": 16,
+            "pct": 20.8,
+            "avd": 4.1
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 546
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 133
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 35
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 18
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 6
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 6
+        }
+      ]
+    },
+    {
+      "videoId": "NFPmRO2FZYI",
+      "group": "recent",
+      "meta": {
+        "title": "No Flowers on Your Lemon Tree? Count This 1 Number Tomorrow",
+        "published": "2026-10-26",
+        "dur_s": 1212,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "en-US",
+          "pl",
+          "de-DE",
+          "pa",
+          "iw",
+          "ja",
+          "te",
+          "es-US",
+          "uk",
+          "nl-NL",
+          "ar",
+          "ta",
+          "hi",
+          "it",
+          "bn",
+          "pt-BR",
+          "ko",
+          "fr-FR",
+          "ml",
+          "ru",
+          "id"
+        ],
+        "total_views": 638,
+        "total_likes": 12,
+        "total_comments": 2
+      },
+      "analytics": {
+        "video": "NFPmRO2FZYI",
+        "views": 636,
+        "estimatedMinutesWatched": 1252,
+        "averageViewDuration": 195,
+        "averageViewPercentage": 16.15,
+        "subscribersGained": 1,
+        "subscribersLost": 3,
+        "likes": 12,
+        "comments": 1,
+        "shares": 2
+      },
+      "us_pct_exact": 16.7,
+      "tier1_pct_exact": 16.7,
+      "geo_lifetime": {
+        "sum_top10_views": 227,
+        "us_views": 106,
+        "us_pct_of_top": 46.7,
+        "tier1_pct_of_top": 46.7,
+        "top5": [
+          {
+            "c": "US",
+            "views": 106,
+            "pct": 46.7,
+            "avd": 23.7
+          },
+          {
+            "c": "IN",
+            "views": 90,
+            "pct": 39.6,
+            "avd": 5.2
+          },
+          {
+            "c": "BD",
+            "views": 20,
+            "pct": 8.8,
+            "avd": 3.0
+          },
+          {
+            "c": "LK",
+            "views": 11,
+            "pct": 4.8,
+            "avd": 5.0
+          },
+          {
+            "c": "PR",
+            "views": 0,
+            "pct": 0.0,
+            "avd": 0
+          }
+        ]
+      },
+      "geo_28d": {
+        "sum_top10_views": 1,
+        "us_views": 0,
+        "us_pct_of_top": 0.0,
+        "tier1_pct_of_top": 0.0,
+        "top5": [
+          {
+            "c": "PR",
+            "views": 0,
+            "pct": 0.0,
+            "avd": 0
+          }
+        ]
+      },
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 325
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 214
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 35
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 31
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 10
+        },
+        {
+          "insightTrafficSourceType": "YT_CHANNEL",
+          "views": 7
+        }
+      ]
+    },
+    {
+      "videoId": "RSSJLmTNYbg",
+      "group": "recent",
+      "meta": {
+        "title": "The Winter Window Test: How To Know If You Have Enough Light",
+        "published": "2026-10-18",
+        "dur_s": 1005,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "pt-BR",
+          "fr-FR",
+          "bn",
+          "ko",
+          "ml",
+          "id",
+          "ru",
+          "pl",
+          "es-US",
+          "pa",
+          "ja",
+          "iw",
+          "en-US",
+          "te",
+          "de-DE",
+          "uk",
+          "ar",
+          "ta",
+          "nl-NL",
+          "it",
+          "hi"
+        ],
+        "total_views": 580,
+        "total_likes": 8,
+        "total_comments": 2
+      },
+      "analytics": {
+        "video": "RSSJLmTNYbg",
+        "views": 580,
+        "estimatedMinutesWatched": 449,
+        "averageViewDuration": 128,
+        "averageViewPercentage": 12.78,
+        "subscribersGained": 0,
+        "subscribersLost": 3,
+        "likes": 8,
+        "comments": 1,
+        "shares": 11
+      },
+      "us_pct_exact": 21.6,
+      "tier1_pct_exact": 21.6,
+      "geo_lifetime": {
+        "sum_top10_views": 125,
+        "us_views": 125,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 125,
+            "pct": 100.0,
+            "avd": 14.2
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 473
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 37
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 31
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 20
+        },
+        {
+          "insightTrafficSourceType": "YT_CHANNEL",
+          "views": 6
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 6
+        }
+      ]
+    },
+    {
+      "videoId": "nv_ymFY_eqc",
+      "group": "recent",
+      "meta": {
+        "title": "(không đăng )",
+        "published": "2026-10-17",
+        "dur_s": 1112,
+        "privacy": "private",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "uk",
+          "te",
+          "ja",
+          "iw",
+          "nl-NL",
+          "pl",
+          "hi",
+          "it",
+          "es-US",
+          "ar",
+          "ta",
+          "en-US",
+          "de-DE",
+          "ko",
+          "bn",
+          "fr-FR",
+          "pt-BR",
+          "id",
+          "ru",
+          "ml"
+        ],
+        "total_views": 2,
+        "total_likes": 0,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "nv_ymFY_eqc",
+        "views": 2,
+        "estimatedMinutesWatched": 6,
+        "averageViewDuration": 195,
+        "averageViewPercentage": 17.56,
+        "subscribersGained": 0,
+        "subscribersLost": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "us_pct_exact": 0.0,
+      "tier1_pct_exact": 0.0,
+      "geo_lifetime": {},
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 2
+        }
+      ]
+    },
+    {
+      "videoId": "j3YlJirYv88",
+      "group": "recent",
+      "meta": {
+        "title": "Stop Throwing Away Pineapple Tops — Grow a Free Plant Instead",
+        "published": "2026-10-16",
+        "dur_s": 443,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "ko",
+          "bn",
+          "id",
+          "ru",
+          "fr-FR",
+          "pt-BR",
+          "ml",
+          "uk",
+          "nl-NL",
+          "te",
+          "pa",
+          "ja",
+          "iw",
+          "pl",
+          "hi",
+          "it",
+          "de-DE",
+          "en-US",
+          "ta",
+          "ar",
+          "es-US"
+        ],
+        "total_views": 814,
+        "total_likes": 9,
+        "total_comments": 2
+      },
+      "analytics": {
+        "video": "j3YlJirYv88",
+        "views": 812,
+        "estimatedMinutesWatched": 802,
+        "averageViewDuration": 128,
+        "averageViewPercentage": 28.96,
+        "subscribersGained": 3,
+        "subscribersLost": 2,
+        "likes": 9,
+        "comments": 1,
+        "shares": 8
+      },
+      "us_pct_exact": 22.5,
+      "tier1_pct_exact": 22.5,
+      "geo_lifetime": {
+        "sum_top10_views": 260,
+        "us_views": 183,
+        "us_pct_of_top": 70.4,
+        "tier1_pct_of_top": 70.4,
+        "top5": [
+          {
+            "c": "US",
+            "views": 183,
+            "pct": 70.4,
+            "avd": 37.6
+          },
+          {
+            "c": "IN",
+            "views": 57,
+            "pct": 21.9,
+            "avd": 15.1
+          },
+          {
+            "c": "ID",
+            "views": 20,
+            "pct": 7.7,
+            "avd": 25.4
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 555
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 172
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 27
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 17
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 12
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 11
+        }
+      ]
+    },
+    {
+      "videoId": "es8EANbfaxM",
+      "group": "recent",
+      "meta": {
+        "title": "Why Your Grocery Store Ginger Won't Grow (And How to Fix It)",
+        "published": "2026-10-13",
+        "dur_s": 512,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "de-DE",
+          "en-US",
+          "bn",
+          "ko",
+          "es-US",
+          "ml",
+          "nl-NL",
+          "id",
+          "ru",
+          "pl",
+          "pa",
+          "ja",
+          "iw",
+          "fr-FR",
+          "te",
+          "pt-BR",
+          "uk",
+          "ta",
+          "ar",
+          "hi",
+          "it"
+        ],
+        "total_views": 953,
+        "total_likes": 9,
+        "total_comments": 2
+      },
+      "analytics": {
+        "video": "es8EANbfaxM",
+        "views": 953,
+        "estimatedMinutesWatched": 1095,
+        "averageViewDuration": 140,
+        "averageViewPercentage": 27.36,
+        "subscribersGained": 0,
+        "subscribersLost": 3,
+        "likes": 9,
+        "comments": 1,
+        "shares": 2
+      },
+      "us_pct_exact": 30.8,
+      "tier1_pct_exact": 35.9,
+      "geo_lifetime": {
+        "sum_top10_views": 398,
+        "us_views": 294,
+        "us_pct_of_top": 73.9,
+        "tier1_pct_of_top": 85.9,
+        "top5": [
+          {
+            "c": "US",
+            "views": 294,
+            "pct": 73.9,
+            "avd": 30.7
+          },
+          {
+            "c": "IN",
+            "views": 40,
+            "pct": 10.1,
+            "avd": 15.0
+          },
+          {
+            "c": "GB",
+            "views": 25,
+            "pct": 6.3,
+            "avd": 43.7
+          },
+          {
+            "c": "CA",
+            "views": 23,
+            "pct": 5.8,
+            "avd": 28.6
+          },
+          {
+            "c": "ID",
+            "views": 16,
+            "pct": 4.0,
+            "avd": 18.6
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 713
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 146
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 32
+        },
+        {
+          "insightTrafficSourceType": "YT_CHANNEL",
+          "views": 16
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 12
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 10
+        }
+      ]
+    },
+    {
+      "videoId": "mISpbkQ58F8",
+      "group": "recent",
+      "meta": {
+        "title": "Your Christmas Cactus Isn't Blooming Because of This",
+        "published": "2026-10-11",
+        "dur_s": 536,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "en-US",
+          "de-DE",
+          "ko",
+          "es-US",
+          "bn",
+          "nl-NL",
+          "ml",
+          "id",
+          "ru",
+          "iw",
+          "ja",
+          "pa",
+          "pl",
+          "uk",
+          "fr-FR",
+          "pt-BR",
+          "te",
+          "ta",
+          "ar",
+          "hi",
+          "it"
+        ],
+        "total_views": 667,
+        "total_likes": 12,
+        "total_comments": 2
+      },
+      "analytics": {
+        "video": "mISpbkQ58F8",
+        "views": 666,
+        "estimatedMinutesWatched": 871,
+        "averageViewDuration": 192,
+        "averageViewPercentage": 35.89,
+        "subscribersGained": 1,
+        "subscribersLost": 1,
+        "likes": 12,
+        "comments": 1,
+        "shares": 4
+      },
+      "us_pct_exact": 24.0,
+      "tier1_pct_exact": 24.0,
+      "geo_lifetime": {
+        "sum_top10_views": 160,
+        "us_views": 160,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 160,
+            "pct": 100.0,
+            "avd": 37.0
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 499
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 51
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 27
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 25
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 18
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 16
+        }
+      ]
+    },
+    {
+      "videoId": "O_DXIaRQOvA",
+      "group": "recent",
+      "meta": {
+        "title": "Plant ONE Garlic Clove in a Pot Harvest a Full Head Next Summer",
+        "published": "2026-10-09",
+        "dur_s": 498,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "es-US",
+          "ar",
+          "ta",
+          "de-DE",
+          "hi",
+          "it",
+          "en-US",
+          "iw",
+          "ja",
+          "pa",
+          "pl",
+          "nl-NL",
+          "uk",
+          "te",
+          "fr-FR",
+          "ml",
+          "pt-BR",
+          "id",
+          "ru",
+          "ko",
+          "bn"
+        ],
+        "total_views": 648,
+        "total_likes": 8,
+        "total_comments": 3
+      },
+      "analytics": {
+        "video": "O_DXIaRQOvA",
+        "views": 648,
+        "estimatedMinutesWatched": 763,
+        "averageViewDuration": 147,
+        "averageViewPercentage": 29.69,
+        "subscribersGained": 1,
+        "subscribersLost": 1,
+        "likes": 8,
+        "comments": 2,
+        "shares": 6
+      },
+      "us_pct_exact": 33.6,
+      "tier1_pct_exact": 33.6,
+      "geo_lifetime": {
+        "sum_top10_views": 218,
+        "us_views": 218,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 218,
+            "pct": 100.0,
+            "avd": 27.4
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 493
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 42
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 40
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 23
+        },
+        {
+          "insightTrafficSourceType": "PLAYLIST",
+          "views": 18
+        },
+        {
+          "insightTrafficSourceType": "END_SCREEN",
+          "views": 11
+        }
+      ]
+    },
+    {
+      "videoId": "OsXFj3Lqku8",
+      "group": "recent",
+      "meta": {
+        "title": "Warning: Don't Use Potato Water On Orchids Until You Watch This!",
+        "published": "2026-10-07",
+        "dur_s": 509,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "id",
+          "ru",
+          "nl-NL",
+          "ml",
+          "ko",
+          "es-US",
+          "bn",
+          "de-DE",
+          "en-US",
+          "hi",
+          "it",
+          "ar",
+          "ta",
+          "uk",
+          "fr-FR",
+          "pt-BR",
+          "te",
+          "ja",
+          "iw",
+          "pa",
+          "pl"
+        ],
+        "total_views": 818,
+        "total_likes": 5,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "OsXFj3Lqku8",
+        "views": 818,
+        "estimatedMinutesWatched": 330,
+        "averageViewDuration": 78,
+        "averageViewPercentage": 15.370000000000001,
+        "subscribersGained": 0,
+        "subscribersLost": 1,
+        "likes": 5,
+        "comments": 0,
+        "shares": 2
+      },
+      "us_pct_exact": 14.2,
+      "tier1_pct_exact": 14.2,
+      "geo_lifetime": {
+        "sum_top10_views": 129,
+        "us_views": 116,
+        "us_pct_of_top": 89.9,
+        "tier1_pct_of_top": 89.9,
+        "top5": [
+          {
+            "c": "US",
+            "views": 116,
+            "pct": 89.9,
+            "avd": 8.6
+          },
+          {
+            "c": "IN",
+            "views": 13,
+            "pct": 10.1,
+            "avd": 11.0
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 686
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 63
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 20
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 20
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 12
+        },
+        {
+          "insightTrafficSourceType": "YT_CHANNEL",
+          "views": 7
+        }
+      ]
+    },
+    {
+      "videoId": "f8I-4O-QWWY",
+      "group": "recent",
+      "meta": {
+        "title": "4 Hidden Reasons Your Snake Plant Is Struggling (Not Root Rot)",
+        "published": "2026-09-30",
+        "dur_s": 533,
+        "privacy": "public",
+        "defaultAudioLanguage": "en-US",
+        "defaultLanguage": "en-US",
+        "localization_langs": [
+          "de-DE",
+          "ar",
+          "ta",
+          "en-US",
+          "hi",
+          "it",
+          "es-US",
+          "ja",
+          "iw",
+          "nl-NL",
+          "pa",
+          "pl",
+          "uk",
+          "te",
+          "ml",
+          "fr-FR",
+          "id",
+          "ru",
+          "pt-BR",
+          "ko",
+          "bn"
+        ],
+        "total_views": 835,
+        "total_likes": 9,
+        "total_comments": 0
+      },
+      "analytics": {
+        "video": "f8I-4O-QWWY",
+        "views": 835,
+        "estimatedMinutesWatched": 818,
+        "averageViewDuration": 163,
+        "averageViewPercentage": 30.760000000000005,
+        "subscribersGained": 1,
+        "subscribersLost": 1,
+        "likes": 9,
+        "comments": 0,
+        "shares": 3
+      },
+      "us_pct_exact": 17.1,
+      "tier1_pct_exact": 17.1,
+      "geo_lifetime": {
+        "sum_top10_views": 143,
+        "us_views": 143,
+        "us_pct_of_top": 100.0,
+        "tier1_pct_of_top": 100.0,
+        "top5": [
+          {
+            "c": "US",
+            "views": 143,
+            "pct": 100.0,
+            "avd": 32.1
+          }
+        ]
+      },
+      "geo_28d": {},
+      "traffic": [
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 725
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 29
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 26
+        },
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 18
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 12
+        },
+        {
+          "insightTrafficSourceType": "YT_CHANNEL",
+          "views": 10
+        }
+      ]
+    }
+  ],
+  "ops_180d_check": {
+    "private": [
+      {
+        "videoId": "ATfRSWoCRrI",
+        "views": 26263,
+        "avd": 129.2,
+        "avg_dur": 14,
+        "dur": 11,
+        "privacy": "private",
+        "title": "Grow Massive Tomatoes in a Bag!",
+        "published": "2026-06-20"
+      },
+      {
+        "videoId": "qraO0zmknds",
+        "views": 5255,
+        "avd": 163.3,
+        "avg_dur": 14,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Pothos Experts Stick Vine Cuttings Inside Ripe",
+        "published": "2026-06-21"
+      },
+      {
+        "videoId": "Z4prxRY1fLU",
+        "views": 5244,
+        "avd": 192.8,
+        "avg_dur": 17,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Orchid Experts Bury Potato Peels Under Dead  Stems",
+        "published": "2026-06-24"
+      },
+      {
+        "videoId": "yGjnFHKl14Y",
+        "views": 3550,
+        "avd": 166.1,
+        "avg_dur": 14,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Flower Experts Stick Gloxinia Leaves Into Golden Gloxinia Tubers",
+        "published": "2026-06-26"
+      },
+      {
+        "videoId": "cz30i2lsGNU",
+        "views": 3242,
+        "avd": 161.1,
+        "avg_dur": 17,
+        "dur": 11,
+        "privacy": "private",
+        "title": "Save Dying Rose Bushes With Banana Peels",
+        "published": "2026-06-27"
+      },
+      {
+        "videoId": "cPz5u4kRRo4",
+        "views": 1709,
+        "avd": 150.5,
+        "avg_dur": 13,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Pothos Experts Stick Marble Vines Inside Red Dragon Fruit",
+        "published": "2026-06-22"
+      },
+      {
+        "videoId": "Quq9ikYpyOM",
+        "views": 1673,
+        "avd": 60.0,
+        "avg_dur": 24,
+        "dur": 41,
+        "privacy": "private",
+        "title": "These 6 Weeds Could Be the Most Valuable Plants…",
+        "published": "2026-06-21"
+      },
+      {
+        "videoId": "A1qO81aZfx4",
+        "views": 1594,
+        "avd": 165.4,
+        "avg_dur": 14,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Master Gardeners Put Sliced Ginger Under Dying Peace Lilies",
+        "published": "2026-06-25"
+      },
+      {
+        "videoId": "BEBxezHB2Z8",
+        "views": 1233,
+        "avd": 178.8,
+        "avg_dur": 16,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Orchid Experts Stuff Sprout Inside Fresh Lemon",
+        "published": "2026-06-23"
+      }
+    ],
+    "deleted": [
+      {
+        "videoId": "O0FxZPyqsdg",
+        "views": 834,
+        "avd": 84.2,
+        "avg_dur": 12,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "O0FxZPyqsdg",
+        "published": null
+      },
+      {
+        "videoId": "5C-sl4lVlQA",
+        "views": 808,
+        "avd": 100.8,
+        "avg_dur": 15,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "5C-sl4lVlQA",
+        "published": null
+      },
+      {
+        "videoId": "mzXJhIDwAkw",
+        "views": 686,
+        "avd": 82.7,
+        "avg_dur": 12,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "mzXJhIDwAkw",
+        "published": null
+      },
+      {
+        "videoId": "l8kQ0F66FNA",
+        "views": 598,
+        "avd": 70.3,
+        "avg_dur": 10,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "l8kQ0F66FNA",
+        "published": null
+      },
+      {
+        "videoId": "psE9kxNJiBk",
+        "views": 491,
+        "avd": 81.2,
+        "avg_dur": 12,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "psE9kxNJiBk",
+        "published": null
+      },
+      {
+        "videoId": "ks54_ccw3BM",
+        "views": 458,
+        "avd": 60.4,
+        "avg_dur": 9,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "ks54_ccw3BM",
+        "published": null
+      },
+      {
+        "videoId": "5FpYvO1ZV3E",
+        "views": 173,
+        "avd": 154.8,
+        "avg_dur": 23,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "5FpYvO1ZV3E",
+        "published": null
+      },
+      {
+        "videoId": "EP0EXtcw3_E",
+        "views": 160,
+        "avd": 59.5,
+        "avg_dur": 9,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "EP0EXtcw3_E",
+        "published": null
+      },
+      {
+        "videoId": "sH1zAK46vgM",
+        "views": 152,
+        "avd": 58.0,
+        "avg_dur": 9,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "sH1zAK46vgM",
+        "published": null
+      },
+      {
+        "videoId": "rpbG3xg7fs8",
+        "views": 150,
+        "avd": 51.2,
+        "avg_dur": 8,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "rpbG3xg7fs8",
+        "published": null
+      },
+      {
+        "videoId": "E1KdiXIctvE",
+        "views": 149,
+        "avd": 122.4,
+        "avg_dur": 19,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "E1KdiXIctvE",
+        "published": null
+      },
+      {
+        "videoId": "U8qlmHB8K90",
+        "views": 120,
+        "avd": 52.1,
+        "avg_dur": 7,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "U8qlmHB8K90",
+        "published": null
+      },
+      {
+        "videoId": "VfdUVLpSyGg",
+        "views": 107,
+        "avd": 103.5,
+        "avg_dur": 16,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "VfdUVLpSyGg",
+        "published": null
+      },
+      {
+        "videoId": "BQr1SbiEykA",
+        "views": 101,
+        "avd": 56.4,
+        "avg_dur": 8,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "BQr1SbiEykA",
+        "published": null
+      },
+      {
+        "videoId": "ja1y5JiYQxc",
+        "views": 88,
+        "avd": 65.9,
+        "avg_dur": 10,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "ja1y5JiYQxc",
+        "published": null
+      },
+      {
+        "videoId": "ABCNGoSAg9g",
+        "views": 77,
+        "avd": 48.9,
+        "avg_dur": 7,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "ABCNGoSAg9g",
+        "published": null
+      },
+      {
+        "videoId": "C0tso7BRiyY",
+        "views": 65,
+        "avd": 62.1,
+        "avg_dur": 9,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "C0tso7BRiyY",
+        "published": null
+      },
+      {
+        "videoId": "lLqHEgme_Ts",
+        "views": 53,
+        "avd": 87.7,
+        "avg_dur": 13,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "lLqHEgme_Ts",
+        "published": null
+      }
+    ],
+    "shorts": [
+      {
+        "videoId": "ATfRSWoCRrI",
+        "views": 26263,
+        "avd": 129.2,
+        "avg_dur": 14,
+        "dur": 11,
+        "privacy": "private",
+        "title": "Grow Massive Tomatoes in a Bag!",
+        "published": "2026-06-20"
+      },
+      {
+        "videoId": "qraO0zmknds",
+        "views": 5255,
+        "avd": 163.3,
+        "avg_dur": 14,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Pothos Experts Stick Vine Cuttings Inside Ripe",
+        "published": "2026-06-21"
+      },
+      {
+        "videoId": "Z4prxRY1fLU",
+        "views": 5244,
+        "avd": 192.8,
+        "avg_dur": 17,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Orchid Experts Bury Potato Peels Under Dead  Stems",
+        "published": "2026-06-24"
+      },
+      {
+        "videoId": "yGjnFHKl14Y",
+        "views": 3550,
+        "avd": 166.1,
+        "avg_dur": 14,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Flower Experts Stick Gloxinia Leaves Into Golden Gloxinia Tubers",
+        "published": "2026-06-26"
+      },
+      {
+        "videoId": "cz30i2lsGNU",
+        "views": 3242,
+        "avd": 161.1,
+        "avg_dur": 17,
+        "dur": 11,
+        "privacy": "private",
+        "title": "Save Dying Rose Bushes With Banana Peels",
+        "published": "2026-06-27"
+      },
+      {
+        "videoId": "cPz5u4kRRo4",
+        "views": 1709,
+        "avd": 150.5,
+        "avg_dur": 13,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Pothos Experts Stick Marble Vines Inside Red Dragon Fruit",
+        "published": "2026-06-22"
+      },
+      {
+        "videoId": "Quq9ikYpyOM",
+        "views": 1673,
+        "avd": 60.0,
+        "avg_dur": 24,
+        "dur": 41,
+        "privacy": "private",
+        "title": "These 6 Weeds Could Be the Most Valuable Plants…",
+        "published": "2026-06-21"
+      },
+      {
+        "videoId": "A1qO81aZfx4",
+        "views": 1594,
+        "avd": 165.4,
+        "avg_dur": 14,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Master Gardeners Put Sliced Ginger Under Dying Peace Lilies",
+        "published": "2026-06-25"
+      },
+      {
+        "videoId": "BEBxezHB2Z8",
+        "views": 1233,
+        "avd": 178.8,
+        "avg_dur": 16,
+        "dur": 9,
+        "privacy": "private",
+        "title": "Why Orchid Experts Stuff Sprout Inside Fresh Lemon",
+        "published": "2026-06-23"
+      },
+      {
+        "videoId": "O0FxZPyqsdg",
+        "views": 834,
+        "avd": 84.2,
+        "avg_dur": 12,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "O0FxZPyqsdg",
+        "published": null
+      },
+      {
+        "videoId": "5C-sl4lVlQA",
+        "views": 808,
+        "avd": 100.8,
+        "avg_dur": 15,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "5C-sl4lVlQA",
+        "published": null
+      },
+      {
+        "videoId": "mzXJhIDwAkw",
+        "views": 686,
+        "avd": 82.7,
+        "avg_dur": 12,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "mzXJhIDwAkw",
+        "published": null
+      },
+      {
+        "videoId": "l8kQ0F66FNA",
+        "views": 598,
+        "avd": 70.3,
+        "avg_dur": 10,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "l8kQ0F66FNA",
+        "published": null
+      },
+      {
+        "videoId": "psE9kxNJiBk",
+        "views": 491,
+        "avd": 81.2,
+        "avg_dur": 12,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "psE9kxNJiBk",
+        "published": null
+      },
+      {
+        "videoId": "ks54_ccw3BM",
+        "views": 458,
+        "avd": 60.4,
+        "avg_dur": 9,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "ks54_ccw3BM",
+        "published": null
+      },
+      {
+        "videoId": "5FpYvO1ZV3E",
+        "views": 173,
+        "avd": 154.8,
+        "avg_dur": 23,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "5FpYvO1ZV3E",
+        "published": null
+      },
+      {
+        "videoId": "EP0EXtcw3_E",
+        "views": 160,
+        "avd": 59.5,
+        "avg_dur": 9,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "EP0EXtcw3_E",
+        "published": null
+      },
+      {
+        "videoId": "sH1zAK46vgM",
+        "views": 152,
+        "avd": 58.0,
+        "avg_dur": 9,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "sH1zAK46vgM",
+        "published": null
+      },
+      {
+        "videoId": "rpbG3xg7fs8",
+        "views": 150,
+        "avd": 51.2,
+        "avg_dur": 8,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "rpbG3xg7fs8",
+        "published": null
+      },
+      {
+        "videoId": "E1KdiXIctvE",
+        "views": 149,
+        "avd": 122.4,
+        "avg_dur": 19,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "E1KdiXIctvE",
+        "published": null
+      },
+      {
+        "videoId": "U8qlmHB8K90",
+        "views": 120,
+        "avd": 52.1,
+        "avg_dur": 7,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "U8qlmHB8K90",
+        "published": null
+      },
+      {
+        "videoId": "VfdUVLpSyGg",
+        "views": 107,
+        "avd": 103.5,
+        "avg_dur": 16,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "VfdUVLpSyGg",
+        "published": null
+      },
+      {
+        "videoId": "BQr1SbiEykA",
+        "views": 101,
+        "avd": 56.4,
+        "avg_dur": 8,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "BQr1SbiEykA",
+        "published": null
+      },
+      {
+        "videoId": "ja1y5JiYQxc",
+        "views": 88,
+        "avd": 65.9,
+        "avg_dur": 10,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "ja1y5JiYQxc",
+        "published": null
+      },
+      {
+        "videoId": "ABCNGoSAg9g",
+        "views": 77,
+        "avd": 48.9,
+        "avg_dur": 7,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "ABCNGoSAg9g",
+        "published": null
+      },
+      {
+        "videoId": "C0tso7BRiyY",
+        "views": 65,
+        "avd": 62.1,
+        "avg_dur": 9,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "C0tso7BRiyY",
+        "published": null
+      },
+      {
+        "videoId": "lLqHEgme_Ts",
+        "views": 53,
+        "avd": 87.7,
+        "avg_dur": 13,
+        "dur": 0,
+        "privacy": "deleted",
+        "title": "lLqHEgme_Ts",
+        "published": null
+      }
+    ],
+    "total_180d_videos": 200
+  },
+  "monthly_trend_clean": [
+    {
+      "month": "2025-11",
+      "views": 98025,
+      "mins": 679584,
+      "subs_gained": 2800,
+      "subs_lost": 60,
+      "subs_net": 2740,
+      "avd_pct": 26.7,
+      "avg_dur_s": 421,
+      "likes": 3118,
+      "comments": 94
+    },
+    {
+      "month": "2025-12",
+      "views": 338462,
+      "mins": 1749727,
+      "subs_gained": 5205,
+      "subs_lost": 165,
+      "subs_net": 5040,
+      "avd_pct": 25.5,
+      "avg_dur_s": 316,
+      "likes": 7194,
+      "comments": 186
+    },
+    {
+      "month": "2026-01",
+      "views": 1155547,
+      "mins": 4525955,
+      "subs_gained": 15276,
+      "subs_lost": 447,
+      "subs_net": 14829,
+      "avd_pct": 27.1,
+      "avg_dur_s": 235,
+      "likes": 26475,
+      "comments": 603
+    },
+    {
+      "month": "2026-02",
+      "views": 722219,
+      "mins": 2419158,
+      "subs_gained": 8212,
+      "subs_lost": 454,
+      "subs_net": 7758,
+      "avd_pct": 25.9,
+      "avg_dur_s": 203,
+      "likes": 14675,
+      "comments": 357
+    },
+    {
+      "month": "2026-03",
+      "views": 1118969,
+      "mins": 3651877,
+      "subs_gained": 13954,
+      "subs_lost": 654,
+      "subs_net": 13300,
+      "avd_pct": 25.1,
+      "avg_dur_s": 199,
+      "likes": 23997,
+      "comments": 903
+    },
+    {
+      "month": "2026-04",
+      "views": 1568112,
+      "mins": 5056165,
+      "subs_gained": 13107,
+      "subs_lost": 754,
+      "subs_net": 12353,
+      "avd_pct": 26.2,
+      "avg_dur_s": 203,
+      "likes": 23864,
+      "comments": 652
+    },
+    {
+      "month": "2026-05",
+      "views": 395414,
+      "mins": 1389632,
+      "subs_gained": 4074,
+      "subs_lost": 591,
+      "subs_net": 3483,
+      "avd_pct": 26.3,
+      "avg_dur_s": 213,
+      "likes": 7203,
+      "comments": 268
+    },
+    {
+      "month": "2026-06",
+      "views": 226103,
+      "mins": 619736,
+      "subs_gained": 1764,
+      "subs_lost": 447,
+      "subs_net": 1317,
+      "avd_pct": 25.6,
+      "avg_dur_s": 193,
+      "likes": 3353,
+      "comments": 144
+    },
+    {
+      "month": "2026-07",
+      "views": 120206,
+      "mins": 396175,
+      "subs_gained": 1085,
+      "subs_lost": 371,
+      "subs_net": 714,
+      "avd_pct": 25.7,
+      "avg_dur_s": 203,
+      "likes": 1764,
+      "comments": 67
+    },
+    {
+      "month": "2026-08",
+      "views": 104197,
+      "mins": 339291,
+      "subs_gained": 930,
+      "subs_lost": 320,
+      "subs_net": 610,
+      "avd_pct": 28.0,
+      "avg_dur_s": 220,
+      "likes": 1429,
+      "comments": 74
+    },
+    {
+      "month": "2026-09",
+      "views": 112435,
+      "mins": 231508,
+      "subs_gained": 595,
+      "subs_lost": 264,
+      "subs_net": 331,
+      "avd_pct": 28.3,
+      "avg_dur_s": 235,
+      "likes": 945,
+      "comments": 54
+    },
+    {
+      "month": "2026-10",
+      "views": 87437,
+      "mins": 196738,
+      "subs_gained": 497,
+      "subs_lost": 249,
+      "subs_net": 248,
+      "avd_pct": 28.9,
+      "avg_dur_s": 242,
+      "likes": 718,
+      "comments": 34
+    },
+    {
+      "month": "2026-11",
+      "views": 54452,
+      "mins": 122805,
+      "subs_gained": 324,
+      "subs_lost": 135,
+      "subs_net": 189,
+      "avd_pct": 29.7,
+      "avg_dur_s": 243,
+      "likes": 411,
+      "comments": 23
+    }
+  ]
+}

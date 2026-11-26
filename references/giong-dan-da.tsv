@@ -1,0 +1,124 @@
+# Sổ giọng dân dã cho script_lint.py cổng E7 (thêm 22/11/2026, user duyệt). Một dòng một mẫu; cột 2 là regex (không phân biệt hoa thường).
+# loai: cam = từ sáo / khuôn AI, 0 chỗ (FAIL) · sach = chữ sách vở, có chữ dân dã thay (FAIL khi quá trần) · thanh_ngu = thành ngữ, so sánh nhà nông (cần ≥ 2) · dan_da = dấu dân dã (cần ≥ 1)
+# Giọng: người làm vườn Trung Tây chân chất, kiểu «bà nội Ohio» — KHÔNG cao bồi Texas («y'all», «reckon», «fixin' to»). Không kể chuyện riêng của người kể (Narrator Integrity): chân chất nằm ở CÁCH NÓI.
+# Dùng một thành ngữ mới không có ở đây: thêm 1 dòng thanh_ngu để máy đếm được. Máy cảnh báo khi một thành ngữ lặp ở ≥ 2 trong 5 bài gần nhất.
+loai	regex	thay_bang	ghi_chu
+cam	\butiliz\w*	use
+cam	\bfacilitat\w*	help
+cam	\brobust\b	tough / sturdy
+cam	\bholistic\b	(bỏ)
+cam	\bpivotal\b	big / the one that matters
+cam	\btransformative\b	(bỏ)
+cam	\bin conclusion\b	(bỏ; kết theo L23)
+cam	\bit is important to note\b	(bỏ; nói thẳng)
+cam	\bnavigat\w* the complexit\w*	figure out
+cam	\bplethora\b	a whole bunch
+cam	\bembark\w*	start
+cam	\bharness(?:ing)? the power\b	use
+cam	\bgame[- ]changer\b	(nói nó làm được gì)
+cam	\bcutting[- ]edge\b	(bỏ)
+cam	\bseamless\w*	easy
+cam	\blet'?s dive\b|\bdive (?:in|into|deep)\b|\bdeep dive\b	let's get to it / here's how
+cam	\bunlock\w*	get
+cam	\bsecret weapon\b	(gọi đúng tên thứ đó)
+cam	\belevate\w*	(bỏ)
+cam	\bvibrant\b	bright / green / healthy
+cam	\bnestled\b	sitting
+cam	\bbuckle up\b	(bỏ)
+cam	\b(?:here'?s )?the kicker\b	here's the thing
+cam	\ba testament to\b	shows
+cam	\btreasure trove\b	a whole lot of
+cam	\btapestry\b	(bỏ)
+cam	\bin the realm of\b	in
+cam	\b(?:your|our|this|the) (?:gardening |growing )?journey\b	(bỏ)
+cam	\bsupercharg\w*	(nói nó làm được gì)
+cam	\bpowerhouse\b	(nói nó có gì)
+cam	\blet that sink in\b	(bỏ)
+cam	\byou won'?t believe\b	(bỏ; đưa bằng chứng)
+cam	\bplot twist\b	here's the surprise
+cam	\bspoiler alert\b	(bỏ)
+cam	\b(?:where |that'?s where )?the magic happens\b	that's when it works
+cam	\bfun fact\b	(bỏ)
+cam	\bthe best part\?	(bỏ)
+cam	\bnot just a [a-z]+[,;—-]+ (?:it'?s|but) a\b	(nói thẳng nó là gì)
+sach	\bapproximately\b	about
+sach	\bsufficient\w*	enough
+sach	\bnumerous\b	lots of
+sach	\bcommenc\w*	start
+sach	\bsubsequent(?:ly)?\b	then / later
+sach	\bprior to\b	before
+sach	\bin order to\b	to
+sach	\bindividuals\b	folks / people
+sach	\bpurchas\w*	buy
+sach	\bobtain\w*	get
+sach	\badditionally\b	plus / and
+sach	\bconsequently\b|\btherefore\b|\bthus\b|\bhence\b	so
+sach	\bnevertheless\b|\bnonetheless\b	still
+sach	\boptimal\w*	best
+sach	\bensur\w*	make sure
+sach	\bregarding\b	about
+sach	\bdemonstrat\w*	show
+sach	\bindicat\w*	show / mean
+sach	\bbeneficial\b	good for
+sach	\bsignificant(?:ly)?\b	a lot / big
+sach	\benhanc\w*	help / boost
+sach	\bmaximiz\w*	get the most out of
+sach	\bminimiz\w*	cut down on
+sach	\bcrucial\b|\bessential\b	key / you've gotta
+sach	\ba variety of\b|\bvarious\b	all kinds of
+sach	\bassist\w*	help
+sach	\bresidents\b	folks
+sach	\bideal(?:ly)?\b	best / just right
+sach	\bmoreover\b|\bfurthermore\b	and / plus
+sach	\bexcessive\w*	too much
+sach	\bapproach\b	way
+thanh_ngu	\brule of thumb\b
+thanh_ngu	\btough as (?:nails|an old boot|shoe leather)\b
+thanh_ngu	\belbow grease\b
+thanh_ngu	\bdirt[- ]cheap\b
+thanh_ngu	\bgreen thumb\b
+thanh_ngu	\brain or shine\b
+thanh_ngu	\bproof is in the pudding\b
+thanh_ngu	\bmake hay while the sun shines\b
+thanh_ngu	\ba stitch in time\b
+thanh_ngu	\bslow and steady\b
+thanh_ngu	\bplain as day\b
+thanh_ngu	\bright as rain\b
+thanh_ngu	\bmother nature\b
+thanh_ngu	\bfrom seed to (?:harvest|table|supper)\b
+thanh_ngu	\bbang for (?:your|the) buck\b
+thanh_ngu	\bknee[- ]high by the fourth of july\b
+thanh_ngu	\btried and true\b
+thanh_ngu	\bworth (?:its|their) weight in gold\b
+thanh_ngu	\b(?:all )?your eggs in one basket\b
+thanh_ngu	\bearly bird\b
+thanh_ngu	\bby the bucket(?:ful|load)\b
+thanh_ngu	\bgrows? like (?:a weed|weeds|crazy)\b
+thanh_ngu	\bsnug as a bug\b
+thanh_ngu	\bcool as a cucumber\b
+thanh_ngu	\bhungry as a\b
+thanh_ngu	\bclean as a whistle\b
+thanh_ngu	\bcome hell or high water\b
+thanh_ngu	\bno spring chicken\b
+thanh_ngu	\bthe whole kit and caboodle\b
+thanh_ngu	\bsow what you (?:want to )?reap\b|\breap what you sow\b
+thanh_ngu	\bdon'?t count your chickens\b
+thanh_ngu	\bnothing to sneeze at\b
+thanh_ngu	\b(?:a )?bedsheet over\b		so sánh đời nhà nông: phủ ga giường lên luống
+thanh_ngu	\bin a pinch\b
+dan_da	\bfolks\b
+dan_da	\bfair warning\b
+dan_da	\bgive it a whirl\b
+dan_da	\b(?:this|these) guys?\b
+dan_da	\bthe culprit\b
+dan_da	\bhere'?s the honest part\b
+dan_da	\byou bet\b
+dan_da	\bnothing fancy\b
+dan_da	\bplain and simple\b
+dan_da	\bhonest to goodness\b
+dan_da	\bcome (?:spring|march|april|may|fall)\b
+dan_da	\bout back\b
+dan_da	\bold[- ]timers?\b
+dan_da	\bsure enough\b
+dan_da	\bdarn\b
+dan_da	\bgonna\b|\bkinda\b|\bgotta\b

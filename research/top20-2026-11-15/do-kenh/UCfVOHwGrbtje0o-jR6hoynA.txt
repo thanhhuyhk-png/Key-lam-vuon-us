@@ -1,0 +1,150 @@
+# Đo kênh: UCfVOHwGrbtje0o-jR6hoynA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 547 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 2,650 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-23 |
+| n_ngoai_cua_so | 31 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 225 |
+| cao_nhat | 610 |
+| thap_nhat | 28 |
+| phan_tan | 2.71 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.08 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 1.14 |
+| ngay_video_dau | 2025-10-26 |
+| tuoi_tu_video_dau | 386 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 6.87 |
+| sub_moi_video | 4.84 |
+| video_30_ngay | 2 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** NHIEU_VIDEO_CUNG_NGAY
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-10-26 | 386 | KT_KNwTC_Ss | 162 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Stop Kitchen Garden Pests Organically |
+| 2025-10-28 | 384 | mLc6YYsCVCg | 321 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Why Smart Gardeners Are Pouring Rice Water Into Their Soil |
+| 2025-10-28 | 384 | ELx7Q2xGCec | 753 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Rice Water vs Compost Tea: Which Natural Organic Booster Grows Healthier Plants Faster? (GardenTips) |
+| 2025-10-30 | 382 | nMX34pxHMRU | 1,162 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 7 Seed Starting Secrets Every Beginner Should Know! #gardeningtips #seedly #plantcare |
+| 2025-10-31 | 381 | SjDoCbK1gGY | 158 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | "Why Every Gardener Should Never Throw Away Eggshells" (Science-Backed) #Plantcare |
+| 2025-10-31 | 381 | WeOAs43qC80 | 99 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | "Why Every Gardener Should Save Their Banana Peels" \| Supercharge Your Garden Naturally! #plantcare |
+| 2025-11-03 | 378 | Foqii68Oqxw | 1,217 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | “Homemade Probiotic Fertilizer": The Power of Lactic Acid Bacteria (LAB) (Science-Backed) #Seedly |
+| 2025-11-04 | 377 | qQQqOzNdTZU | 62 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 'Rescue a Dying Houseplant' \| Simple Steps to Bring Your Plants Back to Life. |
+| 2026-04-23 | 207 | OrUvNbLsvAM | 294 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | I Put A $2 PVC Pipe In My Garden. It Produces Free Fertilizer Every Day and Big Ag Hates It \| Seedly |
+| 2026-04-24 | 206 | jrEUdH0-QMA | 78 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Even Dead Plants Come Back To Life! 5 Natural Fertilizers That Work Instantly \| Seedly 🌱 |
+| 2026-04-24 | 206 | D65Y0Q7p9PY | 124 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | One Plant Turns Air Into Infinite Fertilizer - You Kill It Every Week Without Knowing \| Seedly 🌱 |
+| 2026-04-25 | 205 | z16q3Ae8zO4 | 89 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Just 3 Drops on Tomatoes…and The Harvest Doubles \| Seedly 🌱 |
+| 2026-04-25 | 205 | bDOmfjSisX8 | 42 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 24 Compounds in One Plant — Why Did We Stop Using Rosemary? \| Seedly 🌱 |
+| 2026-04-25 | 205 | jJFpS65mnJ0 | 98 | 5 | 89 | 1.10 | 5 | 0.80 | binh_thuong | – | Không | The Worm Magnet Method That Turns Bad Soil Into Black Gold \| Seedly 🌱#earthworms |
+| 2026-04-25 | 205 | qUVF9_1MGe0 | 36 | 6 | 93.50 | 0.39 | 5 | 0.98 | binh_thuong | – | Không | Soak Dead Soil In This $1 Brew Overnight – The Microbe Boom Big Fertilizer Companies Kept Hidden |
+| 2026-04-25 | 205 | GJygvZw4r0Q | 560 | 7 | 89 | 6.29 | 5 | 0.84 | manh | – | Không | $1 Rice Revives Dead Soil Fast – No Compost, No Need For Fertilizer \| Hidden KNF Method \| Seedly 🌱 |
+| 2026-04-25 | 205 | rrqHsmTVUgo | 33 | 8 | 93.50 | 0.35 | 5 | 0.80 | binh_thuong | – | Không | Just 1 Homemade Mix... And Tomatoes Explode With Fruit (Zone 7 Tomato Growing)\| Seedly 🌱 |
+| 2026-04-26 | 204 | 8x7pDVOlivo | 227 | 9 | 89 | 2.55 | 5 | 0.84 | hoi_cao | – | Không | 11 Benefits of Hydrogen Peroxide for Tomatoes Most People Don't Know (Fertilizer Companies Hide It)🌱 |
+| 2026-04-26 | 204 | V6DY7ZGw27g | 71 | 10 | 93.50 | 0.76 | 5 | 0.80 | binh_thuong | – | Không | Why You Should Spray Your Garden With Hydrogen Peroxide Immediately (Benefits of Hydrogen Peroxide) |
+| 2026-04-27 | 203 | Ag8LNkLP0vU | 92 | 11 | 89 | 1.03 | 5 | 0.61 | binh_thuong | – | Không | 9 Powerful Hydrogen Peroxide Tricks That Save Sick Plants in 24 Hours \| Seedly 🌱 |
+| 2026-04-27 | 203 | e7cZwWp9j5s | 75 | 12 | 90.50 | 0.83 | 5 | 0.60 | binh_thuong | – | Không | 6 Gardening Problems Solved With Hydrogen Peroxide \| Seedly 🌱 |
+| 2026-04-27 | 203 | TAAMVWqWJvE | 54 | 13 | 89 | 0.61 | 5 | 0.92 | binh_thuong | – | Không | Stop Pulling Weeds – Do This Instead \| Seedly 🌱 |
+| 2026-04-28 | 202 | QEr4JEI8-qo | 294 | 14 | 83.50 | 3.52 | 5 | 0.98 | dang_ghi | – | Không | I Buried Rice In My Garden… What Happened Next Shocked Me! \| Seedly 🌱 |
+| 2026-04-28 | 202 | 1JSlk2wz9EI | 54 | 15 | 89 | 0.61 | 5 | 0.92 | binh_thuong | – | Không | The Yeast Trick That Explodes Soil Microbes Overnight! \| Seedly 🌱 |
+| 2026-04-29 | 201 | JEpCXmXJr60 | 44 | 15 | 78 | 0.56 | 5 | 2.10 | binh_thuong | – | Không | One Cup of Fermented Ash Makes Plants Grow CRAZY Fast, But Why Does Nobody Talk About It? \| Seedly 🌱 |
+| 2026-04-30 | 200 | V8aJl_7NNNo | 3,510 | 15 | 75 | 46.80 | 5 | 1.09 | can_kiem_ky | – | Không | The Forgotten Sawdust Method That Outperforms Compost And Feeds Your Soil for Years \| Seedly 🌱 |
+| 2026-05-01 | 199 | 1tHvk5Lk4Vg | 82 | 15 | 75 | 1.09 | 5 | 2.19 | binh_thuong | – | Không | The Amish Rice Water Secret That Makes Worms Grow 3X Faster (Worm Farming)  \| Seedly 🌱 #earthworms |
+| 2026-05-02 | 198 | 37B8TkBNgQc | 462 | 15 | 75 | 6.16 | 5 | 2.19 | manh | – | Không | Stop Throwing Away Cardboard – It Turns Into Rich Compost In 30 Days ( Vermicomposting ) \| Seedly 🌱 |
+| 2026-05-02 | 198 | wr-pVAdldis | 63 | 15 | 82 | 0.77 | 5 | 2.63 | binh_thuong | – | Không | How Rice Transformed My Garden Into a Living System (Science-Backed Results) \| Seedly 🌱 |
+| 2026-05-03 | 197 | ezJ27VUSatQ | 164 | 15 | 75 | 2.19 | 5 | 3.71 | hoi_cao | – | Không | Stop Buying Fertilizer! Why a $2 Aloe Vera Plant Is The Only Secret🌱 |
+| 2026-05-04 | 196 | BsiIVTaYjPc | 27 | 15 | 82 | 0.33 | 5 | 3.39 | binh_thuong | – | Không | One Copper Wire Triple Your Harvest - Why Is This Science FORBIDDEN? \| Seedly 🌱 |
+| 2026-05-05 | 195 | vtjCGSNrDI4 | 278 | 15 | 75 | 3.71 | 5 | 2.88 | dang_ghi | – | Không | Why I Will Never Make Compost Again: This Lazy Trick Works Better (No Composting Needed) \| Seedly 🌱 |
+| 2026-05-06 | 194 | nN-TPSOOZTQ | 216 | 15 | 82 | 2.63 | 5 | 3.51 | hoi_cao | – | Không | This One Kitchen Scrap Attracts Worms Faster Than Compost (Even Better Than Fertilizer) \| Seedly 🌱 |
+| 2026-05-06 | 194 | 4UgieeHMC9Y | 288 | 15 | 82 | 3.51 | 5 | 6.57 | dang_ghi | – | Không | The Forgotten Cardboard Method That Builds Humus Fast (No Termites, No Digging) \| Seedly 🌱 |
+| 2026-05-07 | 193 | Vco6KOqh49I | 1,127 | 15 | 92 | 12.25 | 5 | 3.03 | can_kiem_ky | – | Không | The Forbidden Homemade Fertilizer That Makes Grass Explode With Growth \| Seedly 🌱 |
+| 2026-05-08 | 192 | beWJ30uhQ7M | 59 | 15 | 164 | 0.36 | 5 | 1.93 | binh_thuong | – | Không | One Rice Trick That Grows Worms, Microbes, and Better Soil Naturally (Rice Fertilizer For Plants) |
+| 2026-05-08 | 192 | H1K0SED1vfY | 98 | 15 | 164 | 0.60 | 5 | 1.93 | binh_thuong | – | Không | The Secret Liquid That Turns Leaves Into Compost in 18 Days (Most Gardeners Get This Wrong) \| Seedly |
+| 2026-05-09 | 191 | tZ4EIBsULZ8 | 627 | 15 | 164 | 3.82 | 5 | 1.70 | dang_ghi | – | Không | Build Humus Fast With This Forgotten CardBoard Method And Attract Worms Crazy Fast (No Till Garden) |
+| 2026-05-09 | 191 | OGAwqhN4fds | 539 | 15 | 164 | 3.29 | 5 | 1.15 | dang_ghi | – | Không | Don't Waste Your Banana Peels! Old Gardener’s Secret for Massive Tomato & Pepper Harvests \| Seedly 🌱 |
+| 2026-05-09 | 191 | DF-NP1G2c6k | 279 | 15 | 216 | 1.29 | 5 | 0.40 | binh_thuong | – | Không | Just 3 Drops On Tomatoes...And Growth Explode Naturally (How To Prevent Blossom End Rot On Tomatoes) |
+| 2026-05-09 | 191 | hHW181-UblU | 317 | 15 | 278 | 1.14 | 5 | 0.17 | binh_thuong | – | Không | 5 Mistakes You Must Never Make When Growing Tomatoes (End Tomato Blossom End Rot FOREVER) \| Seedly 🌱 |
+| 2026-05-10 | 190 | SDCmB2WbYBo | 188 | 15 | 278 | 0.68 | 5 | 0.17 | binh_thuong | – | Không | Tomato Watering Mistakes SILENTLY Destroying Your Harvests Right Now \| Seedly 🌱 |
+| 2026-05-11 | 189 | -rzbIQc6z9o | 86 | 15 | 278 | 0.31 | 5 | 0.17 | binh_thuong | – | Không | Don't Throw Away Eggshells — The $0 Calcium Fix Your Soil Is Missing \| Seedly 🌱 |
+| 2026-08-17 | 91 | MJP5HgtUJoA | 34 | 15 | 216 | 0.16 | 5 | 2.57 | binh_thuong | – | Không | Charles Darwin's Method That Turns Bad Soil Into Black Gold (Science-Backed Results) \| Seedly 🌱 |
+| 2026-08-17 | 91 | RzXccTZPymY | 46 | 15 | 216 | 0.21 | 5 | 2.57 | binh_thuong | – | Không | How To Dry Tomato Seeds For Planting — Save Tomato Seeds The Right Way (Never Buy Seeds Again) 🌱 |
+| 2026-08-18 | 90 | dTXS9FNOfGM | 15 | 15 | 216 | 0.07 | 5 | 2.57 | binh_thuong | – | Không | How To Grow Tomatoes From Seed \| Starting Tomato Seeds Indoors — Step by Step for Beginners \|Seedly🌱 |
+| 2026-08-22 | 86 | 00rOON2yfgM | 1,938 | 15 | 216 | 8.97 | 5 | 1.06 | manh | – | Không | How to Make Yeast Fertilizer for Garden Plants \| DIY Yeast Fertilizer Recipe |
+| 2026-08-22 | 86 | 5O4WECpjIXs | 698 | 15 | 216 | 3.23 | 5 | 0.56 | dang_ghi | – | Không | 5 Kitchen Scraps That Work Better Than Fertilizer —  Stop Wasting These 5 Kitchen Scraps \| Seedly 🌱 |
+| 2026-08-22 | 86 | agX6gYq0eKA | 555 | 15 | 279 | 1.99 | 5 | 0.25 | binh_thuong | – | Không | Banana Peel Fertilizer vs. Store-Bought Potassium Fertilizer — I Tested Both (THEY HIDE THIS) |
+| 2026-08-22 | 86 | FUWFvGC2k3Y | 16 | 15 | 279 | 0.06 | 5 | 0.25 | binh_thuong | – | Không | Rice Water vs. Miracle-Gro — I Tested Both on the Same Vegetable Garden \| Seedly 🌱 |
+| 2026-08-23 | 85 | 6RpPgCsFIzs | 120 | 15 | 188 | 0.64 | 5 | 0.38 | binh_thuong | – | Không | I Tested Electroculture So You Don't Have To \| Seedly 🌱 |
+| 2026-08-23 | 85 | JiBvO_uqLP4 | 230 | 15 | 188 | 1.22 | 5 | 0.38 | binh_thuong | – | Không | 5 Rice Tricks That Grow More Worms & Richer Soil (Humus Building) \| Seedly 🌱 |
+| 2026-08-24 | 84 | mQ4DPvMHeoQ | 71 | 15 | 230 | 0.31 | 5 | 0.25 | binh_thuong | – | Không | This Liquid Turns Dry Leaves Into Organic Fertilizer in Days — Earthworms Love It \| Seedly 🌱 |
+| 2026-08-24 | 84 | l0C-w3Gfm3A | 58 | 15 | 188 | 0.31 | 5 | 0.21 | binh_thuong | – | Không | The $1 Recipe Garden Centers Are Forbidden To Sell You (Tripples Root Growth) \| Seedly 🌱 |
+| 2026-08-25 | 83 | zvZx0EhC8nE | 39 | 15 | 120 | 0.33 | 5 | 0.33 | binh_thuong | – | Không | I Built a Worm Bin Using Only Kitchen Scraps and Rice for 30 Days —  Here Are The Results \| Seedly 🌱 |
+| 2026-08-25 | 83 | ceVU-WbEUII | 418 | 15 | 86 | 4.86 | 5 | 0.44 | dang_ghi | – | Không | I Stopped Composting Years Ago — This Lazy Trick Works Better (Why I Quit Turning Compost Piles |
+| 2026-08-26 | 82 | baFSl_qqCWs | 208 | 15 | 86 | 2.42 | 5 | 0.44 | hoi_cao | – | Không | Mix Molasses With Epsom Salt In Water — Your Garden Will TRIPLE In A Week \| Seedly 🌱 |
+| 2026-08-27 | 81 | WjoVodSnEyE | 38 | 15 | 86 | 0.44 | 5 | 0.45 | binh_thuong | – | Không | My Neighbor's Weeding Secret — Weeds Vanished Almost Overnight (Stop Pulling Weeds) \| Seedly 🌱 |
+| 2026-08-28 | 80 | AbdIXBnHPy8 | 8 | 15 | 71 | 0.11 | 5 | 0.65 | binh_thuong | – | Không | Why Amish Gardens Never Have Weeds — The "Cardboard" Method BIG AG Tried To Silence \| Seedly 🌱 |
+| 2026-08-28 | 80 | iOtTdL4QSTs | 39 | 15 | 71 | 0.55 | 5 | 2.20 | binh_thuong | – | Không | Two Spoons of Borax Make Tomato Plants Explode With Fruit — The Trick Fertilizer Companies Buried 🌱 |
+| 2026-08-28 | 80 | fry9tpuCmWw | 38 | 15 | 71 | 0.54 | 5 | 2.56 | binh_thuong | – | Không | Stop Throwing This Away — It's the Best Free Fertilizer You Have \| Seedly 🌱 |
+| 2026-08-28 | 80 | RUfEtgd7jGM | 156 | 15 | 71 | 2.20 | 5 | 2.56 | hoi_cao | – | Không | I Stopped Buying Worms When I Discovered This Simple Cardboard Trick \| Seedly 🌱 |
+| 2026-08-29 | 79 | Nvia1_b70sc | 461 | 15 | 71 | 6.49 | 5 | 1.49 | manh | – | Không | I Buried Cardboard in My Soil… What Happened Next Shocked The Entire Gardening Community \| Seedly 🌱 |
+| 2026-08-29 | 79 | fQdFdBrBxB4 | 46 | 15 | 71 | 0.65 | 5 | 2.56 | binh_thuong | – | Không | I Poured This Into My Dead Garden. Thousands of Worms Showed Up in Days! (Vermicomposting) \| Seedly🌱 |
+| 2026-08-29 | 79 | OTXZbSVKRAM | 420 | 15 | 58 | 7.24 | 5 | 1.83 | manh | – | Không | Bury This in Your Garden and Watch Earthworms Multiply Like Crazy \| Seedly 🌱 |
+| 2026-08-30 | 78 | o-y3NEZTxCQ | 182 | 15 | 71 | 2.56 | 5 | 1.25 | hoi_cao | – | Không | I Tried This Cardboard Technique and I'll Never Dig Again (I Quit Tilling My Garden) \| Seedly 🌱 |
+| 2026-08-30 | 78 | GmYPqzQZVYs | 106 | 15 | 71 | 1.49 | 5 | 1.03 | binh_thuong | – | Không | 5 Rice Tricks That Make Worms Multiply Crazy Fast (Vermicomposting With Fermented Rice Water) 🌱 |
+| 2026-08-30 | 78 | S14nAJfdvjw | 89 | 15 | 71 | 1.25 | 5 | 1.01 | binh_thuong | – | Không | The Rice Trick That Supercharges Worms & Soil Fertility FAST \| Seedly 🌱 |
+| 2026-08-31 | 77 | EPDebTrjR48 | 291 | 15 | 89 | 3.27 | 5 | 0.64 | dang_ghi | – | Không | 5 Natural Fertilizers That Bring Dying Plants Back to Life (DIY Fertilizer That Works ) \| Seedly 🌱 |
+| 2026-09-01 | 76 | RzgR1z32JoI | 73 | 15 | 106 | 0.69 | 5 | 0.39 | binh_thuong | – | Không | The Korean Bucket That Grows Unlimited Plant Boosters (JADAM Microbial Solution) \| Seedly 🌱 |
+| 2026-09-01 | 76 | dRJXr6yPUM0 | 41 | 15 | 106 | 0.39 | 5 | 0.54 | binh_thuong | – | Không | The Lazy Garden That Waters Itself for Decades (Self-sufficient Garden) \| Seedly 🌱 |
+| 2026-09-02 | 75 | 5NXJIW7TZUA | 29 | 15 | 89 | 0.33 | 5 | 0.64 | binh_thuong | – | Không | The Powder English Farmers Used in 1618 to Grow Bigger Plants \| Seedly 🌱 |
+| 2026-09-02 | 75 | _QlJjXKrt7s | 72 | 15 | 73 | 0.99 | 5 | 0.78 | binh_thuong | – | Không | Composting Myths You Should Stop Believing Right Now —  The Art of LAZY Composting \| Seedly 🌱 |
+| 2026-09-04 | 73 | 8tl-8b63l9I | 57 | 15 | 73 | 0.78 | 5 | 1.19 | binh_thuong | – | Không | The Raised Bed Height That Saved My Gardening (28 to 36 Inches Is Best for Bad Knees and Backs) |
+| 2026-09-04 | 73 | NYJ2W9cN-FU | 17 | 15 | 73 | 0.23 | 5 | 1.19 | binh_thuong | – | Không | 5 Garden Tools That Actually Help With Arthritis — Arthritis Foundation Certified Garden Tools |
+| 2026-09-05 | 72 | 8Ysyr_SPAOg | 123 | 15 | 73 | 1.68 | 5 | 1.19 | binh_thuong | – | Không | The Biochar Mistake That Actually Starves Your Soil — Why Your Biochar Isn't Working \| Seedly 🌱 |
+| 2026-09-05 | 72 | SlQiTHR87Y4 | 30 | 15 | 89 | 0.34 | 5 | 1.19 | binh_thuong | – | Không | This Ancient Liquid Revives Dead Soil (Rice Water vs. Fermented Plant Juice vs. Compost Tea) Seedly🌱 |
+| 2026-09-07 | 70 | KIWf1vVZmu0 | 87 | 15 | 73 | 1.19 | 5 | 1.79 | binh_thuong | – | Không | Never Compost Again — 4 ways To Build Soil Faster Than a Compost Pile \| Seedly 🌱 |
+| 2026-09-08 | 69 | _JwNJ0bgB4w | 106 | 15 | 73 | 1.45 | 5 | 3.15 | binh_thuong | – | Không | Dead Lawn Soil? This Recipe Brings Dead Soil Back to Life in 30 Days \| Seedly 🌱 |
+| 2026-09-09 | 68 | ZR_M1ZK7YsM | 81 | 15 | 87 | 0.93 | 5 | 2.64 | binh_thuong | – | Không | What Happens When You Boil Cardboard And Throw It In The Garden? Earthworms Crave This! \| Seedly 🌱 |
+| 2026-09-12 | 65 | 4I1qQzMgNp8 | 466 | 15 | 81 | 5.75 | 5 | 2.20 | manh | – | Không | Secret Rice Tricks That Grows More Worms And Richer Soil (Science Backed Results) \| Seedly 🌱 |
+| 2026-09-12 | 65 | UZgZ1OA_xjM | 230 | 15 | 81 | 2.84 | 5 | 2.20 | hoi_cao | – | Không | What To Do With Grass Clippings – You Will Never Throw Away Grass Clippings After Watching This |
+| 2026-09-14 | 63 | a2lLx4DYmK4 | 131 | 15 | 81 | 1.62 | 5 | 2.20 | binh_thuong | – | Không | Homemade Fertilizer For Vegetable Garden \| Seedly 🌱 |
+| 2026-09-15 | 62 | tdJ5ZtMSocQ | 285 | 15 | 81 | 3.52 | 5 | 1.85 | dang_ghi | – | Không | I Tried The Secret Liquid That Turns Leaves Into Compost In Just Days So You Don't Have To \| Seedly🌱 |
+| 2026-09-18 | 59 | Id4tSV7D7fE | 127 | 15 | 81 | 1.57 | 5 | 2.20 | binh_thuong | – | Không | The Forbidden Physics Of Gardening That Tripple Harvest Without Chemicals — Why Was It BANNED |
+| 2026-09-18 | 59 | 1NKYWQkW5Os | 178 | 15 | 87 | 2.05 | 5 | 2.34 | hoi_cao | – | Không | I Fed My Plants Pulverized Rice And The Results Broke My Garden — Avoid This Mistake \| Seedly 🌱 |
+| 2026-09-19 | 58 | v6eo7rXVlzA | 524 | 15 | 106 | 4.94 | 5 | 1.92 | dang_ghi | – | Không | Self-Feeding Planting Methods That Make Plants EXPLODE With Fruit \| Seedly 🌱 |
+| 2026-09-23 | 54 | SW24DjMGwrA | 150 | 15 | 123 | 1.22 | 5 | 1.66 | binh_thuong | – | Không | Rice Water Mistakes That Kill Plants — Don't Use Rice Water Until You Watch This \| Seedly 🌱 |
+| 2026-09-25 | 52 | EPnlHguom7I | 112 | 15 | 127 | 0.88 | 5 | 2.53 | binh_thuong | – | Không | I Tried The Secret Rice Tricks That Grows More Worms And Richer Soil (Science-Backed Results) 🌱 |
+| 2026-09-25 | 52 | lSlc7StvlV4 | 204 | 15 | 127 | 1.61 | 5 | 2.53 | binh_thuong | – | Không | Boost Root Growth Naturally With This Simple Homemade Yeast Solution (Recipe Included) \| Seedly 🌱 |
+| 2026-09-26 | 51 | gHP5Tt-idFk | 610 | 15 | 131 | 4.66 | 5 | 1.69 | dang_ghi | – | Không | $1 Yeast Root Booster Agrochemical Companies Don't Want You To Know (Yeast + Sugar) \| Seedly 🌱 |
+| 2026-09-26 | 51 | 5Uz-VB_a8yw | 469 | 15 | 150 | 3.13 | 5 | 1.47 | dang_ghi | – | Không | I Tried This Homemade Kitchen Fertilizer Hack That Explode Vegetable Growth: Molasses + Brown Sugar |
+| 2026-09-27 | 50 | uapATzYr3EM | 173 | 15 | 178 | 0.97 | 5 | 1.24 | binh_thuong | – | Không | Stop Buying Compost — This Free Sawdust Trick Builds Soil for Years \| Seedly 🌱 |
+| 2026-09-30 | 47 | QZNB5YEZyLk | 321 | 15 | 178 | 1.80 | 5 | 0.89 | binh_thuong | – | Không | I Tried the Worm Magnet Method That Turns Dead Soil Into Black Gold in Weeks — Lazy Gardening 🌱 |
+| 2026-10-02 | 45 | TwksaW4NPaw | 221 | 15 | 204 | 1.08 | 5 | 0.78 | binh_thuong | – | Không | Stop Replanting Every Spring — 20 Perennial Vegetables You Plant Once, Eat Forever (Lazy Gardening)🌱 |
+| 2026-10-03 | 44 | 6KorceZ_yWA | 107 | 15 | 221 | 0.48 | 5 | 0.72 | binh_thuong | – | Không | Forgotten Perennial Container Veggies You Plant ONCE And Harvest Forever \| Seedly 🌱 |
+| 2026-10-04 | 43 | 6-hCpQTroHo | 299 | 15 | 204 | 1.47 | 5 | 0.78 | binh_thuong | – | Không | How to Fix Heavy Clay Soil With Organic Household Boosters \| Seedly 🌱 |
+| 2026-10-05 | 42 | -q5rHuHOvbw | 156 | 15 | 204 | 0.76 | 5 | 1.12 | binh_thuong | – | Không | I Fed My Garden Fermented Weeds… The Results Broke My Soil (Big Fertilizer Hides This) \| Seedly 🌱 |
+| 2026-10-10 | 37 | xQj85IO2I_8 | 159 | 15 | 204 | 0.78 | 5 | 1.12 | binh_thuong | – | Không | How to Stop Tomato Blossom End Rot Fast — Eggshells + Vinegar Trick \| Seedly 🌱 |
+| 2026-10-10 | 37 | RqCExh29KrE | 340 | 15 | 178 | 1.91 | 5 | 1.29 | binh_thuong | – | Không | The Korean Backyard Trick That Replaces Chemical Fertilizer FOREVER (Big Ag Hide This!) \| Seedly 🌱 |
+| 2026-10-13 | 34 | z67JBb4GG6E | 128 | 15 | 204 | 0.63 | 5 | 1.25 | binh_thuong | – | Không | The Ultimate Living Soil Ferment That Replaces Commercial Fertilizers Forever (Yeast + Molasses) 🌱 |
+| 2026-10-14 | 33 | KHWmrkG1I2I | 256 | 15 | 204 | 1.25 | 5 | 1.12 | binh_thuong | – | Không | Self-Watering Garden Trench: Water Your Vegetables From Below (DIY Wicking Bed) \| Seedly 🌱 |
+| 2026-10-16 | 31 | PRuDcMQWdf8 | 229 | 15 | 204 | 1.12 | 5 | 0.67 | binh_thuong | – | Không | The Zero-Dollar Sawdust and Biochar System That Builds Soil for Decades |
+| 2026-10-17 | 30 | TXzc6sktin8 | 28 | 15 | 221 | 0.13 | 4 | – | binh_thuong | – | Không | How to Make Potassium Fertilizer at Home (Wood Ash and Comfrey Tea for Better Tomatoes) \| Seedly 🌱 |
+| 2026-10-17 | 30 | oaAnJT6pWDM | 532 | 15 | 221 | 2.41 | 3 | – | hoi_cao | – | Không | How to Build Fungal Soil in Raised Beds With Wood Chips (Back to Eden Layering Done Right) \| Seedly🌱 |
+| 2026-10-17 | 30 | Ir1FjagTw_A | 378 | 15 | 229 | 1.65 | 2 | – | binh_thuong | – | Không | Make Indigenous Microorganisms (IMO) at Home: Korean Natural Farming and Worm Towers for Black Soil |
+| 2026-10-20 | 27 | G-w1-AIcBGM | 105 | 15 | 229 | 0.46 | 1 | – | chua_chin | – | Không | Tomatoes All Leaves and No Flowers Why Your Vegetables Drop Their Blossoms \| Seedly🌱 |
+| 2026-11-01 | 15 | -nUUBeyWsYc | 137 | 15 | 221 | 0.62 | 0 | – | chua_chin | – | Không | How to Attract Earthworms to Your Garden Bed (Cardboard and Mulch Method, Inspired by Darwin) 🌱 |

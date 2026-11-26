@@ -1,0 +1,93 @@
+{
+ "chi_so": {
+  "n_video": 27,
+  "n_trong_danh_sach": 26,
+  "n_dai": 3,
+  "n_short": 23,
+  "n_dai_dung_tinh": 3,
+  "nguong_tuoi_video": 14,
+  "subs": 84,
+  "dong_bo": 0,
+  "phien_ban": "2026-10-22.3",
+  "cua_so_tu": "2026-08-21",
+  "n_ngoai_cua_so": 0,
+  "so_hoi_vien": 0,
+  "trung_vi_20_dai": null,
+  "cao_nhat": null,
+  "thap_nhat": null,
+  "phan_tan": null,
+  "so_video_tren_2x": null,
+  "ty_le_tren_2x": null,
+  "trung_vi_chia_sub": null,
+  "ty_le_like_trung_vi": null,
+  "da_trung_vi": null,
+  "ngay_video_dau": "2026-08-21",
+  "tuoi_tu_video_dau": 87,
+  "view_moi_ngay_video_dau": null,
+  "sub_moi_ngay_video_dau": null,
+  "sub_moi_video": null,
+  "video_30_ngay": 0,
+  "ty_trong_view_short": 0.9914792430397305,
+  "ty_trong_view_short_nguon": "mau",
+  "sub_moi_video_tho": 3.111111111111111,
+  "sub_moi_ngay_video_dau_tho": 0.9655172413793104,
+  "co": [
+   "TRUNG_VI_DUNG_VIDEO_TU_14_NGAY",
+   "KHONG_DU_VIDEO_DAI_DU_30_NGAY",
+   "NHIEU_SHORT",
+   "SUB_LAN_SHORTS"
+  ]
+ },
+ "he_so": [
+  {
+   "id": "fqqwDSYIt5c",
+   "title": "25 \"Forbidden\" Off-Grid Hacks Our Grandparents Used (That Still Work Today!)",
+   "ngay": "2026-08-21",
+   "tuoi_ngay": 87,
+   "views": 19,
+   "n_truoc": 0,
+   "trung_vi_15_truoc": null,
+   "he_so": null,
+   "n_sau": 2,
+   "he_so_sau": null,
+   "muc": null,
+   "ly_do_khong_tinh": "it_hon_5_video_truoc",
+   "cung_ngay": false
+  },
+  {
+   "id": "S7Y7o7gkYHA",
+   "title": "20 Great Depression Life Hacks That Still Work Today — Forgotten Survival Tricks That Save Money",
+   "ngay": "2026-08-23",
+   "tuoi_ngay": 85,
+   "views": 10,
+   "n_truoc": 1,
+   "trung_vi_15_truoc": null,
+   "he_so": null,
+   "n_sau": 1,
+   "he_so_sau": null,
+   "muc": null,
+   "ly_do_khong_tinh": "it_hon_5_video_truoc",
+   "cung_ngay": false
+  },
+  {
+   "id": "Gpc0Vs7wREM",
+   "title": "20 Poor Man Blackout Tricks That Beat Expensive Prepper Gear | Power Outage Survival",
+   "ngay": "2026-09-07",
+   "tuoi_ngay": 70,
+   "views": 57,
+   "n_truoc": 2,
+   "trung_vi_15_truoc": null,
+   "he_so": null,
+   "n_sau": 0,
+   "he_so_sau": null,
+   "muc": null,
+   "ly_do_khong_tinh": "it_hon_5_video_truoc",
+   "cung_ngay": false
+  }
+ ],
+ "doc_file": {
+  "tong_dong": 26,
+  "bo_thieu_view_ngay": 0,
+  "bo_trung_id": 0
+ }
+}

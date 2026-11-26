@@ -1,0 +1,17 @@
+{
+ "allowed": [1, 2, 3, 4, 5, 6, 8, 10, 30, 60, 70, 80],
+ "notes": {
+  "1": "đại từ/từ đếm ('one study', 'one cutting', 'one group', 'one place in one season'); 1/2/3 mắt = thiết kế nghiên cứu Wali 2019 (C01); 'one-bud piece' = C05; 'scratch the bottom inch' đã bỏ khỏi lời đọc",
+  "2": "'two buds' (nhóm tốt nhất, C05); 'two ways' (khoai vs đất, C01); 'two to four months' = Purdue cho cành gỗ nói chung (C16); 'about two inches' = Iowa State semi-hardwood (C11); 'one or two' cành kiểm ở tuần 4–5 (C11)",
+  "3": "'three lengths', 'three months old' (C01); 'three or four cuttings' = UC Master Gardeners (C09), ACTION_TIP; 'three against three' = phép thử của kênh (M5, nói rõ không phải của nguồn); 'three thousand feet' = ≈900 m Khost (C01)",
+  "4": "'four to six inches' (Iowa State C11) · 'four to eight inches' (tổng hợp 4–6/6–8, ghi Consensus) · 'two to four months' (C16) · 'four or five inches' (Clemson C17) · 'four or five weeks' (Iowa State C11)",
+  "5": "'four or five inches of a six-inch cutting' (Clemson C17) · 'four or five weeks' kiểm (Iowa State C11) · 'week five' = cảnh viewer-POV theo khung đó",
+  "6": "'about six inches' = 15 cm ≈ 5,9 in (C01/C05) · 'six to eight weeks' (Iowa State C11) · 'six to eight inches' (NC State C12) · 'six-inch' cành Clemson (C17) · 'six cuttings' = phép thử của kênh",
+  "8": "'eight inches' = 20 cm ≈ 7,9 in (C01) · 'six to eight weeks' (C11) · 'six to eight inches' (C12) · 'four to eight inches' (tổng hợp)",
+  "10": "'ten inches' = 25 cm ≈ 9,8 in (C01) · 'about ten minutes on a Saturday morning' = anchor ước lượng của kênh, không phải claim nguồn (audit chấp nhận)",
+  "30": "FALSE POSITIVE của claim_check: 'twenty ten' (năm 2010 của nhãn Rootone, C28) bị đọc thành 20+10; nhãn EPA đăng 30/03/2010",
+  "60": "'sixty to seventy percent' = UC Master Gardeners (C09): kinh nghiệm một người, đã gắn nhãn 'one person's record, not a trial'",
+  "70": "'seventy to eighty degrees Fahrenheit' = nhiệt độ đất cho cành giâm, slide Ohio State (C08); 'sixty to seventy percent' (C09)",
+  "80": "'seventy to eighty degrees Fahrenheit' (C08)"
+ }
+}

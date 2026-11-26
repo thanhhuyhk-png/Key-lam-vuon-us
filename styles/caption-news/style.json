@@ -1,0 +1,24 @@
+{
+ "slug": "caption-news",
+ "num": "63",
+ "en": "Caption News (US Gardening Edition)",
+ "cn": "字幕新闻 (美区园艺定制版)",
+ "category_en": "Garden Proof & Explainer",
+ "category_cn": "园艺科普与实测",
+ "film": "Garden Proof Short",
+ "line": "High-contrast sound-off captions, University Extension proof, and fast backyard fixes for American gardeners 35–60+.",
+ "line_cn": "高对比大字字幕、大学农学院报告实测、美国做园艺必备的省钱防坑短片。",
+ "target_audience": "American home gardeners 35–60+ (core 60–80) on mobile",
+ "brand_voice": "Lazy Grandma Wisdom meets Science-Backed Proof",
+ "uses": [
+  "Garden Myth Busters",
+  "Extension Study Explainers",
+  "Seasonal Urgent Fixes",
+  "Zero-Cost Backyard Hacks"
+ ],
+ "frame_sec": 22.3,
+ "dur": 55.0,
+ "aspect_ratio": "16:9",
+ "language": "en-US",
+ "wpm": 135
+}

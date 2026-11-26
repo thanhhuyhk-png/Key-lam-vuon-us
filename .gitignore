@@ -1,0 +1,61 @@
+# Secrets — NEVER commit
+.secrets/
+.env
+.env.*
+*.key
+*.pem
+*-token.json
+youtube-token*.json
+client_secret*.json
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Heavy media, video builds & libraries (keep Git lean for code, scripts & analytics)
+Xuất Video/
+_LIBRARY/
+**/footage/
+**/build/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.psd
+*.img
+*.zip
+*.rar
+*.7z
+*.mhtml
+
+# Raw scraper dumps, logs & backups
+*.info.json
+goha-mcp_*.log
+*.log
+*.err
+*.bak
+*.bak-*
+tools/sync.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

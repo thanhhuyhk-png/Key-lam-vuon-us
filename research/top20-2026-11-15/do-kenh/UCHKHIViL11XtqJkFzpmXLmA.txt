@@ -1,0 +1,135 @@
+# Đo kênh: UCHKHIViL11XtqJkFzpmXLmA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 116 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 258 |
+| n_trong_danh_sach | 116 |
+| n_dai | 93 |
+| n_short | 23 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 2,690 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2024-10-25 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 124 |
+| cao_nhat | 587 |
+| thap_nhat | 6 |
+| phan_tan | 4.73 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.05 |
+| ty_le_like_trung_vi | – |
+| da_trung_vi | 0.70 |
+| ngay_video_dau | 2024-10-25 |
+| tuoi_tu_video_dau | 752 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 3.58 |
+| sub_moi_video | 10.43 |
+| video_30_ngay | 17 |
+| ty_trong_view_short | 0.01 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2024-10-25 | 752 | D6RsT8vsI_E | 742 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Create a Personal Budget That Actually Works! (Step-by-Step)! |
+| 2024-10-25 | 752 | ARJsiRGhca0 | 220 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Budget Smarter in 2026: Stop the Money Stress Now |
+| 2024-11-01 | 745 | 14CjJiERixY | 407 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Budget Smarter, Not Harder: 10 Apps You Need to Know! |
+| 2024-11-08 | 738 | Ei9TepiKlnU | 159 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Need Extra Money? 10 Flexible Side Hustles to Try Now |
+| 2024-11-15 | 731 | fbIsTGUdXUs | 157 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Improve Your Credit Score: Simple Steps That Work! |
+| 2024-11-22 | 724 | u47urvZm4sM | 1,919 | 5 | 220 | 8.72 | 5 | 0.90 | manh | – | Không | Master Your Money: 30 Simple Habits You Need to Start! |
+| 2024-11-29 | 717 | zwhUw-38mAo | 198 | 6 | 314 | 0.63 | 5 | 0.44 | binh_thuong | – | Không | The 50/30/20 Budget Rule: Stop Wasting Money in 2026! |
+| 2024-12-06 | 710 | T3XL6qpnDqQ | 589 | 7 | 220 | 2.68 | 5 | 0.63 | hoi_cao | – | Không | How to Build Your EMERGENCY FUND in 2026! |
+| 2024-12-13 | 703 | fGYfnthSLyk | 262 | 8 | 314 | 0.84 | 5 | 0.44 | binh_thuong | – | Không | How to Build an Emergency Fund: Best Practices! #podcast |
+| 2024-12-20 | 696 | CP6nui0Vg34 | 130 | 9 | 262 | 0.50 | 5 | 0.53 | binh_thuong | – | Không | The Complete Beginner’s Guide to Investing: Start Building Wealth Today! |
+| 2024-12-27 | 689 | T0PSkFViNjE | 138 | 10 | 241 | 0.57 | 5 | 0.57 | binh_thuong | – | Không | Investing for Beginners: Simple Steps to Start Building Wealth! |
+| 2025-01-01 | 684 | mqUju01wuic | 116 | 11 | 220 | 0.53 | 5 | 0.63 | binh_thuong | – | Không | 10 Realistic Passive Income Ideas for Busy Students |
+| 2025-01-13 | 672 | 1XaEU85DmZc | 304 | 12 | 209 | 1.45 | 5 | 0.66 | binh_thuong | – | Không | These 5 Money Mistakes Are Costing You THOUSANDS.  (Do This Instead) in 2026 |
+| 2025-01-25 | 660 | ARncMPMgsWY | 192 | 13 | 220 | 0.87 | 5 | 0.56 | binh_thuong | – | Không | 30 Actionable Tips to Take Control of Your Finances Today |
+| 2025-02-07 | 647 | 2uFHrGdgHxc | 112 | 14 | 209 | 0.54 | 5 | 0.66 | binh_thuong | – | Không | The Step-by-Step Way to Build a Retirement Nest Egg! |
+| 2025-02-14 | 640 | fx4XjC1vUxU | 138 | 15 | 198 | 0.70 | 5 | 0.63 | binh_thuong | – | Không | Maximize Your Nest Egg: The Complete 50s and 60s Retirement Strategy! |
+| 2025-02-21 | 633 | hxBsm8yAeRM | 124 | 15 | 192 | 0.65 | 5 | 0.71 | binh_thuong | – | Không | Starting Retirement Savings Late? 7 Smart Money Moves to Catch Up! |
+| 2025-02-28 | 626 | 8iM7j2uCILs | 137 | 15 | 159 | 0.86 | 5 | 1.06 | binh_thuong | – | Không | How To Pay Off Your CREDIT CARD Debt FAST? |
+| 2025-03-07 | 619 | ZO-nAXGJEos | 115 | 15 | 157 | 0.73 | 5 | 1.10 | binh_thuong | – | Không | * How to Finally Escape Debt (10 Tactics That Actually Work)! |
+| 2025-03-14 | 612 | YLlQOttl9nY | 173 | 15 | 138 | 1.25 | 5 | 1.44 | binh_thuong | – | Không | START BUDGETING with Little Money - 10 TIPS for 2026! |
+| 2025-03-21 | 605 | gUISp5X2uMQ | 113 | 15 | 138 | 0.82 | 5 | 1.53 | binh_thuong | – | Không | How Much Should You Really Save? The Answer Will Surprise You |
+| 2025-03-28 | 598 | s59BPGGG8kk | 169 | 15 | 138 | 1.22 | 5 | 2.32 | binh_thuong | – | Không | Gen Z Needs to Start RETIREMENT PlANNING  NOW! |
+| 2025-04-04 | 591 | -7UTYMKcXeY | 1,111 | 15 | 138 | 8.05 | 5 | 2.32 | manh | – | Không | 10 Genius Frugal Living Hacks (THIS can save you thousands) |
+| 2025-04-10 | 585 | kvZMzPV-dHc | 211 | 15 | 138 | 1.53 | 5 | 2.32 | binh_thuong | – | Không | The Truth About Car Ownership Costs: Which Brands Are Actually Affordable? |
+| 2025-04-18 | 577 | Tz8TK-E-Tb8 | 199 | 15 | 138 | 1.44 | 5 | 5.33 | binh_thuong | – | Không | Revolutionize Your Budget: 5 Innovative Techniques for 2026! |
+| 2025-04-24 | 571 | zd7T30-dCsc | 320 | 15 | 138 | 2.32 | 5 | 5.33 | hoi_cao | – | Không | Master Your Money: 20 Frugal Lessons from Warren Buffett! |
+| 2025-05-02 | 563 | 6cEf2vF5mEM | 3,195 | 15 | 169 | 18.91 | 5 | 4.36 | can_kiem_ky | – | Không | The Ultimate Guide to Frugal Living: 25 Practical Habits |
+| 2025-05-08 | 557 | j_e0gXRfcz8 | 9,467 | 15 | 173 | 54.72 | 5 | 2.83 | can_kiem_ky | – | Không | Dave Ramsey's 10 BEST MONEY-SAVING HABITS \| Save THOUSANDS Every Year! |
+| 2025-05-13 | 552 | SklOTlv5Rr4 | 134 | 15 | 173 | 0.77 | 5 | 2.83 | binh_thuong | – | Không | Are You Wasting Money? 10 Dave Ramsey Habits To Fix It |
+| 2025-05-16 | 549 | GyQ_BL_1nXM | 736 | 15 | 169 | 4.36 | 5 | 1.98 | dang_ghi | – | Không | Frugality vs. Being Cheap: The Truth You Need to Know! |
+| 2025-05-20 | 545 | mmokXoOOLX8 | 102 | 15 | 173 | 0.59 | 5 | 1.93 | binh_thuong | – | Không | 10 Common Frugal Living Myths BUSTED! Are You Wasting Money? \| Podcast |
+| 2025-05-23 | 542 | 2BVmsMZTrkU | 224,794 | 15 | 173 | 1,299 | 5 | 1.93 | can_kiem_ky | – | Không | 25 Great Depression Money-Saving Tricks That Still Work in 2026! |
+| 2025-05-24 | 541 | n22lW0_mqs8 | 489 | 15 | 199 | 2.46 | 5 | 1.36 | hoi_cao | – | Không | 10 Simple Apps to Finally Take Control of Your Finances |
+| 2025-05-29 | 536 | xnbJrwGI-mg | 334 | 15 | 211 | 1.58 | 5 | 1.20 | binh_thuong | – | Không | How to Save Like a Billionaire: 10 Lessons from Sam Walton! |
+| 2025-05-30 | 535 | 9i7XfUb58CQ | 271 | 15 | 320 | 0.85 | 5 | 0.61 | binh_thuong | – | Không | 25 Forgotten Frugal Habits That'll Transform Your Budget! #podcast |
+| 2025-06-02 | 532 | O-B3lA67mlU | 119 | 15 | 320 | 0.37 | 5 | 0.61 | binh_thuong | – | Không | Why the World’s Richest Man Refused Luxury: 10 Wealth Habits! |
+| 2025-06-05 | 529 | V9t7VM38p2c | 808 | 15 | 320 | 2.52 | 5 | 0.61 | hoi_cao | – | Không | Why You Should Try These 10 Extreme Frugal Living Methods! |
+| 2025-06-06 | 528 | T4tXiUWcFOA | 253 | 15 | 334 | 0.76 | 5 | 0.59 | binh_thuong | – | Không | 15 Simple Changes to Save Money on Your Grocery Bill |
+| 2025-06-07 | 527 | _ixdoYYvzJI | 196 | 15 | 320 | 0.61 | 5 | 0.81 | binh_thuong | – | Không | Extreme Frugality: 10 Ways To Save BIG In 2026! - #podcast |
+| 2025-06-07 | 527 | eA5oosILNwc | 139 | 15 | 320 | 0.43 | 5 | 0.81 | binh_thuong | – | Không | Don't Invest a Penny Until You Watch This! |
+| 2025-06-12 | 522 | kELtRzQBo5M | 143 | 15 | 320 | 0.45 | 5 | 0.89 | binh_thuong | – | Không | Investing for Beginners: Dave Ramsey’s 7 Rules to Build Wealth: #Podcast |
+| 2025-06-13 | 521 | CqadBS5kCvc | 574 | 15 | 271 | 2.12 | 5 | 1.06 | hoi_cao | – | Không | Build Wealth Like They Did in the 1930s: 25 Proven Tips! |
+| 2025-06-15 | 519 | hT_yK0CniZw | 1,020 | 15 | 271 | 3.76 | 5 | 1.06 | dang_ghi | – | Không | Why You Need These 25 Great Depression Tips in 2026! |
+| 2025-06-16 | 518 | 9HwfAyP9Hhc | 260 | 15 | 271 | 0.96 | 5 | 1.06 | binh_thuong | – | Không | The Ultimate Frugal Living Guide: Save More, Invest Better |
+| 2025-06-16 | 518 | 6dbveC7c288 | 172 | 15 | 271 | 0.63 | 5 | 1.06 | binh_thuong | – | Không | 25 Frugal Habits from the 1930s That Will Save You Thousands - podcast |
+| 2025-06-20 | 514 | GQ4aZWaV2l4 | 286 | 15 | 260 | 1.10 | 5 | 0.85 | binh_thuong | – | Không | Master Your Money: 10 Essential Tips from Suze Orman |
+| 2025-06-27 | 507 | OmlYn2-5hy8 | 1,886 | 15 | 271 | 6.96 | 5 | 0.82 | manh | – | Không | Budgeting Like It’s 1950: Simple Steps to Save More! |
+| 2025-07-02 | 502 | ssCUDUT8X3A | 366 | 15 | 271 | 1.35 | 5 | 0.82 | binh_thuong | – | Không | 1950s Moms Mastered Money Without Apps – Here's Their 10 Best Tricks! #podcast |
+| 2025-07-04 | 500 | hNmGmJEgleA | 221 | 15 | 271 | 0.82 | 5 | 0.75 | binh_thuong | – | Không | 15 Money Rules Warren Buffett and Grandma Both Swear By! |
+| 2025-07-11 | 493 | Lxx2Z34vmZ8 | 204 | 15 | 260 | 0.78 | 5 | 0.88 | binh_thuong | – | Không | I Lived on $0 for 24 Hours: The Truth About Extreme Frugality |
+| 2025-07-18 | 486 | vCJjhDR_Ve0 | 154 | 15 | 253 | 0.61 | 5 | 1.06 | binh_thuong | – | Không | Gen Z Money Hacks That Actually Work! |
+| 2025-07-25 | 479 | JsccPtRkRHI | 228 | 15 | 253 | 0.90 | 5 | 1.06 | binh_thuong | – | Không | Meal Prep Hacks Every Busy Person Needs to Know in 2026! |
+| 2025-08-01 | 472 | 0Zm9i6yeREQ | 268 | 15 | 228 | 1.18 | 5 | 1.99 | binh_thuong | – | Không | The Frugal Living Trap: 25 Mistakes to Avoid for Financial Freedom |
+| 2025-08-08 | 465 | gKqLt3g00tc | 174 | 15 | 228 | 0.76 | 5 | 1.99 | binh_thuong | – | Không | How to Grow Food at Home Without a Garden! |
+| 2025-08-15 | 458 | UkUqKdDh5cU | 453 | 15 | 228 | 1.99 | 5 | 1.03 | binh_thuong | – | Không | Capsule Wardrobe on a Budget \| Simplify Your Closet Today! |
+| 2025-08-22 | 451 | sg-eHGnMtdI | 6,888 | 15 | 260 | 26.49 | 5 | 0.90 | can_kiem_ky | – | Không | How People Saved Money During WWII: 40 Frugal Tips That Still Work! |
+| 2025-08-29 | 444 | _wwp8SHNmso | 151 | 15 | 268 | 0.56 | 5 | 0.88 | binh_thuong | – | Không | How To Survive The Economy Like They Did In The 1940s: 40 Hacks! |
+| 2025-08-29 | 444 | 8UwjR6I4vpg | 1,019 | 15 | 260 | 3.92 | 5 | 0.90 | dang_ghi | – | Không | The Lost Victorian Money Hacks That Will Save You Thousands |
+| 2025-09-05 | 437 | augtWgNvhM8 | 235 | 15 | 260 | 0.90 | 5 | 0.51 | binh_thuong | – | Không | The 10 Best Frugal Living Books You Need to Read in 2026 |
+| 2025-09-12 | 430 | IQqkK_yvAXg | 132 | 15 | 235 | 0.56 | 5 | 1.09 | binh_thuong | – | Không | 10 Smart Money Moves to Build Wealth From Nothing (Beginner’s Guide!)! |
+| 2025-09-19 | 423 | SMhJSgGCSyA | 6,974 | 15 | 235 | 29.68 | 5 | 1.09 | can_kiem_ky | – | Không | 15 Depression Era Grocery Hacks That Save $3,000 a Year! |
+| 2025-09-26 | 416 | -Ury2bNElQc | 110 | 15 | 235 | 0.47 | 5 | 1.09 | binh_thuong | – | Không | Budget Grocery Shopping Like It's 1930 \| Save Thousands Today!  #podcast |
+| 2025-09-26 | 416 | NKeKaohZr4k | 257 | 15 | 228 | 1.13 | 5 | 1.34 | binh_thuong | – | Không | How People Survived the Dust Bowl (And What You Can Learn)! |
+| 2025-10-03 | 409 | mNpGQG0pUGM | 127 | 15 | 228 | 0.56 | 5 | 1.34 | binh_thuong | – | Không | Build Your Emergency Fund FAST with These Proven Hacks! |
+| 2025-10-10 | 402 | hxKNhAPzSPw | 514 | 15 | 228 | 2.25 | 5 | 1.34 | hoi_cao | – | Không | How To Save $5,000 This Year (Using These 10 Simple Habits) |
+| 2025-10-17 | 395 | _-X7jSkWn8M | 693 | 15 | 235 | 2.95 | 5 | 1.16 | hoi_cao | – | Không | Why You're Broke: 10 Lost Habits To Save Money Fast! |
+| 2025-10-24 | 388 | y6f6HW2aMGU | 239 | 15 | 257 | 0.93 | 5 | 1.06 | binh_thuong | – | Không | 7 Depression Era Survival Secrets 2026 Wants You to Forget! |
+| 2025-11-07 | 374 | a3IjWkFmH-o | 305 | 15 | 257 | 1.19 | 5 | 0.89 | binh_thuong | – | Không | 19 Great Depression Meals That Could Slash Your Grocery Bill Today! |
+| 2025-11-14 | 367 | BagfdBSOvtM | 152 | 15 | 257 | 0.59 | 5 | 0.89 | binh_thuong | – | Không | 20 Frugal Rules That Will Transform Your Finances in 2026! |
+| 2025-11-28 | 353 | s03MtlYNOoY | 628 | 15 | 257 | 2.44 | 5 | 0.59 | hoi_cao | – | Không | How to Save Money Like They Did in the 1940s: 25 Proven Hacks! |
+| 2025-12-04 | 347 | dxgAGWic5xI | 273 | 15 | 257 | 1.06 | 5 | 0.59 | binh_thuong | – | Không | How to Master Your Budget With These 25 Depression-Era Secrets! |
+| 2026-05-26 | 174 | TATkHVbPZHA | 33 | 15 | 257 | 0.13 | 5 | 0.89 | binh_thuong | – | Không | The Frugal Path to Financial Freedom - Ebook! |
+| 2026-06-17 | 152 | ckoZ5DXwMEU | 230 | 15 | 257 | 0.89 | 5 | 1.40 | binh_thuong | – | Không | 30 Frugal Living Tips From the 1940s That Actually Work! |
+| 2026-07-03 | 136 | FZY1E53sb_o | 132 | 15 | 239 | 0.55 | 5 | 1.51 | binh_thuong | – | Không | How to Master 1950s Frugal Living in a Modern World! |
+| 2026-07-10 | 129 | grSljsXzST4 | 152 | 15 | 239 | 0.64 | 5 | 1.51 | binh_thuong | – | Không | 7 Frugal Habits That Will Save You Thousands This Year! |
+| 2026-09-18 | 59 | 24OcRLl4GHM | 361 | 15 | 239 | 1.51 | 5 | 0.55 | binh_thuong | – | Không | Why Everyone Is Going Back To These 30 Depression-Era Meals! |
+| 2026-09-19 | 58 | gNi7TWeO4PE | 587 | 15 | 239 | 2.46 | 5 | 0.55 | hoi_cao | – | Không | Why You're Broke: 5 Frugal Meals to Save Money Every Week! |
+| 2026-09-20 | 57 | VkELvR9T8Gc | 478 | 15 | 257 | 1.86 | 5 | 0.33 | binh_thuong | – | Không | 6 Frugal Ways to Grow Fresh Vegetables Inside Your Home |
+| 2026-09-23 | 54 | It3uGlFl6sQ | 48 | 15 | 273 | 0.18 | 5 | 0.37 | binh_thuong | – | Không | Smart Financial Moves for Gen Z: Apps, Thrifting, and No-Spend Challenges |
+| 2026-09-23 | 54 | uzPXygiPGpQ | 86 | 15 | 273 | 0.32 | 5 | 0.37 | binh_thuong | – | Không | Stop Overspending: Social Media Mindset, Side Hustles, and Sharing Costs |
+| 2026-09-23 | 54 | SMAyQrFpYUU | 132 | 15 | 239 | 0.55 | 5 | 0.42 | binh_thuong | – | Không | How to Meal Prep Like a Pro and Save Big on Subscriptions |
+| 2026-09-24 | 53 | rgnFA2BtAbY | 131 | 15 | 230 | 0.57 | 5 | 0.44 | binh_thuong | – | Không | Smart Financial Moves for Gen Z: Apps, Thrifting, and No-Spend Challenges! |
+| 2026-09-27 | 50 | 2_LHxCurzcw | 6 | 15 | 152 | 0.04 | 5 | 0.66 | binh_thuong | – | Không | Do you Want Improve Your Credit Score - Try This! |
+| 2026-10-01 | 46 | mn-wty9RF-w | 101 | 15 | 152 | 0.66 | 5 | 0.64 | binh_thuong | – | Không | 20 Simple Daily Habits to Cut Your Expenses Fast! |
+| 2026-10-01 | 46 | -MWmBGvxfT0 | 97 | 15 | 132 | 0.73 | 5 | 0.59 | binh_thuong | – | Không | Master the Capsule Wardrobe - Man Edition! |
+| 2026-10-02 | 45 | lzkMOhQT6Bo | 402 | 15 | 132 | 3.05 | 5 | 0.59 | dang_ghi | – | Không | How to Start Investing: Dave Ramsey’s Beginner Blueprint |
+| 2026-10-07 | 40 | i6pqEh0vCVg | 240 | 15 | 132 | 1.82 | 5 | 0.39 | binh_thuong | – | Không | Top Depression-Era Kitchen Habits to Save Big on Food |
+| 2026-10-10 | 37 | rdM0tgXfo6g | 78 | 15 | 132 | 0.59 | 5 | 0.36 | binh_thuong | – | Không | How People Saved Money During WWII: 40 Frugal Tips That Still Work! |
+| 2026-10-11 | 36 | 8VZNCQyeIX4 | 35 | 15 | 132 | 0.27 | 4 | – | binh_thuong | – | Không | Stop Wasting 30% of Your Groceries! 10 Great Depression Hacks That Still Work |
+| 2026-10-15 | 32 | Vri-ZbwpAis | 52 | 15 | 131 | 0.40 | 3 | – | binh_thuong | – | Không | Master Your Money: 10 Proven Steps to Build Wealth From Scratch! |
+| 2026-10-16 | 31 | tnObMXZ76CU | 117 | 15 | 101 | 1.16 | 2 | – | binh_thuong | – | Không | 5 Smart Money Moves to Fast-Track Your Emergency Savings! |
+| 2026-10-21 | 26 | DG764AYx6Tg | 48 | 15 | 101 | 0.48 | 1 | – | chua_chin | – | Không | Retirement in Your 50s or 60s? 10 Smart Money Moves to Secure Your Future! |
+| 2026-10-24 | 23 | F5F1Jmjr1Xw | 37 | 15 | 97 | 0.38 | 0 | – | chua_chin | – | Không | Are you thinking of retiring in your 30s or 40s? s it even possible? |

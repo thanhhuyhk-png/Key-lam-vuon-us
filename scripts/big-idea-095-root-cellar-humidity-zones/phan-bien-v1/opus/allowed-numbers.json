@@ -1,0 +1,37 @@
+{
+  "allowed": [
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 20,
+    29, 30, 31, 32, 38, 40, 45, 50, 60, 65,
+    65.0, 70, 90, 95, 98, 100
+  ],
+  "notes": {
+    "1": "C37 UConn Extension: 'Check storage areas at least weekly' — số '1' trong 'once a week'. Cũng xuất hiện trong cụm '1-8 months' (onions, C03), '1-12 months' (apples, C09), '1-2 weeks' (curing, C18/C19).",
+    "2": "C18 Iowa State + C19 WSU: potato curing '1-2 weeks' / '2 weeks'. C21 Iowa State: onion curing '2-3 weeks'. C22 WSU: '2-4 weeks'. Cũng: C10 Pears '2-7 months'.",
+    "3": "C13 Maine HG News: 'Pears, plums and melons also give off ethylene' — số vùng trong video (3 zones). Cũng: '3' trong cụm '2-3 weeks' curing onions (C21), '3-8 months' apples (Purdue, D5).",
+    "4": "C06 Maine #4135: 'Beets, topped | 32 | 98–100 | 4–6 months'. C07: 'Parsnips | 32 | 98–100 | 4–6 months'. C08: 'Turnips | 32 | 95 | 4–5 months'. Xuất hiện trong nhiều storage-life ranges.",
+    "5": "C02 Maine #4135: 'Potatoes, late crop | 38–40 | 90–95 | 5–10 months'. C05: 'Cabbage, late | 32 | 98–100 | 5–6 months'. C34 OSU: 'potatoes can remain... seven to eight months' — '5' trong '5-10 months'.",
+    "6": "C04 Maine #4135: 'Garlic | 32 | 65–70 | 6–7 months'. SDSU: onions '6-9 months'. Xuất hiện trong storage-life ranges.",
+    "7": "C01 Maine #4135: 'Carrots, mature | 32 | 98–100 | 7–9 months'. C34 OSU: 'seven to eight months' (potatoes). C04: '6-7 months' (garlic). Dùng '7' trong cụm '7-9 months' hoặc '7-8 months'.",
+    "8": "C03 Maine #4135: 'Onions, dry | 32 | 65–70 | 1–8 months'. C34 OSU: 'seven to eight months'. Dùng '8' trong cụm '7-9 months' hoặc '1-8 months'. CẨN THẬN: không nói 'up to 8 months' cho onions — nguồn nói '1-8 months', phần lớn là 6-7 tháng.",
+    "9": "C01 Maine #4135: 'Carrots, mature 7-9 months'. C02: 'Potatoes 5-10 months'. C03 SDSU: 'Onions 6-9 months'. Dùng '9' trong cụm months; không độc lập.",
+    "10": "C02 Maine #4135: 'Potatoes, late crop 5-10 months'. Cũng: '10 days if green tops left on' (beets, SDSU).",
+    "12": "C09 Maine #4135: 'Apples | 30–40 | 90–95 | 1–12 months' — số '12' là mức trần lý tưởng, nêu kèm cụm '1-12 months'. KHÔNG dùng độc lập như 'apples last 12 months'.",
+    "20": "C26 UConn Extension: 'Bury a 20-gallon can' — kích thước thùng. KHÔNG dùng cho bất kỳ số liệu khác.",
+    "29": "C10 Maine #4135: 'Pears | 29–31 | 90–95 | 2–7 months' — nhiệt độ pear storage. CHỈ dùng trong cụm '29-31°F' cho pears.",
+    "30": "C09 Maine #4135: 'Apples | 30–40 | 90–95' — nhiệt độ apple storage. CHỈ trong cụm '30-40°F' cho apples.",
+    "31": "C10 Maine #4135: 'Pears | 29–31 | 90–95' — CHỈ trong cụm '29-31°F' cho pears.",
+    "32": "C01–C08 Maine #4135: nhiệt độ chuẩn 32°F cho cà rốt, hành, tỏi, bắp cải, củ cải, parsnip, turnip. Đây là số trung tâm Vùng 1 và Vùng 3. DÙNG bình thường kèm thẻ SC1 trên màn hình.",
+    "38": "C02 Maine #4135: 'Potatoes, late crop | 38–40'. Số này chỉ dùng trong cụm '38-40°F' — CHỈ áp cho khoai tây. CẨN THẬN: SDSU nói 45°F — ghi thẻ bất đồng (D1). Không dùng '38°F' độc lập.",
+    "40": "C02 Maine/Iowa State: potatoes at 40°F (storage after curing). C20 ISU: 'stored below 40°F, develop a sugary, sweet taste'. Dùng '40°F' cho khoai sau ủ. CẨN THẬN: để rõ ngữ cảnh (cất sau ủ, không phải curing).",
+    "45": "SDSU Extension: potatoes at 45°F — số này là điểm bất đồng D1 với Maine. CHỈ dùng khi nêu bất đồng: 'some guides say 45°F'. KHÔNG dùng như số chính của khoai tây.",
+    "50": "C18 Iowa State: potato curing at 50-60°F. C32 SDSU: 'basement will remain cool enough (40-50°F in winter)'. Dùng '50' trong cụm '50-60°F' hoặc '40-50°F'. Không dùng độc lập.",
+    "60": "C18 Iowa State + C19 WSU: curing at 50-60°F / 50-65°F. SDSU: curing at 60-68°F. Dùng '60' trong cụm curing temp. Không dùng độc lập.",
+    "65": "C03 Maine #4135: 'Onions | 32 | 65-70%'. C04: 'Garlic | 32 | 65-70%'. SDSU: 'Onions 65%'. WSU: '60-70% humidity'. Số trung tâm Vùng 3 (dry zone). DÙNG bình thường trong cụm '65-70%' kèm thẻ SC1.",
+    "65.0": "Duplicate của 65 — chỉ để parser không nhầm. Xem '65'.",
+    "70": "C03 Maine: '65-70%' (onions). C04: '65-70%' (garlic). WSU: '60-70%'. Dùng '70' trong cụm '65-70%'. Không dùng độc lập.",
+    "90": "C02 Maine: 'Potatoes 90-95%'. C09 Maine: 'Apples 90-95%'. Purdue: 'potatoes 90% humidity'. Dùng '90' trong cụm '90-95%'. Không dùng độc lập.",
+    "95": "C01 Maine: 'Carrots 98-100%' — 95 không xuất hiện cho carrots. C08: 'Turnips 95%'. SDSU: 'Potatoes 95%'. Dùng '95' trong cụm '90-95%' hoặc '95%' cho turnips/potatoes. CẨN THẬN: carrot là 98-100%, không phải 95%.",
+    "98": "C01 Maine: 'Carrots | 32 | 98-100%'. Số đặc trưng Vùng 1 (ướt nhất). Dùng trong cụm '98-100%' CHỈ cho cà rốt, củ cải, parsnip, bắp cải — không dùng cho khoai hay táo.",
+    "100": "C01 Maine: 'Carrots 98-100%'. Số này nằm trong range — dùng cụm '98-100%' hoặc 'near 100%'. Không nói '100% humidity' vì không khí bão hòa gây đọng nước."
+  }
+}

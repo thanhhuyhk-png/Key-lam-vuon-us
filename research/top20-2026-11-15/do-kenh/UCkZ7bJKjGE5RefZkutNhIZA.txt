@@ -1,0 +1,143 @@
+# Đo kênh: UCkZ7bJKjGE5RefZkutNhIZA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 101 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 101 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 13,300 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-24 |
+| n_ngoai_cua_so | 1 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,483 |
+| cao_nhat | 25,982 |
+| thap_nhat | 345 |
+| phan_tan | 17.52 |
+| so_video_tren_2x | 8 |
+| ty_le_tren_2x | 0.40 |
+| trung_vi_chia_sub | 0.11 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.59 |
+| ngay_video_dau | 2026-04-21 |
+| tuoi_tu_video_dau | 209 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 63.64 |
+| sub_moi_video | 132 |
+| video_30_ngay | 14 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-04-21 | 209 | Eey0zFVd5z8 | 4,411 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Items That Become Illegal Overnight When Martial Law Hits |
+| 2026-04-24 | 206 | IYaNl2nbEI8 | 5,841 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The 7 Items That Become Worth More Than Gold After Nuclear War |
+| 2026-04-26 | 204 | XVHrMEkmPsc | 2,725 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Stop Trusting Your Basement — The Physics of Actual Radiation Shielding |
+| 2026-04-28 | 202 | 4iEwgF8wCxg | 95,565 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 U.S. Safe Havens That Survive Nuclear War, EMP, and Grid Collapse |
+| 2026-04-30 | 200 | uPbATC57m8A | 335,164 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | A Day in WW3: Hour by Hour in an American Suburb |
+| 2026-05-02 | 198 | LHrV8H2OW-k | 25,876 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What Happens to 2 Million Prisoners When Nuclear War Empties the Guard Towers Forever |
+| 2026-05-04 | 196 | g8j5RkKmunc | 81,715 | 5 | 25,876 | 3.16 | 5 | 0.39 | dang_ghi | – | Không | 10 States That Become Death Traps the Moment Nuclear War Starts — and 5 That Might Save Your Life |
+| 2026-05-06 | 194 | 8Tcuso7DanM | 18,449 | 6 | 53,796 | 0.34 | 5 | 0.13 | binh_thuong | – | Không | Nuclear War Simulation — What Your Suburb Looks Like 12 Hours After the First Strike |
+| 2026-05-09 | 191 | C1-I_vq4ggk | 25,009 | 7 | 25,876 | 0.97 | 5 | 0.24 | binh_thuong | – | Không | Winter Blackout Death Clock — You Have 48 Hours Before Your Own Home Kills You |
+| 2026-05-10 | 190 | hDJUN_JUWMk | 6,953 | 8 | 25,442 | 0.27 | 5 | 0.25 | binh_thuong | – | Không | 10 American Cities That Turn Into Death Zones the Moment Doomsday Hits |
+| 2026-05-12 | 188 | ydgkEwQPSAU | 4,420 | 9 | 25,009 | 0.18 | 5 | 0.40 | binh_thuong | – | Không | 10 Nuclear Fallout Survival Lies You Were Taught in School |
+| 2026-05-14 | 186 | 0qqYYCRI9Jg | 10,038 | 10 | 21,729 | 0.46 | 5 | 0.42 | binh_thuong | – | Không | Your Nuclear War Survival Score — Where Does Your Region Actually Rank |
+| 2026-05-16 | 184 | fAHR4YCfPh0 | 6,254 | 11 | 18,449 | 0.34 | 5 | 0.50 | binh_thuong | – | Không | 10 States That Get Quarantined First When Nuclear Fallout Spreads Across America |
+| 2026-05-18 | 182 | aWN74OuoFcU | 1,242 | 12 | 14,244 | 0.09 | 5 | 0.64 | binh_thuong | – | Không | 5 Ways Nuclear War Actually Kills You — None of Them Are What You Expect |
+| 2026-05-20 | 180 | 6NR6ZZaSBwA | 15,181 | 13 | 10,038 | 1.51 | 5 | 0.62 | binh_thuong | – | Không | Alien Invasion Simulation — What the First 48 Hours Actually Look Like in America |
+| 2026-05-22 | 178 | -zGTE4pXrSE | 14,165 | 14 | 12,610 | 1.12 | 5 | 0.26 | binh_thuong | – | Không | 10 Ordinary Places That Become Survival Fortresses When Society Collapses |
+| 2026-05-24 | 176 | 4Y92bOkOfXM | 9,152 | 15 | 14,165 | 0.65 | 5 | 0.23 | binh_thuong | – | Không | The American Civil War 2.0 Timeline — Hour by Hour, Here's How It Actually Starts |
+| 2026-05-26 | 174 | 6tA8RgUAbeQ | 3,029 | 15 | 14,165 | 0.21 | 5 | 0.23 | binh_thuong | – | Không | Everything You Were Told About Fallout Shelters Is Wrong — Here's What Actually Works |
+| 2026-05-28 | 172 | rDLnTiEN9zs | 6,216 | 15 | 14,165 | 0.44 | 5 | 0.21 | binh_thuong | – | Không | 10 Safe Havens That Could Actually Protect Your Family When WW3 Hits America |
+| 2026-05-30 | 170 | T-lB4OPW8p0 | 3,280 | 15 | 10,038 | 0.33 | 5 | 0.15 | binh_thuong | – | Không | The Pentagon Already Ranked Your City for Nuclear Survival — They Never Told You |
+| 2026-06-01 | 168 | rGVhpZJwHFE | 616 | 15 | 9,152 | 0.07 | 5 | 0.17 | binh_thuong | – | Không | 10 Things Hollywood Gets Dangerously Wrong About Nuclear War — And It's Getting People Killed |
+| 2026-06-04 | 165 | vuJe3lpTvr4 | 3,795 | 15 | 6,953 | 0.55 | 5 | 0.22 | binh_thuong | – | Không | 7 Things the Government Will Legally Take From You First in a National Emergency |
+| 2026-06-05 | 164 | n8wrjsHL_lU | 1,549 | 15 | 6,254 | 0.25 | 5 | 0.24 | binh_thuong | – | Không | 90% of Preppers Are Making These Nuclear War Survival Mistakes Right Now |
+| 2026-06-07 | 162 | DJkZ-RULnKs | 2,937 | 15 | 6,216 | 0.47 | 5 | 0.24 | binh_thuong | – | Không | The First 7 Days After Nuclear War — The Real Killer Isn't What You Think |
+| 2026-06-09 | 160 | TTGWBmGAzwI | 1,475 | 15 | 4,420 | 0.33 | 5 | 0.28 | binh_thuong | – | Không | 10 Forgotten Places in America That Nuclear War Cannot Reach |
+| 2026-06-11 | 158 | jWMxqn6VMvA | 1,517 | 15 | 3,795 | 0.40 | 5 | 0.33 | binh_thuong | – | Không | Zombie Apocalypse Simulation — What Actually Happens to Your City in the First 30 Days |
+| 2026-06-13 | 156 | 2Fv2-HZvZP8 | 593 | 15 | 3,280 | 0.18 | 5 | 0.38 | binh_thuong | – | Không | 10 Most Terrifying Ways the World Could End — And Why You're Not Ready |
+| 2026-06-15 | 154 | JE3fULa2uSI | 1,478 | 15 | 3,029 | 0.49 | 5 | 0.41 | binh_thuong | – | Không | Every US Bunker Type Ranked — From Concrete Coffin to Real Survival |
+| 2026-06-17 | 152 | mqqnp1F57BA | 1,249 | 15 | 2,937 | 0.43 | 5 | 0.34 | binh_thuong | – | Không | 10 Places in America the Government Can't Touch After Total Collapse |
+| 2026-06-19 | 150 | ZMQO_vWGquw | 988 | 15 | 2,937 | 0.34 | 5 | 0.31 | binh_thuong | – | Không | They Lied About How Long Your Food Supply Actually Lasts After Collapse |
+| 2026-06-21 | 148 | l86na5vS1dk | 2,007 | 15 | 1,549 | 1.30 | 5 | 0.59 | binh_thuong | – | Không | 10 Survival Skills the Military Teaches That Could Save Your Life After Collapse |
+| 2026-06-23 | 146 | oRcBWxD8nmM | 750 | 15 | 1,549 | 0.48 | 5 | 0.59 | binh_thuong | – | Không | What Comes After Nuclear War Is Worse Than the War Itself — Here's What Nobody Prepares For |
+| 2026-06-25 | 144 | H7Ydn3xLzso | 3,573 | 15 | 1,517 | 2.36 | 5 | 0.60 | hoi_cao | – | Không | The One Survival Item That Will Get You Killed After Nuclear War — And Every Prepper Owns One |
+| 2026-06-27 | 142 | TLevYntAwQc | 450 | 15 | 1,517 | 0.30 | 5 | 0.79 | binh_thuong | – | Không | 10 Ways AI Ends the World Before You Even Notice — And None of Them Involve Robots |
+| 2026-06-29 | 140 | 67aH2JuHjeg | 912 | 15 | 1,478 | 0.62 | 5 | 4.27 | binh_thuong | – | Không | A Day in an EMP Attack: Hour by Hour in an American City |
+| 2026-07-01 | 138 | N0V9kSlxEaI | 6,316 | 15 | 1,475 | 4.28 | 5 | 0.81 | dang_ghi | – | Không | Your State's Collapse Survival Rating Is Brutal — All 50 States Ranked |
+| 2026-07-03 | 136 | ODy_oVJJnqY | 829 | 15 | 1,478 | 0.56 | 5 | 1.03 | binh_thuong | – | Không | Ranking Every Bunker Design in America — From Death Trap to Fortress |
+| 2026-07-05 | 134 | -Mu1AaA0S_o | 64,614 | 15 | 1,475 | 43.81 | 5 | 1.03 | can_kiem_ky | – | Không | Every Civilization That Collapsed Did These 5 Things First — America Is Doing All of Them |
+| 2026-07-07 | 132 | 996Y_WEm7O0 | 1,196 | 15 | 1,475 | 0.81 | 5 | 1.48 | binh_thuong | – | Không | What Happens to Every Hospital in America When the Grid Goes Down |
+| 2026-07-09 | 130 | MKdOygr4pHM | 130,273 | 15 | 1,249 | 104 | 5 | 1.22 | can_kiem_ky | – | Không | Yellowstone Will Erase Half of America — Ranking All 50 States from Dead to Safe |
+| 2026-07-11 | 128 | I4jczQJTYTY | 1,146 | 15 | 1,249 | 0.92 | 5 | 1.74 | binh_thuong | – | Không | The First 90 Days of Grid Collapse. Month by Month, Here's How America Falls Apart |
+| 2026-07-12 | 127 | mKLNhu3xNCw | 1,520 | 15 | 1,196 | 1.27 | 5 | 1.82 | binh_thuong | – | Không | The Second Civil War Timeline Nobody Sees Coming |
+| 2026-07-15 | 124 | KG3-VB7cWEQ | 2,176 | 15 | 1,249 | 1.74 | 5 | 30.55 | binh_thuong | – | Không | What Happens to America's 93 Nuclear Reactors When Nobody Shows Up to Work |
+| 2026-07-17 | 122 | 4y8OJn4-bO8 | 69,716 | 15 | 1,249 | 55.82 | 5 | 5.07 | can_kiem_ky | – | Không | The True Scale of Modern Nuclear Weapons — What They Never Show You |
+| 2026-07-19 | 120 | RxjDAZwLh9Y | 1,391 | 15 | 1,520 | 0.92 | 5 | 4.16 | binh_thuong | – | Không | They Lied About Basements — The Fallout Shelter Myth That Gets Families Killed |
+| 2026-07-21 | 118 | _YCJD2MJzzU | 38,152 | 15 | 1,520 | 25.10 | 5 | 3.92 | can_kiem_ky | – | Không | They Won't Show You What Collapse Actually Looks Like — 5 Countries That Already Fell |
+| 2026-07-23 | 116 | F7uRBdeuCnQ | 979 | 15 | 1,520 | 0.64 | 5 | 3.92 | binh_thuong | – | Không | 7 Things in Every Abandoned House That Keep You Alive After Collapse |
+| 2026-07-25 | 114 | bU-w-zcrf2k | 101,663 | 15 | 1,520 | 66.88 | 5 | 3.92 | can_kiem_ky | – | Không | The 9 States That Will Survive Anything |
+| 2026-07-27 | 112 | DArCWa5NJQc | 6,327 | 15 | 1,520 | 4.16 | 5 | 2.72 | dang_ghi | – | Không | A Day in the Second Civil War: How Your Town Falls Apart in 24 Hours |
+| 2026-07-29 | 110 | XCn3isf24kg | 5,964 | 15 | 2,176 | 2.74 | 5 | 1.49 | hoi_cao | – | Không | 5 Places Everyone Abandons That Become the Safest Spots After Collapse |
+| 2026-07-31 | 108 | Tp-xX3tIulI | 1,830 | 15 | 5,964 | 0.31 | 5 | 0.69 | binh_thuong | – | Không | You Can't Survive What Comes After Nuclear War — The Part Nobody Talks About |
+| 2026-08-02 | 106 | 7nYwckr4mK8 | 3,233 | 15 | 2,176 | 1.49 | 5 | 2.98 | binh_thuong | – | Không | A Day in Nuclear War: The First 24 Hours After the Flash |
+| 2026-08-04 | 104 | PQ7UYKEAiHE | 12,570 | 15 | 3,233 | 3.89 | 5 | 1.28 | dang_ghi | – | Không | The 10 Minutes After You See the Flash: What Actually Saves You |
+| 2026-08-06 | 102 | -E1i8PacwHM | 4,136 | 15 | 3,233 | 1.28 | 5 | 1.25 | binh_thuong | – | Không | A Week After the Grid Dies: Day by Day Until Society Breaks |
+| 2026-08-08 | 100 | xlBU3SyZAHA | 1,630 | 15 | 4,136 | 0.39 | 5 | 0.97 | binh_thuong | – | Không | The First 60 Minutes of Nuclear War: What You Do Decides If You Live |
+| 2026-08-10 | 98 | NQ6I2qe6TQs | 6,495 | 15 | 3,233 | 2.01 | 5 | 1.25 | hoi_cao | – | Không | When the Cities Empty, Here's Where Everyone Goes — And Why Those Places Fall Next |
+| 2026-08-12 | 96 | I87WptQlaU8 | 63,129 | 15 | 4,136 | 15.26 | 5 | 0.76 | can_kiem_ky | – | Không | When the Dollar Breaks, Your State Fails in This Exact Order — All 50 Ranked |
+| 2026-08-14 | 94 | MhM_s1AAoD0 | 1,291 | 15 | 5,964 | 0.22 | 5 | 0.68 | binh_thuong | – | Không | Ranking Americans by Who Actually Survives Collapse — From First to Die to Untouchable |
+| 2026-08-16 | 92 | rmk2Di43zRs | 4,032 | 15 | 5,964 | 0.68 | 5 | 0.53 | binh_thuong | – | Không | When the Pumps Stop, These States Run Dry First — All 50 Ranked by Days of Water |
+| 2026-08-18 | 90 | 6qnSxRYvHIY | 749 | 15 | 4,136 | 0.18 | 5 | 0.76 | binh_thuong | – | Không | America Already Collapsed Once — 9,000 Banks Took Everything and Nobody Was Coming |
+| 2026-08-20 | 88 | cd_s0fdfBss | 15,985 | 15 | 4,136 | 3.86 | 5 | 0.66 | dang_ghi | – | Không | Surviving Nuclear War After 60: What Changes When You Can't Just Run |
+| 2026-08-22 | 86 | WELhu6SrEhY | 3,143 | 15 | 4,136 | 0.76 | 5 | 0.66 | binh_thuong | – | Không | The 7 Neighbors Who Turn on You First When Society Breaks |
+| 2026-08-26 | 82 | z6J9DQ7V45I | 4,173 | 15 | 4,136 | 1.01 | 5 | 0.66 | binh_thuong | – | Không | The True Scale of the Yellowstone Supervolcano — What They Never Show You Under America |
+| 2026-08-28 | 80 | 9LCt3zCg4Ps | 987 | 15 | 4,136 | 0.24 | 5 | 0.66 | binh_thuong | – | Không | The 10 States That Collapse First When the Next Pandemic Hits — All 50 Ranked |
+| 2026-08-30 | 78 | AthcX1GYZKo | 2,711 | 15 | 4,032 | 0.67 | 5 | 0.38 | binh_thuong | – | Không | Rome Didn't Fall to Barbarians — It Printed Its Own Money to Death |
+| 2026-09-01 | 76 | zWDiO-O3uyI | 1,525 | 15 | 3,233 | 0.47 | 5 | 0.35 | binh_thuong | – | Không | America Turned Its Own Farmland to Desert in a Decade — and 2.5 Million People Ran |
+| 2026-09-03 | 74 | G0-jdFxe9V4 | 29,978 | 15 | 3,233 | 9.27 | 5 | 0.32 | manh | – | Không | The Only Places Left After Yellowstone Erupts — All 50 States Ranked by Days Survived |
+| 2026-09-05 | 72 | AXX7-0XgprM | 11,244 | 15 | 4,032 | 2.79 | 5 | 0.26 | hoi_cao | – | Không | The Superpower That Died in Two Years — No War, No Invasion, It Just Ran Out of Money |
+| 2026-09-07 | 70 | HoGXdRlX47E | 1,133 | 15 | 4,032 | 0.28 | 5 | 0.26 | binh_thuong | – | Không | The Richest Country in South America Starved Itself — Sitting on the World's Biggest Oil Reserves |
+| 2026-09-11 | 66 | jyH4_6NL60U | 780 | 15 | 3,143 | 0.25 | 5 | 0.33 | binh_thuong | – | Không | The Maya Ran an Empire for 1,000 Years — Then Vanished in Two Generations |
+| 2026-09-13 | 64 | U7KfALXILB0 | 590 | 15 | 3,143 | 0.19 | 5 | 1.10 | binh_thuong | – | Không | Mao Starved 30 Million People in Three Years — and Hid Every Single Body |
+| 2026-09-15 | 62 | vKmLfx1941g | 1,043 | 15 | 2,711 | 0.38 | 5 | 1.28 | binh_thuong | – | Không | A Volcano You've Never Heard Of Already Froze America — The Year Without a Summer |
+| 2026-09-17 | 60 | Jt6OoecthfE | 9,592 | 15 | 1,525 | 6.29 | 5 | 2.27 | manh | – | Không | The First 48 Hours After Every Card Reader Dies — Hour by Hour in an American Town |
+| 2026-09-19 | 58 | hgK4KejTY2E | 11,394 | 15 | 2,711 | 4.20 | 5 | 1.28 | dang_ghi | – | Không | The First 24 Hours After Yellowstone Erupts — the Exact Hour the Ash Reaches You |
+| 2026-09-22 | 55 | JjQ5HA4eN5s | 561 | 15 | 2,711 | 0.21 | 5 | 1.28 | binh_thuong | – | Không | The Computers Said Five Missiles Were Coming — One Man Refused to Believe It |
+| 2026-09-24 | 53 | WoyHhR7UZAY | 3,461 | 15 | 2,711 | 1.28 | 5 | 0.62 | binh_thuong | – | Không | Katrina Wasn't the Disaster — The Five Days After Were |
+| 2026-09-26 | 51 | rtzQVcHpWRg | 1,288 | 15 | 2,711 | 0.48 | 5 | 0.62 | binh_thuong | – | Không | Your Bank Doesn't Have Your Money — What Day One of a Real Bank Run Looks Like |
+| 2026-09-28 | 49 | obZOPR8FBb0 | 4,721 | 15 | 1,525 | 3.10 | 5 | 0.52 | dang_ghi | – | Không | When the Police Stop Coming, These States Fall First — All 50 Ranked by Days of Order |
+| 2026-09-30 | 47 | u23sn77WGwc | 25,982 | 15 | 1,525 | 17.04 | 5 | 0.52 | can_kiem_ky | – | Không | When the Refineries Stop, These States Go Dark First — All 50 Ranked by Days of Fuel |
+| 2026-10-02 | 45 | MNwYTBifs7I | 788 | 15 | 2,711 | 0.29 | 5 | 0.62 | binh_thuong | – | Không | This City Hosted the Olympics — Eight Years Later Snipers Held It for 1,425 Days |
+| 2026-10-04 | 43 | hFbF3kPWWhs | 1,678 | 15 | 1,525 | 1.10 | 5 | 0.42 | binh_thuong | – | Không | 90% of Everything You Own Came by Ship — America Has 30 Days When They Stop |
+| 2026-10-06 | 41 | AFsPheD5ccw | 573 | 15 | 1,678 | 0.34 | 5 | 1.29 | binh_thuong | – | Không | The Sea Pulled Back — and a Quarter Million People Walked Out to Watch |
+| 2026-10-08 | 39 | y5t3IIpCG3M | 643 | 15 | 1,288 | 0.50 | 5 | 1.68 | binh_thuong | – | Không | If World War 3 Stays Conventional, These 10 States Become the Battlefield |
+| 2026-10-10 | 37 | Ffz8YKtbSNM | 2,167 | 15 | 1,133 | 1.91 | 5 | 4.74 | binh_thuong | – | Không | The Dam Holding Back a 400-Mile Sea — 400 Million People Live Downstream |
+| 2026-10-12 | 35 | OABZRuqeL58 | 12,722 | 15 | 1,288 | 9.88 | 5 | 4.17 | manh | – | Không | The Day the Draft Comes Back — What Happens to 16 Million American Men |
+| 2026-10-14 | 33 | FmGE6RyFTII | 345 | 15 | 1,678 | 0.21 | 5 | 3.20 | binh_thuong | – | Không | The Fire Moved a Football Field Every Second — This Is the Town's Last Broadcast |
+| 2026-10-16 | 31 | 28jqCfnI1eo | 5,374 | 15 | 1,678 | 3.20 | 5 | 3.20 | dang_ghi | – | Không | The True Scale of an EMP Attack — One Weapon, One Second, Every Light in America |
+| 2026-10-18 | 29 | 3ssxmqKT9Ho | 1,935 | 15 | 2,167 | 0.89 | 5 | 2.48 | chua_chin | – | Không | The Day Every Cop Went Home — One City, 16 Hours, Total Collapse |
+| 2026-10-20 | 27 | 96lkAI1JyCk | 18,232 | 15 | 1,935 | 9.42 | 5 | 0.96 | chua_chin | – | Không | The First Winter After the Grid Fails — All 50 States Ranked by Who Freezes First |
+| 2026-10-24 | 23 | dZ5n_95rzlg | 5,366 | 15 | 1,935 | 2.77 | 5 | 0.82 | chua_chin | – | Không | 72 Hours Without Heat — Three Houses on the Same Street, Three Different Outcomes |
+| 2026-10-26 | 21 | vjeb08-ZlRc | 6,058 | 15 | 2,167 | 2.80 | 5 | 0.70 | chua_chin | – | Không | Which States Could Feed Themselves If Deliveries Stopped? |
+| 2026-10-28 | 19 | 4Ew9wfWXiuk | 1,848 | 15 | 2,167 | 0.85 | 5 | 0.47 | chua_chin | – | Không | A Nuclear Alert Hits While Your Family Is Apart — The First Hour |
+| 2026-10-30 | 17 | 2FbOx45YcsA | 1,592 | 15 | 2,167 | 0.73 | 5 | 0.45 | chua_chin | – | Không | The Grid Is Down. Why Can’t They Just Turn It Back On? |
+| 2026-11-01 | 15 | vnjeYLcRFaY | 1,010 | 15 | 1,935 | 0.52 | 5 | 0.38 | chua_chin | – | Không | Winter Blackout After 60 — The Plan Changes When You Can’t Just Leave |
+| 2026-11-03 | 13 | UW6LbYY6x_k | 283 | 15 | 1,848 | 0.15 | 5 | 0.40 | chua_chin | – | Không | After Cascadia: The Town That Survived the Quake but Lost Every Road Out |
+| 2026-11-05 | 11 | xZaaEQNrAjE | 1,519 | 15 | 1,848 | 0.82 | 5 | 0.22 | chua_chin | – | Không | Before a Country Collapses, What Changes on an Ordinary Street? |
+| 2026-11-07 | 9 | S17ILugzwz0 | 974 | 15 | 1,848 | 0.53 | 4 | – | chua_chin | – | Không | America’s Remote “Safe Havens” — What Happens When the Deliveries Stop? |
+| 2026-11-08 | 8 | ZHc-5_iVZTc | 409 | 15 | 1,848 | 0.22 | 3 | – | chua_chin | – | Không | Hi there everyone - A quick introduction to me and my channel! |
+| 2026-11-09 | 7 | R3cBaBRjcpw | 733 | 15 | 1,848 | 0.40 | 2 | – | chua_chin | – | Không | Blackout on the 20th Floor — The Systems Your Apartment Depends On |
+| 2026-11-11 | 5 | fmmtbtlg50U | 286 | 15 | 1,592 | 0.18 | 1 | – | chua_chin | – | Không | The Evacuation Trap — When Everyone Takes the Same Road |
+| 2026-11-13 | 3 | AWncE0_K3CU | 235 | 15 | 1,519 | 0.15 | 0 | – | chua_chin | – | Không | Your Bank Balance Is Fine. Your Town Still Can’t Buy Anything. |

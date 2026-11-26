@@ -1,0 +1,61 @@
+# Đo kênh: UCY-Ns49D1fcP6DbLBXozL5A.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 19 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 19 |
+| n_trong_danh_sach | 19 |
+| n_dai | 19 |
+| n_short | 0 |
+| n_dai_dung_tinh | 19 |
+| nguong_tuoi_video | 30 |
+| subs | 1,730 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-06-06 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 999 |
+| cao_nhat | 53,325 |
+| thap_nhat | 134 |
+| phan_tan | 53.38 |
+| so_video_tren_2x | 7 |
+| ty_le_tren_2x | 0.37 |
+| trung_vi_chia_sub | 0.58 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.30 |
+| ngay_video_dau | 2026-06-06 |
+| tuoi_tu_video_dau | 163 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 10.61 |
+| sub_moi_video | 91.05 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-06-06 | 163 | R0692dZAjBM | 908 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 5 Mistakes You Must NEVER Make Growing Tomatoes in JUNE (Number 3 Kills Plants) |
+| 2026-06-09 | 160 | d-l4X4i8cB0 | 1,875 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 13 Crops You'd Be Foolish Not to Plant in June |
+| 2026-06-14 | 155 | YyYds-Q8Pwg | 642 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Most Gardeners Prune Tomatoes Wrong in June — Do This for More Fruit |
+| 2026-06-18 | 151 | jte1A-kbsg0 | 53,325 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The SECRET to GIANT Aloe Vera: 1 Ingredient for MORE PUPS! |
+| 2026-06-25 | 144 | 1OPSDcicV7k | 179 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Fix These 7 Garden Problems Before July Heat Ruins Your Harvest |
+| 2026-07-01 | 138 | ojNCUnc7l_Y | 5,710 | 5 | 908 | 6.29 | 5 | 0.47 | manh | – | Không | Even Dead Lavender Comes Back to Life! 5 Liquid Feeds That Work Instantly |
+| 2026-07-04 | 135 | sd_je0tlsN0 | 431 | 6 | 1,392 | 0.31 | 5 | 0.23 | binh_thuong | – | Không | The SECRET to Fast-Growing Pothos: 1 Ingredient for MORE VINES! |
+| 2026-07-13 | 126 | QZeULAFLumc | 316 | 7 | 908 | 0.35 | 5 | 0.26 | binh_thuong | – | Không | Your Clematis Needs This Every July — Even Dead Clematis Come Back to Life |
+| 2026-07-22 | 117 | dbxWP_zblcw | 6,841 | 8 | 775 | 8.83 | 5 | 0.30 | manh | – | Không | Snake Plant Not Growing? Do THIS to Trigger New Pups! |
+| 2026-08-03 | 105 | vR88TVH9AsE | 2,563 | 9 | 908 | 2.82 | 5 | 0.26 | hoi_cao | – | Không | Orchid Not Blooming? Just 1 Spoonful and It Explode With Roots and Flowers! |
+| 2026-08-06 | 102 | vd25S_yhIEg | 223 | 10 | 1,392 | 0.16 | 5 | 0.98 | binh_thuong | – | Không | Want GIANT Aloe Vera Full of Pups? Eggshell Powder Won’t Work Unless You Do This! |
+| 2026-08-07 | 101 | vd60VG-y7WI | 233 | 11 | 908 | 0.26 | 5 | 2.31 | binh_thuong | – | Không | African Violet Not Blooming? Put 1 Spoonful Under It and Watch What Happens! |
+| 2026-08-12 | 96 | LLZ9lLxc2nY | 134 | 12 | 775 | 0.17 | 5 | 2.71 | binh_thuong | – | Không | The SECRET to GIANT Aloe Vera: Just 1 Spoon to Make It EXPLODE with New Pups! |
+| 2026-08-16 | 92 | fsEz83OZrMg | 1,363 | 13 | 642 | 2.12 | 5 | 3.27 | hoi_cao | – | Không | Just 1 Spoonful at the Bottom of the Pot! Hoya Will Burst With Flowers |
+| 2026-08-27 | 81 | RaMwgtL0SsE | 2,099 | 14 | 775 | 2.71 | 4 | – | hoi_cao | – | Không | Just ONE Tea Bag Made My Peace Lily Bloom Like CRAZY! |
+| 2026-09-17 | 60 | b1TPUBGkdjc | 3,495 | 15 | 908 | 3.85 | 3 | – | dang_ghi | – | Không | Put One Piece Under Your Orchid! It will suddenly sprout 100 stems. |
+| 2026-09-19 | 58 | wOXvZX5aVk4 | 4,353 | 15 | 1,363 | 3.19 | 2 | – | dang_ghi | – | Không | Just One Easy Trick Got My Christmas Cactus Blooming Like Crazy! |
+| 2026-09-22 | 55 | 1TQLcdigjgw | 999 | 15 | 1,363 | 0.73 | 1 | – | binh_thuong | – | Không | The Secret to Growing MASSIVE Pothos Leaves (It's Not Fertilizer!) |
+| 2026-10-03 | 44 | 4iTBpcjViV0 | 678 | 15 | 1,363 | 0.50 | 0 | – | binh_thuong | – | Không | Give a Spoonful of Water Under a Flowerless African Violet! The Violet Will Bloom Profusely |

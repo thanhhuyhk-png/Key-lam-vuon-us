@@ -1,0 +1,67 @@
+# Đo kênh: UCiGOVbSR3aWWFAO0_ux_fwA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 25 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 25 |
+| n_trong_danh_sach | 25 |
+| n_dai | 25 |
+| n_short | 0 |
+| n_dai_dung_tinh | 18 |
+| nguong_tuoi_video | 30 |
+| subs | 16,200 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-17 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 8,313 |
+| cao_nhat | 476,641 |
+| thap_nhat | 1,058 |
+| phan_tan | 57.34 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.33 |
+| trung_vi_chia_sub | 0.51 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.04 |
+| ngay_video_dau | 2026-08-17 |
+| tuoi_tu_video_dau | 91 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 178 |
+| sub_moi_video | 648 |
+| video_30_ngay | 7 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-17 | 91 | WIXm-0vfn98 | 476,641 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 17 Urgent Items The Red Cross SAYS YOU MUST Stockpile NOW |
+| 2026-08-21 | 87 | 4YFZo_DN__g | 289,323 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 6 Everyday Items You’ll Have to PROTECT From Your Neighbors After Collapse |
+| 2026-08-24 | 84 | WTPjJOeo7GU | 178,282 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Cheap Household Items That Still Function After an EMP Blackout |
+| 2026-08-26 | 82 | 3ApjkkfLieA | 8,283 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Household Products That Will SPARK FIGHTS in Stores After Economic Collapse |
+| 2026-09-10 | 67 | QQDzD6oSPic | 286,781 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 11 Dollar Tree Heating Items That'll Be WORTH GOLD in Winter Emergencies |
+| 2026-09-15 | 62 | D9922lPb8WY | 25,966 | 5 | 286,781 | 0.09 | 5 | 0.05 | binh_thuong | – | Không | 9 OVERLOOKED Items You’ll REGRET Not Having After COLLAPSE |
+| 2026-09-20 | 57 | fRvS6bqoKm8 | 5,572 | 6 | 232,532 | 0.02 | 5 | 0.06 | binh_thuong | – | Không | 7 Everyday Items You’ll Regret Lending Out Before the Power Outage |
+| 2026-09-23 | 54 | nfag3RJpQtI | 15,277 | 7 | 178,282 | 0.09 | 5 | 0.05 | binh_thuong | – | Không | 9 Items That’ll Get You CHASED DOWN After the COLLAPSE |
+| 2026-09-25 | 52 | 1uR9jtE8Obo | 53,340 | 8 | 102,124 | 0.52 | 5 | 0.03 | binh_thuong | – | Không | First Things They'll Confiscate in a SHTF Crisis (Hide These NOW) |
+| 2026-09-28 | 49 | ob2oWCjyNt8 | 1,905 | 9 | 53,340 | 0.04 | 5 | 0.07 | binh_thuong | – | Không | Red Cross Drops BOMBSHELL List of 10 Foods You MUST Stockpile NOW! |
+| 2026-10-01 | 46 | JLjAeh0pRlU | 12,971 | 10 | 39,653 | 0.33 | 5 | 0.10 | binh_thuong | – | Không | 10 Critical Products Red Cross SAYS YOU MUST Have at Home Before the Next Emergency Situation |
+| 2026-10-02 | 45 | VQ-FEF_M3Dw | 8,343 | 11 | 25,966 | 0.32 | 5 | 0.15 | binh_thuong | – | Không | 7 CHEAP Household ITEMS That’ll Be PRICELESS After the COLLAPSE |
+| 2026-10-04 | 43 | SL_oXjc-xMI | 2,741 | 12 | 20,622 | 0.13 | 5 | 0.18 | binh_thuong | – | Không | 12 Household Essentials You MUST Buy Before They Vanish Next Week |
+| 2026-10-06 | 41 | d9tnu8HXnnI | 1,058 | 13 | 15,277 | 0.07 | 5 | 0.25 | binh_thuong | – | Không | 9 FEMA Approved Items to Prepare for This Year’s Coldest Conditions |
+| 2026-10-08 | 39 | Y4oSPcXxkg0 | 3,854 | 14 | 14,124 | 0.27 | 5 | 0.27 | binh_thuong | – | Không | 17 Urgent Supplies The Red Cross SAYS YOU MUST Stockpile NOW |
+| 2026-10-09 | 38 | FVNGGzSheCE | 3,774 | 15 | 12,971 | 0.29 | 5 | 0.30 | binh_thuong | – | Không | 11 Dollar Tree Heating Essentials That'll Be WORTH GOLD in Winter Blackout |
+| 2026-10-10 | 37 | 6Imh3T57D-I | 3,844 | 15 | 8,343 | 0.46 | 5 | 0.73 | binh_thuong | – | Không | 6 Household Items You'll Have to PROTECT From Your Neighbors After Collapse |
+| 2026-10-13 | 34 | DFxz6nTVjQ4 | 3,479 | 15 | 8,283 | 0.42 | 5 | 1.39 | binh_thuong | – | Không | 10 Cheap Everyday Items That Still Work After an EMP Blackout |
+| 2026-10-19 | 28 | 5kRTAMg6VjI | 3,805 | 15 | 5,572 | 0.68 | 5 | 6.13 | chua_chin | – | Không | 7 Household Products That Will SPARK RIOTS in Stores After Economic Collapse |
+| 2026-10-26 | 21 | WoR_df18MS4 | 6,108 | 15 | 3,854 | 1.58 | 5 | 17.37 | chua_chin | – | Không | 9 UNEXPECTED Items You’ll REGRET Not Having After COLLAPSE |
+| 2026-11-01 | 15 | yW8_d_3bq1A | 11,509 | 15 | 3,854 | 2.99 | 4 | – | chua_chin | – | Không | 7 Everyday Items You’ll Regret Lending Out During the Blackout |
+| 2026-11-03 | 13 | vmTx8bO7x9o | 66,935 | 15 | 3,854 | 17.37 | 3 | – | chua_chin | – | Không | 9 Items That’ll Get You HUNTED DOWN During the COLLAPSE |
+| 2026-11-06 | 10 | WPf7yTOHERM | 148,711 | 15 | 3,854 | 38.59 | 2 | – | chua_chin | – | Không | First Things They’ll Confiscate in a SHTF Disaster (Hide These NOW) |
+| 2026-11-09 | 7 | NkhVZkJK6YE | 34,171 | 15 | 3,854 | 8.87 | 1 | – | chua_chin | – | Không | Red Cross Drops SHOCKING List of 10 Foods You MUST Stockpile NOW! |
+| 2026-11-12 | 4 | 83NrUof_gKg | 309,335 | 15 | 3,854 | 80.26 | 0 | – | chua_chin | – | Không | 17 Urgent Items The Red Cross WARNS YOU MUST Stockpile NOW |

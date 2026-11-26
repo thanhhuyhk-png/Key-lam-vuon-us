@@ -1,0 +1,150 @@
+# Đo kênh: UCSd_37JhlS1-cTL-XhPuKdQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 256 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 517,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-01 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 10,154 |
+| cao_nhat | 189,048 |
+| thap_nhat | 4,126 |
+| phan_tan | 18.62 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.57 |
+| ngay_video_dau | 2025-12-02 |
+| tuoi_tu_video_dau | 349 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 1,481 |
+| sub_moi_video | 2,020 |
+| video_30_ngay | 27 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-12-02 | 349 | fnz8NWnEBAc | 1,888,838 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Forgotten Medicinal Plants That Will Heal You Instantly |
+| 2025-12-24 | 327 | dPEAAsIr1Z4 | 113,229 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | This Plant Stops Infections Without Antibiotics: Why Is It Never Prescribed? |
+| 2025-12-31 | 320 | WxPFVmn8EkA | 142,419 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | This Plant Heals Pain Instantly. Why Did The FDA Ban It? |
+| 2026-01-02 | 318 | WqGcljeUONE | 347,435 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Indoor Plants That Will Transform Your Health Instantly |
+| 2026-01-05 | 315 | 5ez7vmKMVRE | 796,572 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Profitable Plants That Will Make You A Millionaire |
+| 2026-01-06 | 314 | vDsWvJ5Y0Sw | 451,185 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Superfood Plants With More Protein Than Beef |
+| 2026-01-12 | 308 | LbUU1ERwh_k | 89,861 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Spiritual Plants That Attract Positive Energy Into Your Home |
+| 2026-01-13 | 307 | T_DVKj_Eu0g | 203,848 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Powerful Plants That Kill Weeds Instantly |
+| 2026-08-01 | 107 | nJUDLtrslPU | 2,983 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Collagen Rich Dinners That Will Heal You Instantly |
+| 2026-08-02 | 106 | Xo7l7nQSJpI | 174,313 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Magnesium Rich Snacks That Will Heal You Instantly |
+| 2026-08-03 | 105 | 8fyOXlm1fnU | 2,617 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Electrolyte Rich Snacks That Will Recover You Instantly |
+| 2026-08-04 | 104 | xs8lJ2OqJJE | 37,019 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Magnesium Rich Breakfasts That Will Heal You Instantly |
+| 2026-08-05 | 103 | KXsNlAsM91E | 7,537 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Collagen Bombs That Will Heal You Instantly |
+| 2026-08-06 | 102 | OS0pzVbQqq8 | 64,511 | 5 | 7,537 | 8.56 | 5 | 0.70 | manh | – | Không | 20 Magnesium Rich Dinners That Will Heal You Instantly |
+| 2026-08-07 | 101 | 5oYlH13W6Fc | 2,980 | 6 | 22,278 | 0.13 | 5 | 0.29 | binh_thuong | – | Không | 20 Vitamin C Rich Superfoods That Will Heal You Instantly |
+| 2026-08-09 | 99 | F_ZUnIltA5Y | 6,484 | 7 | 7,537 | 0.86 | 5 | 1.27 | binh_thuong | – | Không | 20 Probiotic Rich Snacks That Will Heal You Instantly |
+| 2026-08-10 | 98 | d6huK-cPBXI | 5,313 | 8 | 7,010 | 0.76 | 5 | 1.37 | binh_thuong | – | Không | 20 High Fiber Snacks That Will Heal You Instantly |
+| 2026-08-11 | 97 | 8hMzliM5WIw | 11,194 | 9 | 6,484 | 1.73 | 5 | 1.45 | binh_thuong | – | Không | 20 Essential Foods To Stockpile That Will Never Expire |
+| 2026-08-12 | 96 | xzilrXHnxb4 | 2,664 | 10 | 7,010 | 0.38 | 5 | 1.34 | binh_thuong | – | Không | 20 Creatine Rich Snacks That Will Heal You Instantly |
+| 2026-08-13 | 95 | iZ5EvFVjsSY | 17,079 | 11 | 6,484 | 2.63 | 5 | 1.45 | hoi_cao | – | Không | 20 Gut Healing Snacks That Will Heal You Instantly |
+| 2026-08-14 | 94 | Pt-c5mSYOro | 9,602 | 12 | 7,010 | 1.37 | 5 | 1.34 | binh_thuong | – | Không | 20 Fermented Snacks That Will Heal You Instantly |
+| 2026-08-15 | 93 | d0_yJsxxz5Y | 9,370 | 13 | 7,537 | 1.24 | 5 | 0.58 | binh_thuong | – | Không | 20 Iron Rich Snacks That Will Heal You Instantly |
+| 2026-08-16 | 92 | Z0d23CMoxYg | 4,409 | 14 | 8,454 | 0.52 | 5 | 1.16 | binh_thuong | – | Không | 20 Fermented Breakfasts That Will Heal You Instantly |
+| 2026-08-17 | 91 | HgsNduzS71U | 3,627 | 15 | 7,537 | 0.48 | 5 | 2.03 | binh_thuong | – | Không | 20 Omega 3 Rich Snacks That Will Heal You Instantly |
+| 2026-08-18 | 90 | 0cmNguhuLL4 | 15,326 | 15 | 7,537 | 2.03 | 5 | 1.30 | hoi_cao | – | Không | 20 Best Drinks That Will Heal Your Kidneys Instantly |
+| 2026-08-19 | 89 | 9TJbjhOqc6M | 120,228 | 15 | 7,537 | 15.95 | 5 | 0.52 | can_kiem_ky | – | Không | 20 High Protein Breakfasts To Rebuild Muscle Fast |
+| 2026-08-20 | 88 | m-FuZMsatc4 | 2,399 | 15 | 9,370 | 0.26 | 5 | 0.42 | binh_thuong | – | Không | 20 Best Snacks That Will Heal Your Kidneys Instantly |
+| 2026-08-21 | 87 | cTSrqS7Oy2w | 9,771 | 15 | 7,537 | 1.30 | 5 | 0.52 | binh_thuong | – | Không | 20 Collagen Rich Superfoods That Will Heal You Instantly |
+| 2026-08-22 | 86 | v-KdwHW5XLs | 558,453 | 15 | 9,370 | 59.60 | 5 | 0.42 | can_kiem_ky | – | Không | 20 Biblical Collagen Foods That Will Heal You Instantly |
+| 2026-08-23 | 85 | 8in-MDSl9tw | 3,900 | 15 | 9,370 | 0.42 | 5 | 1.38 | binh_thuong | – | Không | 20 Natural Superfoods That Balance Your Hormones Instantly |
+| 2026-08-24 | 84 | uepKBcFw0AM | 3,380 | 15 | 9,370 | 0.36 | 5 | 1.68 | binh_thuong | – | Không | 20 Natural Drinks That Balance Your Hormones Instantly |
+| 2026-08-25 | 83 | bbrenzJkLrA | 3,179 | 15 | 9,370 | 0.34 | 5 | 2.16 | binh_thuong | – | Không | 20 High Protein Dinners To Rebuild Muscle Instantly |
+| 2026-08-26 | 82 | _q4LDZ-d7Vw | 20,281 | 15 | 9,370 | 2.16 | 5 | 1.68 | hoi_cao | – | Không | 20 Biblical Magnesium Rich Superfoods That Will Heal You Instantly |
+| 2026-08-27 | 81 | FSqm3erdVl0 | 49,409 | 15 | 9,370 | 5.27 | 5 | 1.38 | manh | – | Không | 20 Biblical Electrolyte Rich Superfoods That Will Recover You Instantly |
+| 2026-08-29 | 79 | Am1m6tZD3qk | 12,889 | 15 | 9,602 | 1.34 | 5 | 1.64 | binh_thuong | – | Không | 20 Biblical Fat Burning Superfoods That Kill Fat Instantly |
+| 2026-08-30 | 78 | T7po4TQfUo0 | 15,711 | 15 | 9,602 | 1.64 | 5 | 1.28 | binh_thuong | – | Không | 20 Biblical Protein Superfoods That Rebuild Muscle Instantly |
+| 2026-08-31 | 77 | AAQJmCygMLg | 94,174 | 15 | 9,771 | 9.64 | 5 | 0.82 | manh | – | Không | 20 Biblical Gut Healing Superfoods That Will Heal You Instantly |
+| 2026-09-01 | 76 | qRs0UBgEqvw | 8,017 | 15 | 12,889 | 0.62 | 5 | 0.95 | binh_thuong | – | Không | 20 Biblical Omega 3 Rich Superfoods That Will Heal You Instantly |
+| 2026-09-02 | 75 | 4hrBIuDCs8I | 12,305 | 15 | 12,889 | 0.95 | 5 | 1.65 | binh_thuong | – | Không | 20 Biblical Anti Aging Superfoods That Reverse Aging Instantly |
+| 2026-09-03 | 74 | j8LUfak3EiQ | 21,322 | 15 | 12,889 | 1.65 | 5 | 1.86 | binh_thuong | – | Không | 20 Biblical Brain Foods That Sharpen Your Mind Instantly |
+| 2026-09-04 | 73 | LKBUyuvVnrQ | 5,707 | 15 | 12,889 | 0.44 | 5 | 1.86 | binh_thuong | – | Không | 20 Biblical Remedies That Will Heal You Instantly |
+| 2026-09-05 | 72 | X6hgGDsh_ic | 7,751 | 15 | 12,305 | 0.63 | 5 | 1.95 | binh_thuong | – | Không | 20 Biblical Medicinal Plants That You Should Have At Home |
+| 2026-09-06 | 71 | 3Ljw6MosTK4 | 37,964 | 15 | 12,305 | 3.09 | 5 | 1.17 | dang_ghi | – | Không | 20 Biblical Anti Inflammatory Superfoods That Will Heal You Instantly |
+| 2026-09-07 | 70 | ut_g0KI93W8 | 24,016 | 15 | 12,889 | 1.86 | 5 | 0.63 | binh_thuong | – | Không | 20 Biblical Blood Sugar Killing Foods That Will Heal You Instantly |
+| 2026-09-08 | 69 | injAHNJ0GZM | 149,668 | 15 | 12,889 | 11.61 | 5 | 0.54 | can_kiem_ky | – | Không | 20 Biblical Medicinal Plants That Will Heal You Instantly |
+| 2026-09-09 | 68 | 4RHNMPoM8uA | 8,173 | 15 | 15,711 | 0.52 | 5 | 0.35 | binh_thuong | – | Không | 20 Protein Superfoods With More Protein Than Meat |
+| 2026-09-10 | 67 | xYTR7_U7pbk | 6,979 | 15 | 15,711 | 0.44 | 5 | 0.35 | binh_thuong | – | Không | 20 Biblical Fermented Foods That Will Heal You Instantly |
+| 2026-09-11 | 66 | E7B0-YRjQ9s | 14,391 | 15 | 15,711 | 0.92 | 5 | 0.35 | binh_thuong | – | Không | 20 Biblical Drinks That Will Heal You Instantly |
+| 2026-09-13 | 64 | _NdWlTpajgE | 5,516 | 15 | 14,391 | 0.38 | 5 | 0.43 | binh_thuong | – | Không | 20 Biblical Dinners That Will Heal You Instantly |
+| 2026-09-14 | 63 | RZkk4fOdccI | 5,130 | 15 | 12,889 | 0.40 | 5 | 1.71 | binh_thuong | – | Không | 20 Biblical Meals That Will Heal You Instantly |
+| 2026-09-15 | 62 | hcoE7GCbEcw | 5,491 | 15 | 12,305 | 0.45 | 5 | 18.19 | binh_thuong | – | Không | 20 Biblical Breakfasts That Will Heal You Instantly |
+| 2026-09-16 | 61 | t_LUQKVTzh8 | 6,200 | 15 | 8,173 | 0.76 | 5 | 27.38 | binh_thuong | – | Không | 20 Biblical Snacks That Will Heal You Instantly |
+| 2026-09-17 | 60 | 6yw0NNq_SGE | 22,042 | 15 | 8,017 | 2.75 | 5 | 27.91 | hoi_cao | – | Không | 20 Biblical Cortisol Killing Foods That Will Heal You Instantly |
+| 2026-09-18 | 59 | GgVGgUg0St4 | 223,779 | 15 | 8,173 | 27.38 | 5 | 15.34 | can_kiem_ky | – | Không | 20 Biblical Oils That Will Heal You Instantly |
+| 2026-09-19 | 58 | G4rKE7W7SzM | 266,237 | 15 | 8,173 | 32.58 | 5 | 12.19 | can_kiem_ky | – | Không | 20 Cortisol Killing Drinks That Will Heal You Instantly |
+| 2026-09-20 | 57 | 0XHTTLVqETg | 451,268 | 15 | 8,173 | 55.21 | 5 | 7.18 | can_kiem_ky | – | Không | 20 Cortisol Killing Foods That Will Heal You Instantly |
+| 2026-09-23 | 54 | euQm5HN6KGo | 58,695 | 15 | 14,391 | 4.08 | 5 | 1.07 | dang_ghi | – | Không | 20 Cortisol Killing Plants That Will Heal You Instantly |
+| 2026-09-24 | 53 | X_sWLmEZok4 | 9,099 | 15 | 22,042 | 0.41 | 5 | 0.70 | binh_thuong | – | Không | 20 Cortisol Killing Snacks That Will Heal You Instantly |
+| 2026-09-25 | 52 | cfd3O64MjUM | 125,335 | 15 | 14,391 | 8.71 | 5 | 0.49 | manh | – | Không | 20 Indoor Plants That Kill Cortisol Instantly |
+| 2026-09-26 | 51 | ix3r5yA2xQU | 99,592 | 15 | 14,391 | 6.92 | 5 | 0.49 | manh | – | Không | 20 Cortisol Killing Breakfasts That Will Heal You Instantly |
+| 2026-09-27 | 50 | Bb2jnOyIbLA | 15,465 | 15 | 14,391 | 1.07 | 5 | 0.45 | binh_thuong | – | Không | 20 Forgotten Drinks For Stronger Legs After 60 |
+| 2026-09-28 | 49 | 3v7hZyu1Quk | 6,299 | 15 | 15,465 | 0.41 | 5 | 0.46 | binh_thuong | – | Không | 20 Forgotten Remedies That Cure The Cold & Flu Instantly |
+| 2026-09-29 | 48 | 168lESaw84k | 6,141 | 15 | 15,465 | 0.40 | 5 | 0.46 | binh_thuong | – | Không | 20 Cortisol Killing Dinners That Will Heal You Instantly |
+| 2026-09-30 | 47 | tC4HXW8VVkE | 7,110 | 15 | 15,465 | 0.46 | 5 | 0.72 | binh_thuong | – | Không | 20 Cold & Flu Killing Foods That Will Heal You Instantly |
+| 2026-10-01 | 46 | m6CKkS25bb0 | 40,280 | 15 | 15,465 | 2.60 | 5 | 0.45 | hoi_cao | – | Không | 20 Magnesium Foods That Have More Magnesium Than Spinach |
+| 2026-10-02 | 45 | dtc_Bs8Nwrw | 6,533 | 15 | 22,042 | 0.30 | 5 | 0.45 | binh_thuong | – | Không | 20 Superfood Plants With More Calcium Than Milk |
+| 2026-10-03 | 44 | ZmQ4tbm9i0c | 11,159 | 15 | 22,042 | 0.51 | 5 | 0.35 | binh_thuong | – | Không | 20 Anti Aging Foods That Reverse Aging Instantly |
+| 2026-10-04 | 43 | kgUn6hbyPDc | 6,953 | 15 | 22,042 | 0.32 | 5 | 0.35 | binh_thuong | – | Không | 20 Anti Aging Snacks That Reverse Aging Instantly |
+| 2026-10-05 | 42 | VxuKroR7IQ0 | 27,408 | 15 | 15,465 | 1.77 | 5 | 0.50 | binh_thuong | – | Không | 20 Profitable Plants That Will Make You Retire Early |
+| 2026-10-06 | 41 | 6W6300ttkBI | 4,126 | 15 | 15,465 | 0.27 | 5 | 0.63 | binh_thuong | – | Không | 20 Anti Aging Drinks That Reverse Aging Instantly |
+| 2026-10-07 | 40 | Ptwj7yjWpVk | 9,818 | 15 | 11,159 | 0.88 | 5 | 0.94 | binh_thuong | – | Không | 20 Anti Aging Breakfasts That Reverse Aging Instantly |
+| 2026-10-08 | 39 | MtjiPnGZpDg | 7,789 | 15 | 9,818 | 0.79 | 5 | 1.16 | binh_thuong | – | Không | 20 Backyard Weeds That Will Heal You Instantly |
+| 2026-10-09 | 38 | U4Wll1tvhEs | 7,461 | 15 | 9,099 | 0.82 | 5 | 1.25 | binh_thuong | – | Không | 20 Fat Burning Foods To Kill Fat After 60 |
+| 2026-10-10 | 37 | yFdT4XevZVM | 11,371 | 15 | 7,789 | 1.46 | 5 | 5.96 | binh_thuong | – | Không | 20 Biblical Eye Healing Foods That Heal Your Eyes Instantly |
+| 2026-10-11 | 36 | Fu9GHnoG7x4 | 10,489 | 15 | 7,789 | 1.35 | 5 | 5.96 | binh_thuong | – | Không | 20 Indoor Crops You Can Harvest All Year Long |
+| 2026-10-12 | 35 | iDkn-l6tyT8 | 46,460 | 15 | 7,789 | 5.96 | 5 | 4.92 | manh | – | Không | 20 Bone Healing Foods For Strong Bones and Joints After 60 |
+| 2026-10-13 | 34 | ifQ-yS8Zllo | 56,843 | 15 | 7,789 | 7.30 | 5 | 1.38 | manh | – | Không | 20 Bone Healing Plants For Strong Bones and Joints After 60 |
+| 2026-10-14 | 33 | NzKE8HrVte8 | 6,184 | 15 | 9,818 | 0.63 | 5 | 1.30 | binh_thuong | – | Không | 20 Biblical Probiotic Foods That Will Heal You Instantly |
+| 2026-10-15 | 32 | VLYYwdHXl18 | 189,048 | 15 | 9,818 | 19.26 | 5 | 1.10 | can_kiem_ky | – | Không | 20 Biblical Protein Foods To Rebuild Muscle After 60 |
+| 2026-10-16 | 31 | Ube8UXuusNo | 10,778 | 15 | 10,489 | 1.03 | 5 | 0.56 | binh_thuong | – | Không | 20 Biblical Superfoods That Will Heal You Instantly |
+| 2026-10-17 | 30 | QyJyLNz2ROw | 38,315 | 15 | 10,489 | 3.65 | 5 | 0.56 | dang_ghi | – | Không | 20 Zinc Rich Plants With More Zinc Than Meat |
+| 2026-10-18 | 29 | nhhBjklUTMQ | 4,269 | 15 | 10,778 | 0.40 | 5 | 0.72 | chua_chin | – | Không | 20 Genius $1 Meals You Can Make in a Jar |
+| 2026-10-19 | 28 | lJkfrThHY24 | 12,752 | 15 | 10,489 | 1.22 | 5 | 0.56 | chua_chin | – | Không | 20 Protein Superfoods That Stop Muscle Loss After 60 |
+| 2026-10-20 | 27 | Y_W9NIBOAXQ | 4,830 | 15 | 10,778 | 0.45 | 5 | 0.72 | chua_chin | – | Không | 20 Biblical Calming Foods That Kill Cortisol Instantly |
+| 2026-10-21 | 26 | vOqjYLSBAfE | 5,854 | 15 | 10,489 | 0.56 | 5 | 0.77 | chua_chin | – | Không | 20 Fermented Drinks That Will Heal Your Body After 60 |
+| 2026-10-22 | 25 | fidh4XkTLE0 | 8,094 | 15 | 10,489 | 0.77 | 5 | 0.74 | chua_chin | – | Không | 20 Collagen Rich Foods That Will Make You Feel 25 Again |
+| 2026-10-23 | 24 | XrQiOklXL64 | 7,784 | 15 | 10,489 | 0.74 | 5 | 0.53 | chua_chin | – | Không | 20 Magnesium Rich Foods That Will Heal You Instantly |
+| 2026-10-24 | 23 | HGvkLBwBopE | 5,239 | 15 | 10,489 | 0.50 | 5 | 1.31 | chua_chin | – | Không | 20 Superfood Plants With All 9 Essential Amino Acids |
+| 2026-10-25 | 22 | xzklxITUl9Y | 30,516 | 15 | 10,489 | 2.91 | 5 | 0.86 | chua_chin | – | Không | 20 Plaque Killing Foods That Unclog Your Arteries Instantly |
+| 2026-10-26 | 21 | DeZav5kEIRI | 13,763 | 15 | 10,489 | 1.31 | 5 | 0.86 | chua_chin | – | Không | 20 Blood Flow Drinks For Stronger Legs After 60 |
+| 2026-10-27 | 20 | 8Fmnmt9WIBI | 4,651 | 15 | 10,778 | 0.43 | 5 | 0.83 | chua_chin | – | Không | 20 Eye Healing Drinks That Will Improve Your Vision Instantly |
+| 2026-10-28 | 19 | IjkfrL12IVw | 5,573 | 15 | 8,094 | 0.69 | 5 | 1.11 | chua_chin | – | Không | 20 Plaque Killing Drinks That Unclog Your Arteries Instantly |
+| 2026-10-29 | 18 | S7jrPPTz1Jg | 15,402 | 15 | 7,784 | 1.98 | 5 | 1.11 | chua_chin | – | Không | 20 Protein Plants That Stop Muscle Loss Instantly |
+| 2026-10-30 | 17 | oXd9Z09b2Rs | 8,988 | 15 | 8,094 | 1.11 | 5 | 1.07 | chua_chin | – | Không | 20 Blood Flow Foods For Stronger Legs After 60 |
+| 2026-11-01 | 15 | Y1HgxQjnnmA | 9,605 | 15 | 8,094 | 1.19 | 5 | 0.59 | chua_chin | – | Không | 20 Biblical Fat Burning Foods That Kill Fat Instantly |
+| 2026-11-02 | 14 | a8VSVKLOf0A | 3,386 | 15 | 8,094 | 0.42 | 5 | 1.07 | chua_chin | – | Không | 20 Biblical Superfoods That Melt Clogged Arteries Instantly |
+| 2026-11-03 | 13 | bl0uYfuuNq0 | 8,678 | 15 | 7,784 | 1.11 | 5 | 0.81 | chua_chin | – | Không | 20 Anti Inflammatory Foods That Reduce Swelling Instantly |
+| 2026-11-04 | 12 | SGH8o-TAJuo | 2,781 | 15 | 8,094 | 0.34 | 5 | 1.10 | chua_chin | – | Không | 20 Superfoods That Reverse Diabetes Permanently |
+| 2026-11-05 | 11 | ydQIv8Tsro8 | 37,655 | 15 | 7,784 | 4.84 | 5 | 0.81 | chua_chin | – | Không | 20 Arthritis Killing Foods That Will Heal You Instantly |
+| 2026-11-06 | 10 | BJRy4vRXoXs | 4,809 | 15 | 8,094 | 0.59 | 5 | 1.10 | chua_chin | – | Không | 20 Fruit Proteins That Build Muscle 1,000,000x Better Than Eggs After 60 |
+| 2026-11-07 | 9 | oCL2_5CVC1k | 8,928 | 15 | 8,094 | 1.10 | 5 | 1.19 | chua_chin | – | Không | 20 Arthritis Killing Drinks That Will Heal You Instantly |
+| 2026-11-08 | 8 | X3VLqBejk9A | 6,336 | 15 | 8,678 | 0.73 | 5 | 1.11 | chua_chin | – | Không | 20 Collagen Boosting Foods that Will Heal You Instantly |
+| 2026-11-10 | 6 | gVBOA6K3ZNU | 16,932 | 15 | 8,678 | 1.95 | 5 | 0.47 | chua_chin | – | Không | 20 Incredible Foods That Heal Everything! Joints, Muscle Loss, Intestines, Bones! |
+| 2026-11-11 | 5 | C8-GEWt85xM | 4,094 | 15 | 8,928 | 0.46 | 4 | – | chua_chin | – | Không | 20 Protein Breakfasts That Build Muscle 1,000,000x Better Than Eggs After 60 |
+| 2026-11-12 | 4 | IPqdiNTlC2U | 9,597 | 15 | 8,678 | 1.11 | 3 | – | chua_chin | – | Không | 20 Protein Superfoods That Rebuild Aging Muscles |
+| 2026-11-13 | 3 | yWBADul6h80 | 44,912 | 15 | 8,678 | 5.18 | 2 | – | chua_chin | – | Không | 20 Bedtime Superfoods That Will Heal You Overnight |
+| 2026-11-14 | 2 | Kx3DKtHpwS4 | 2,875 | 15 | 8,928 | 0.32 | 1 | – | chua_chin | – | Không | 20 Forgotten Medicinal Foods That Will Heal You Instantly |
+| 2026-11-15 | 1 | VsxWqDsqIOc | 249 | 15 | 8,928 | 0.03 | 0 | – | chua_chin | – | Không | 20 Forgotten Breakfasts That Will Heal You Instantly |

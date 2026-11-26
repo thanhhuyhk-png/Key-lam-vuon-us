@@ -1,0 +1,150 @@
+# Đo kênh: UCEndIEu-bDDHjrfg2gw0GaQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 109 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 342 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 857,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-10-21 |
+| n_ngoai_cua_so | 9 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 84,924 |
+| cao_nhat | 793,381 |
+| thap_nhat | 4,669 |
+| phan_tan | 9.34 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.10 |
+| ty_le_like_trung_vi | 0.00 |
+| da_trung_vi | 1.67 |
+| ngay_video_dau | 2022-07-04 |
+| tuoi_tu_video_dau | 1,596 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 537 |
+| sub_moi_video | 2,506 |
+| video_30_ngay | 9 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2022-07-04 | 1,596 | La_fDnQxJYY | 366,426 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Cultivation And Harvest Of Hundreds Of Tons Of Onions - Modern Agriculture Technology |
+| 2022-07-08 | 1,592 | T0P8V3Ndbrs | 16,944,109 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Australian Farmers Produce Thousands Of Tons Of Mangoes This Way - Australian Farming |
+| 2022-07-09 | 1,591 | GM9HUHaw8Wk | 3,035,617 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Harvest And Process Hundreds Of Tons Of Pomegranates - Modern Agricultural Technology |
+| 2022-07-24 | 1,576 | oAeorQZ3WZg | 336,942 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Harvest Thousands Of Tons Of Lychee - Lychee Processing Technology |
+| 2022-07-28 | 1,572 | QxgaiCepSwE | 11,378,972 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 2.8 Billion Pounds Of Almonds Harvested This Way In California - Almond Processing Factory |
+| 2022-07-29 | 1,571 | UciWr-v2aws | 353,444 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Cotton Cultivation And Harvest Technology - Cotton Processing At The Factory |
+| 2022-07-30 | 1,570 | vpyDZ4qaH4c | 1,764 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Tony 98 Discovery - Where There Are Interesting Things About Agriculture |
+| 2022-08-01 | 1,568 | wb64X_cuUVo | 1,970,870 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Cultivation And Harvesting Prickly Pear - Amazing agriculture Technology - Prickly Pear Processing |
+| 2025-10-21 | 391 | NC3uT4I0aqs | 229,282 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Texas’s Biggest Hunt — 7,389 Wild Boars Taken Down Daily to Save Farmland #hunting #wildboar |
+| 2025-10-24 | 388 | 8i27iKd8VkM | 110,354 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 3,756 Wild Birds Taken Down in 45 Minutes — The Most Intense Hunt You’ll Ever See #hunting |
+| 2025-10-27 | 385 | RuyocH9elVY | 5,841,695 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Poultry And Livestock Farming, Fruit And Vegetable Harvesting In Fields And Farms – Relaxing Farm |
+| 2025-10-28 | 384 | ZKv5fUEp10Q | 803,939 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Poultry And Livestock Farming, Fruit And Vegetable Harvesting In Fields And Farms – Relaxing Farm #2 |
+| 2025-10-30 | 382 | frUHL7TqQMY | 125,810 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Harvest 2025 Begins — Farmers and Machines Collect Millions of Tons of Fruits & Vegetables |
+| 2025-11-02 | 379 | 2HUCCLEqFSQ | 4,167,475 | 5 | 229,282 | 18.18 | 5 | 1.88 | can_kiem_ky | – | Không | Most Impressive Farming Machines – 31 Harvest Giants Feeding the World in 2025 |
+| 2025-11-04 | 377 | cfsG1sjw1hA | 3,264,855 | 6 | 516,610 | 6.32 | 5 | 0.33 | manh | – | Không | Unbelievable Catch 💥 Japan’s Fishermen Haul 2,300 Tons of Seafood Every Hour |
+| 2025-11-07 | 374 | DPr9kfy1MAA | 432,056 | 7 | 803,939 | 0.54 | 5 | 0.22 | binh_thuong | – | Không | Poultry And Livestock Farming, Fruit And Vegetable Harvesting In Fields And Farms – Relaxing Farm #3 |
+| 2025-11-08 | 373 | BpzlkPMVJDs | 823,091 | 8 | 617,998 | 1.33 | 5 | 0.28 | binh_thuong | – | Không | They Hunted Millions of Wild Horses… Then Found a Way to Save Them All - Documentary |
+| 2025-11-12 | 369 | 0CT64uTY8Yk | 127,048 | 9 | 803,939 | 0.16 | 5 | 0.39 | binh_thuong | – | Không | Fruit And Vegetable Harvesting In Fields And Farms, Poultry And Livestock Farming - Relaxing Farm |
+| 2025-11-14 | 367 | bNCA3rHTutE | 34,058 | 10 | 617,998 | 0.06 | 5 | 0.60 | binh_thuong | – | Không | Extreme Processing Line – Thousands of Sheep, Crocodiles, and Ostriches Handled Every Minute |
+| 2025-11-19 | 362 | JQIr2Sbyb04 | 172,940 | 11 | 432,056 | 0.40 | 5 | 1.99 | binh_thuong | – | Không | Top U.S. Farmlands So Beautiful You Won't Believe They Exist - Farming Documentary |
+| 2025-11-22 | 359 | akyb1rpfPXI | 311,987 | 12 | 330,669 | 0.94 | 5 | 2.60 | binh_thuong | – | Không | How Chinese Farmers Harvest Thousands of Tons of Snake Skin and Meat Every Week - Documentary |
+| 2025-11-26 | 355 | WjS5gHyw1KI | 368,315 | 13 | 311,987 | 1.18 | 5 | 3.39 | binh_thuong | – | Không | The Record-Breaking Harvest – Millions of Tons of Fruits and Vegetables Collected This Way |
+| 2025-11-28 | 353 | DqYoLqszDDk | 3,799,159 | 14 | 340,151 | 11.17 | 5 | 2.52 | can_kiem_ky | – | Không | Harvesting Fruits and Vegetables, Raising Poultry and Livestock – Beautiful Countryside Life |
+| 2025-12-04 | 347 | o7lg3K7zOQ0 | 1,056,354 | 15 | 368,315 | 2.87 | 5 | 1.05 | hoi_cao | – | Không | Harvesting Fruits and Vegetables, Raising Poultry and Livestock – Life in the Beautiful Countryside |
+| 2025-12-06 | 345 | bcEfMfgwC0A | 858,837 | 15 | 432,056 | 1.99 | 5 | 0.23 | binh_thuong | – | Không | Farmers Harvesting Fruits, Vegetables, and Caring for Livestock - Day in the Beautiful Countryside |
+| 2025-12-08 | 343 | GPeDCMWHccY | 62,859 | 15 | 803,939 | 0.08 | 5 | 0.18 | binh_thuong | – | Không | The Most Beautiful and Largest Farmlands Around the World - Farming Travel Documentary |
+| 2025-12-11 | 340 | RPcL6upPNGk | 5,877,653 | 15 | 432,056 | 13.60 | 5 | 0.34 | can_kiem_ky | – | Không | Beautiful Countryside Life: Daily Harvesting of Fruits and Vegetables and Livestock Care |
+| 2025-12-12 | 339 | 9Anea0gQ7zM | 59,164 | 15 | 432,056 | 0.14 | 5 | 0.90 | binh_thuong | – | Không | How Farmers in Remote Villages Harvest Crops and Raise Livestock - Beautiful Countryside Life |
+| 2025-12-16 | 335 | R_p2i1Zai_w | 387,898 | 15 | 432,056 | 0.90 | 5 | 0.94 | binh_thuong | – | Không | Beautiful Countryside Life in ALASKA – Harvesting Crops, Raising Livestock, and More |
+| 2025-12-18 | 333 | fi_oeFhlayM | 100,031 | 15 | 387,898 | 0.26 | 5 | 1.81 | binh_thuong | – | Không | 99+ Greatest Harvests Ever 💥 America’s Most Insane Fruit & Veggie Hauls - Relaxing Farming |
+| 2025-12-20 | 331 | Vz_48XaqwpM | 147,659 | 15 | 368,315 | 0.40 | 5 | 7.88 | binh_thuong | – | Không | Farmers in Swiss Remote Villages Harvest Crops and Raise Livestock This Way - Countryside Life |
+| 2025-12-24 | 327 | 3lYF0HC4gII | 701,417 | 15 | 311,987 | 2.25 | 5 | 9.31 | hoi_cao | – | Không | Harvesting Fruits & Vegetables and Raising Highland Cattle — Countryside Life in England |
+| 2025-12-26 | 325 | Dpkp-hxKSII | 6,528,132 | 15 | 311,987 | 20.92 | 5 | 9.31 | can_kiem_ky | – | Không | A Peaceful Countryside Day — Harvesting, Feeding Animals, and Simple Farm Life |
+| 2026-01-06 | 314 | hx_Pr5hNGqg | 404,953 | 15 | 368,315 | 1.10 | 5 | 7.88 | binh_thuong | – | Không | Inside the Massive Harvest ► How Millions of Tons of Food Are Prepared for 2026 |
+| 2026-01-07 | 313 | Fi12Bdu9ZxY | 2,903,518 | 15 | 387,898 | 7.49 | 5 | 1.60 | manh | – | Không | A Day in Peaceful Farm Life – Harvesting, Milking, and Living Close to Nature |
+| 2026-01-09 | 311 | -FbK0Cb07ug | 3,698,566 | 15 | 404,953 | 9.13 | 5 | 1.53 | manh | – | Không | Massive Processing Scale – How Australians Process 9.1 Million Cattle Every Year |
+| 2026-01-12 | 308 | MUifP8h4HII | 277,077 | 15 | 701,417 | 0.40 | 5 | 0.88 | binh_thuong | – | Không | Peaceful Countryside Life in Scotland – Sheep Farming, Fruit Harvesting & Simple Living |
+| 2026-01-14 | 306 | 02b7LZ67iR0 | 5,363,821 | 15 | 701,417 | 7.65 | 5 | 0.88 | manh | – | Không | The 2026 Harvest Rush 💥 How They’re Collecting Millions of Tons of Fruits and Veggies |
+| 2026-01-19 | 301 | hKyl-pifc1A | 619,768 | 15 | 701,417 | 0.88 | 5 | 0.24 | binh_thuong | – | Không | Massive Scale — 11.7 Billion Pounds of Apples in the U.S. Are Produced This Way |
+| 2026-01-23 | 297 | GeXWHBZDp-M | 167,854 | 15 | 619,768 | 0.27 | 5 | 0.15 | binh_thuong | – | Không | Swiss Countryside Winter Life 🌨️ Farming, Livestock, and Traditional Home Cooking |
+| 2026-01-26 | 294 | ss9P88xiPS4 | 1,924,027 | 15 | 404,953 | 4.75 | 5 | 0.23 | dang_ghi | – | Không | How Australia Processes 2.7 Million Goats Each Year — Massive Scale Production |
+| 2026-01-28 | 292 | KYR9o5N_fPM | 93,557 | 15 | 619,768 | 0.15 | 5 | 0.13 | binh_thuong | – | Không | 4.1 Million Pigs Processed Every 24 Hours in the U.S. 💥 This Is How the Pork Industry Operates |
+| 2026-02-04 | 285 | WbU1pbxEPbc | 2,539,913 | 15 | 404,953 | 6.27 | 5 | 0.20 | manh | – | Không | Japan’s Insane Fishing Scale – 8,300 Tons of Seafood Pulled from the Ocean Every Day |
+| 2026-02-14 | 275 | Hn816eGIeZ0 | 79,147 | 15 | 619,768 | 0.13 | 5 | 0.14 | binh_thuong | – | Không | Record-Breaking Catches 💥 100+ Times Fishermen Landed Truly Incredible Seafood Loads |
+| 2026-02-18 | 271 | 9oHwW2SnQJE | 62,456 | 15 | 619,768 | 0.10 | 5 | 0.16 | binh_thuong | – | Không | 257,000 Reindeer Processed Each Year Using This Method - Massive Scale Production |
+| 2026-02-22 | 267 | 2ECO0JMfBHk | 96,073 | 15 | 619,768 | 0.16 | 5 | 0.14 | binh_thuong | – | Không | 4,457 Sheep Processed Every Hour in Australia – How This $6.1 Billion Industry Really Works |
+| 2026-02-25 | 264 | S3sREo5k9u0 | 74,091 | 15 | 619,768 | 0.12 | 5 | 0.60 | binh_thuong | – | Không | Massive Seafood Harvest in South America – 31,574 Tons Caught in One Day |
+| 2026-02-26 | 263 | rM-mV1cmReY | 530,957 | 15 | 404,953 | 1.31 | 5 | 0.92 | binh_thuong | – | Không | The 49+ Most Extreme Harvests of 2026 – Massive Tons of Produce Rushed Off the Fields |
+| 2026-02-28 | 261 | pxVXxpzKYx4 | 87,827 | 15 | 404,953 | 0.22 | 5 | 0.92 | binh_thuong | – | Không | Unseen Scale of Korea’s Fishing Fleet – Massive Daily Catches of Octopus & Blue Crabs |
+| 2026-03-03 | 258 | OS-7D9eEjlE | 370,857 | 15 | 277,077 | 1.34 | 5 | 0.86 | binh_thuong | – | Không | The First Harvest of 2026 in China 💥 Millions of Pounds of Fruits & Veggies Collected Every Hour |
+| 2026-03-07 | 254 | 6oHPxoiUD4w | 55,717 | 15 | 277,077 | 0.20 | 5 | 0.86 | binh_thuong | – | Không | Life in a Peaceful Swiss Village – Apple Picking, Cutting Grass, and Caring for Farm Animals |
+| 2026-03-16 | 245 | NeeutplCCJ8 | 1,994,878 | 15 | 167,854 | 11.88 | 5 | 0.41 | can_kiem_ky | – | Không | How Farmers in Iran and the Middle East Harvest Millions of Tons of Fruits and Vegetables |
+| 2026-03-18 | 243 | fJkHYXjRgcE | 534,238 | 15 | 167,854 | 3.18 | 5 | 0.41 | dang_ghi | – | Không | 2026’s Most Insane Fishing Moments 💥 30+ Incredible Catches You've Never Seen Before |
+| 2026-03-30 | 231 | BMMxLYK0VHw | 12,043 | 15 | 167,854 | 0.07 | 5 | 0.41 | binh_thuong | – | Không | Unbelievable Deep-Sea Fishing Moments You Have to See to Believe #fishing #catching |
+| 2026-04-08 | 222 | MKyGEh8FW7U | 238,879 | 15 | 96,073 | 2.49 | 5 | 0.72 | hoi_cao | – | Không | A Perfect Day in the Most Peaceful Village — Simple Living, Fresh Harvests, and Happy Animals |
+| 2026-04-11 | 219 | 44Pi7rBWyog | 68,939 | 15 | 96,073 | 0.72 | 5 | 0.38 | binh_thuong | – | Không | The Most Jaw-Dropping Harvests Ever Caught on Camera 💥 30+ Giant Farming Moments |
+| 2026-04-14 | 216 | eoHIYXh-uxs | 69,291 | 15 | 93,557 | 0.74 | 5 | 0.34 | binh_thuong | – | Không | A Peaceful Life In The Countryside - Waking Up To Livestock, Poultry, And A Beautiful Farm |
+| 2026-04-28 | 202 | jHbuQg36UXY | 36,379 | 15 | 87,827 | 0.41 | 5 | 0.36 | binh_thuong | – | Không | The Fishing Powerhouse💥 How Japan Lands 1.61 Billion Tons of Seafood Annually |
+| 2026-05-04 | 196 | XODYXYV-gsM | 31,691 | 15 | 79,147 | 0.40 | 5 | 0.40 | binh_thuong | – | Không | A Calm Day in a Beautiful Village - Making Cheese, Fishing, and Gathering Vegetables |
+| 2026-05-05 | 195 | y54EpSeqauw | 159,984 | 15 | 74,091 | 2.16 | 5 | 0.43 | hoi_cao | – | Không | Massive 2026 Harvest in France – Millions of Tons of Fruits and Vegetables Collected in a Day |
+| 2026-05-07 | 193 | pZjxofVJMwo | 31,566 | 15 | 87,827 | 0.36 | 5 | 0.25 | binh_thuong | – | Không | 17.3 Tons of Seafood in Just 60 Seconds — Inside Indonesia’s Massive Fishing Start |
+| 2026-05-09 | 191 | L7SCQOuJxW8 | 7,216 | 15 | 74,091 | 0.10 | 5 | 0.29 | binh_thuong | – | Không | How Texas Farmers Run 229,000 Farms Across 127.1 Million Acres - Farming Documentary |
+| 2026-05-12 | 188 | RoaVwXuc9uE | 561,840 | 15 | 69,291 | 8.11 | 5 | 0.31 | manh | – | Không | America’s Food Powerhouse 💥 How California Harvests 21.7 Million Pounds per Hour |
+| 2026-05-18 | 182 | oXLFrz1Dka8 | 21,676 | 15 | 69,291 | 0.31 | 5 | 0.17 | binh_thuong | – | Không | Massive Harvest Season in Japan – 34,300 Tons of Crops Harvested in 24 Hours |
+| 2026-05-20 | 180 | A744NsF2W6I | 166,813 | 15 | 68,939 | 2.42 | 5 | 0.17 | hoi_cao | – | Không | Massive 2026 Harvest in the U.S. – 483,000 Tons of Crops Delivered to Market in 24 Hours |
+| 2026-05-22 | 178 | mtuDQZwDbHI | 11,773 | 15 | 68,939 | 0.17 | 5 | 0.30 | binh_thuong | – | Không | The Kingdom of Seafood Fishing – How Japan Catches 12,300 Tons of Fish in Just 24 Hours |
+| 2026-05-29 | 171 | CqOmJQsE0-g | 9,341 | 15 | 68,939 | 0.14 | 5 | 0.30 | binh_thuong | – | Không | The Peak of Seafood Fishing in South Korea – 3,450 Tons of Seafood Caught Every Day |
+| 2026-06-02 | 167 | ScLroL8Tgj0 | 92,398 | 15 | 36,379 | 2.54 | 5 | 0.57 | hoi_cao | – | Không | Norway’s Unbelievable Fishing Scale — 6,900 Tons of Seafood Caught in Just 24 Hours |
+| 2026-06-03 | 166 | t_ykptnU8os | 3,377 | 15 | 36,379 | 0.09 | 5 | 1.57 | binh_thuong | – | Không | 807 Wild Hogs Eliminated in 4 Hours — America’s Biggest Wild Hog Control Operation |
+| 2026-06-06 | 163 | iKu5fJxro18 | 20,458 | 15 | 36,379 | 0.56 | 5 | 1.57 | binh_thuong | – | Không | 53.3 Million Wild Birds Threaten Australia's Crops — How Farmers Fight Back |
+| 2026-06-09 | 160 | homKh5g_AU0 | 20,787 | 15 | 31,691 | 0.66 | 5 | 1.80 | binh_thuong | – | Không | Peak Harvest Season — Millions of Tons of Crops Are Being Gathered Right Now |
+| 2026-06-13 | 156 | XzQZcfwjqZg | 438,811 | 15 | 31,566 | 13.90 | 5 | 1.14 | can_kiem_ky | – | Không | 50+ Record-Breaking Harvests 💥 The Incredible Ways Farmers Gather Massive Food Yields |
+| 2026-06-15 | 154 | WsHqUWZoCSQ | 1,745,511 | 15 | 31,566 | 55.30 | 5 | 0.32 | can_kiem_ky | – | Không | 50+ Biggest Fishing Catches Ever Recorded – Millions of Tons of Seafood Harvested Like This |
+| 2026-06-18 | 151 | rzwr5AKqR1c | 57,026 | 15 | 31,566 | 1.81 | 5 | 0.32 | binh_thuong | – | Không | A Perfect Day on a Peaceful American Farm — Harvesting, Animal Care and Home Cooking |
+| 2026-06-21 | 148 | kn85lGfyQk8 | 9,979 | 15 | 31,566 | 0.32 | 5 | 0.51 | binh_thuong | – | Không | The Peak of Japan’s Seafood Industry – 11,350 Tons of Seafood Caught and Processed in 24 Hours |
+| 2026-06-22 | 147 | r561hvy7tk8 | 7,127 | 15 | 21,676 | 0.33 | 5 | 0.75 | binh_thuong | – | Không | 61+ Most Impressive Harvest Moments Ever Seen – The Agriculture and Fishing Boom of 2026 |
+| 2026-06-23 | 146 | kHSsdsDYGsk | 35,904 | 15 | 20,787 | 1.73 | 5 | 0.78 | binh_thuong | – | Không | America's Fishing Boom 💥 11,300 Tons of Seafood Harvested Daily During Peak Season |
+| 2026-07-06 | 133 | dTHBt8YT78k | 4,582 | 15 | 21,676 | 0.21 | 5 | 0.75 | binh_thuong | – | Không | A Busy, Quiet Day on Mini Farm – Vegetable Harvest, Animal Care & Cottage Baking |
+| 2026-07-07 | 132 | GaeLpBD8faU | 16,211 | 15 | 20,787 | 0.78 | 5 | 1.76 | binh_thuong | – | Không | Race Against Time 💥 Harvesting Millions Of Tons Of Fruits And Veggies Right Now |
+| 2026-07-10 | 129 | 4DvFOqt3uO4 | 43,080 | 15 | 20,458 | 2.11 | 5 | 0.76 | hoi_cao | – | Không | The Reindeer Empire – How Siberia's Indigenous People Survive the Harshest Winters on Earth |
+| 2026-07-16 | 123 | gY6ibiMJlFw | 15,446 | 15 | 20,458 | 0.76 | 5 | 1.79 | binh_thuong | – | Không | 31 Mind-Blowing Mega Machine Harvests 💥Hundreds of Tons of Food Gathered in Minutes |
+| 2026-07-17 | 122 | H3YSZc8MAaQ | 75,339 | 15 | 20,458 | 3.68 | 5 | 1.79 | dang_ghi | – | Không | Catching Ultra-Expensive Seafood 💥 Inside Japan’s Multi-Million Dollar Industry |
+| 2026-07-18 | 121 | B_4pVpYa0p0 | 4,669 | 15 | 20,787 | 0.22 | 5 | 11.71 | binh_thuong | – | Không | Cozy Day in the Countryside — Harvesting Sweet Fruits, Farm Cooking & Animal Care |
+| 2026-07-23 | 116 | DPNphdpxQ0k | 36,620 | 15 | 20,458 | 1.79 | 5 | 11.90 | binh_thuong | – | Không | A Peaceful Day in the Countryside 🌿 Garden Harvest, Cozy Cooking & Slow Living |
+| 2026-07-29 | 110 | KJjpmR84ynA | 15,470 | 15 | 20,787 | 0.74 | 5 | 11.71 | binh_thuong | – | Không | How They Easily Catch Thousands of Tons of Shrimp? |
+| 2026-08-04 | 104 | 70d9zCUFoxM | 270,235 | 15 | 20,787 | 13.00 | 5 | 9.90 | can_kiem_ky | – | Không | America's Endless War on Wild Animals — And the Billion-Dollar Industry Behind the Guns |
+| 2026-08-06 | 102 | Ww3InRNmpnQ | 243,356 | 15 | 35,904 | 6.78 | 5 | 2.87 | manh | – | Không | 51+ Record-Breaking Mega Harvests 💥 You Won't Believe How Massive Amounts Are Harvested |
+| 2026-08-10 | 98 | c9Ohxy706AE | 793,381 | 15 | 35,904 | 22.10 | 5 | 2.63 | can_kiem_ky | – | Không | Inside Alaska’s $5.3 Billion Seafood Industry – King Crab and a Hidden Fish Goldmine |
+| 2026-08-13 | 95 | TiDXOkHaEB8 | 205,758 | 15 | 35,904 | 5.73 | 5 | 2.63 | manh | – | Không | Inside Norway’s $18 Billion Seafood Empire – How It Became a Global Powerhouse |
+| 2026-08-30 | 78 | McxP4R7YFjs | 102,886 | 15 | 35,904 | 2.87 | 5 | 2.63 | hoi_cao | – | Không | 71 Mega Harvesting Giants Feeding the World in 2026 💥 Unbelievable Modern Machinery |
+| 2026-09-04 | 73 | 1rj-isc1Ue8 | 6,859 | 15 | 36,620 | 0.19 | 5 | 4.32 | binh_thuong | – | Không | 99+ Agricultural Giants Feeding the World in 2026 - Mega Machines Every Farmer Wants |
+| 2026-09-10 | 67 | Qo9iKqlMRXs | 94,508 | 15 | 36,620 | 2.58 | 5 | 4.37 | hoi_cao | – | Không | How Thousands of Tons of Crops Are Harvested Daily as the 2026 Harvest Season Begins |
+| 2026-09-17 | 60 | 16TB-4DFikA | 11,913 | 15 | 43,080 | 0.28 | 5 | 3.72 | binh_thuong | – | Không | How Tons of Crops Become Food in America ► 31+ Satisfying Post-Harvest Processing Steps |
+| 2026-09-29 | 48 | qACl7TmzvDo | 158,029 | 15 | 43,080 | 3.67 | 5 | 3.72 | dang_ghi | – | Không | 30+ Massive 2026 Mega Harvests - Millions of Tons of Farm Crops Now Headed to Your Table |
+| 2026-10-02 | 45 | 73VwKsSS0AQ | 771,708 | 15 | 75,339 | 10.24 | 5 | 0.27 | can_kiem_ky | – | Không | 50+ Most Epic 2026 Fishing Moments - Extreme Sport Fishing, Giant Trapping & More |
+| 2026-10-06 | 41 | 7GmiLbaSf2M | 423,120 | 15 | 94,508 | 4.48 | 5 | 0.08 | dang_ghi | – | Không | 70+ Most Impressive Fishing Moments Ever Captured on Camera 💥 Record-Breaking Offshore Fishing |
+| 2026-10-10 | 37 | qDbdiG6P5Qk | 160,206 | 15 | 102,886 | 1.56 | 5 | 0.07 | binh_thuong | – | Không | 50+ Most Amazing 2026 Mega Catches - How Giant Trawlers Pull Thousands of Tons of Fish |
+| 2026-10-15 | 32 | bNgF2A0UmH8 | 5,847 | 15 | 158,029 | 0.04 | 5 | 0.13 | binh_thuong | – | Không | Inside the US Beef Monopoly - How 4 Mega Corporations Crushed Ranches |
+| 2026-10-17 | 30 | PItJs_IAWJw | 20,621 | 15 | 158,029 | 0.13 | 5 | 0.24 | binh_thuong | – | Không | 50+ Most Epic Winter Harvests: The Rush of 2026 Farming & Deep-Sea Fishing Seasons |
+| 2026-10-23 | 24 | VnpsgKBAsN4 | 7,554 | 15 | 158,029 | 0.05 | 5 | 0.36 | chua_chin | – | Không | How Japan Produces Insanely Expensive Food - The World's Most Pricey Luxury Foods |
+| 2026-10-24 | 23 | TvI7wwfICs4 | 5,571 | 15 | 158,029 | 0.04 | 5 | 0.36 | chua_chin | – | Không | Slow Living on the Homestead - Peaceful Morning Harvest, Cooking & Farm Animals |
+| 2026-10-27 | 20 | U5NDasiARqk | 57,507 | 15 | 102,886 | 0.56 | 5 | 0.37 | chua_chin | – | Không | 50+ Greatest Winter Harvests - The Massive Late 2026 Crop Rush Happening Now |
+| 2026-10-30 | 17 | RNXwOJmjNK4 | 38,295 | 15 | 94,508 | 0.41 | 5 | 0.30 | chua_chin | – | Không | Hunting Millions of King Crab in the World's Worst Water - Deadliest Catch |
+| 2026-11-03 | 13 | gY0wYs8ON8o | 113,054 | 15 | 57,507 | 1.97 | 4 | – | chua_chin | – | Không | 50+ Insane 2026 Fishing Moments You Haven't Seen - Sport Fishing & Mega Catches |
+| 2026-11-06 | 10 | HkO5L4Gso_I | 980,201 | 15 | 57,507 | 17.04 | 3 | – | chua_chin | – | Không | Alaska’s 2026 Mega Catch 💥 The Secret Behind Hauling 2.3M Tons At Sea |
+| 2026-11-08 | 8 | 87Etz6CAIfA | 27,969 | 15 | 57,507 | 0.49 | 2 | – | chua_chin | – | Không | Epic Catches 2026 💥99+ Most Incredible Fishing Moments Of The Year |
+| 2026-11-09 | 7 | dGi8T_Ql75o | 2,441 | 15 | 57,507 | 0.04 | 1 | – | chua_chin | – | Không | How US Hunters Harvested 119.3M Wild Birds In 2026 💥 An Epic Outdoor Season |
+| 2026-11-11 | 5 | cfRqrqjRgj0 | 14,986 | 15 | 38,295 | 0.39 | 0 | – | chua_chin | – | Không | Defying The Arid Dirt - How Tough Farmers Harvest Thousands Of Tons Of Crops |

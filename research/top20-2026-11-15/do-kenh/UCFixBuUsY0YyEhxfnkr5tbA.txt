@@ -1,0 +1,81 @@
+# Đo kênh: UCFixBuUsY0YyEhxfnkr5tbA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 39 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 39 |
+| n_trong_danh_sach | 39 |
+| n_dai | 39 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 392 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-05-08 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 105 |
+| cao_nhat | 1,420 |
+| thap_nhat | 5 |
+| phan_tan | 13.52 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.27 |
+| ty_le_like_trung_vi | 0.05 |
+| da_trung_vi | 0.10 |
+| ngay_video_dau | 2026-05-08 |
+| tuoi_tu_video_dau | 192 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 2.04 |
+| sub_moi_video | 10.05 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-05-08 | 192 | FMVN3zaPOSQ | 64 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Animal Fat Secrets Grandma Used That the Seed Oil Industry Got Banned |
+| 2026-05-09 | 191 | cBThqlVqF2o | 1,568 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Depression-Era Poor Man Meals That Fed Families for Pennies a Day |
+| 2026-05-11 | 189 | PitCST9iPfA | 2,535 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Food Preservation Tricks That Outlast Your Refrigerator |
+| 2026-05-13 | 187 | TGtqMpdp0ik | 10 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Grandma Remedies Big Pharma Spent Millions Making You Forget |
+| 2026-05-15 | 185 | 4Xt_v-AkDIk | 297 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Great Depression Hacks the Government Hopes Americans Never Remember |
+| 2026-05-16 | 184 | mbhpiaRuwWg | 652 | 5 | 297 | 2.20 | 5 | 0.81 | hoi_cao | – | Không | 20 Off-Grid Water & Power Tricks From the 1940s That Your Electric Company Prays You Never Learn |
+| 2026-05-18 | 182 | ZjdfukolJt8 | 241 | 6 | 474 | 0.51 | 5 | 0.88 | binh_thuong | – | Không | 25 Old Farming Tricks That Fed Families Without Supermarkets |
+| 2026-05-20 | 180 | wdKeD1d5ics | 847 | 7 | 297 | 2.85 | 5 | 1.41 | hoi_cao | – | Không | 20 Illegal Survival Skills Every American Kid Knew Before Age 12 |
+| 2026-05-22 | 178 | ngRqlvEsTIA | 38 | 8 | 474 | 0.08 | 5 | 0.88 | binh_thuong | – | Không | 25 Homestead Skills Our Grandparents Used That The Government Banned in 47 States |
+| 2026-05-23 | 177 | fklUB2ZhEvE | 158 | 9 | 297 | 0.53 | 5 | 1.71 | binh_thuong | – | Không | 20 Parenting Tricks Our Grandparents Used That Are Now Considered Illegal |
+| 2026-05-25 | 175 | W8d9vC6NMqY | 419 | 10 | 269 | 1.56 | 5 | 2.31 | binh_thuong | – | Không | 18 Off-Grid Heating Tricks From the 1950s That Your Gas Company Prays You Never Learn |
+| 2026-05-27 | 173 | XABgM_6PKAc | 419 | 11 | 297 | 1.41 | 5 | 2.09 | binh_thuong | – | Không | 20 Depression Era Food Preservation Skills the FDA Quietly Made Felonies |
+| 2026-05-29 | 171 | wEMZKYGPzcE | 1,345 | 12 | 358 | 3.76 | 5 | 1.74 | dang_ghi | – | Không | 25 Forgotten Poor Man Meals Our Grandparents Ate To Survive |
+| 2026-05-30 | 170 | -Cb9YKAlfvE | 1,287 | 13 | 419 | 3.07 | 5 | 1.41 | dang_ghi | – | Không | 25 Great Depression Money Tricks the Banks Hope You Never Remember |
+| 2026-06-03 | 166 | j02LMs_4MJ8 | 507 | 14 | 419 | 1.21 | 5 | 1.48 | binh_thuong | – | Không | 25 LEFT BEHIND Poor Man One-Pot Meals for Seniors Who Have NO ONE |
+| 2026-06-05 | 164 | _YaBbXEqjwM | 622 | 15 | 419 | 1.48 | 5 | 1.41 | binh_thuong | – | Không | 25 Forgotten Meals Cowboys ACTUALLY Ate in the Wild West |
+| 2026-06-07 | 162 | QEdFhWGLdGA | 591 | 15 | 507 | 1.17 | 5 | 1.17 | binh_thuong | – | Không | 25 Forgotten Fighting Tools American Cowboys Carried That Could Save Your Life |
+| 2026-06-09 | 160 | 4wAqMy_6FH8 | 847 | 15 | 507 | 1.67 | 5 | 0.58 | binh_thuong | – | Không | 25 Forgotten Poor Man's Meals Black Families Ate to Survive! |
+| 2026-06-10 | 159 | 7ZAigq0pg8Y | 124 | 15 | 507 | 0.24 | 5 | 0.58 | binh_thuong | – | Không | 25 FORGOTTEN Soul Food Recipes Doctors Now Admit Were Actually Healthy |
+| 2026-06-12 | 157 | ThlylPP93TY | 886 | 15 | 507 | 1.75 | 5 | 0.58 | binh_thuong | – | Không | 25 Depression-Era Poor Man Ground Beef Meals That Fed Families for Pennies a Day |
+| 2026-06-13 | 156 | -zxS1PHtN3Q | 55 | 15 | 591 | 0.09 | 5 | 0.50 | binh_thuong | – | Không | How a Black Man Outsmarted Jack Daniel's with Charcoal |
+| 2026-06-16 | 153 | -cOsUvC_npM | 593 | 15 | 507 | 1.17 | 5 | 0.28 | binh_thuong | – | Không | 25 LONG LOST American Sandwiches That Built This Country Before Fast Food |
+| 2026-06-17 | 152 | iSUHHsJRQ5k | 293 | 15 | 591 | 0.50 | 5 | 0.24 | binh_thuong | – | Không | 25 Route 66 Roadside Meals Families Stopped for Across America |
+| 2026-06-19 | 150 | _NM22GAG6yk | 92 | 15 | 507 | 0.18 | 5 | 0.33 | binh_thuong | – | Không | 25 FORGOTTEN Farm Foods Every Single American Knew 100 Years Ago |
+| 2026-06-20 | 149 | sRkSNUNOb2g | 651 | 15 | 507 | 1.28 | 5 | 0.33 | binh_thuong | – | Không | 25 FORGOTTEN Fish Fry Recipes Black Families Served at Every Gathering |
+| 2026-06-22 | 147 | Eg6J8mOdSHs | 142 | 15 | 591 | 0.24 | 5 | 0.28 | binh_thuong | – | Không | 25 FORBIDDEN Refrigerator Tricks Depression-Era Grandmothers Used to Make Food Last 3 Weeks |
+| 2026-06-24 | 145 | BhqDIg5Zfpc | 118 | 15 | 591 | 0.20 | 5 | 0.28 | binh_thuong | – | Không | 20 Meat Preservation Tricks Our Grandparents Used to Survive |
+| 2026-09-12 | 65 | xx8AkTRq3AE | 1,420 | 15 | 591 | 2.40 | 5 | 0.07 | hoi_cao | – | Không | 25 POOR MAN'S Food Storage Tricks That Make $3,000 Freeze Dryers Look Like a Scam |
+| 2026-09-14 | 63 | 7-IqBXG_jM8 | 166 | 15 | 591 | 0.28 | 5 | 0.05 | binh_thuong | – | Không | 25 POOR MAN'S Homestead Tricks That Make $10,000 Farm Equipment Look Like a Scam |
+| 2026-09-16 | 61 | uTwollN540E | 199 | 15 | 507 | 0.39 | 5 | 0.06 | binh_thuong | – | Không | 25 POOR MAN'S Off-Grid Tricks That Make $20,000 Solar Setups Look Like a Scam |
+| 2026-09-18 | 59 | F9VkIC_-UmA | 41 | 15 | 293 | 0.14 | 5 | 0.08 | binh_thuong | – | Không | 25 POOR MAN'S Home Repair Tricks That Make $200-an-Hour Contractors Look Like a Scam |
+| 2026-09-19 | 58 | u649J4_taX8 | 22 | 15 | 199 | 0.11 | 5 | 0.11 | binh_thuong | – | Không | 25 POOR MAN'S Hunting Tricks That Make $5,000 Hunting Gear Look Like a Scam |
+| 2026-09-21 | 56 | jlnY0fTYTHA | 32 | 15 | 166 | 0.19 | 5 | 0.04 | binh_thuong | – | Không | 25 POOR MAN'S Campervan Tricks That Make $80,000 Van Builds Look Like a Scam |
+| 2026-09-23 | 54 | D35q1m_cp_I | 22 | 15 | 142 | 0.15 | 5 | 0.04 | binh_thuong | – | Không | 25 POOR MAN'S Camp Coffee Tricks That Make $400 Camping Brewers Look Like a Scam |
+| 2026-09-25 | 52 | bURxYwQsj3Y | 461 | 15 | 142 | 3.25 | 4 | – | dang_ghi | – | Không | 25 POOR MAN'S Camp Food Tricks That Make $500 Freeze-Dried Meals Look Like a Scam |
+| 2026-09-26 | 51 | bqMJyBQTqtE | 5 | 15 | 142 | 0.04 | 3 | – | binh_thuong | – | Không | 25 POOR MAN'S Wild Food Tricks That Make $200 Grocery Runs Look Like a Scam |
+| 2026-09-29 | 48 | WrXFV979pPY | 6 | 15 | 142 | 0.04 | 2 | – | binh_thuong | – | Không | 25 MORE POOR MAN'S Food Storage Tricks That Make $3,000 Freeze Dryers Look Like a Scam |
+| 2026-09-30 | 47 | NLwGY0yvat8 | 5 | 15 | 118 | 0.04 | 1 | – | binh_thuong | – | Không | 30 Walmart Items Everyone Will Wish They Bought BEFORE the Next Blackout |
+| 2026-10-02 | 45 | Seza6Ol4C44 | 18 | 15 | 92 | 0.20 | 0 | – | binh_thuong | – | Không | 30 Aldi Items Everyone Will Wish They Bought BEFORE the Power Goes Out |

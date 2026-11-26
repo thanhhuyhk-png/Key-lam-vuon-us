@@ -1,0 +1,49 @@
+# Đo kênh: @thehumanscoop.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 7 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 7 |
+| n_trong_danh_sach | 7 |
+| n_dai | 7 |
+| n_short | 0 |
+| n_dai_dung_tinh | 4 |
+| nguong_tuoi_video | 14 |
+| subs | 5,190 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-10-26 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | – |
+| cao_nhat | – |
+| thap_nhat | – |
+| phan_tan | – |
+| so_video_tren_2x | – |
+| ty_le_tren_2x | – |
+| trung_vi_chia_sub | – |
+| ty_le_like_trung_vi | – |
+| da_trung_vi | – |
+| ngay_video_dau | 2026-10-26 |
+| tuoi_tu_video_dau | 21 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 247 |
+| sub_moi_video | 741 |
+| video_30_ngay | 7 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** TRUNG_VI_DUNG_VIDEO_TU_14_NGAY, KHONG_DU_VIDEO_DAI_DU_30_NGAY, IT_VIDEO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-26 | 21 | bp_JI4R0IWQ | 194 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What If You Woke Up in Cambodia on April 17, 1975? |
+| 2026-10-28 | 19 | Ydi-H5Xy_K0 | 138 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What If GPS Stopped Working for a Day? |
+| 2026-10-30 | 17 | B7xZMqHHrh0 | 41,829 | 2 | – | – | 4 | – | – | it_hon_5_video_truoc | Không | What Happens When America Loses Power for Seven Days? |
+| 2026-11-01 | 15 | Ew9XkT0AXY0 | 195,375 | 3 | – | – | 3 | – | – | it_hon_5_video_truoc | Không | Why Governments Want You to Stock Up for 7 Days? |
+| 2026-11-03 | 13 | j6y1mbKSG7c | 26,242 | 4 | – | – | 2 | – | – | it_hon_5_video_truoc | Không | How Would Europe Survive a Massive 7-Day Crisis? |
+| 2026-11-05 | 11 | wQIDzE49T6Y | 275 | 5 | 26,242 | 0.01 | 1 | – | chua_chin | – | Không | How Hackers Can Spoil Food in a Whole Supermarket Chain? |
+| 2026-11-07 | 9 | KTr57YVOkjU | 497 | 6 | 13,258 | 0.04 | 0 | – | chua_chin | – | Không | How Much Power Do Democrats Really Have in Congress? |

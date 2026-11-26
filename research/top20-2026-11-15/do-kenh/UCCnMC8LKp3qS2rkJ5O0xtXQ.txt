@@ -1,0 +1,92 @@
+# Đo kênh: UCCnMC8LKp3qS2rkJ5O0xtXQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 50 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 50 |
+| n_trong_danh_sach | 50 |
+| n_dai | 50 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 14 |
+| subs | 3,220 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-09-25 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,641 |
+| cao_nhat | 331,097 |
+| thap_nhat | 376 |
+| phan_tan | 202 |
+| so_video_tren_2x | 1 |
+| ty_le_tren_2x | 0.05 |
+| trung_vi_chia_sub | 0.51 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.23 |
+| ngay_video_dau | 2026-09-25 |
+| tuoi_tu_video_dau | 52 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 61.92 |
+| sub_moi_video | 64.40 |
+| video_30_ngay | 37 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** TRUNG_VI_DUNG_VIDEO_TU_14_NGAY, PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-25 | 52 | i4Mw5exiG78 | 932 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Dollar Tree Items You'll Wish You Had Before a 3-Day Blackout |
+| 2026-10-05 | 42 | JzewgaGkbI8 | 12,801 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 12 Survival Foods That Still Feed You When the Cooking Fuel Runs Out |
+| 2026-10-08 | 39 | kwMXnWEgXxo | 1,661 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 8 Ways to Cook Food During a Blackout WITHOUT Burning Through Your Fuel |
+| 2026-10-08 | 39 | NNi4MLGcHNY | 2,085 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 18 Dollar Tree Items That Are WORTH GOLD When Your Furnace Dies in a Blackout |
+| 2026-10-09 | 38 | 6M-jDS4e83s | 432 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Simple Power Outage Setup Every Home Should Have Before the Next Blackout |
+| 2026-10-10 | 37 | 7UsrUZf9Q84 | 32,080 | 5 | 1,661 | 19.31 | 5 | 1.52 | can_kiem_ky | – | Không | 25 Cheap Blackout Meals That Need No Stove, No Fridge & No Boiling Water |
+| 2026-10-12 | 35 | Ak44WTsm5es | 660 | 6 | 1,873 | 0.35 | 5 | 2.28 | binh_thuong | – | Không | 25 Cheap Supplies for Keeping Pets Fed, Warm and Contained During a Blackout |
+| 2026-10-12 | 35 | PL1ImJGfQpI | 2,527 | 7 | 1,661 | 1.52 | 5 | 4.23 | binh_thuong | – | Không | 15 POOR MAN’S No-Fridge Meals That Make Pricey Survival Food Look Ridiculous. |
+| 2026-10-14 | 33 | brOg84qFNko | 7,022 | 8 | 1,873 | 3.75 | 5 | 2.28 | dang_ghi | – | Không | 30 Walmart Items That Become Priceless When the Power Goes Out |
+| 2026-10-15 | 32 | IyryfECAoS0 | 4,278 | 9 | 2,085 | 2.05 | 5 | 1.58 | hoi_cao | – | Không | 15 Walmart Items Under $2 Worth Buying Before the First Winter Blackout |
+| 2026-10-16 | 31 | ZO1CgsO1IaM | 1,162 | 10 | 2,306 | 0.50 | 5 | 1.43 | binh_thuong | – | Không | SKIP the $3,000 POWER STATION? This $119 Walmart Battery Gets You Through a Blackout |
+| 2026-10-17 | 30 | 1oVK2eJW4XU | 7,718 | 11 | 2,085 | 3.70 | 5 | 0.85 | dang_ghi | – | Không | 25 Dollar Tree Items That Keep You Warm When the Furnace Dies This Winter |
+| 2026-10-17 | 30 | H993Ff0RlSY | 8,214 | 12 | 2,306 | 3.56 | 5 | 0.77 | dang_ghi | – | Không | 12 No-Stove Dinners for Seniors Living Alone When the Power Goes Out (No Fridge, No Leftovers) |
+| 2026-10-18 | 29 | 7l7mgMYiF5k | 3,297 | 13 | 2,527 | 1.30 | 5 | 0.70 | chua_chin | – | Không | 10 Things You MUST Do When the Power Goes Out — Before a Blackout Becomes a Disaster |
+| 2026-10-20 | 27 | 1IpVnP33v_Y | 1,770 | 14 | 2,912 | 0.61 | 5 | 0.58 | chua_chin | – | Không | 20 Survival Tools You Should Stockpile Before They’re Gone |
+| 2026-10-20 | 27 | rAOd5Zmbw8E | 1,692 | 15 | 2,527 | 0.67 | 5 | 0.41 | chua_chin | – | Không | 20 Heating Sources That Still Work When the Power Grid Doesn’t (Grandma’s Favorite Ranks DEAD LAST) |
+| 2026-10-21 | 26 | feAUrVDhuBo | 782 | 15 | 2,527 | 0.31 | 5 | 0.48 | chua_chin | – | Không | 20 Cheap Walmart Items That Become WORTH GOLD When Your Furnace Dies. |
+| 2026-10-22 | 25 | S3BDfWwY3xw | 2,714 | 15 | 2,085 | 1.30 | 5 | 0.58 | chua_chin | – | Không | 25 "Poor Man" Blackout Setups That Keep Your Home Livable for 7 Days — No Generator |
+| 2026-10-23 | 24 | hVZCbEBpsTg | 2,861 | 15 | 2,527 | 1.13 | 5 | 0.41 | chua_chin | – | Không | Don't Waste $1,000 on Winter Blackout Gear — Skip These 15 (Buy This Instead) |
+| 2026-10-25 | 22 | 58Wrp_2g3cY | 1,032 | 15 | 2,714 | 0.38 | 5 | 0.45 | chua_chin | – | Không | Living Alone Over 65? The 17 Walmart Foods That Feed You for 14 Days With No Power ($56) |
+| 2026-10-25 | 22 | QZeQmEubovc | 562 | 15 | 2,714 | 0.21 | 5 | 0.60 | chua_chin | – | Không | Power Out? 20 Foods You DON'T Have to Throw Away (Stop Wasting Hundreds After Every Storm) |
+| 2026-10-26 | 21 | Ly0z-Fqf7C8 | 1,212 | 15 | 2,527 | 0.48 | 5 | 0.74 | chua_chin | – | Không | 20 Walmart Items People Living Alone Wish They'd Bought BEFORE a Winter Blackout |
+| 2026-10-26 | 21 | 8eeiAP9zTQ0 | 1,641 | 15 | 2,527 | 0.65 | 5 | 0.74 | chua_chin | – | Không | 12 Foods Seniors Living Alone Keep for a Power Outage (And 6 They Never Buy) |
+| 2026-10-27 | 20 | l2mNnewUkDE | 684 | 15 | 1,770 | 0.39 | 5 | 1.05 | chua_chin | – | Không | 25 "Poor Man" Ways to Keep Your Home Livable When the Power AND Water Go Out (Most Get #13 Wrong) |
+| 2026-10-28 | 19 | ulyJn48Ncwg | 2,229 | 15 | 1,692 | 1.32 | 5 | 0.95 | chua_chin | – | Không | 25 Cheap "Just Add Boiling Water" Meals That Become Worth Gold in a Blackout (Ramen Is NOT #1) |
+| 2026-10-28 | 19 | EQ539SdzSYE | 331,097 | 15 | 1,692 | 196 | 5 | 0.32 | chua_chin | – | Không | 25 Cheap Foods That Become WORTH GOLD When the Power Goes Out — No Cooking, No Dishes |
+| 2026-10-28 | 19 | 7W8DzxZguhk | 1,865 | 15 | 1,770 | 1.05 | 5 | 0.31 | chua_chin | – | Không | 20 Dollar Tree Items You'll Wish You Bought Before the First Freezing Night (#1 Isn't a Blanket) |
+| 2026-10-29 | 18 | BHuFKZ5pTeQ | 1,613 | 15 | 1,770 | 0.91 | 5 | 0.31 | chua_chin | – | Không | 30 Costco Items You'll Wish You Had by Day 3 of a Blackout |
+| 2026-10-30 | 17 | w9vi3JuqRCg | 376 | 15 | 1,692 | 0.22 | 5 | 0.97 | chua_chin | – | Không | 10 Days Without Power, Living Alone: What to Eat Each Day (Day 1 to Day 10) |
+| 2026-10-30 | 17 | DGRP6tAVKHY | 546 | 15 | 1,641 | 0.33 | 5 | 1.13 | chua_chin | – | Không | 25 Cheap Blackout Foods That Last for Years — No Stove, No Fridge (And 3 "Forever Foods" That Fail) |
+| 2026-10-30 | 17 | o6RR-qL14I8 | 445 | 15 | 1,613 | 0.28 | 5 | 1.56 | chua_chin | – | Không | Stock Up in NOVEMBER: 15 Holiday Groceries That Still Feed You With No Power (Skip These 3) |
+| 2026-10-31 | 16 | 3lcak18nQH8 | 2,579 | 15 | 1,212 | 2.13 | 5 | 1.53 | chua_chin | – | Không | 30 Cheap Walmart Items You'll Wish You Had by Day 3 of a Blackout (#1 Isn't Water) |
+| 2026-11-01 | 15 | 16P76e98DVg | 2,522 | 15 | 1,613 | 1.56 | 5 | 1.02 | chua_chin | – | Không | 25 Harbor Freight Items People Living Alone Will Wish They Bought BEFORE a Winter Blackout |
+| 2026-11-01 | 15 | SWf4i53TFxI | 1,641 | 15 | 1,613 | 1.02 | 5 | 0.49 | chua_chin | – | Không | 25 Cheap Walmart Items for Living Alone When the Winter Power Goes Out (#1 Isn't a Heater) |
+| 2026-11-03 | 13 | WRYNn9kYrk4 | 1,850 | 15 | 1,613 | 1.15 | 5 | 0.48 | chua_chin | – | Không | 30 Cheap Walmart Foods That Feed a Family of 4 for 7 Days — No Stove, No Fridge |
+| 2026-11-03 | 13 | oJZjeIBMYuU | 2,915 | 15 | 1,641 | 1.78 | 5 | 0.41 | chua_chin | – | Không | 25 Cheap Items That Can Keep Any Room Warm Without Electricity |
+| 2026-11-04 | 12 | rRCJALTivoU | 792 | 15 | 1,641 | 0.48 | 5 | 0.41 | chua_chin | – | Không | 25 Cheap Tractor Supply Items That Become WORTH GOLD When You Live Alone and the Power Goes Out |
+| 2026-11-05 | 11 | P8npy0TwSbU | 440 | 15 | 1,641 | 0.27 | 5 | 0.41 | chua_chin | – | Không | 20 Cheap Canned Foods That Become WORTH GOLD in a Blackout — Easy-Open, No Stove (Spam Isn't #1) |
+| 2026-11-06 | 10 | IBybyLvRttc | 773 | 15 | 1,641 | 0.47 | 5 | 0.41 | chua_chin | – | Không | Pentagon Plans for 90 Days Without Power — 30 Cheap No-Cook Foods Every Senior Should Stockpile |
+| 2026-11-07 | 9 | 4IMJ3XlrQ2w | 477 | 15 | 1,641 | 0.29 | 5 | 0.41 | chua_chin | – | Không | 25 Harbor Freight Items People Living Alone Will Wish They Had by Day 3 of a Winter Blackout |
+| 2026-11-08 | 8 | K9US6LfVkFk | 678 | 15 | 1,613 | 0.42 | 5 | 1.76 | chua_chin | – | Không | Bread in a Can, Coffee With No Hot Water: 25 MORE Cheap Foods WORTH GOLD When the Power Goes Out |
+| 2026-11-09 | 7 | -XKAE44z6Aw | 12,421 | 15 | 792 | 15.68 | 5 | 1.03 | chua_chin | – | Không | 25 Cheap ALDI Foods That Become WORTH GOLD When the Power Goes Out — No Cooking, No Dishes |
+| 2026-11-10 | 6 | Wy9CIAyoKnI | 264 | 15 | 792 | 0.33 | 5 | 1.03 | chua_chin | – | Không | Super El Niño Winter Is Coming South: 25 Cheap Foods That Become WORTH GOLD When Storms Cut Power |
+| 2026-11-11 | 5 | dcIuqE8LU8I | 9,714 | 15 | 773 | 12.57 | 5 | 0.49 | chua_chin | – | Không | 25 Dollar Tree Foods That Feed You for a Week With No Power — No Stove, No Fridge (Most $1.25) |
+| 2026-11-12 | 4 | 7Xwla-O1hXQ | 309 | 15 | 792 | 0.39 | 5 | 0.48 | chua_chin | – | Không | 12 Ways to Insulate a Window When the Power Goes Out — Only 3 Are Worth It |
+| 2026-11-12 | 4 | T2j_JEGAtxg | 2,843 | 15 | 792 | 3.59 | 4 | – | chua_chin | – | Không | 25 Cheap 3-Ingredient Blackout Meals: No Stove, No Fridge, No Boiling Water (#1 Starts Pre-Storm) |
+| 2026-11-13 | 3 | IPOc73MyiyQ | 819 | 15 | 1,641 | 0.50 | 3 | – | chua_chin | – | Không | The $40 Blackout Shelter Seniors Living Alone Can Build in One Room (Better Than $300 Ones?) |
+| 2026-11-13 | 3 | trwV9ibTgBg | 379 | 15 | 819 | 0.46 | 2 | – | chua_chin | – | Không | Social Security Won't Stretch? 25 Foods Under $2 to Eat When the Power Goes Out (No Cooking) |
+| 2026-11-14 | 2 | wqH6ACs-SAI | 215 | 15 | 792 | 0.27 | 1 | – | chua_chin | – | Không | 20 Dollar Tree Items People Living Alone Will Wish They Had When the Heat Goes Out (#1 Brings Help) |
+| 2026-11-14 | 2 | YHZm-gQcimk | 308 | 15 | 773 | 0.40 | 0 | – | chua_chin | – | Không | 6 Canned Meats to Stockpile Before a Winter Blackout — Skip the 30-Year Survival Buckets (No Stove) |

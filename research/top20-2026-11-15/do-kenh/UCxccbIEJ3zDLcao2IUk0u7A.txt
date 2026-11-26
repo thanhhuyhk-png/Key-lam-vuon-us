@@ -1,0 +1,150 @@
+# Đo kênh: UCxccbIEJ3zDLcao2IUk0u7A.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 133 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 25,200 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-10-19 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 7,722 |
+| cao_nhat | 19,729 |
+| thap_nhat | 1,192 |
+| phan_tan | 2.55 |
+| so_video_tren_2x | 1 |
+| ty_le_tren_2x | 0.05 |
+| trung_vi_chia_sub | 0.31 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 1.23 |
+| ngay_video_dau | 2025-05-17 |
+| tuoi_tu_video_dau | 548 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 45.99 |
+| sub_moi_video | 189 |
+| video_30_ngay | 8 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-05-17 | 548 | RQltDt1hxwk | 1,311,683 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Poor Man Meals Our Grandparents Ate To Survive |
+| 2025-05-20 | 545 | OaoYyOIxlpc | 3,672 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | If You Remember This, You Grew Up Broke in the 1970s! |
+| 2025-05-23 | 542 | 6FzhY57N6jE | 3,361 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Classic Meals You Could Only Find In Vintage Cook books! |
+| 2025-05-26 | 539 | cmM4UKF4BAA | 3,723 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Classic Lunchbox Sandwiches You Ate In Your ChildHood |
+| 2025-06-01 | 533 | 7laEWWx0RwM | 544,904 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Dinners Every Family In 1950s Ate Weekly! |
+| 2025-06-10 | 524 | ZvLNzRCvsWk | 19,752 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Dinners Every Family In The 1970s Ate Weekly! |
+| 2025-06-17 | 517 | MRBTAcMBnqg | 9,606 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Working Man's Sandwiches No One Makes Anymore! |
+| 2025-06-20 | 514 | JUwkmYeYnlQ | 12,865 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Dinners From The 1970s You Need To Eat In Your Lifetime! |
+| 2025-10-19 | 393 | phUhXz-a5F4 | 1,711 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Desserts From The 1970s Grandma Cooked! |
+| 2025-10-21 | 391 | H4V9rXD63cY | 1,392 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Downhome Meals That Only Southern Grandmas Made! |
+| 2025-10-24 | 388 | rgo2J7EDiMg | 2,061 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Easy American Dinner Recipes Our Grandparents Ate To Survive! |
+| 2025-10-30 | 382 | mz_E22szhIs | 5,307 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Ground Beef Dinners That Have Faded Into History! |
+| 2025-11-02 | 379 | OJlRes5z5ps | 1,487 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Christmas Dinners Grandma Always Had on the Christmas Table! |
+| 2025-11-05 | 376 | sItLhe4sPzo | 1,013 | 5 | 1,711 | 0.59 | 5 | 1.32 | binh_thuong | – | Không | 25 Classic Budget Meals That Kept Big Families Alive On A Tiny Budget! |
+| 2025-11-12 | 369 | fu1xfBwynpo | 1,697 | 6 | 1,599 | 1.06 | 5 | 1.41 | binh_thuong | – | Không | 25 Christmas Traditions from the 1960s and 70s That Have Vanished! |
+| 2025-11-16 | 365 | ue1CAmHk2mA | 1,820 | 7 | 1,697 | 1.07 | 5 | 1.33 | binh_thuong | – | Không | 30 Minutes Of  Ground Beef Recipes from the 1970s (Vintage Eva) |
+| 2025-11-17 | 364 | YsxrCaOlaC4 | 2,261 | 8 | 1,704 | 1.33 | 5 | 1.14 | binh_thuong | – | Không | 25 Classic Crockpot Dinners From The First Slow Cooker Era ( Vintage Eva) |
+| 2025-11-18 | 363 | cBK8yNesr8o | 10,954 | 9 | 1,711 | 6.40 | 5 | 0.86 | manh | – | Không | 30 Minutes of Christmas Candies 70s Moms Made for Christmas |
+| 2025-11-21 | 360 | rZcZy0MHIsM | 4,224 | 10 | 1,766 | 2.39 | 5 | 0.83 | hoi_cao | – | Không | 25 Christmas TV Specials From The 1960s and 70s That Have Vanished! |
+| 2025-11-24 | 357 | gXVsT_9WEug | 1,949 | 11 | 1,820 | 1.07 | 5 | 0.47 | binh_thuong | – | Không | 30 Minutes of Christmas Classic Recipes 70s Moms Made for Christmas |
+| 2025-11-27 | 354 | UjSLJf8G4YI | 1,471 | 12 | 1,884 | 0.78 | 5 | 0.33 | binh_thuong | – | Không | 25 Forgotten Budget Recipes No One Makes Anymore! |
+| 2026-02-12 | 277 | 8HOptGMoL7A | 854 | 13 | 1,820 | 0.47 | 5 | 0.34 | binh_thuong | – | Không | 25 Rare British Meals From the 1950s That Have Been Forgotten |
+| 2026-02-14 | 275 | otYB3tAngFI | 627 | 14 | 1,766 | 0.36 | 5 | 0.55 | binh_thuong | – | Không | 25 Manual 1930s Tools Your Grandmother Used Before Electricity Changed American Kitchens |
+| 2026-02-17 | 272 | s4_ZtH4nOC0 | 2,431 | 15 | 1,711 | 1.42 | 5 | 0.57 | binh_thuong | – | Không | 25 Forgotten School Cafeteria Lunches Every Kid In The 1970s Ate Weekly |
+| 2026-02-19 | 270 | rd6llQCkOLU | 540 | 15 | 1,820 | 0.30 | 5 | 0.53 | binh_thuong | – | Không | How 1950s Housewives Stretched One Pound of Ground Beef to Feed Ten People! |
+| 2026-02-22 | 267 | z0mv69oDydE | 546 | 15 | 1,820 | 0.30 | 5 | 0.53 | binh_thuong | – | Không | 25 Thriftiest Dinners That Stretched The Family Budget in 1970s |
+| 2026-03-01 | 260 | ijBOvMnSWh4 | 970 | 15 | 1,697 | 0.57 | 5 | 0.35 | binh_thuong | – | Không | 25 Iconic Meals From The 1950s That Changed American Nighttime Rituals Forever! |
+| 2026-03-04 | 257 | 7qXAi-emdQA | 2,086 | 15 | 1,487 | 1.40 | 5 | 0.40 | binh_thuong | – | Không | These 25 Lost Ground Beef Recipes Defined 1970s Suburban Dinner Parties |
+| 2026-03-09 | 252 | X6MdpqScq2s | 1,225 | 15 | 1,697 | 0.72 | 5 | 0.35 | binh_thuong | – | Không | 7 Canned Tuna Brands to AVOID At All Costs (5 That Are Safe) |
+| 2026-03-12 | 249 | e1RcylGP1uE | 91 | 15 | 1,697 | 0.05 | 5 | 1.10 | binh_thuong | – | Không | 7 Bottled Juice Brands to Never Buy (5 That Are Truly 100% Juice) |
+| 2026-03-15 | 246 | VnwG-xs4b40 | 223 | 15 | 1,471 | 0.15 | 5 | 4.13 | binh_thuong | – | Không | 7 Famous Butter Brands to Never Buy (And 5 That Are Actually REAL) |
+| 2026-03-22 | 239 | DxBL9NGn7ok | 601 | 15 | 1,225 | 0.49 | 5 | 4.95 | binh_thuong | – | Không | The Reason Your Grocery Store Bread Never Goes Moldy (It's Not What You Think) |
+| 2026-04-12 | 218 | tiVayIw2B_A | 1,872 | 15 | 970 | 1.93 | 5 | 12.64 | binh_thuong | – | Không | 25 Cheapest Dinners You Can Make Alone (Straight From 1950s Cookbooks) |
+| 2026-04-13 | 217 | PiUig29kGSY | 6,069 | 15 | 970 | 6.26 | 5 | 12.64 | manh | – | Không | 25 Lost Ground Beef Recipes From the 50s Every Senior Still Remembers! |
+| 2026-04-15 | 215 | wQGy25FUNYQ | 103,622 | 15 | 970 | 107 | 5 | 9.24 | can_kiem_ky | – | Không | 25 Lazy Sandwiches for When You're Too Tired to Cook (Straight from 1970s Cookbooks) |
+| 2026-04-17 | 213 | Qw9vroYHxwU | 12,264 | 15 | 970 | 12.64 | 5 | 9.24 | can_kiem_ky | – | Không | 25 Lazy Snacks That Taste Better Than You Remember (From 1970s Family Tables) |
+| 2026-04-19 | 211 | EvQ8aElcII4 | 5,595 | 15 | 970 | 5.77 | 5 | 9.24 | manh | – | Không | 25 Lazy & Cheapest 10-Minute Meals from the 1970s (For Seniors Living Alone) |
+| 2026-04-21 | 209 | GBVbTpFfBSk | 35,624 | 15 | 1,225 | 29.08 | 5 | 2.89 | can_kiem_ky | – | Không | 25 Lazy Sunday Suppers Recipes To Feed Your Whole Family (1970s Home Kitchens) |
+| 2026-04-23 | 207 | JHWY1olFUBY | 8,960 | 15 | 1,872 | 4.79 | 5 | 1.89 | dang_ghi | – | Không | 25 Forgotten Budget Dinners That Fed Poor Families on Pennies (Straight from 1970s Cookbooks) |
+| 2026-04-25 | 205 | M6Xuw-PGP6E | 1,681 | 15 | 1,872 | 0.90 | 5 | 3.81 | binh_thuong | – | Không | 25  Forgotten Foods That Kept Poor Americans Healthy in the 1970s (We Need These Back!) |
+| 2026-04-27 | 203 | XDT-zxW4n1g | 9,121 | 15 | 1,872 | 4.87 | 5 | 2.34 | dang_ghi | – | Không | 25 Lazy No-Chew Meals Grandpas Living Alone Swore By ( Straight from 1960s & 70s Cookbooks) |
+| 2026-04-29 | 201 | UetZi7Lgy_Q | 2,896 | 15 | 2,086 | 1.39 | 5 | 2.10 | binh_thuong | – | Không | 25 Cheap Meals Our Grandparents Ate to Survive |
+| 2026-05-01 | 199 | t0RjK1QHG6I | 3,535 | 15 | 2,896 | 1.22 | 5 | 1.52 | binh_thuong | – | Không | 25 Lost Lunch Counter Foods That Vanished From America (1970s Diner Culture) |
+| 2026-05-03 | 197 | clJ6NE83fvw | 60,813 | 15 | 3,535 | 17.20 | 5 | 0.78 | can_kiem_ky | – | Không | 25 Lazy One Pan Dinners for When You're Too Tired to Cook (From the '70s, '80s, and '90s) |
+| 2026-05-05 | 195 | F1Z-MHeSmPw | 7,126 | 15 | 5,595 | 1.27 | 5 | 0.43 | binh_thuong | – | Không | 25 Forgotten Church Recipes American Families Loved (From the 1960s & ’70s) |
+| 2026-05-07 | 193 | 2c1YsOUKIUk | 4,389 | 15 | 6,069 | 0.72 | 5 | 0.39 | binh_thuong | – | Không | 25 Lazy No-Cook Meals for Seniors Living Alone (1960s & 1970s Cookbooks) |
+| 2026-05-09 | 191 | RxzC8HwdYuE | 2,392 | 15 | 6,069 | 0.39 | 5 | 0.37 | binh_thuong | – | Không | 25 Forgotten TV Dinners That Defined Friday Night TV (1960s Family Living Rooms) |
+| 2026-05-11 | 189 | ikY5ijm7CVM | 2,269 | 15 | 6,069 | 0.37 | 5 | 0.45 | binh_thuong | – | Không | 25 Lazy School Lunch Meals Your Mom Made in 10 Minutes (1970s & 1980s Kids Remember) |
+| 2026-05-13 | 187 | fBX1CpORKTI | 2,748 | 15 | 6,069 | 0.45 | 5 | 0.48 | binh_thuong | – | Không | 25 Lazy Appetizers for When You're Too Tired to Cook (From the '60s, '70s, and '80s) |
+| 2026-05-15 | 185 | 7fiC-1hkYjQ | 1,220 | 15 | 5,595 | 0.22 | 5 | 0.74 | binh_thuong | – | Không | 25 Forgotten Desserts Made From Nothing During The Hard Times (1950s Cookbooks) |
+| 2026-05-19 | 181 | cZn8RiKtOPA | 5,046 | 15 | 4,389 | 1.15 | 5 | 0.94 | binh_thuong | – | Không | 25 Forgotten Comfort Suppers That Taste Better Than You Remember (From 1960s Cookbooks) |
+| 2026-05-22 | 178 | orDyqMuvqzQ | 2,045 | 15 | 4,389 | 0.47 | 5 | 1.83 | binh_thuong | – | Không | 25 Lazy Blue Collar Meals Nobody Makes Anymore (1960s Kitchens) |
+| 2026-05-28 | 172 | NIM7h72JHmA | 2,886 | 15 | 3,535 | 0.82 | 5 | 3.31 | binh_thuong | – | Không | 25 Forgotten Sunday Supper Recipes Grandma Knew That No Cookbook Could Teach (1960s, 1970s & 1980s) |
+| 2026-06-01 | 168 | Ln7aMB1UhWU | 4,140 | 15 | 2,896 | 1.43 | 5 | 4.04 | binh_thuong | – | Không | 25 Lazy One Pan Dinners Grandma Made When She Was Too Tired To Cook (From the '50s, '60s, and '70s) |
+| 2026-06-06 | 163 | 31chCpHlDCY | 20,963 | 15 | 2,896 | 7.24 | 5 | 2.77 | manh | – | Không | 25 Forgotten Summer Recipes That Fed Poor Families on Pennies (Straight from 1960s Cookbooks) |
+| 2026-06-09 | 160 | d6P9VKgJIp0 | 11,702 | 15 | 3,535 | 3.31 | 5 | 2.27 | dang_ghi | – | Không | 25 Recipes From Old Campbell's Cookbooks That Nobody Makes Anymore |
+| 2026-06-12 | 157 | tYHptO90_74 | 8,036 | 15 | 3,535 | 2.27 | 5 | 2.48 | hoi_cao | – | Không | 25 Forgotten 10-Minute Recipes 1970s Families Ate When They Were Too Tired to Cook |
+| 2026-06-15 | 154 | DZpdOtzpxPg | 47,655 | 15 | 4,140 | 11.51 | 5 | 2.12 | can_kiem_ky | – | Không | These 25 FORGOTTEN Crockpot Recipes from the 1970s No One Makes Anymore! |
+| 2026-06-20 | 149 | 99qqTu5xH3o | 4,268 | 15 | 4,389 | 0.97 | 5 | 2.00 | binh_thuong | – | Không | These 25 FORGOTEN Ground Beef Recipes Your Grandma Never Needed a Cookbook |
+| 2026-06-23 | 146 | u0RLttoBdG4 | 7,419 | 15 | 4,268 | 1.74 | 5 | 2.06 | binh_thuong | – | Không | 25 Forgotten $1 Comfort Foods That Taste Better Than You Remember (1970s Kitchen) |
+| 2026-06-27 | 142 | sIRu4hhxsQk | 8,783 | 15 | 4,268 | 2.06 | 5 | 1.33 | hoi_cao | – | Không | 25 Forgotten Budget Recipes Poor Families Made When Money Was Tight (1970s Cookbooks) |
+| 2026-06-30 | 139 | JGnX_hqhAUs | 11,805 | 15 | 4,268 | 2.77 | 5 | 1.20 | hoi_cao | – | Không | These 25 FORGOTTEN Slow Cooker Recipes From the 1950s No One Makes Anymore! |
+| 2026-07-03 | 136 | bNYpe-b3UHI | 9,815 | 15 | 5,046 | 1.95 | 5 | 0.90 | binh_thuong | – | Không | 25 Forgotten American Egg Dinners for Seniors Living Alone That Cost Pennies! |
+| 2026-07-06 | 133 | Oqzb12uFG6c | 5,696 | 15 | 7,419 | 0.77 | 5 | 0.58 | binh_thuong | – | Không | 25 Forgotten Lazy Recipes to Make When You Don't Feel Like Cooking! |
+| 2026-07-11 | 128 | tOG841UfbgI | 4,310 | 15 | 7,419 | 0.58 | 5 | 0.44 | binh_thuong | – | Không | 25 Forgotten $1 Sunday Desserts From the 1950s No One Bakes Anymore! |
+| 2026-07-14 | 125 | Ial_bGeJkxY | 610 | 15 | 7,419 | 0.08 | 5 | 0.44 | binh_thuong | – | Không | 25 FORGOTTEN Homemade Suppers That Poor Grandmothers Made in the 70s That We Miss! |
+| 2026-07-18 | 121 | 7UafS178_Lo | 5,114 | 15 | 7,419 | 0.69 | 5 | 0.36 | binh_thuong | – | Không | 25 Forgotten Potato Dinners For Seniors Living Alone That Cost Pennies! |
+| 2026-07-21 | 118 | 8I3WDdb3jws | 4,536 | 15 | 7,419 | 0.61 | 5 | 0.36 | binh_thuong | – | Không | 25 Forgotten 10-Minutes Recipes Seniors Remember From Their Childhood (1970s Cookbooks) |
+| 2026-07-24 | 115 | cdn8p0-js4s | 3,237 | 15 | 7,419 | 0.44 | 5 | 0.36 | binh_thuong | – | Không | 25 Forgotten $2 Dinners That Still Taste Amazing Today (Straight from 70s Cookbooks) |
+| 2026-07-28 | 111 | ojp8fwtrKRI | 2,095 | 15 | 7,419 | 0.28 | 5 | 0.54 | binh_thuong | – | Không | These 25 Forgotten Slow Cooker Dinners For When It's Too Hot to Cook (70s Cookbooks) |
+| 2026-08-01 | 107 | TT5R-3nQHQA | 1,750 | 15 | 5,696 | 0.31 | 5 | 0.74 | binh_thuong | – | Không | 25 Lazy Ground Beef Recipes To Feed Your Whole Family (1970s Home Kitchens) |
+| 2026-08-04 | 104 | P1LWbjG7Seo | 2,676 | 15 | 5,114 | 0.52 | 5 | 0.82 | binh_thuong | – | Không | 25 LOST County Fair Recipes That Won Blue Ribbons In the 1950s |
+| 2026-08-08 | 100 | zQCWsn8N0us | 91,677 | 15 | 4,536 | 20.21 | 5 | 0.89 | can_kiem_ky | – | Không | 25 Forgotten One-Person Meals Under $2 That Actually Filled You Up! |
+| 2026-08-11 | 97 | EGKC4e7fwhE | 4,016 | 15 | 4,536 | 0.89 | 5 | 0.93 | binh_thuong | – | Không | 25 Forgotten Country Meals Under $5 That Actually Filled You Up! |
+| 2026-08-14 | 94 | DynyCNXo2lc | 4,198 | 15 | 4,536 | 0.93 | 5 | 1.39 | binh_thuong | – | Không | These 25 Forgotten Meals Americans Grew Up Eating — One From Every State |
+| 2026-08-17 | 91 | mKaVzzesGUU | 57,716 | 15 | 4,310 | 13.39 | 5 | 0.79 | can_kiem_ky | – | Không | Illegal Now, But Normal to Eat in the 1970s! |
+| 2026-08-20 | 88 | uCrL407iUdw | 3,393 | 15 | 4,310 | 0.79 | 5 | 0.73 | binh_thuong | – | Không | 25 FORGOTTEN Friday Night Comfort Meals From the 1950s No One Makes Anymore! |
+| 2026-08-23 | 85 | AvZm0GBV95E | 1,334 | 15 | 4,198 | 0.32 | 5 | 1.39 | binh_thuong | – | Không | 25 Forgotten Cast-Iron Skillet Meals From the 1950s No One Makes Anymore! |
+| 2026-08-25 | 83 | r37m_hXLVo0 | 8,367 | 15 | 4,016 | 2.08 | 5 | 1.45 | hoi_cao | – | Không | 25 Forgotten $2 Meals That Kept 1970s Working Families Full |
+| 2026-08-28 | 80 | bD7XSthsbIo | 6,302 | 15 | 4,016 | 1.57 | 5 | 1.45 | binh_thuong | – | Không | These 25 Lazy Snacks Every 1970s Mom Made When Nobody Wanted a Full MeaI |
+| 2026-08-30 | 78 | fRmEkIYWrqY | 1,192 | 15 | 4,016 | 0.30 | 5 | 1.86 | binh_thuong | – | Không | 25 Forgotten Kmart Cafeteria Meals Kids Begged For Before Mom Finished Shopping |
+| 2026-09-01 | 76 | QLsdhUO1zL0 | 3,136 | 15 | 4,016 | 0.78 | 5 | 1.86 | binh_thuong | – | Không | 25 Forgotten Poor Man Casseroles From the 1950s Our Grandparents Swore By |
+| 2026-09-03 | 74 | uFYBRarNVgI | 5,826 | 15 | 3,393 | 1.72 | 5 | 2.20 | binh_thuong | – | Không | 25 Forgotten Crockpot Dinners Under $5 for Seniors Living Alone |
+| 2026-09-05 | 72 | 0-TTzBIBuQo | 13,516 | 15 | 3,393 | 3.98 | 5 | 2.20 | dang_ghi | – | Không | 25 Forgotten Sheet-Pan Dinners Every 1970s Mom Made in One Bake |
+| 2026-09-07 | 70 | J1SSlVPUn4A | 7,450 | 15 | 4,016 | 1.86 | 5 | 1.99 | binh_thuong | – | Không | 25 Forgotten 3 Ingredient Dinners Mom Made When Every Penny Counted! |
+| 2026-09-09 | 68 | u3MbL_CiCyA | 7,994 | 15 | 4,198 | 1.90 | 5 | 2.70 | binh_thuong | – | Không | 30 Forgotten Family Dinners Americans Ate From the 1940s to the 1970s |
+| 2026-09-11 | 66 | SPPYjYJ94XU | 4,007 | 15 | 5,826 | 0.69 | 5 | 1.95 | binh_thuong | – | Không | 25 Forgotten Toaster Oven Recipes From The 1970s Every Mom Made For Quick Meals |
+| 2026-09-14 | 63 | k25Hn31V35Q | 3,510 | 15 | 5,826 | 0.60 | 5 | 1.95 | binh_thuong | – | Không | 25 Lazy Dinners From The 1970s Every Grandma Made When Nobody Felt Like Cooking |
+| 2026-09-17 | 60 | oN6wbhSwvLk | 11,437 | 15 | 4,198 | 2.72 | 5 | 2.13 | hoi_cao | – | Không | 40 Forgotten Recipes Every 1970s Mom Assembled Early and Baked When Everyone Got Home |
+| 2026-09-19 | 58 | azdXoppDzq8 | 11,345 | 15 | 5,826 | 1.95 | 5 | 1.42 | binh_thuong | – | Không | 25 Forgotten 3 Ingredients Dinners Every 1970s Mom Made When Money Ran Out |
+| 2026-09-23 | 54 | RLE1PJkUquk | 13,447 | 15 | 6,302 | 2.13 | 5 | 1.29 | hoi_cao | – | Không | 25 Forgotten Ground Beef Dinners Every 1970s Mom Made Weekly! |
+| 2026-09-26 | 51 | 5PHjaql6byk | 8,933 | 15 | 6,302 | 1.42 | 5 | 1.29 | binh_thuong | – | Không | 25 Forgotten One Pan Dinners Every 1970s Mom Made When Money Was Tight |
+| 2026-09-29 | 48 | fpb01pthjj0 | 2,071 | 15 | 7,450 | 0.28 | 5 | 1.09 | binh_thuong | – | Không | 25 Forgotten Halloween Candies That Took Over American Tables in the 1960s! |
+| 2026-10-01 | 46 | 7uN3k8kxG1w | 8,256 | 15 | 7,450 | 1.11 | 5 | 0.84 | binh_thuong | – | Không | 25 Forgotten "Ten Minutes to Table" Dinners Every 1970s Working Mom Knew by Heart |
+| 2026-10-04 | 43 | Fft-p6Z9t64 | 8,124 | 15 | 7,450 | 1.09 | 5 | 0.84 | binh_thuong | – | Không | 25 Forgotten Betty Crocker Dinners From The 1960s No One Makes Anymore! |
+| 2026-10-06 | 41 | y3AlMyYqqQY | 2,026 | 15 | 7,994 | 0.25 | 5 | 0.79 | binh_thuong | – | Không | 25 FORGOTTEN Velveeta Dinners Every 1970s Mom Made When Money Was Tight! |
+| 2026-10-08 | 39 | J5mtHHhWdqk | 14,714 | 15 | 7,994 | 1.84 | 5 | 0.62 | binh_thuong | – | Không | 25 Forgotten Thanksgiving Treats Mom Made With a Box of Libby's Pumpkin Mix |
+| 2026-10-11 | 36 | o-DHuu6lKac | 6,291 | 15 | 8,124 | 0.77 | 5 | 0.61 | binh_thuong | – | Không | 40 Forgotten "Joy of Cooking" Dinners Grandma Made When Time Was Short and Money Was Tight |
+| 2026-10-13 | 34 | tX83NOoVShs | 3,884 | 15 | 8,124 | 0.48 | 5 | 0.61 | binh_thuong | – | Không | 25 Forgotten Dinners Mom Made With a Box of Hamburger Helper (60s and 1970s Cookbooks) |
+| 2026-10-16 | 31 | A33_UH6YbR4 | 19,729 | 15 | 7,994 | 2.47 | 5 | 0.62 | hoi_cao | – | Không | 25 Forgotten Betty Crocker One Pan Dinners for When You Are Too Tired to Cook (60s and 70s) |
+| 2026-10-19 | 28 | zQ-yZXtcKyM | 2,731 | 15 | 8,124 | 0.34 | 5 | 0.61 | chua_chin | – | Không | 25 Forgotten Stove Top Stuffing Dinners That Took Us Back to Christmas in the 1970s |
+| 2026-10-25 | 22 | gPMral788VY | 4,973 | 15 | 8,124 | 0.61 | 5 | 0.37 | chua_chin | – | Không | 25 Forgotten Dump-and-Bake Meals for Seniors That Need Just 3 Ingredients |
+| 2026-10-28 | 19 | wxJ2f91ynak | 8,745 | 15 | 8,124 | 1.08 | 5 | 0.34 | chua_chin | – | Không | 25 Forgotten Country Dinners City People Have Probably Never Tried |
+| 2026-11-01 | 15 | SBjdbI2wUGY | 2,756 | 15 | 8,256 | 0.33 | 4 | – | chua_chin | – | Không | 25 Forgotten Baked Dinners Americans Brought to Church Suppers in the 1960s |
+| 2026-11-04 | 12 | pmmMyjbj9To | 21,621 | 15 | 8,124 | 2.66 | 3 | – | chua_chin | – | Không | 25 Forgotten Christmas Desserts Younger Generations Have Never Tried! |
+| 2026-11-06 | 10 | UVq3e5q6UVU | 2,983 | 15 | 8,124 | 0.37 | 2 | – | chua_chin | – | Không | 25 Forgotten Lunches Ladies Ate at Woolworth’s Department Store Tea Room in the 1950s |
+| 2026-11-08 | 8 | ynVM85kh90s | 1,148 | 15 | 6,291 | 0.18 | 1 | – | chua_chin | – | Không | 25 Forgotten Fancy Dinners Rich Americans Ate in the 1970s (Nobody Makes Them Now) |
+| 2026-11-12 | 4 | OnfsyViuE28 | 1,799 | 15 | 4,973 | 0.36 | 0 | – | chua_chin | – | Không | 25 Forgotten One Pan Dinners From the 60s & 70s You'll Want to Make Again Tonight |

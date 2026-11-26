@@ -1,0 +1,91 @@
+# Đo kênh: UC0UAr8Hiyb-sqQ4NBoKOVkQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 71 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 77 |
+| n_trong_danh_sach | 71 |
+| n_dai | 49 |
+| n_short | 22 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 194,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-11-21 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 6 |
+| trung_vi_20_dai | 269,712 |
+| cao_nhat | 2,113,593 |
+| thap_nhat | 13,858 |
+| phan_tan | 7.84 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 1.39 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.26 |
+| ngay_video_dau | 2025-11-21 |
+| tuoi_tu_video_dau | 360 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 539 |
+| sub_moi_video | 2,519 |
+| video_30_ngay | 3 |
+| ty_trong_view_short | 0.01 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** HOI_VIEN, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-11-21 | 360 | XpZuOFd5vPY | 19,287 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Trying an Amish recipe from 1934. Bread in a jar can be stored for 365 days. |
+| 2025-12-03 | 348 | QzlC3pUQDOk | 551,860 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Trying a 1934 Amish SURVIVAL JAR. Meat and rice that outlast modern MREs. |
+| 2026-01-12 | 308 | D5psU2CwDSQ | 12,680 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Testing a 1934 Amish Canning Recipe: Ribs & Rice (Will I Survive?) |
+| 2026-01-25 | 295 | 7nfQ0HsE7hE | 13,353 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Testing a Depression-Era MEAT JAR. Why this $2 meal was worth more than gold |
+| 2026-02-01 | 288 | cgXlLJvIQuQ | 13,647 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 3 Forgotten 1930s Breads That Could Save You When Stores Are Empty |
+| 2026-02-10 | 279 | HKKr8eI3RAk | 24,654 | 5 | 13,647 | 1.81 | 5 | 8.58 | binh_thuong | – | Không | WWII “Emergency Jar” (1940s): I Recreated This Beef & Ribs Recipe at Home. |
+| 2026-02-17 | 272 | mcPuyWL8lIc | 12,426 | 6 | 16,467 | 0.75 | 5 | 17.92 | binh_thuong | – | Không | 1930s Amish Bone-In Pork Preservation Secret — No Fridge, No Freezer, 2-Year Shelf Life |
+| 2026-02-20 | 269 | UXbD15Zuk84 | 34,373 | 7 | 13,647 | 2.52 | 5 | 21.63 | hoi_cao | – | Không | Poor Man's Steak in a Jar Lasts 2 Years Without a Fridge. Testing a 1930s Amish Recipe. |
+| 2026-02-23 | 266 | VK1AYr4naw0 | 2,736,255 | 8 | 16,467 | 166 | 5 | 17.92 | can_kiem_ky | – | Không | When Shelves Go Empty, These Soup Cubes Will Save You. 2 Years of Food for Pennies. |
+| 2026-02-27 | 262 | AF_VWjQ3Hzs | 295,129 | 9 | 19,287 | 15.30 | 5 | 25.79 | can_kiem_ky | – | Không | The Poor Man's Steak That Lasts 2 Years Without a Fridge — 1930s Survival Recipe |
+| 2026-03-02 | 259 | Wt8zUWfLcWU | 117,054 | 10 | 21,970 | 5.33 | 5 | 22.64 | manh | – | Không | Great Depression Portable Soup: 2-Year Survival Food from Scraps (No Refrigeration) |
+| 2026-03-05 | 256 | zEtcgZ1GA0g | 501,264 | 11 | 24,654 | 20.33 | 5 | 6.33 | can_kiem_ky | – | Không | The Forgotten 1930s Survival Soup Balls. Make It Once, Eat for 2 Years. |
+| 2026-03-08 | 253 | _xk3RSQGUE8 | 73,676 | 12 | 29,514 | 2.50 | 5 | 7.16 | hoi_cao | – | Không | When the shelves go bare, this 2-YEAR SURVIVAL SOUP will be your ultimate currency. |
+| 2026-03-11 | 250 | iOaQ2Oxm2yY | 795,685 | 13 | 34,373 | 23.15 | 5 | 6.15 | can_kiem_ky | – | Không | If The Stores Were Empty Tomorrow, This Soup Would Be Worth Its Weight in GOLD. 5-YEAR SURVIVAL SOUP |
+| 2026-03-14 | 247 | Zypo3C1iNYY | 497,381 | 14 | 54,024 | 9.21 | 5 | 2.89 | manh | – | Không | When Shelves Go Empty, This Beef Cube Will Feed Your Family. 2-Year Shelf Life. |
+| 2026-03-17 | 244 | b8PiG8sheAA | 134,806 | 15 | 73,676 | 1.83 | 5 | 2.87 | binh_thuong | – | Không | They Made This From Pumpkin in 1862. No Fridge. No Chemicals. Still Edible After 5 Years. |
+| 2026-03-21 | 240 | vaXuWmfGAkA | 155,982 | 15 | 117,054 | 1.33 | 5 | 2.17 | binh_thuong | – | Không | The 2-Year Meat Cube: A Forgotten Survival Secret for the Upcoming Crisis. |
+| 2026-03-24 | 237 | d7Q1MClbCgk | 211,254 | 15 | 117,054 | 1.80 | 5 | 2.17 | binh_thuong | – | Không | When Shelves Go Empty, This Dry Soup Will Feed Your Family. 5-Year Shelf Life. |
+| 2026-03-28 | 233 | y0oiYWFn--M | 254,560 | 15 | 134,806 | 1.89 | 5 | 0.59 | binh_thuong | – | Không | When Shelves Go Empty, These Meat Sausages Will Feed Your Family. 2-Year Shelf Life. |
+| 2026-04-01 | 229 | ixjgK0ISZkg | 79,714 | 15 | 155,982 | 0.51 | 5 | 1.37 | binh_thuong | – | Không | Empty Shelves Are Coming. This 5-Year Pemmican Block Will Feed Your Family. |
+| 2026-04-04 | 226 | vU-jGf2F0hA | 1,572,827 | 15 | 155,982 | 10.08 | 5 | 0.28 | can_kiem_ky | – | Không | The Forgotten 1930s Survival Pyramids. One Prep, 2 Years of Food. |
+| 2026-04-11 | 219 | 38aWK9ZNLSA | 684,082 | 15 | 211,254 | 3.24 | 5 | 0.21 | dang_ghi | – | Không | When Shelves Go Empty, This Meat Jar Will Feed Your Family. 2-Year Shelf Life. |
+| 2026-04-18 | 212 | 2AJMbvFCWaE | 27,683 | 15 | 254,560 | 0.11 | 5 | 0.84 | binh_thuong | – | Không | When Shelves Go Empty, This 1930s Sausage Jar Will Feed Your Family. 2-Year Shelf Life. |
+| 2026-04-25 | 205 | l_85T_nNwM8 | 43,439 | 15 | 254,560 | 0.17 | 5 | 1.47 | binh_thuong | – | Không | WHEN SHELVES GO EMPTY: This Meat Patties & Beans Jar will feed your family. 5-YEAR SHELF LIFE! |
+| 2026-05-02 | 198 | FaNjxm717Yc | 213,776 | 15 | 211,254 | 1.01 | 5 | 1.77 | binh_thuong | – | Không | The 1930s SURVIVAL ONION SAUSAGE. The Forgotten $2 Onion Sausage: NO ONE Believes There Is No Meat! |
+| 2026-05-09 | 191 | O2-FcQO8N5Q | 17,764 | 15 | 211,254 | 0.08 | 5 | 1.77 | binh_thuong | – | Không | When Power Fails, This Dense SURVIVAL BLOCK Will Save Your Family. Lasts 5 Years. |
+| 2026-05-16 | 184 | dzotKW_Sv7E | 373,720 | 15 | 211,254 | 1.77 | 5 | 0.09 | binh_thuong | – | Không | The Forgotten 1939 Survival Cubes. Make Once, Eat for 2 Years. |
+| 2026-05-23 | 177 | reZRwvTVkzA | 642,306 | 15 | 211,254 | 3.04 | 5 | 0.09 | dang_ghi | – | Không | The Forgotten 1930 Survival Jar. Make Once, Eat for Months. |
+| 2026-05-30 | 170 | WxjfG1n-4xY | 391,996 | 15 | 213,776 | 1.83 | 5 | 0.08 | binh_thuong | – | Không | The 2031 SURVIVAL BEEF: Forgotten 1930s Two-Ingredient Ration |
+| 2026-06-06 | 163 | vRhDoh5IQak | 19,438 | 15 | 213,776 | 0.09 | 5 | 0.08 | binh_thuong | – | Không | Survival Soup Balls: The Forgotten 1930s Secret to Eating for 2 Years. |
+| 2026-06-13 | 156 | WrWImzUzntw | 16,696 | 15 | 211,254 | 0.08 | 5 | 0.16 | binh_thuong | – | Không | The 1930s Meat Jar That Outlasts Any Blackout (2 Years, NO FRIDGE) |
+| 2026-06-20 | 149 | ccDf_eFYW94 | 13,858 | 15 | 211,254 | 0.07 | 5 | 2.32 | binh_thuong | – | Không | The Poor Man's Steak & Rice That Lasts 2 Years Without a Fridge — 1930s Survival Recipe |
+| 2026-07-01 | 138 | pVMX5BW1WQ8 | 34,809 | 15 | 211,254 | 0.16 | 5 | 2.32 | binh_thuong | – | Không | The Forgotten 1930s Garlic & Onion Sauce That Costs Pennies To Make |
+| 2026-07-04 | 135 | FnqfkUKFI-w | 18,018 | 15 | 79,714 | 0.23 | 5 | 6.14 | binh_thuong | – | Không | When Shelves Go Empty, These Soup Cubes Will Save You. 2 Years of Food for Pennies. |
+| 2026-07-11 | 128 | TgkHp6wIHH0 | 1,167,443 | 15 | 43,439 | 26.88 | 5 | 7.91 | can_kiem_ky | – | Không | The US Military Survival Bar Recipe They Don't Teach Anymore |
+| 2026-07-18 | 121 | zENbErfacf8 | 676,478 | 15 | 43,439 | 15.57 | 5 | 7.91 | can_kiem_ky | – | Không | The Forgotten US Army Chocolate Ration I Made at Home |
+| 2026-07-25 | 114 | yJhwke_CD3Q | 489,192 | 15 | 43,439 | 11.26 | 5 | 7.91 | can_kiem_ky | – | Không | This Is the 1867 German Ration That Never Spoiled. I Made It at Home. |
+| 2026-08-01 | 107 | Xv6uNkA3DLA | 343,596 | 15 | 43,439 | 7.91 | 5 | 11.63 | manh | – | Không | I Turned a Whole Chicken Into 365 Days of Meat |
+| 2026-08-08 | 100 | _n2lAoHiOjo | 193,604 | 15 | 213,776 | 0.91 | 5 | 2.36 | binh_thuong | – | Không | Why 1930s Seasoning Never Goes Bad (Even Without a Fridge) |
+| 2026-08-15 | 93 | otBFbfZFsEE | 23,761 | 15 | 213,776 | 0.11 | 5 | 2.36 | binh_thuong | – | Không | Not Just Seasoning: The Old Black Salt Trick That Saved Stomachs in Hard Times |
+| 2026-08-22 | 86 | QRywRPWmQCc | 2,113,593 | 15 | 193,604 | 10.92 | 5 | 1.88 | can_kiem_ky | – | Không | Forgotten Amish Survival Bar: 500 Calories, No Fridge, 1930s Recipe |
+| 2026-08-29 | 79 | rvZO-RhGcZ0 | 800,913 | 15 | 343,596 | 2.33 | 5 | 0.57 | hoi_cao | – | Không | The $2 Depression-Era Meat Trick That Lasts 365 Days on a Shelf |
+| 2026-09-05 | 72 | 6TZDiK29mU4 | 505,123 | 15 | 343,596 | 1.47 | 5 | 0.26 | binh_thuong | – | Không | I Made the 1848s Survival Ration That Never Goes Bad |
+| 2026-09-12 | 65 | L0qplP3nyfE | 195,829 | 15 | 343,596 | 0.57 | 5 | 0.08 | binh_thuong | – | Không | I Made a 1941 Soviet Army Bar With No Baking |
+| 2026-09-19 | 58 | MuplmFWUa7g | 363,841 | 15 | 195,829 | 1.86 | 4 | – | binh_thuong | – | Không | This Is the 1867 German Ration That Never Spoiled. I Made It at Home. |
+| 2026-10-03 | 44 | jv7QsqbD7UI | 28,679 | 15 | 343,596 | 0.08 | 3 | – | binh_thuong | – | Không | This 1747 Pork Secret They Don't Want You to Know |
+| 2026-10-17 | 30 | FiJIh3MjKT8 | 17,711 | 15 | 343,596 | 0.05 | 2 | – | binh_thuong | – | Không | The Cheap Depression-Era Meat Trick That Lasts Up to a Year |
+| 2026-11-07 | 9 | j5d3NBe857s | 90,271 | 15 | 343,596 | 0.26 | 1 | – | chua_chin | – | Không | I Made the 1776 German MEAT BREAD Our Ancestors |
+| 2026-11-14 | 2 | sM1fOuO2msk | 10,358 | 15 | 343,596 | 0.03 | 0 | – | chua_chin | – | Không | Forgotten AMISH SURVIVAL BAR: 700 Calories, No Fridge, 1930s Recipe |

@@ -1,0 +1,150 @@
+# Đo kênh: UCrT2pUfOMMKKZdNByd5CiQw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 158 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 61,600 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-03-21 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 4,160 |
+| cao_nhat | 1,088,756 |
+| thap_nhat | 725 |
+| phan_tan | 262 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.07 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 0.81 |
+| ngay_video_dau | 2026-02-04 |
+| tuoi_tu_video_dau | 285 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 216 |
+| sub_moi_video | 390 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-02-04 | 285 | TAE490VsSso | 1,116 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Free Chicken Feed All Year Long: The 3-System Method for Self-Sufficient Living |
+| 2026-02-05 | 284 | HV7F_znrToY | 1,439 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The “Lazy” Garden That Waters Itself for 20 Years — Why Did We Forget It? |
+| 2026-02-06 | 283 | ZpSg_j-1Uo8 | 866 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 18 Vegetables That Grow Like Fruit Trees: Plant Once, Harvest Forever 🌱 |
+| 2026-02-07 | 282 | jKk_6G1DLsg | 824 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 12 Plants That Survive Down to −35°C — Never Go Hungry in Winter Again! |
+| 2026-02-08 | 281 | iR17ybQTdMI | 534 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 🌱 Copper Wire Can Triple Your Harvest — Without Expensive Fertilizers or Chemicals! |
+| 2026-02-09 | 280 | 8CUcJ9grpM8 | 1,759 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Why Japanese Farmers Harvest Vegetables 3× Faster Than You — A Centuries-Old Secret Revealed |
+| 2026-02-10 | 279 | uAMeT1Cdq2Y | 3,180 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Potato Farmers HATE This Trick (Growing Potatoes Using Only Leaves) |
+| 2026-02-11 | 278 | yxdWFQ05h5A | 23,514 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | I Tested 5 Bed Shapes — One Made Plants Grow Like Crazy |
+| 2026-03-21 | 240 | tlQj7y1rbXA | 3,495 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | From Waste to Compost in 14 Days — The Amish Method They Don’t Teach |
+| 2026-03-22 | 239 | lJCA1yq6tLc | 3,582 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The $0 Garden That Grows 5X More Than Raised Beds — Stores Hide This |
+| 2026-03-22 | 239 | BZMzqba3dzM | 18,215 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Turn Sawdust Into Fertilizer That Beats Compost by 400% (Free) 🌱 |
+| 2026-03-23 | 238 | Hu3ZtgD7XRA | 8,533 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The German Garden Method That Grows Without Watering (Almost Unknown) |
+| 2026-03-23 | 238 | woDDaG4ff2c | 56,289 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | I Put One Copper Antenna in My Garden — Results Shocked Me (Harvest 3X Bigger) |
+| 2026-03-24 | 237 | R8KHynSZhdw | 3,391 | 5 | 8,533 | 0.40 | 5 | 0.67 | binh_thuong | – | Không | This $2 Jug Boosts Growth by 300% — Big Agriculture Doesn’t Want You Using It |
+| 2026-03-24 | 237 | tQzueCIQBsc | 5,097 | 6 | 6,058 | 0.84 | 5 | 0.94 | binh_thuong | – | Không | This One Mulch Method Triples Your Harvest — Why Is It Hidden? |
+| 2026-03-25 | 236 | LQpPVMn1z_A | 5,712 | 7 | 5,097 | 1.12 | 5 | 1.11 | binh_thuong | – | Không | Never Buy Bagged Soil Again — This $0 Method Works Better |
+| 2026-03-25 | 236 | WgMeLWvfmPg | 22,244 | 8 | 5,404 | 4.12 | 5 | 1.04 | dang_ghi | – | Không | Better Than Fertilizer. 2,000 Worms in 48 Hours. Revives Dead Soil. Why Is It Hidden? |
+| 2026-03-26 | 235 | 30J7GNcuvEc | 61,545 | 9 | 5,712 | 10.77 | 5 | 0.61 | can_kiem_ky | – | Không | Bury This in Your Garden — 10X More Earthworms in Days |
+| 2026-03-26 | 235 | rxMRQNh4haA | 3,485 | 10 | 7,122 | 0.49 | 5 | 0.50 | binh_thuong | – | Không | This $0 Plant Produces Honey Year-Round — No Bees Needed |
+| 2026-03-27 | 234 | PCOY559jDNM | 1,276 | 11 | 5,712 | 0.22 | 5 | 0.99 | binh_thuong | – | Không | Unlimited Omega-3 for $0 in a Bucket. Self-Seeding. 5-Minute Setup. |
+| 2026-03-27 | 234 | pQ1hmkcf0N8 | 5,635 | 12 | 5,404 | 1.04 | 5 | 0.66 | binh_thuong | – | Không | Don’t Toss Coffee Grounds — Your Soil Comes Alive in 30 Days |
+| 2026-03-28 | 233 | R40aFnmgjJ0 | 6,358 | 13 | 5,635 | 1.13 | 5 | 0.38 | binh_thuong | – | Không | Don’t Throw Away Cardboard — Builds Dark, Nutrient-Rich Soil in 7 Days |
+| 2026-03-28 | 233 | 0oNNFUhO0Nk | 2,154 | 14 | 5,674 | 0.38 | 5 | 0.28 | binh_thuong | – | Không | 9 Vines That Produce Food Year-Round — Plant Once |
+| 2026-03-29 | 232 | c_FEAUUt6NY | 3,585 | 15 | 5,635 | 0.64 | 5 | 0.28 | binh_thuong | – | Không | One Handful of Charcoal — Turns Dead Soil Alive in 72 Hours 🌱 |
+| 2026-03-29 | 232 | 75Y4pBtzp-w | 6,952 | 15 | 5,635 | 1.23 | 5 | 0.28 | binh_thuong | – | Không | One Ancient Korean Soil Trick — Replaces Fertilizer, 3X Growth |
+| 2026-03-30 | 231 | RN_6McNDavM | 1,583 | 15 | 5,712 | 0.28 | 5 | 0.71 | binh_thuong | – | Không | 7 Fruit Trees You Must Prune in March — 3X More Fruit in Summer |
+| 2026-03-30 | 231 | G_USP3_foQc | 1,493 | 15 | 5,635 | 0.26 | 5 | 0.72 | binh_thuong | – | Không | 6 Forgotten Superfoods Medieval Farmers Swore By — Almost Unknown Today |
+| 2026-03-31 | 230 | ALPWVHOhBy0 | 1,530 | 15 | 5,097 | 0.30 | 5 | 0.80 | binh_thuong | – | Không | 6 WWII Soil Hacks That Turn Poor Dirt Into Rich Soil |
+| 2026-03-31 | 230 | B9dK24VtaB8 | 6,990 | 15 | 3,585 | 1.95 | 5 | 0.24 | binh_thuong | – | Không | Burying Copper and Wood Makes Infinite Energy — The "Electric Soil" Secret |
+| 2026-04-01 | 229 | nz7Pc0QJBKc | 4,079 | 15 | 5,097 | 0.80 | 5 | 0.17 | binh_thuong | – | Không | An Old Pollarding Technique Produces Endless Wood — Why Does Almost No One Know It? |
+| 2026-04-01 | 229 | rbJ7xJ1txGI | 6,733 | 15 | 4,079 | 1.65 | 5 | 0.18 | binh_thuong | – | Không | I Poured This Into My Garden — Thousands of Earthworms in 72 Hours |
+| 2026-04-02 | 228 | M8ZO0S04DKM | 855 | 15 | 4,079 | 0.21 | 5 | 0.15 | binh_thuong | – | Không | Connect Two Metals — Turn Dirty Water Clear. The “Earth Filter” Secret |
+| 2026-04-02 | 228 | tRBvi4YCRrY | 863 | 15 | 3,585 | 0.24 | 5 | 0.17 | binh_thuong | – | Không | Bending Copper This Way Creates Infinite Power — The “Electric Soil” Secret |
+| 2026-04-22 | 208 | 04nuafNBb3M | 179 | 15 | 3,485 | 0.05 | 5 | 0.21 | binh_thuong | – | Không | A 2,400-Year-Old Farming Technique That Produced Endless Food (Banned in the USA) |
+| 2026-04-22 | 208 | BVkUjNZ6Wys | 622 | 15 | 2,154 | 0.29 | 5 | 0.78 | binh_thuong | – | Không | These Rocks Create Water From Thin Air. No Irrigation for 2,000 Years. Why Does No One Teach This? |
+| 2026-04-22 | 208 | g8ouhR1BKZA | 747 | 15 | 2,154 | 0.35 | 5 | 0.94 | binh_thuong | – | Không | The $2 Powder That Makes Soil Grow 10X Forever |
+| 2026-04-23 | 207 | kRpm_maLLag | 465 | 15 | 1,583 | 0.29 | 5 | 1.29 | binh_thuong | – | Không | 7-Day Manure Method — Turns Into “Gold” With 3X Nutrients |
+| 2026-04-23 | 207 | aaFTD5FLTns | 1,672 | 15 | 1,530 | 1.09 | 5 | 2.14 | binh_thuong | – | Không | The Medieval Powder That ELIMINATES Ants From Garden and Home (No Poison, No Chemicals) |
+| 2026-04-24 | 206 | 5UACPpBQ2y8 | 31,004 | 15 | 1,530 | 20.26 | 5 | 2.09 | can_kiem_ky | – | Không | Forget Collagen Peptides — This Herb Boosts Natural Collagen 3X |
+| 2026-04-24 | 206 | dDlFROkB9C8 | 3,267 | 15 | 1,530 | 2.14 | 5 | 2.09 | hoi_cao | – | Không | Better Than Olive Oil. 3X More Omega-3 Than Salmon. Grows in 5 Minutes. |
+| 2026-04-25 | 205 | uXKd4827DFo | 2,024 | 15 | 1,530 | 1.32 | 5 | 2.09 | binh_thuong | – | Không | 1-Acre Layout — Feed a Family All Year for $0 |
+| 2026-04-25 | 205 | GlfEpZMHnZE | 2,042 | 15 | 1,530 | 1.33 | 5 | 2.09 | binh_thuong | – | Không | No Pesticides — The Amish One-Stick Method Works in 24 Hours |
+| 2026-04-26 | 204 | gIXS2Dale2U | 131,897 | 15 | 1,672 | 78.89 | 5 | 1.86 | can_kiem_ky | – | Không | I Put a $2 Pipe in My Garden — It Produces Free Fertilizer Every Day |
+| 2026-04-26 | 204 | nsKiMKBQvBc | 3,205 | 15 | 2,024 | 1.58 | 5 | 1.30 | binh_thuong | – | Không | No Fertilizer — This $2 Trick Turns Soil Alive Overnight 🌱 |
+| 2026-04-27 | 203 | GuD3FdcF9eE | 7,104 | 15 | 2,024 | 3.51 | 5 | 1.30 | dang_ghi | – | Không | One Plant Saved My Pepper Field — Zero Disease, 3X Harvest |
+| 2026-04-27 | 203 | zduH0S2QVEk | 2,624 | 15 | 2,024 | 1.30 | 5 | 0.53 | binh_thuong | – | Không | $2 Powder — Kills Pests in 24 Hours and Replaces Fertilizer |
+| 2026-04-28 | 202 | -ddwqJA8qKs | 1,078 | 15 | 2,024 | 0.53 | 5 | 1.46 | binh_thuong | – | Không | Produce Endless Omega-3 in a Bucket — One Planting in 5 Minutes. Why Isn’t This Taught? |
+| 2026-04-28 | 202 | kju5uR2TvwI | 3,113 | 15 | 2,024 | 1.54 | 5 | 0.38 | binh_thuong | – | Không | Bigger Earthworms, Richer Soil — The Rice Secret Nobody Talks About |
+| 2026-04-29 | 201 | ulH7pqg35as | 378 | 15 | 2,042 | 0.19 | 5 | 0.37 | binh_thuong | – | Không | The Infinite Magnesium Plant — Grows on Its Own With No Care. Why Is This Hidden? |
+| 2026-04-30 | 200 | YpGpTaeSrHY | 3,905 | 15 | 2,042 | 1.91 | 5 | 0.22 | binh_thuong | – | Không | I Hammered a Nail Into My Fruit Tree — You Won’t Believe What Happened |
+| 2026-05-01 | 199 | GCAox9-_j8g | 762 | 15 | 2,624 | 0.29 | 5 | 0.13 | binh_thuong | – | Không | Prices Keep Rising — These 8 Crops Can Save You |
+| 2026-05-01 | 199 | qGnze10aJN8 | 2,955 | 15 | 2,624 | 1.13 | 5 | 0.13 | binh_thuong | – | Không | Just 1 Handful in Your Garden — Earthworms Multiply Overnight Like Wild (Natural Method) |
+| 2026-05-02 | 198 | 0tqfHdiBdgk | 440 | 15 | 2,955 | 0.15 | 5 | 0.12 | binh_thuong | – | Không | $1 Rice Revives Dead Soil Permanently — No Compost. No Fertilizer. |
+| 2026-05-02 | 198 | NO_DvMcc_VA | 340 | 15 | 2,955 | 0.12 | 5 | 0.13 | binh_thuong | – | Không | How ONE Sweet Potato Creates 1,000 Lbs of Food — Growing Sweet Potato Slips |
+| 2026-05-23 | 177 | dwgNq9vCdzc | 186 | 15 | 2,624 | 0.07 | 5 | 0.19 | binh_thuong | – | Không | The $1 Root-Growth Recipe Garden Centers Don’t Want You Using |
+| 2026-05-23 | 177 | pINfC5tkqoE | 150 | 15 | 2,042 | 0.07 | 5 | 0.24 | binh_thuong | – | Không | Stop Using Fertilizers — This $2 Aloe Vera Plant Changes Everything |
+| 2026-05-24 | 176 | TVnq-ifog6s | 390 | 15 | 2,042 | 0.19 | 5 | 0.24 | binh_thuong | – | Không | You’re Killing Your Tomatoes — The One Branch You Should Never Touch |
+| 2026-05-24 | 176 | TlOSrI5DQL8 | 602 | 15 | 1,078 | 0.56 | 5 | 0.29 | binh_thuong | – | Không | 15 High-Yield Vegetables Perfect for Containers |
+| 2026-05-25 | 175 | 3m2o61RR4EE | 487 | 15 | 762 | 0.64 | 5 | 0.40 | binh_thuong | – | Không | 10 Plants With 2X More Protein Than Meat — Grow Once, Eat for Years |
+| 2026-05-25 | 175 | 5BMciZ8pDoI | 1,514 | 15 | 602 | 2.51 | 5 | 0.47 | hoi_cao | – | Không | 7 Plants Rats Absolutely Hate — Keep Them Away Naturally |
+| 2026-05-26 | 174 | RDFJieqbu80 | 280 | 15 | 602 | 0.47 | 5 | 0.51 | binh_thuong | – | Không | Pour This at the Root — Raspberry Plants Produce Nonstop (Secret Trick) |
+| 2026-05-26 | 174 | W5JcE9f8dyk | 308 | 15 | 487 | 0.63 | 5 | 0.79 | binh_thuong | – | Không | Even Dead Plants Come Back to Life — These 5 Fertilizers Work in 24 Hours |
+| 2026-05-27 | 173 | 7qer1EBdWmw | 196 | 15 | 440 | 0.45 | 5 | 0.87 | binh_thuong | – | Không | The Secret Trick That Revived My Roses and Doubled the Blooms |
+| 2026-05-27 | 173 | sIAeJKkWRno | 578 | 15 | 390 | 1.48 | 5 | 0.98 | binh_thuong | – | Không | This Simple Ash Trick Turns Dead Soil Into Rich Living Soil in Days |
+| 2026-05-28 | 172 | 7_RPXtSSkfo | 271 | 15 | 440 | 0.62 | 5 | 1.12 | binh_thuong | – | Không | The Hidden Anthurium Secret — Flowers All Year With 1 Cup |
+| 2026-05-29 | 171 | bHJTh6pI_hs | 495 | 15 | 390 | 1.27 | 5 | 2.39 | binh_thuong | – | Không | This 3-Ingredient Tomato Trick Creates Massive Plants & Harvests |
+| 2026-05-29 | 171 | hitr6PO6Z_8 | 383 | 15 | 390 | 0.98 | 5 | 2.39 | binh_thuong | – | Không | 1 Spoonful Saved My Rotting Orchid — The Forgotten Trick That Works |
+| 2026-05-30 | 170 | QefHIfHEQe8 | 338 | 15 | 383 | 0.88 | 5 | 84.91 | binh_thuong | – | Không | Do This and Your Peach Tree Will Be Loaded with Fruit |
+| 2026-05-30 | 170 | vD0vQ40RPAw | 931 | 15 | 340 | 2.74 | 5 | 95.65 | hoi_cao | – | Không | The Amish “No-Till Forever” Method — Rich Soil for Life at Zero Cost |
+| 2026-05-31 | 169 | cM17UTKUPgc | 32,522 | 15 | 383 | 84.91 | 5 | 7.95 | can_kiem_ky | – | Không | The Hydrogen Peroxide Garden Trick That Revives Plants Fast |
+| 2026-06-01 | 168 | kqxyPpzWyrM | 85,781 | 15 | 390 | 220 | 5 | 7.72 | can_kiem_ky | – | Không | The Tomato Watering Mistake SILENTLY Destroying Your Harvest Right Now |
+| 2026-06-01 | 168 | DkCqmUXy8fo | 296 | 15 | 487 | 0.61 | 5 | 6.18 | binh_thuong | – | Không | The $1 Recipe Garden Centers Don’t Want You to Know About (Roots Will TRIPLE) |
+| 2026-06-02 | 167 | 0NBCwln7skg | 92,579 | 15 | 487 | 190 | 5 | 2.30 | can_kiem_ky | – | Không | The Korean Bucket That Grows Unlimited Plant Boosters — Doubles Every 48 Hours |
+| 2026-06-02 | 167 | lxQK7DOQ6Tg | 3,044 | 15 | 487 | 6.25 | 5 | 2.30 | manh | – | Không | 9 Things Exterminators Don't Want You to Know About Hydrogen Peroxide |
+| 2026-06-03 | 166 | J-seFbTWJpQ | 1,122 | 15 | 495 | 2.27 | 5 | 1.59 | hoi_cao | – | Không | The $2 Pantry Powder That Sends Garden Pests Running — Why Nobody Talks About It |
+| 2026-06-03 | 166 | gusTq2_JM1Q | 3,011 | 15 | 495 | 6.08 | 5 | 1.12 | manh | – | Không | How Smart Gardeners Create Black, Fertile Soil Fast |
+| 2026-06-04 | 165 | 5RQBe51c2No | 508 | 15 | 578 | 0.88 | 5 | 1.36 | binh_thuong | – | Không | Put This “Forbidden” Grass in the Hole — 10X More Cucumbers. Why Was It Hidden? |
+| 2026-06-05 | 164 | pkFEqFJDcOs | 787 | 15 | 578 | 1.36 | 5 | 3.79 | binh_thuong | – | Không | How Amish Grow Giant Tomatoes the Natural Way (And Why Their Plants Never Stop Growing) |
+| 2026-06-05 | 164 | rLIztvXagy8 | 2,225 | 15 | 787 | 2.83 | 5 | 0.70 | hoi_cao | – | Không | Just One Aloe Vera Plant Can Feed Your Entire Garden — No Fertilizers, No Pesticides |
+| 2026-06-06 | 163 | xldEDy7X4m8 | 438 | 15 | 931 | 0.47 | 5 | 0.59 | binh_thuong | – | Không | 10 Dangerous Plants You Should Never Grow at Home — And Safer Alternatives to Choose Instead |
+| 2026-06-06 | 163 | XmuBKu-06-0 | 552 | 15 | 931 | 0.59 | 5 | 1.39 | binh_thuong | – | Không | Fatal Tomato Mistake in May: Here’s Why Your Harvest Is About to Fail |
+| 2026-06-07 | 162 | tNJp6S19MxQ | 2,193 | 15 | 931 | 2.36 | 5 | 1.39 | hoi_cao | – | Không | How to Get Rid of Ants? This 1-Teaspoon Pharmacy Trick May Surprise You |
+| 2026-06-07 | 162 | lSMYEhe6C8U | 759,170 | 15 | 1,122 | 677 | 5 | 0.92 | can_kiem_ky | – | Không | The Secret Tip That Makes Plant Cuttings Root Instantly — Just Add This to Water |
+| 2026-06-08 | 161 | tDEg3rqdwkE | 456 | 15 | 2,193 | 0.21 | 5 | 0.59 | binh_thuong | – | Không | Just Pour This Around Your Garden — Mosquitoes and Pests Stay Away All Season |
+| 2026-06-08 | 161 | aj1rhVr77UA | 286 | 15 | 2,193 | 0.13 | 5 | 1.08 | binh_thuong | – | Không | My Grandfather's Garden Secret: Bury This in the Corners and Watch Pests Leave |
+| 2026-06-09 | 160 | SvFPWxw04pE | 1,296 | 15 | 1,122 | 1.16 | 5 | 2.12 | binh_thuong | – | Không | Your Basil Keeps Drying Out for One Reason — Here Are 3 Simple Fixes |
+| 2026-06-09 | 160 | wcJXk57A8ko | 2,379 | 15 | 1,122 | 2.12 | 5 | 3.16 | hoi_cao | – | Không | The Amish Have Never Paid a Fuel Bill — This Is the Exact System They Use |
+| 2026-06-10 | 159 | 0Rf_dPm5Z5I | 1,031 | 15 | 1,296 | 0.80 | 5 | 7.58 | binh_thuong | – | Không | The Fermented Garden Secret That Makes Roots Grow Like Crazy After Just One Feeding |
+| 2026-06-10 | 159 | Z7_g2KksOQE | 18,571 | 15 | 1,122 | 16.55 | 5 | 3.16 | can_kiem_ky | – | Không | Never Buy Seedlings Again: How to Root Cuttings from Any Plant for Free |
+| 2026-06-11 | 158 | b7_ko6jQvGY | 3,546 | 15 | 1,122 | 3.16 | 5 | 1.40 | dang_ghi | – | Không | The Rice Trick That Makes Earthworms Multiply — More Living, Fertile Soil Naturally |
+| 2026-06-11 | 158 | D7N7bdkdjzE | 725 | 15 | 1,296 | 0.56 | 5 | 7.58 | binh_thuong | – | Không | The Lemon Tree Trick That Changes Everything — More Flowers, More Lemons |
+| 2026-06-12 | 157 | 5nJt6WsnVCo | 9,827 | 15 | 1,031 | 9.53 | 5 | 1.82 | manh | – | Không | One Simple Trick That Fills Your Garden With Worms and Rich Soil |
+| 2026-06-12 | 157 | V8Z2qeFrOyM | 10,276 | 15 | 1,296 | 7.93 | 5 | 1.44 | manh | – | Không | The $2 Powder That Creates Endless Fertile Soil — An Old Monastery Method |
+| 2026-06-13 | 156 | CJ25U548al4 | 1,570 | 15 | 2,193 | 0.72 | 5 | 0.85 | binh_thuong | – | Không | Stop Watering Tomatoes This Way — It Could Cost You Half Your Harvest |
+| 2026-06-13 | 156 | 04GLRoISp2M | 789 | 15 | 1,570 | 0.50 | 5 | 2.27 | binh_thuong | – | Không | How to Really Get Rid of Ants in Your Garden: A Low-Cost Bait That Reaches the Queen |
+| 2026-06-14 | 155 | 7ixLSnd9e9k | 1,088,756 | 15 | 1,570 | 693 | 5 | 1.19 | can_kiem_ky | – | Không | My Neighbor's Weeding Secret — Weeds Vanished Almost Overnight |
+| 2026-06-14 | 155 | W2rM65tayXU | 1,872 | 15 | 2,193 | 0.85 | 5 | 1.63 | binh_thuong | – | Không | The Forgotten Oil Method Gardeners Use Against Aphids |
+| 2026-06-15 | 154 | ls4sHqYYKJ8 | 6,696 | 15 | 1,872 | 3.58 | 5 | 1.91 | dang_ghi | – | Không | Bring Dying Plants Back to Life! 21 Natural Fertilizers for Bigger Growth |
+| 2026-06-15 | 154 | a6Zkpf1vxwY | 1,080 | 15 | 1,872 | 0.58 | 5 | 1.91 | binh_thuong | – | Không | The 7 Rose Secrets Gardeners Wish They Had Learned Sooner |
+| 2026-06-16 | 153 | aHLGpjGX0gw | 3,568 | 15 | 1,872 | 1.91 | 5 | 2.14 | binh_thuong | – | Không | Even Dead Plants Exploded With Growth! Feed Your Garden This $0 Microbe Liquid |
+| 2026-06-16 | 153 | BFN63R9acRs | 1,797 | 15 | 2,379 | 0.76 | 5 | 2.11 | binh_thuong | – | Không | 8 Fast-Growing Fruit Plants Perfect for Pots and Small Spaces |
+| 2026-06-17 | 152 | PhUhGGoo7X4 | 103,724 | 15 | 2,379 | 43.60 | 5 | 1.81 | can_kiem_ky | – | Không | Pour This Around Your Garden — Ants Won't Come Back |
+| 2026-06-17 | 152 | UtatDuW-ArY | 5,027 | 15 | 3,546 | 1.42 | 5 | 1.22 | binh_thuong | – | Không | Just 1 Teaspoon From the Kitchen and Aphids Disappear Within 48 Hours |
+| 2026-06-18 | 151 | z8BaPcu8Gb4 | 1,630 | 15 | 3,568 | 0.46 | 4 | – | binh_thuong | – | Không | The Amish Sell This Backyard Weed for $40 a Pound — Most People Walk Right Past It |
+| 2026-06-18 | 151 | iy6q-vGy6Ik | 4,007 | 15 | 3,546 | 1.13 | 3 | – | binh_thuong | – | Không | Soak Dead Soil in This $1 Brew Overnight — Watch Microbes Explode by Morning |
+| 2026-06-19 | 150 | H9chTbfjEac | 8,276 | 15 | 3,568 | 2.32 | 2 | – | hoi_cao | – | Không | 5 Powerful Natural Fertilizers That Help Plants Recover and Thrive |
+| 2026-06-19 | 150 | UTy3PY-b1Ik | 4,312 | 15 | 4,007 | 1.08 | 1 | – | binh_thuong | – | Không | The 7 Natural Secrets Gardeners Use Against Aphids and Ants |
+| 2026-06-24 | 145 | GZF1FOSG0_I | 8,169 | 15 | 4,007 | 2.04 | 0 | – | hoi_cao | – | Không | Do This and Get More Fruit Than Ever Before |

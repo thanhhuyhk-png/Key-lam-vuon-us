@@ -1,0 +1,139 @@
+# Đo kênh: UCdyG3WX1yILqhYHe3EK4bQw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 107 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 404 |
+| n_trong_danh_sach | 89 |
+| n_dai | 89 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 321,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-18 |
+| n_ngoai_cua_so | 18 |
+| so_hoi_vien | 11 |
+| trung_vi_20_dai | 12,447 |
+| cao_nhat | 143,059 |
+| thap_nhat | 5,623 |
+| phan_tan | 11.49 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.04 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.64 |
+| ngay_video_dau | 2025-11-01 |
+| tuoi_tu_video_dau | 380 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 845 |
+| sub_moi_video | 795 |
+| video_30_ngay | 28 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** HOI_VIEN, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-11-01 | 380 | oMV0bdRZeJg | 5,738 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Money Game Is Rigged (And Here's How to Win Anyway) |
+| 2025-11-16 | 365 | svhIEhGPiW4 | 29,928 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Why 0.1 Bitcoin Will Soon Be Impossible to Afford |
+| 2025-11-16 | 365 | XWS1xW-DBwg | 542 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | They Already Have The CBDC Plan—They Just Need The Crisis |
+| 2025-11-17 | 364 | BxsQY5FVYLQ | 689 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Capitalism's Final Days—The New System Is Already Here |
+| 2025-11-18 | 363 | q2WxhxUguxY | 1,247 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Escaping the Rat Race Isn't About Money!  (It's About Control) |
+| 2025-11-19 | 362 | GVonfnhOigc | 6,873 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Bitcoin: The Truth Most People STILL Don't Understand |
+| 2025-11-21 | 360 | DC3N4WePU7U | 1,065 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 8 Reasons Bitcoin Destroys Gold (And It's Not Even Close) |
+| 2025-11-22 | 359 | f1Esz9b2TFM | 27,544 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Crypto Collapse  $1 Trillion Lost — Bitcoin's Secret Reset Begins |
+| 2026-08-18 | 90 | 0orbaejeuTg | 143,065 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Your AC Isn't Dead — A $1 Bottle Fixes It In |
+| 2026-08-20 | 88 | tZcPGZoIOoM | 4,264 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Water Heater That Cuts Your Hot Water Bill by HALF, and the Catch |
+| 2026-08-20 | 88 | r9LX6iAQx5o | 54,681 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Windshield Washer Is a Total Scam! Make Blue Gold for 10 Cents |
+| 2026-08-22 | 86 | Xm3sDp77tb8 | 6,071 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Secret to Saving $1,000 a Month: 20 Habits You Need to Know |
+| 2026-08-23 | 85 | b8bPKtCeU4Y | 53,771 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The $1 Broom Trick That Picks Up Hair Your Vacuum Misses |
+| 2026-08-24 | 84 | U7xeOQFxWCI | 11,508 | 5 | 53,771 | 0.21 | 5 | 0.20 | binh_thuong | – | Không | Your Power Tool Battery Is Secretly PROGRAMMED To Kill Itself — Here's How To Revive It |
+| 2026-08-25 | 83 | pFy3IbSmTOM | 10,461 | 6 | 32,640 | 0.32 | 5 | 0.33 | binh_thuong | – | Không | Cook Dinner With the Stove Off — The $0 Haybox That Runs All Night! |
+| 2026-08-25 | 83 | mb9GQcfjHSU | 8,605 | 7 | 11,508 | 0.75 | 5 | 1.01 | binh_thuong | – | Không | Don't Let Thieves Steal Your Car! Turn On Fob Sleep Mode NOW |
+| 2026-08-26 | 82 | wDmgq85_pw8 | 11,596 | 8 | 10,984 | 1.06 | 5 | 0.98 | binh_thuong | – | Không | Exterminators Charge $300 to Kill Rats — This $2 Trick Works Better! |
+| 2026-08-27 | 81 | CLfHnsuL3io | 15,843 | 9 | 11,508 | 1.38 | 5 | 0.93 | binh_thuong | – | Không | My Neighbor's Router Was Hacked By Russia. Here's How To Stop It (FREE) |
+| 2026-08-28 | 80 | 8BbwczG0qas | 10,716 | 10 | 11,552 | 0.93 | 5 | 1.11 | binh_thuong | – | Không | The Old Timer's Secret to Keeping Snakes Out of Your Yard |
+| 2026-08-29 | 79 | uqrT5JhhLJ0 | 7,609 | 11 | 11,508 | 0.66 | 5 | 1.12 | binh_thuong | – | Không | Smart Homeowners Are Dropping a Four Dollar Tablet in Their GUTTERS |
+| 2026-08-30 | 78 | HDteWouov-w | 12,863 | 12 | 11,112 | 1.16 | 5 | 0.91 | binh_thuong | – | Không | Your Cutting Boards Are Dying Without This $2 Trick |
+| 2026-08-31 | 77 | D3oClC38Imk | 6,585 | 13 | 11,508 | 0.57 | 5 | 1.34 | binh_thuong | – | Không | Nobody Waterproofs Boots Like This Anymore (And That's a Mistake) |
+| 2026-09-01 | 76 | O6hdwX92x_4 | 15,415 | 14 | 11,112 | 1.39 | 5 | 2.24 | binh_thuong | – | Không | Your Flour Is Already Infested — Do This Before It Hatches (Not Bleach) |
+| 2026-09-02 | 75 | UXjc5j_GQh8 | 251,861 | 15 | 11,508 | 21.89 | 5 | 1.64 | can_kiem_ky | – | Không | Solar Installers Charge $20,000 — This $200 System Just Plugs Into the Wall |
+| 2026-09-03 | 74 | knSCreW2qYc | 10,149 | 15 | 11,508 | 0.88 | 5 | 2.17 | binh_thuong | – | Không | The Home Insurance Trick That Cuts Your Bill in Half |
+| 2026-09-04 | 73 | 8EGOtIFOtRs | 8,736 | 15 | 11,508 | 0.76 | 5 | 2.17 | binh_thuong | – | Không | Why You Should Plant These 15 in Fall to Grow Under This Winter |
+| 2026-09-05 | 72 | MM2-HgJ3pgs | 24,942 | 15 | 10,716 | 2.33 | 5 | 1.77 | hoi_cao | – | Không | Why I Switched to a DIY Waste Oil Stove — Free Heat All Winter Long |
+| 2026-09-06 | 71 | 2OKChhjK7tE | 316,366 | 15 | 11,508 | 27.49 | 5 | 1.30 | can_kiem_ky | – | Không | The Secret Ingredient in Your $8 Magic Sponge |
+| 2026-09-07 | 70 | 0NSk9lRNmlk | 18,930 | 15 | 11,508 | 1.64 | 5 | 1.30 | binh_thuong | – | Không | No Electricity? No AC? This $3 Bottle Cooler Drops the Room 15 Degrees! |
+| 2026-09-08 | 69 | P9geYWKsO0s | 71,264 | 15 | 11,596 | 6.15 | 5 | 1.14 | manh | – | Không | I'll Never Buy Expensive Ice Cream Again (4 Ingredients) |
+| 2026-09-10 | 67 | qmvWpiHxHFc | 15,015 | 15 | 12,863 | 1.17 | 5 | 1.00 | binh_thuong | – | Không | Kills Ants, Fleas, and Silverfish for $3? It's Not a Myth! |
+| 2026-09-10 | 67 | V6Z37BFk9Uo | 9,338 | 15 | 15,015 | 0.62 | 5 | 0.86 | binh_thuong | – | Không | I Stopped Buying Garlic Bread After Trying This $2.50 No-Knead Trick |
+| 2026-09-11 | 66 | 5VFidPrTLRw | 12,891 | 15 | 15,015 | 0.86 | 5 | 0.86 | binh_thuong | – | Không | The Pillow Truth: Why You Should Wash or Rebuild Them Tonight |
+| 2026-09-11 | 66 | ZEkLqBYLRIE | 175,703 | 15 | 12,891 | 13.63 | 5 | 0.88 | can_kiem_ky | – | Không | Stop Paying $200 to Clean Your Dryer Vent — This $31 Kit Does It in 30 Minutes! |
+| 2026-09-12 | 65 | gU-9LIj9bvI | 13,249 | 15 | 15,015 | 0.88 | 5 | 0.76 | binh_thuong | – | Không | What to Buy in September to Save Money on Groceries All Year Round |
+| 2026-09-13 | 64 | VU26RqrC57o | 9,558 | 15 | 15,015 | 0.64 | 5 | 0.86 | binh_thuong | – | Không | Is Your Laptop Battery Ruined? The Simple Fix You Need |
+| 2026-09-13 | 64 | 7oDAM2F0_M4 | 11,362 | 15 | 15,015 | 0.76 | 5 | 1.09 | binh_thuong | – | Không | No Fridge? No Problem: How to Keep Eggs Fresh for 12 Months |
+| 2026-09-14 | 63 | QikR1Qc48i4 | 12,962 | 15 | 15,015 | 0.86 | 5 | 1.11 | binh_thuong | – | Không | Don't Throw Away That Remote! Try This Hidden Phone Camera Hack First |
+| 2026-09-15 | 62 | 03Bxai6_7qA | 6,445 | 15 | 13,249 | 0.49 | 5 | 1.26 | binh_thuong | – | Không | 🚨 WARNING: Potting Mix Can Put You in Hospital  - The Secret Health Risk Hiding in Your Potting Soil |
+| 2026-09-15 | 62 | IVeOlFswsBQ | 185,259 | 15 | 12,962 | 14.29 | 5 | 1.29 | can_kiem_ky | – | Không | Why Are You Still Buying Cream Cheese? Make It at Home for Pennies! |
+| 2026-09-17 | 60 | fyAo67Fuc4A | 16,366 | 15 | 13,249 | 1.24 | 5 | 1.30 | binh_thuong | – | Không | This $4 Hack Clears Every Spider From Your House |
+| 2026-09-17 | 60 | JaDbp6kBuT4 | 17,269 | 15 | 15,015 | 1.15 | 5 | 1.11 | binh_thuong | – | Không | I Built a $30 Water Heater That Runs on Sunlight |
+| 2026-09-18 | 59 | W28BsAEedWY | 16,666 | 15 | 15,015 | 1.11 | 5 | 0.86 | binh_thuong | – | Không | The 3-Ingredient Pancake Hack That Saves You Money |
+| 2026-09-19 | 58 | 0i31DiOYD8M | 12,855 | 15 | 15,015 | 0.86 | 5 | 0.82 | binh_thuong | – | Không | Fixing a Stripped Screw: The Quickest Method You Haven't Tried Yet |
+| 2026-09-19 | 58 | HyQQzmi37GE | 46,814 | 15 | 13,249 | 3.53 | 5 | 0.91 | dang_ghi | – | Không | Only $2! The Best DIY Grease Remover You Need to Try |
+| 2026-09-20 | 57 | rX8BTifyBc8 | 26,940 | 15 | 13,249 | 2.03 | 5 | 0.91 | hoi_cao | – | Không | The 6-Brick Rocket Stove: Why You Need This in Your Backyard |
+| 2026-09-21 | 56 | tEslxUKBZ90 | 11,526 | 15 | 13,249 | 0.87 | 5 | 0.92 | binh_thuong | – | Không | The Air Freshener Refill Secret You Need to Know: Save Money and Reduce Waste |
+| 2026-09-22 | 55 | _NqXs1RQh4Y | 11,671 | 15 | 13,249 | 0.88 | 5 | 1.14 | binh_thuong | – | Không | I Tried All 9 Secret Roku Codes — Here’s What Happened |
+| 2026-09-23 | 54 | tQRna5AR83g | 12,239 | 15 | 13,249 | 0.92 | 5 | 1.54 | binh_thuong | – | Không | The FREE Poor Man’s Security Camera Hack That Makes $1,500 Systems Look STUPID |
+| 2026-09-24 | 53 | nMWrhiVWAMQ | 12,078 | 15 | 12,962 | 0.93 | 5 | 1.58 | binh_thuong | – | Không | The Secret to Cheap Coffee Syrup: 5 Flavors You Can Make Today |
+| 2026-09-25 | 52 | Fe1utS9LM0c | 15,061 | 15 | 12,855 | 1.17 | 5 | 2.50 | binh_thuong | – | Không | Why You Should Never Pay For Headlight Cleaning Again! |
+| 2026-09-27 | 50 | 5zHEkSNbVoM | 32,137 | 15 | 12,962 | 2.48 | 5 | 1.58 | hoi_cao | – | Không | The Secret to Never Buying Paper Towels Again |
+| 2026-09-29 | 48 | ci_XhEGEtoc | 20,469 | 15 | 15,061 | 1.36 | 5 | 0.66 | binh_thuong | – | Không | Never Freeze in Your Apartment Again — This $20 Indoor HEAT Hack Is UNBELIEVABLE! |
+| 2026-09-30 | 47 | MxXQcQCsTLU | 129,747 | 15 | 16,366 | 7.93 | 5 | 0.61 | manh | – | Không | The World's Healthiest Jam — Made in 10 Minutes, No Sugar Bomb! |
+| 2026-10-01 | 46 | gga9oVc4w6g | 9,175 | 15 | 16,666 | 0.55 | 5 | 0.78 | binh_thuong | – | Không | You Might Be RICH — Check Your Wallet RIGHT NOW for These Coins! |
+| 2026-10-02 | 45 | SxR55eNdcYg | 56,475 | 15 | 16,366 | 3.45 | 5 | 0.63 | dang_ghi | – | Không | Your Washer Seal Is Growing Black Mold — Here's the $3 Fix |
+| 2026-10-05 | 42 | ErAxSJ0CYn0 | 6,759 | 15 | 16,666 | 0.41 | 5 | 0.62 | binh_thuong | – | Không | Get Emergency Water From Your Water Heater: It's Easier Than You Think |
+| 2026-10-05 | 42 | TdEwT47UfXk | 9,922 | 15 | 15,061 | 0.66 | 5 | 0.69 | binh_thuong | – | Không | The Setting Cheap TVs Beg You to Leave ON — KILL It and Double the Life |
+| 2026-10-06 | 41 | aOwGouWvH5w | 143,059 | 15 | 12,855 | 11.13 | 5 | 0.66 | can_kiem_ky | – | Không | Your Swiffer Is a Subscription Trap — Here's How to Never Buy a Refill Again |
+| 2026-10-07 | 40 | 2m4OHzBJzP8 | 12,986 | 15 | 15,061 | 0.86 | 5 | 0.56 | binh_thuong | – | Không | This Kitchen Filter Is a Grease Fire Risk — Clean It in 10 Minutes |
+| 2026-10-07 | 40 | KHVcW7USGiI | 10,346 | 15 | 12,986 | 0.80 | 5 | 0.65 | binh_thuong | – | Không | Your Car Has a Hidden Filter — Dealers Charge Up to $150 to Change It |
+| 2026-10-08 | 39 | YodKCsERqdE | 5,623 | 15 | 12,239 | 0.46 | 5 | 0.72 | binh_thuong | – | Không | Fix a Wobbly Chair With a Toothpick — The Old Carpenter Trick |
+| 2026-10-09 | 38 | LsCpTS9_8xg | 7,304 | 15 | 12,239 | 0.60 | 5 | 1.00 | binh_thuong | – | Không | What's Hiding In Your Ice Chute? The Shocking Truth Revealed! |
+| 2026-10-10 | 37 | knHpGt5i3iE | 8,485 | 15 | 12,239 | 0.69 | 5 | 1.03 | binh_thuong | – | Không | You Won't Believe What This Old Glue Gun Can Do! |
+| 2026-10-12 | 35 | iKkq8rBnvig | 8,838 | 15 | 12,078 | 0.73 | 5 | 1.04 | binh_thuong | – | Không | Your Mattress Is Gassing You — Here Is How to Stop It |
+| 2026-10-14 | 33 | Pkx29PIJh6E | 13,182 | 15 | 10,346 | 1.27 | 5 | 1.19 | binh_thuong | – | Không | Don't Buy A New Rain Jacket — Do This Instead |
+| 2026-10-15 | 32 | -bKzox2KcpY | 42,489 | 15 | 10,346 | 4.11 | 5 | 1.03 | dang_ghi | – | Không | Why Your Dryer Takes Forever (And How to Fix It for Free) |
+| 2026-10-16 | 31 | 9-HbsUXvU78 | 12,281 | 15 | 10,346 | 1.19 | 5 | 1.03 | binh_thuong | – | Không | Stop Throwing Out Butter!  Turn It Into a Fat That Lasts Years! |
+| 2026-10-17 | 30 | HLr-D3dUzIo | 12,613 | 15 | 10,346 | 1.22 | 5 | 0.88 | binh_thuong | – | Không | How I Got Endless Hot Water from a Pile of Wood Chips |
+| 2026-10-18 | 29 | MuYG0KG5HWA | 4,885 | 15 | 10,346 | 0.47 | 5 | 1.03 | chua_chin | – | Không | The $8 Sunscreen That Works Better Than the $40 One |
+| 2026-10-20 | 27 | TmL33eYQpzE | 10,643 | 15 | 10,346 | 1.03 | 5 | 0.88 | chua_chin | – | Không | The $7 Fruit Leather Is A Lie — Make The Real Thing For Pennies |
+| 2026-10-21 | 26 | wmnhm6H54yU | 9,103 | 15 | 10,346 | 0.88 | 5 | 1.15 | chua_chin | – | Không | Why Are You Still Buying That $7 Jar? Make It From Seeds! |
+| 2026-10-23 | 24 | 8rAtHxCLiF4 | 258,200 | 15 | 10,346 | 24.96 | 5 | 0.94 | chua_chin | – | Không | Never Buy Bouillon Again — This $1 Pantry Powder Makes 5 Different Broths |
+| 2026-10-24 | 23 | 1pvsRzywQVA | 6,541 | 15 | 10,643 | 0.61 | 5 | 0.91 | chua_chin | – | Không | 10 Real Meals I Make in a Blender When I Can’t Face the Dishes. |
+| 2026-10-24 | 23 | cegVibcqcZ4 | 11,891 | 15 | 10,346 | 1.15 | 5 | 0.92 | chua_chin | – | Không | Why You Should Never Use the Self-Clean Setting on Your Oven |
+| 2026-10-26 | 21 | ls3_2cQhwB4 | 8,347 | 15 | 10,346 | 0.81 | 5 | 0.94 | chua_chin | – | Không | The Hidden Cost of Your Printer Ink (And How to Fix It) |
+| 2026-10-26 | 21 | XsZxIQUfxxI | 23,628 | 15 | 9,103 | 2.60 | 5 | 1.05 | chua_chin | – | Không | This $4 Rod Replaces 6 Things You're Still Buying |
+| 2026-10-28 | 19 | mlgnilbQswQ | 9,704 | 15 | 10,643 | 0.91 | 5 | 0.90 | chua_chin | – | Không | Never Buy Store-Bought Root Dye Again |
+| 2026-10-28 | 19 | JklYX43452E | 8,578 | 15 | 10,643 | 0.81 | 5 | 0.90 | chua_chin | – | Không | Your Chainsaw Chain Isn’t Worn Out — This $5 Fix Makes It Cut Like New |
+| 2026-10-29 | 18 | JUVRCwtRUUo | 9,542 | 15 | 10,643 | 0.90 | 5 | 0.84 | chua_chin | – | Không | Why You're Overpaying for Gravy Packets — Try This $1 Hack |
+| 2026-10-30 | 17 | XmisuQiWpZ4 | 10,727 | 15 | 10,643 | 1.01 | 5 | 0.84 | chua_chin | – | Không | Your Windows Are Sweating — The $4 Fix Is Already in the House |
+| 2026-10-31 | 16 | WgNd3w-a25s | 8,361 | 15 | 10,643 | 0.79 | 5 | 0.84 | chua_chin | – | Không | The Easiest Way To Mouse-Proof Your Home For Cheap |
+| 2026-11-01 | 15 | CaPW2g3xhcw | 10,524 | 15 | 9,704 | 1.08 | 5 | 0.82 | chua_chin | – | Không | They Don't Want You To Know About Backyard Eggs! |
+| 2026-11-02 | 14 | PP8UwfgWd_c | 7,357 | 15 | 9,704 | 0.76 | 5 | 0.82 | chua_chin | – | Không | Stink Bugs Are Invading Your House: Here Is The Fastest Way To Stop Them |
+| 2026-11-04 | 12 | PBdI3XLIO_Q | 8,932 | 15 | 9,542 | 0.94 | 5 | 0.84 | chua_chin | – | Không | Why You Need to Plant Grocery Store Garlic This Fall |
+| 2026-11-04 | 12 | YquaoFjZDig | 13,418 | 15 | 9,542 | 1.41 | 5 | 0.83 | chua_chin | – | Không | Bake Baking Soda for 1 Hour—It Becomes a Different Cleaner |
+| 2026-11-06 | 10 | H3Fa3KkGrCU | 7,979 | 15 | 9,542 | 0.84 | 5 | 0.72 | chua_chin | – | Không | Stop Buying Drano!  Match the Fix to the Clog Instead.. |
+| 2026-11-06 | 10 | C4Dn9sfzdh8 | 7,919 | 15 | 9,542 | 0.83 | 5 | 0.50 | chua_chin | – | Không | Don't Waste Money on 'Miracle' Heaters: What You Need to Know |
+| 2026-11-08 | 8 | ahYeoE0DoCg | 6,825 | 15 | 8,932 | 0.76 | 5 | 0.53 | chua_chin | – | Không | Stop Buying Coffee Creamer — This Jar Costs Pennies a Cup |
+| 2026-11-08 | 8 | A1Der2TV9Zg | 14,687 | 15 | 8,932 | 1.64 | 5 | 0.50 | chua_chin | – | Không | The 2 Ingredients OxiClean Doesn't Want You to Know |
+| 2026-11-09 | 7 | CAjeTw45p1A | 4,438 | 15 | 8,932 | 0.50 | 5 | 0.42 | chua_chin | – | Không | If You See This 'M' Mark, You Have an Infestation |
+| 2026-11-10 | 6 | xnww380IHjs | 4,755 | 15 | 8,932 | 0.53 | 5 | 0.37 | chua_chin | – | Không | Dangerous Levels of Lead? 23 Dark Chocolate Brands Exposed |
+| 2026-11-11 | 5 | 0L5mKrM4KKg | 3,294 | 15 | 8,578 | 0.38 | 4 | – | chua_chin | – | Không | 🎁 Before You Buy a Single Christmas Gift.. Set This Free Price Alert! |
+| 2026-11-12 | 4 | uuNxbWI8IpY | 6,384 | 15 | 8,361 | 0.76 | 3 | – | chua_chin | – | Không | Don't Buy A Generator Until You Watch This: Use Your CAR Instead! |
+| 2026-11-13 | 3 | tKI_ABg-73I | 3,054 | 15 | 7,979 | 0.38 | 2 | – | chua_chin | – | Không | Before You Replace Your Nonstick Pan, Try These 3 Cheap Ingredients |
+| 2026-11-14 | 2 | zHDLg71TRDM | 3,757 | 15 | 7,919 | 0.47 | 1 | – | chua_chin | – | Không | The Last Razor You Will Ever Need To Buy |
+| 2026-11-15 | 1 | 50KAiGjX6Nk | 208 | 15 | 7,357 | 0.03 | 0 | – | chua_chin | – | Không | Why You Have Been Brewing Coffee The Wrong Way |

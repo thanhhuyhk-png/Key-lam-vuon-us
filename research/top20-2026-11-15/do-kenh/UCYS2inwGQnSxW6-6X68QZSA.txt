@@ -1,0 +1,150 @@
+# Đo kênh: UCYS2inwGQnSxW6-6X68QZSA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 314 |
+| n_trong_danh_sach | 106 |
+| n_dai | 100 |
+| n_short | 6 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 5,780 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-11-04 |
+| n_ngoai_cua_so | 25 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 382 |
+| cao_nhat | 164,948 |
+| thap_nhat | 82 |
+| phan_tan | 432 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.07 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.89 |
+| ngay_video_dau | 2025-03-29 |
+| tuoi_tu_video_dau | 597 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 9.68 |
+| sub_moi_video | 18.41 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.02 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, NHIEU_VIDEO_CUNG_NGAY
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-03-29 | 597 | NVxxCnAKykA | 13 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Myths About Natural Healing |
+| 2025-04-07 | 588 | yIOPkGEG_6A | 8 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Herbal Remedies for Cough & Congestion That ACTUALLY Work \| Ginger, Honey & More! |
+| 2025-04-14 | 581 | PMFiCHoah70 | 9 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Stop Hair Loss Naturally & Boost Growth Fast  5 Herbal Secrets Revealed |
+| 2025-04-26 | 569 | eO16007RU8A | 15 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 7 Herbs to Ease Menopause |
+| 2025-05-09 | 556 | kwn0C7-QcH8 | 44 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | This 1 Ingredient Revives Dead Soil — The Natural Amish Way! |
+| 2025-05-23 | 542 | zjn_Tgp0D10 | 28 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 8 Anti Inflammatory Foods You Must Eat! |
+| 2025-07-05 | 499 | KRyNR2Nlxtg | 20 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 6 Superfoods You Must Eat |
+| 2025-07-05 | 499 | QxAxQ8xad1g | 48 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Stop throwing away avocado seeds |
+| 2025-11-04 | 377 | JLwhx-XJNxw | 18 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | This SECRET Liquid Will Make Your Plants EXPLODE with Growth! 🌱 Seaweed Fertilizer Magic |
+| 2025-11-05 | 376 | _Mg7UeX3iSI | 63 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Pour THIS Over Dry Leaves and Watch Them Turn Into Compost in DAYS! |
+| 2025-11-07 | 374 | ky8yRWhcaqw | 685 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Just 3 Ingredients and 24 Hours for the Best Garden of Your Life! Instant Fertility Booster |
+| 2025-11-07 | 374 | xApaS6GR_5U | 16 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | One Scoop of This, and My Garden Exploded Like Wow |
+| 2025-11-08 | 373 | Sm6QiQ9Xwr0 | 262 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How 5 Hidden Minerals Triple Your Harvest That Fertilizer Never Provides |
+| 2025-11-09 | 372 | OgeTmyqotM8 | 1,336 | 5 | 63 | 21.21 | 5 | 4.33 | can_kiem_ky | – | Không | You Need To Try This Amish Soil TRICK for Weed Free Gardens 🌱 |
+| 2025-11-09 | 372 | EArolbZ1Pi0 | 116 | 6 | 162 | 0.71 | 5 | 1.68 | binh_thuong | – | Không | This Homemade Spray EXPELS 99.7% of Garden Pests Instantly! Aphids, Ants, Whiteflies & Mealybugs GON |
+| 2025-11-09 | 372 | btQY64qlA08 | 29 | 7 | 116 | 0.25 | 5 | 2.77 | binh_thuong | – | Không | 20 Most Productive Crops You Must Plant This November Before It’s Too Late! |
+| 2025-11-10 | 371 | BYi8Cu9SW3Y | 273 | 8 | 89.50 | 3.05 | 5 | 3.59 | dang_ghi | – | Không | I Stopped Using Fertilizer and Tried Pulverized Rice — and My Garden THANKED Me! 🌾 |
+| 2025-11-12 | 369 | W-Z6D3OPwPA | 993 | 9 | 116 | 8.56 | 5 | 0.58 | manh | – | Không | Bigger Worms, Richer Soil: The Rice Secret Gardeners Swear By! |
+| 2025-11-13 | 368 | NsI5HS50GVw | 321 | 10 | 189 | 1.70 | 5 | 0.35 | binh_thuong | – | Không | Stop Digging Clay Soil! Amish Secret Turns Hard Dirt Into Black Gold FAST |
+| 2025-11-14 | 367 | LnWSsJxsS20 | 31 | 11 | 262 | 0.12 | 5 | 0.26 | binh_thuong | – | Không | Enrich Soil for 1000 Years! These Ancient Zero Cost Hacks for Microbes Rich Soil in DAYS! |
+| 2025-11-14 | 367 | HnTex9u7grU | 383 | 12 | 189 | 2.03 | 5 | 0.28 | hoi_cao | – | Không | These 7 Perennial Herbs Come Back Stronger Every Year |
+| 2025-11-14 | 367 | 9TIViRT-Hoc | 53 | 13 | 262 | 0.20 | 5 | 0.19 | binh_thuong | – | Không | These 15 Natural Fertilizers Work Better Than Anything in Stores |
+| 2025-11-18 | 363 | qRkvb33z1W8 | 67 | 14 | 189 | 0.35 | 5 | 0.17 | binh_thuong | – | Không | Garden Pests FEAR These 15 Plants — Add Them TODAY! |
+| 2025-11-18 | 363 | 86grIx2hZ68 | 132 | 15 | 116 | 1.14 | 5 | 0.28 | binh_thuong | – | Không | STOP Using Manure! This December Soil Trick SHOCKED Me Tripled My Harvest! |
+| 2025-11-19 | 362 | M1icgMwupGI | 49 | 15 | 132 | 0.37 | 5 | 0.19 | binh_thuong | – | Không | How I Turned Dry Leaves Into Rich Compost Overnight — No Heat, No Waiting |
+| 2025-11-20 | 361 | 1mJtxJURxQ4 | 24 | 15 | 132 | 0.18 | 5 | 0.24 | binh_thuong | – | Không | I Stopped Using Mulch and My Soil TRANSFORMED Overnight |
+| 2025-11-20 | 361 | W9XBEP4rSg4 | 32 | 15 | 116 | 0.28 | 5 | 0.26 | binh_thuong | – | Không | 10 Miracle Plants Reviving America’s Dead Soil Faster Than Fertilizer! |
+| 2025-11-20 | 361 | l-baJS3z930 | 25 | 15 | 116 | 0.22 | 5 | 0.26 | binh_thuong | – | Không | 1 Spoon Kills Aphids, Mealybugs, Flies, and Ants in 10 Seconds — And You Already Have It! |
+| 2025-11-20 | 361 | X0r7qXqwri8 | 504 | 15 | 67 | 7.52 | 5 | 0.43 | manh | – | Không | The 5 Soil Minerals That Make Plants Explode With Growth in Just 30 Days |
+| 2025-11-21 | 360 | nFk5KJ97Imc | 13 | 15 | 67 | 0.19 | 5 | 0.43 | binh_thuong | – | Không | You Need To Try This Amish Soil Secret for Weed Free Gardens 🌱 |
+| 2025-11-21 | 360 | CY4mgdtPjvU | 37 | 15 | 53 | 0.70 | 5 | 0.49 | binh_thuong | – | Không | This Korean Soil Microbe Trick Fertilizer Companies Don't Want You To Know |
+| 2025-11-22 | 359 | G0rCNvNm5lU | 30 | 15 | 53 | 0.57 | 5 | 0.26 | binh_thuong | – | Không | Plant These 5 Seeds Once, Never Buy Mulch Again! |
+| 2025-11-23 | 358 | 6zqCCyECOts | 29 | 15 | 49 | 0.59 | 5 | 0.29 | binh_thuong | – | Không | One Bucket Turned My Garden Into a Jungle — Biochar Will Never Be the Same! |
+| 2025-11-23 | 358 | lkgmzHWobnY | 11 | 15 | 37 | 0.30 | 5 | 0.70 | binh_thuong | – | Không | 12 Shocking Cayenne Pepper Benefits Everyone Misses (Until It’s Too Late!) |
+| 2025-11-23 | 358 | qqxdkoKAzUI | 14 | 15 | 32 | 0.44 | 5 | 1.09 | binh_thuong | – | Không | This Forgotten Rock Made My Plants Explode With Growth |
+| 2025-11-23 | 358 | wvVpMmJZjZY | 26 | 15 | 32 | 0.81 | 5 | 1.53 | binh_thuong | – | Không | Attract These Beneficial Insects to Your Garden Tiny Architects Work for YOU |
+| 2025-11-23 | 358 | UlfKkFDRA7Q | 10 | 15 | 30 | 0.33 | 5 | 1.63 | binh_thuong | – | Không | Stop Throwing Out Kitchen Scraps—Make This Super Soil Instead 2025 Method |
+| 2025-11-26 | 355 | Oye-w_N06G4 | 162 | 15 | 29 | 5.59 | 5 | 1.69 | manh | – | Không | I Turned Frozen Leaves Into Black Gold in 7 Days—Copy This Winter Trick! |
+| 2025-11-26 | 355 | 2LpZ220Zg8s | 35 | 15 | 29 | 1.21 | 5 | 1.69 | binh_thuong | – | Không | 🔥 This 4-Ingredient Spray KILLS Garden Pests in 8 Seconds! - Homemade |
+| 2025-11-27 | 354 | CeCS1R36q84 | 49 | 15 | 29 | 1.69 | 5 | 3.07 | binh_thuong | – | Không | Your Garden Is Begging You to Stop Mulching With Compost |
+| 2025-12-07 | 344 | gU5EayQTwMs | 244 | 15 | 29 | 8.41 | 5 | 1.76 | manh | – | Không | 15 Proven Amish Techniques That Supercharge Your Growing Season |
+| 2025-12-07 | 344 | VzjBGziXU4Y | 37 | 15 | 30 | 1.23 | 5 | 1.70 | binh_thuong | – | Không | The Amish Pest Trick Modern Gardeners Are Shocked They Never Tried |
+| 2025-12-09 | 342 | RDlS97rEevU | 89 | 15 | 30 | 2.97 | 5 | 1.70 | hoi_cao | – | Không | Best Leaf Mold Secret Ever: Turn Fall Leaves Into Supercharged Garden Soil |
+| 2025-12-09 | 342 | cgPhjTq4kJ0 | 46 | 15 | 35 | 1.31 | 5 | 1.89 | binh_thuong | – | Không | The Organic BUG KILLER Only Few Farmers Know About! |
+| 2025-12-18 | 333 | 5ZQBL_f4Ik0 | 454 | 15 | 35 | 12.97 | 5 | 1.89 | can_kiem_ky | – | Không | One Plant Creates Infinite Fertilizer — Why Did We Stop Using It |
+| 2025-12-18 | 333 | qqC60Enl6Nk | 51 | 15 | 37 | 1.38 | 5 | 1.78 | binh_thuong | – | Không | STOP Buying Compost Activators — Try This Kitchen Ingredient |
+| 2025-12-18 | 333 | 6nqRcMcWb0A | 45 | 15 | 37 | 1.22 | 5 | 2.43 | binh_thuong | – | Không | Leaf Mold Is NOT What You Think… The Real Soil Supercharger Revealed |
+| 2025-12-31 | 320 | PgfDdirY158 | 848 | 15 | 45 | 18.84 | 5 | 2.00 | can_kiem_ky | – | Không | Try This Amish Soil TRICK for Weed Free Gardens 🌱 No Digging Or Chemicals |
+| 2026-01-01 | 319 | ZMaiNVbsDmg | 66 | 15 | 46 | 1.43 | 5 | 1.98 | binh_thuong | – | Không | Stop Digging Clay Soil – The Amish Method That Turns Hard Dirt Into Black Gold |
+| 2026-01-01 | 319 | gwcfIB9XQbM | 90 | 15 | 49 | 1.84 | 5 | 1.86 | binh_thuong | – | Không | This SUPER Plant Replaces Fertilizer Forever Why Did Farmers Using It |
+| 2026-01-02 | 318 | xJg6bBhlUkA | 62 | 15 | 51 | 1.22 | 5 | 1.78 | binh_thuong | – | Không | 1 Spoon Destroys Aphids, Mealybugs, and Ants Instantly –Big Garden Stores Don’t Want You Using |
+| 2026-01-04 | 316 | 8Wuy83sEqS8 | 2,963 | 15 | 62 | 47.79 | 5 | 0.94 | can_kiem_ky | – | Không | The Amish Soil Secret That Stops Weeds Without Pulling or Spraying |
+| 2026-01-04 | 316 | s6T4XJ3Y-r4 | 91 | 15 | 66 | 1.38 | 5 | 0.88 | binh_thuong | – | Không | This Rice Method Wakes Up Dead Soil and Pulls Worms In Fast |
+| 2026-01-05 | 315 | jDJ3P8hte4g | 311 | 15 | 66 | 4.71 | 5 | 0.88 | dang_ghi | – | Không | Dead Soil to Living Soil in Days Using This Ancient Liquid |
+| 2026-01-05 | 315 | AZsjkbUUHuw | 45 | 15 | 89 | 0.51 | 5 | 0.65 | binh_thuong | – | Không | Dead Soil to Living Earth in 72 Hours — The Worm Explosion No One Talks About |
+| 2026-01-05 | 315 | erGfBq_6pCE | 18 | 15 | 89 | 0.20 | 5 | 0.65 | binh_thuong | – | Không | This Plant Grows Without Permission — Here's Why! |
+| 2026-01-05 | 315 | Ob4lZgXR5Rc | 58 | 15 | 66 | 0.88 | 5 | 1.32 | binh_thuong | – | Không | This One Plant Fixes Nitrogen and Restores Tired Soil Naturally |
+| 2026-01-06 | 314 | LjKZKMzITZM | 87 | 15 | 66 | 1.32 | 5 | 1.74 | binh_thuong | – | Không | How I Control Garden Pests Without Spraying My Plants |
+| 2026-01-06 | 314 | eqFHnoObQu8 | 223 | 15 | 66 | 3.38 | 5 | 0.88 | dang_ghi | – | Không | I Quit Compost Piles—These 3 Methods Work Faster With Less Effort |
+| 2026-01-10 | 310 | q1yxts26UM0 | 36 | 15 | 87 | 0.41 | 5 | 1.32 | binh_thuong | – | Không | 13 Forgotten Vegetables That Grow Without Babysitting   They Grow Like Weeds |
+| 2026-01-11 | 309 | QmuTrS0FJBE | 30 | 15 | 66 | 0.45 | 5 | 1.74 | binh_thuong | – | Không | This 2 Ingredient Spray Kills Aphids, Ants & Caterpillars Instantly Most Get It Wrong |
+| 2026-01-11 | 309 | smeFnGIvTi4 | 115 | 15 | 66 | 1.74 | 5 | 1.50 | binh_thuong | – | Không | This Amish Soil Trick Builds Living Soil in 3 Days No Fertilizer Needed Ever Again |
+| 2026-01-15 | 305 | bgMDHkz6tIs | 36,752 | 15 | 87 | 422 | 5 | 0.76 | can_kiem_ky | – | Không | Pour THIS Over Dry Leaves and Watch Them Turn Into Compost in DAYS! |
+| 2026-01-17 | 303 | 3G1Jp5FbjSk | 58 | 15 | 87 | 0.67 | 5 | 0.76 | binh_thuong | – | Không | 90% of People Compost WRONG! Do THIS Instead for Faster, Better Soil |
+| 2026-01-17 | 303 | TwosKbKkViM | 129 | 15 | 87 | 1.48 | 5 | 0.69 | binh_thuong | – | Không | The Secret Liquid That Melts Leaves Into Compost in Just Days! |
+| 2026-01-18 | 302 | 2cnVW0QN-2o | 99 | 15 | 87 | 1.14 | 5 | 0.69 | binh_thuong | – | Không | Secret Rice Trick That Makes Worms EXPLODE & Supercharges Soil Life FAST! |
+| 2026-01-18 | 302 | iNM2J9ZuEVU | 66 | 15 | 91 | 0.73 | 5 | 0.66 | binh_thuong | – | Không | STOP WASTING COMPOST! This Fall Shortcut Fills Raised Beds Naturally No Compost Needed! |
+| 2026-01-20 | 300 | wtX9Ho0g4MI | 58 | 15 | 87 | 0.67 | 5 | 0.69 | binh_thuong | – | Không | 10 Vegetables That Grow Like Trees — Plant Once, Harvest For Decades |
+| 2026-01-20 | 300 | fzQc_0hItcQ | 60 | 15 | 66 | 0.91 | 5 | 1.35 | binh_thuong | – | Không | Bury This in Your Garden and Watch Earthworms Multiply Like Crazy |
+| 2026-01-20 | 300 | m16FYTDprxo | 37 | 15 | 60 | 0.62 | 5 | 4.85 | binh_thuong | – | Không | Pour THIS on Dry Leaves & Make Garden Compost in DAYS |
+| 2026-01-21 | 299 | klhMgnUhV8w | 89 | 15 | 60 | 1.48 | 5 | 5.17 | binh_thuong | – | Không | Old Soil Methods That Beat Compost Every Time Still Work Today |
+| 2026-01-21 | 299 | jnt80a6o-Ro | 291 | 15 | 66 | 4.41 | 5 | 14.15 | dang_ghi | – | Không | Bury This in Your Garden and Watch Earthworms Multiply Like Crazy |
+| 2026-01-22 | 298 | 3oIO8qQtb6w | 52 | 15 | 87 | 0.60 | 5 | 10.74 | binh_thuong | – | Không | What You Can Bury in Your Garden to Attract Earthworms Like Crazy |
+| 2026-01-22 | 298 | RKMrKwVn8yI | 934 | 15 | 66 | 14.15 | 5 | 4.70 | can_kiem_ky | – | Không | This Fermented Wood Ash Trick Makes Plants Grow CRAZY Fast |
+| 2026-01-22 | 298 | 6YEfYoxLVeQ | 310 | 15 | 66 | 4.70 | 5 | 3.88 | dang_ghi | – | Không | How to make Compost - The Simplest Easy Method To Compost Piles! |
+| 2026-01-23 | 297 | _Zw5wXPgglc | 2,811 | 15 | 89 | 31.58 | 5 | 2.70 | can_kiem_ky | – | Không | This Forgotten Cardboard Method Creates Humus FAST No Termites! |
+| 2026-01-24 | 296 | M-dDcwUtuY8 | 56,640 | 15 | 99 | 572 | 5 | 1.07 | can_kiem_ky | – | Không | Stop Filling Raised Beds with Compost—Use This Fall Shortcut Instead. |
+| 2026-01-24 | 296 | RZfBjdZNiyY | 240 | 15 | 99 | 2.42 | 5 | 1.07 | hoi_cao | – | Không | Don’t Throw Away Cardboard! This Simple Layering Hack Builds Humus Shockingly Fast |
+| 2026-01-25 | 295 | 5PZU4hC7WSY | 256 | 15 | 99 | 2.59 | 5 | 1.07 | hoi_cao | – | Không | This Ancient Liquid Revives Dead Soil Instantly - No Fertilizer Needed! |
+| 2026-01-26 | 294 | YFB8HO5taYE | 57 | 15 | 129 | 0.44 | 5 | 2.98 | binh_thuong | – | Không | The Homemade Spray Garden Pests Can’t Tolerate |
+| 2026-01-26 | 294 | lzEIcC-WAeI | 99 | 15 | 99 | 1.00 | 5 | 3.88 | binh_thuong | – | Không | Stop Throwing Away Vegetable Scraps! Turn Them into Powerful Fertilizer! |
+| 2026-01-26 | 294 | wutyrWUe-MU | 106 | 15 | 99 | 1.07 | 5 | 7.52 | binh_thuong | – | Không | One Spoon of Molasses Explodes Root Growth — Why Is This "Secret"? |
+| 2026-01-27 | 293 | LUpU-k9dt6o | 384 | 15 | 106 | 3.62 | 5 | 7.02 | dang_ghi | – | Không | How To Attract More Worms Into Your Garden Naturally |
+| 2026-01-28 | 292 | JWY9tZP5dnE | 840 | 15 | 240 | 3.50 | 5 | 3.10 | dang_ghi | – | Không | One Cup of Fermented Ash Makes Plants Grow CRAZY Fast — Why Is This Trick "Forbidden"? |
+| 2026-01-28 | 292 | 5IRmDXhPnXg | 64,185 | 15 | 256 | 251 | 5 | 1.47 | can_kiem_ky | – | Không | Why I’ll Never Make Compost Again: This Lazy Trick Works Better |
+| 2026-01-28 | 292 | 2lSldsm-oMw | 369 | 15 | 291 | 1.27 | 5 | 1.29 | binh_thuong | – | Không | This Secret Rice Trick Multiplies Worms Fast and Feeds Soil Microbes |
+| 2026-01-29 | 291 | OkRFxQ4FFTg | 744 | 15 | 310 | 2.40 | 5 | 1.21 | hoi_cao | – | Không | This Fermented Wood Ash Trick Makes Plants Grow CRAZY Fast! |
+| 2026-01-29 | 291 | 60Vz3pJrLoQ | 242 | 15 | 369 | 0.66 | 5 | 1.02 | binh_thuong | – | Không | Revive Dead Soil With These 10 Plants   No Chemicals Needed |
+| 2026-01-31 | 289 | rxrD6aWrl8s | 1,366 | 15 | 369 | 3.70 | 5 | 0.69 | dang_ghi | – | Không | This One Kitchen Scrap Attracts Worms Faster Than Compost Even Better Than Fertilizer |
+| 2026-02-02 | 287 | zNN0exV9d7U | 376 | 15 | 369 | 1.02 | 5 | 0.69 | binh_thuong | – | Không | The Japanese Soil Fermentation 'TRICK' That Grows Plants 3x Faster |
+| 2026-02-02 | 287 | 8olCu81rjk8 | 103 | 15 | 376 | 0.27 | 5 | 0.82 | binh_thuong | – | Không | Top 10 Money Saving Crops to Grow in Your Backyard Garden |
+| 2026-02-02 | 287 | f5mk0HcHOfo | 398 | 15 | 369 | 1.08 | 5 | 0.69 | binh_thuong | – | Không | This Ash Water Replaces Fertilizer, Fungicide, and Insecticide |
+| 2026-02-03 | 286 | 1X6CglFeAqE | 251 | 15 | 369 | 0.68 | 5 | 0.69 | binh_thuong | – | Không | Even DEAD Plants EXPLODED! Feed These $0 Microbe Liquid to Your Garden |
+| 2026-02-24 | 265 | uV-qh0056wc | 256 | 15 | 369 | 0.69 | 5 | 0.78 | binh_thuong | – | Không | Stop Wasting Compost in Raised Beds — The Amish Fall Method That Builds Soil for Years |
+| 2026-02-25 | 264 | kN7yJoHKEMg | 388 | 15 | 369 | 1.05 | 5 | 0.78 | binh_thuong | – | Không | This Simple Soil Pour Brings Worms Overnight and Rebuilds Soil Fast |
+| 2026-02-27 | 262 | LYzavjGpVDo | 309 | 15 | 376 | 0.82 | 5 | 0.76 | binh_thuong | – | Không | The Amish Potato Method That Grows 100 Pounds in 4 Square Feet |
+| 2026-02-27 | 262 | nZvubS_zUss | 184 | 15 | 376 | 0.49 | 5 | 0.76 | binh_thuong | – | Không | Why Amish Farmers Never Rototill Their Soil (And What They Do Instead) |
+| 2026-02-27 | 262 | QBQKucCKPxU | 82 | 15 | 376 | 0.22 | 5 | 1.33 | binh_thuong | – | Không | The Amish Secret to Keeping Pests Out of Your Garden Forever |
+| 2026-02-27 | 262 | L1wJH8N9qG4 | 286 | 15 | 369 | 0.78 | 5 | 1.54 | binh_thuong | – | Không | The "Illegal" Mulch That Triples Your Harvest. Why Don't They Teach This? |
+| 2026-02-28 | 261 | EwPfYArcV70 | 2,096 | 15 | 309 | 6.78 | 5 | 1.62 | manh | – | Không | Compost Is DEAD: Your Garden Needs THIS Alternative (Faster & Easier) |
+| 2026-03-01 | 260 | h2tocCPqm-w | 501 | 15 | 309 | 1.62 | 5 | 1.83 | binh_thuong | – | Không | This One Kitchen Scrap Attracts Worms Faster Than Compost (Even Better Than Fertilizer) |
+| 2026-03-12 | 249 | 5nsmJq5PVqo | 197 | 15 | 309 | 0.64 | 5 | 2.47 | binh_thuong | – | Không | Bury This Once and Your Soil Will Be Crawling With Earthworms |
+| 2026-03-13 | 248 | 8bNE7HkAB84 | 567 | 15 | 286 | 1.98 | 5 | 2.67 | binh_thuong | – | Không | How To Grow HUGE Tomatoes Using The $2 Secret No One Tells You About! |
+| 2026-03-15 | 246 | C0f0OB0FyYE | 164,948 | 15 | 309 | 534 | 4 | – | can_kiem_ky | – | Không | Better Than Fertilizer. Brings 1,000 Worms In 3 Days. Revives Dead Soil. Why Is It Hidden? |
+| 2026-03-16 | 245 | sV47fFit2UE | 213 | 15 | 309 | 0.69 | 3 | – | binh_thuong | – | Không | Even DEAD Plants EXPLODED! Feed These $0 Microbe Liquid to Your Garden. |
+| 2026-03-17 | 244 | srnNvEwYWlQ | 763 | 15 | 286 | 2.67 | 2 | – | hoi_cao | – | Không | This Liquid Decomposes Anything. No Bin Needed. Why Did Compost Companies Bury It? |
+| 2026-03-19 | 242 | iVLcVScjHPI | 805 | 15 | 309 | 2.61 | 1 | – | hoi_cao | – | Không | The Amish Composting Method That's Ready In 14 Days — Why Don't They Teach This? |
+| 2026-03-20 | 241 | kwJWYcdoqzA | 412 | 15 | 309 | 1.33 | 0 | – | binh_thuong | – | Không | The Amish Secret to Keeping Pests Out of Your Garden Forever |

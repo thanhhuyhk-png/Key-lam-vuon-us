@@ -1,0 +1,47 @@
+# Đo kênh: UCfwwESDZDsrkW7Dw6tCraGg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 26 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 27 |
+| n_trong_danh_sach | 26 |
+| n_dai | 3 |
+| n_short | 23 |
+| n_dai_dung_tinh | 3 |
+| nguong_tuoi_video | 14 |
+| subs | 84 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-21 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | – |
+| cao_nhat | – |
+| thap_nhat | – |
+| phan_tan | – |
+| so_video_tren_2x | – |
+| ty_le_tren_2x | – |
+| trung_vi_chia_sub | – |
+| ty_le_like_trung_vi | – |
+| da_trung_vi | – |
+| ngay_video_dau | 2026-08-21 |
+| tuoi_tu_video_dau | 87 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | – |
+| sub_moi_video | – |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.99 |
+| ty_trong_view_short_nguon | mau |
+| sub_moi_video_tho | 3.11 |
+| sub_moi_ngay_video_dau_tho | 0.97 |
+
+**Cờ:** TRUNG_VI_DUNG_VIDEO_TU_14_NGAY, KHONG_DU_VIDEO_DAI_DU_30_NGAY, NHIEU_SHORT, SUB_LAN_SHORTS
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-21 | 87 | fqqwDSYIt5c | 19 | 0 | – | – | 2 | – | – | it_hon_5_video_truoc | Không | 25 "Forbidden" Off-Grid Hacks Our Grandparents Used (That Still Work Today!) |
+| 2026-08-23 | 85 | S7Y7o7gkYHA | 10 | 1 | – | – | 1 | – | – | it_hon_5_video_truoc | Không | 20 Great Depression Life Hacks That Still Work Today — Forgotten Survival Tricks That Save Money |
+| 2026-09-07 | 70 | Gpc0Vs7wREM | 57 | 2 | – | – | 0 | – | – | it_hon_5_video_truoc | Không | 20 Poor Man Blackout Tricks That Beat Expensive Prepper Gear \| Power Outage Survival |

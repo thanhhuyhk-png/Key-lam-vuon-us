@@ -1,0 +1,150 @@
+# Đo kênh: UCHgKmdnGI_HSnwn5pbBddFQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 110 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 467 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 4,110 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-06-17 |
+| n_ngoai_cua_so | 10 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 314 |
+| cao_nhat | 2,152 |
+| thap_nhat | 118 |
+| phan_tan | 6.86 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.15 |
+| trung_vi_chia_sub | 0.08 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.60 |
+| ngay_video_dau | 2025-03-03 |
+| tuoi_tu_video_dau | 623 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 6.60 |
+| sub_moi_video | 8.80 |
+| video_30_ngay | 21 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-03-03 | 623 | hp8hXgK1vPE | 214 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | "25 Lost Depression-Era Foods That Saved Millions (Including Secret Meatloaf & Roast Recipes!)" |
+| 2025-03-05 | 621 | nQ1svTcnOqA | 304 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | "20 Depression-Era Foods That Saved Millions — Including Secret Meatloaf!" |
+| 2025-03-09 | 617 | KYQLjn5Px5k | 674 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | **"25 Vintage 1970s Recipes That Would NEVER Go Viral Today (But Were Everywhere!)"** |
+| 2025-03-19 | 607 | klqeaSux6UY | 365 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | "30 Lost Vegetables That Helped Sustain Millions Through World War II Hardships" |
+| 2025-04-08 | 587 | 7NsBGFoErmk | 412 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Depression-Era Church Recipes That Fed America — and Still Taste Amazing |
+| 2025-04-09 | 586 | CJ9o4f6kJjM | 92 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | "Outlawed on Today’s Menus: 1980s American Foods That Shocked the Nation!" |
+| 2025-04-11 | 584 | 8EGb9b_MtNA | 889 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | **"Eat Like It’s 1930! 25 Forgotten Depression Sandwiches That Kept Families Alive"**" |
+| 2025-04-14 | 581 | UfLMuvE7yKo | 1,169 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | "25 Forgotten Ground Beef Recipes Your Grandma Swore By!" |
+| 2026-06-17 | 152 | _4au5atUcHg | 165 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25  Lost Roadside Diner Meals From the 1960s That Vanished With the Highway |
+| 2026-06-19 | 150 | akphYUUzjhg | 133 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Iconic Dishes From Long Gone Train Stations That Fed America Before Airports Existed |
+| 2026-06-22 | 147 | yIiKNiyeFMQ | 168 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 30 Crisis Recipes You Should Learn BEFORE the Economy Gets Worse |
+| 2026-06-24 | 145 | 3E38Zru1FxU | 28 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 FORGOTTEN Poor Man Dishes From the 1700s No One Makes Anymore |
+| 2026-06-25 | 144 | _vVerInLHAg | 189 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Small Town Diner Breakfasts That VANISHED From America's Back Roads |
+| 2026-06-26 | 143 | uL4jaU04SV0 | 442 | 5 | 165 | 2.68 | 5 | 0.78 | hoi_cao | – | Không | 25 Forgotten One Skillet Dinners from the 1970s No One Makes Anymore! |
+| 2026-06-27 | 142 | 7EY_Ux5mYlo | 645 | 6 | 166 | 3.87 | 5 | 0.56 | dang_ghi | – | Không | 15 Betty Crocker's Abandoned Recipes Nobody Remembers Anymore |
+| 2026-06-28 | 141 | FN1X9eQBv9w | 777 | 7 | 168 | 4.62 | 5 | 0.56 | dang_ghi | – | Không | 25 Forgotten Church Recipes from the Great Depression You NEED to Try Now |
+| 2026-06-30 | 139 | gEt5pPcnW80 | 53 | 8 | 178 | 0.30 | 5 | 0.71 | binh_thuong | – | Không | 25 Sunday Dinners Every 1970s Family Loved but Nobody Makes Today |
+| 2026-07-01 | 138 | h3PME0I0Y2Q | 60 | 9 | 168 | 0.36 | 5 | 0.76 | binh_thuong | – | Không | 25 FORGOTTEN Woolworth's Lunch Counter Foods Nobody Serves Anymore ⭐ |
+| 2026-07-02 | 137 | qCk-XMEdKfE | 128 | 10 | 166 | 0.77 | 5 | 0.71 | binh_thuong | – | Không | 25 Forgotten Comfort Dinners from the 1950s No One Makes Anymore! |
+| 2026-07-03 | 136 | 05me2D-vxJI | 94 | 11 | 165 | 0.57 | 5 | 0.77 | binh_thuong | – | Không | 20 Forgotten Homemade Snacks From the '70s We Want Back |
+| 2026-07-03 | 136 | 8kiCydgE2lI | 127 | 12 | 149 | 0.85 | 5 | 0.92 | binh_thuong | – | Không | 30 Forgotten $1 Church Potluck Desserts From the 1950s Nobody Bakes Anymore |
+| 2026-07-04 | 135 | T94S8phm5v8 | 137 | 13 | 133 | 1.03 | 5 | 1.15 | binh_thuong | – | Không | 25 Forgotten Automat Meals From the 1950s That Fast Food Killed Forever |
+| 2026-07-05 | 134 | XZAWNdy9qLs | 61 | 14 | 135 | 0.45 | 5 | 1.13 | binh_thuong | – | Không | 30 Forgotten Betty Crocker Candies That Once Filled Every American Candy Dish NOBODY MAKES THESE!" |
+| 2026-07-06 | 133 | gHK6NOotE48 | 118 | 15 | 133 | 0.89 | 5 | 1.15 | binh_thuong | – | Không | 30 Old Betty Crocker Suppers from the 1960s NOBODY MAKES THESE! |
+| 2026-07-07 | 132 | JCSfcdHmMfY | 211 | 15 | 128 | 1.65 | 5 | 1.20 | binh_thuong | – | Không | 30 Old Betty Crocker Suppers Nobody Cooks Anymore |
+| 2026-07-11 | 128 | CywCmAiWVbU | 175 | 15 | 128 | 1.37 | 5 | 1.14 | binh_thuong | – | Không | 30 Forgotten Dinners From The 1970s That Have Faded Into History |
+| 2026-07-13 | 126 | 1FonBV0HhFs | 153 | 15 | 128 | 1.20 | 5 | 1.08 | binh_thuong | – | Không | 10 Famous Ice Cream Parlor Flavors That Vanished After the 1960s 🍨 \| Forgotten American Favorites |
+| 2026-07-15 | 124 | sL73uUCT0VM | 138 | 15 | 137 | 1.01 | 5 | 0.83 | binh_thuong | – | Không | 25 Forgotten Betty Crocker Icebox Desserts From The 1950s No One Makes Anymore |
+| 2026-07-16 | 123 | BaN3qmnL4f0 | 153 | 15 | 137 | 1.12 | 5 | 0.55 | binh_thuong | – | Không | 15 Forgotten 10-Minute Recipes You Could Only Find in Old Cookbooks! |
+| 2026-07-18 | 121 | j4ecrsBwjeo | 146 | 15 | 137 | 1.07 | 5 | 0.34 | binh_thuong | – | Không | 15 Easy Homemade Snacks From the 1970s No One Makes Anymore! |
+| 2026-07-19 | 120 | y_BcJ__ks9s | 76 | 15 | 137 | 0.55 | 5 | 0.34 | binh_thuong | – | Không | 15 Famous American Lunches That Have Faded Into History! |
+| 2026-07-20 | 119 | EGm6qcVJOz8 | 114 | 15 | 128 | 0.89 | 5 | 0.37 | binh_thuong | – | Không | 15 Depression-Era Foods That Vanished From American Family Tables |
+| 2026-07-21 | 118 | t1W6JskmFfg | 26 | 15 | 128 | 0.20 | 5 | 0.82 | binh_thuong | – | Không | 15 Forgotten Working Man's Dinners That Kept America Running |
+| 2026-07-22 | 117 | qIVEDo6oIsA | 47 | 15 | 128 | 0.37 | 5 | 0.83 | binh_thuong | – | Không | 🥇 15 Famous Food Traditions That Have FADED Into History! |
+| 2026-07-23 | 116 | v90jx-iho8k | 39 | 15 | 127 | 0.31 | 5 | 1.11 | binh_thuong | – | Không | 15 FORGOTTEN School Cafeteria Lunches From the 1960s That Vanished From American Schools |
+| 2026-07-25 | 114 | mdao2GyikBc | 105 | 15 | 127 | 0.83 | 5 | 1.11 | binh_thuong | – | Không | 15 Forgotten Crock-Pot Dinners from the 1970s No One Makes Anymore! |
+| 2026-07-26 | 113 | 7y8tVSZSx7s | 106 | 15 | 118 | 0.90 | 5 | 1.19 | binh_thuong | – | Không | 15 Forgotten American Dinners From the 1970s No One Makes Anymore! |
+| 2026-07-28 | 111 | PI6wCVizr5k | 141 | 15 | 114 | 1.24 | 5 | 0.59 | binh_thuong | – | Không | 15 Forgotten One-Skillet Dinners from the 1970s No One Makes Anymore! |
+| 2026-07-30 | 109 | qdH7FrywSFU | 210 | 15 | 118 | 1.78 | 5 | 0.49 | binh_thuong | – | Không | 10 Forgotten Crockpot Dinners from the 1970s No One Makes Anymore! |
+| 2026-07-31 | 108 | _tekHhSkuSQ | 145 | 15 | 138 | 1.05 | 5 | 0.38 | binh_thuong | – | Không | 20 Forgotten $1 Church Potluck Pies No One Passes Down Anymore |
+| 2026-08-02 | 106 | QmW-6p5JVDA | 58 | 15 | 138 | 0.42 | 5 | 0.38 | binh_thuong | – | Không | 25  Cheap 1930s Dishes Our Black Ancestors Ate To Survive/Forgotten recipies |
+| 2026-08-04 | 104 | KkVCfj00WMo | 29 | 15 | 114 | 0.25 | 5 | 0.59 | binh_thuong | – | Không | 15 Things Your Slow Cooker Can Do That Nobody Told You, Seniors Living Alone |
+| 2026-08-05 | 103 | P9U842YS43k | 67 | 15 | 106 | 0.63 | 5 | 0.49 | binh_thuong | – | Không | Forgotten Kitchen Wisdom: 20 Cheap Meals That Kept Families Fed |
+| 2026-08-06 | 102 | lrechBTODRU | 38 | 15 | 105 | 0.36 | 5 | 0.64 | binh_thuong | – | Không | 20 Cheap 1840s Meals Our Grandparents Ate To Survi |
+| 2026-08-06 | 102 | QVNmCLBxzgg | 52 | 15 | 76 | 0.68 | 5 | 0.95 | binh_thuong | – | Không | 20 FORGOTTEN Electric Skillet Dinners Every 1960s Housewife Knew! |
+| 2026-08-06 | 102 | K32fH7dY-R4 | 85 | 15 | 67 | 1.27 | 5 | 1.07 | binh_thuong | – | Không | 15 Forgotten Diner Sandwiches America Used to Order Every Day |
+| 2026-08-10 | 98 | n44ISuZ9mrM | 67 | 15 | 67 | 1.00 | 5 | 2.54 | binh_thuong | – | Không | 15 Forgotten Diner Sandwiches America Used to Order Every Day |
+| 2026-08-12 | 96 | -23YNPoGejo | 40 | 15 | 67 | 0.60 | 5 | 6.58 | binh_thuong | – | Không | BANNED: Poor Families' Cooking Tricks Scientists Now Say Were Genius! Explain By Dr. Robert Callahan |
+| 2026-08-17 | 91 | 7DECzqJJtzo | 72 | 15 | 67 | 1.07 | 5 | 6.58 | binh_thuong | – | Không | 12 Forgotten 2 Ingredient Dinners From the Great Depression Nobody Makes Anymore |
+| 2026-08-19 | 89 | jC1puuj8pt0 | 170 | 15 | 67 | 2.54 | 5 | 9.96 | hoi_cao | – | Không | 20 Vintage Slow Cooker Dinners We Stopped Making (But Shouldn't Have!) |
+| 2026-08-22 | 86 | HEyxzmkSock | 888 | 15 | 72 | 12.33 | 5 | 6.12 | can_kiem_ky | – | Không | My Grandfather’s 25 Appalachian Egg Tricks You’ve Never Heard Of |
+| 2026-08-25 | 83 | IDR0GYn06UM | 667 | 15 | 72 | 9.26 | 5 | 5.28 | manh | – | Không | 20 Great Depression Survival Meals We Should Never Forget (the most forgotten soup you've ever seen) |
+| 2026-08-27 | 81 | fqtMJZZvmIw | 441 | 15 | 72 | 6.12 | 5 | 5.28 | manh | – | Không | 15 FORGOTTEN Aluminum-Foil Dinners Every 1960s Mom Made When She Wanted No Cleanup Part #1 |
+| 2026-08-29 | 79 | KTso4G7JqcE | 329 | 15 | 72 | 4.57 | 5 | 5.28 | dang_ghi | – | Không | 15 Appalachian Cooking Tricks Grandma Never Wrote Down/Explained  by Dr. Robert Callahan |
+| 2026-08-31 | 77 | spBXWThZerA | 756 | 15 | 72 | 10.50 | 5 | 4.75 | can_kiem_ky | – | Không | 20 FORGOTTEN 9×13 Pan Dinners Every 1960s Mom Made For a Family to Feed |
+| 2026-09-02 | 75 | AHlkL1n8WH8 | 342 | 15 | 72 | 4.75 | 5 | 5.26 | dang_ghi | – | Không | Try These 15 Appalachian Tricks—STOP Boiling & Frying Eggs The OLD WAY! |
+| 2026-09-04 | 73 | 3MCbxBygPx8 | 380 | 15 | 85 | 4.47 | 5 | 4.46 | dang_ghi | – | Không | Most People Are Cooking Beans Wrong! Try These 15 Mexican Tricks for Perfect Beans Every Time |
+| 2026-09-06 | 71 | RKK32wDYgFk | 536 | 15 | 170 | 3.15 | 5 | 2.23 | dang_ghi | – | Không | 15 Forgotten 3-Ingredient Church Potluck Desserts That Fed Entire Congregations” |
+| 2026-09-08 | 69 | KUtvKYubzLo | 245 | 15 | 329 | 0.74 | 5 | 1.98 | binh_thuong | – | Không | My Grandmother's Favorite Recipes! So Good I Make Them 3 Times a Week |
+| 2026-09-12 | 65 | 1Ni1odNT5Kc | 132 | 15 | 329 | 0.40 | 5 | 1.98 | binh_thuong | – | Không | 15 Forgotten Halloween Candies From the 1960s That Disappeared Forever |
+| 2026-09-15 | 62 | CKPTpnqlmfw | 379 | 15 | 329 | 1.15 | 5 | 1.98 | binh_thuong | – | Không | I Tried the 19 Lost Rules of Appalachian Cooking—Here Is What Happened |
+| 2026-09-18 | 59 | NROnhkZINH8 | 723 | 15 | 342 | 2.11 | 5 | 1.53 | hoi_cao | – | Không | 3-Ingredient Dinners for Seniors Living Alone — 15 Easy Recipes |
+| 2026-09-18 | 59 | 8Vp0FSCYiJs | 651 | 15 | 379 | 1.72 | 5 | 1.18 | binh_thuong | – | Không | 15 Forgotten Cast-Iron Skillet Dinners Your Grandma Cooked Every Sunday in the 1950s |
+| 2026-09-19 | 58 | 7zNmCdjjRz4 | 1,002 | 15 | 380 | 2.64 | 5 | 1.01 | hoi_cao | – | Không | 12 Old Cut Crystal Pieces Worth A Fortune Today (You Might Own One) |
+| 2026-09-20 | 57 | SsJBp0k6pFY | 446 | 15 | 441 | 1.01 | 5 | 0.87 | binh_thuong | – | Không | 15 Lazy Sandwiches for When You're Too Tired to Cook (Straight from 1970s Cookbooks) |
+| 2026-09-21 | 56 | m6XOJLojxNk | 333 | 15 | 446 | 0.75 | 5 | 1.17 | binh_thuong | – | Không | 15 FORGOTTEN Poor Man Breakfasts From the 1950s That Kept America Working |
+| 2026-09-22 | 55 | AZ-QZr9F61c | 524 | 15 | 441 | 1.19 | 5 | 1.15 | binh_thuong | – | Không | Betty Crocker's 15 Forgotten Thanksgiving Recipes Nobody Makes Anymore |
+| 2026-09-23 | 54 | _HUdKj0pO2o | 385 | 15 | 441 | 0.87 | 5 | 1.37 | binh_thuong | – | Không | 15 Pumpkin & Apple Desserts From Old Betty Crocker Cookbooks No One Makes Any More Now Lost |
+| 2026-09-24 | 53 | d3s8dbNyphs | 118 | 15 | 385 | 0.31 | 5 | 1.57 | binh_thuong | – | Không | 15 Homemade Snacks From the 1960s No One Makes Anymore \| Forgotten |
+| 2026-09-25 | 52 | Rxlo57pR9zc | 2,152 | 15 | 385 | 5.59 | 5 | 1.32 | manh | – | Không | 15 Old Christmas Desserts Betty Crocker Made Famous—Nobody Makes Anymore |
+| 2026-09-27 | 50 | PqAb7MTP1es | 882 | 15 | 385 | 2.29 | 5 | 1.32 | hoi_cao | – | Không | "20 'Cook Once, Eat Twice' Dinners Every 1960s Mom Knew by Heart, Forgotten" |
+| 2026-09-28 | 49 | pI06MB5KcSI | 509 | 15 | 446 | 1.14 | 5 | 0.67 | binh_thuong | – | Không | Seniors on a Fixed Income: 15 Sheet Pan Dinners (Nothing to Scrub) |
+| 2026-09-29 | 48 | 88JtD8tbk4E | 603 | 15 | 509 | 1.18 | 5 | 0.59 | binh_thuong | – | Không | 10 Forgotten Christmas Desserts of the 1960s and 70s That Have Disappeared |
+| 2026-09-30 | 47 | LP4TesGPTB4 | 298 | 15 | 509 | 0.59 | 5 | 0.42 | binh_thuong | – | Không | 14 Lost Christmas Traditions That Made the Season Feel Like Magic |
+| 2026-10-01 | 46 | drCQUIWcz4k | 213 | 15 | 509 | 0.42 | 5 | 0.40 | binh_thuong | – | Không | 30 Christmas Desserts from the 1960s and 70s That Have Disappeared! (Part 2) |
+| 2026-10-02 | 45 | fWfWiU2PRek | 611 | 15 | 509 | 1.20 | 5 | 0.40 | binh_thuong | – | Không | 15 Christmas Candies Nobody Makes Anymore \| Old Betty Crocker Favorites |
+| 2026-10-03 | 44 | 54c0JBF8PJ8 | 151 | 15 | 524 | 0.29 | 5 | 0.48 | binh_thuong | – | Không | 30 FORGOTTEN 3-Ingredient Poor Man Meals That Grandma Swore By |
+| 2026-10-05 | 42 | 9kFsqdoI68I | 397 | 15 | 509 | 0.78 | 5 | 0.43 | binh_thuong | – | Không | 15 Crock-Pot Dinners From the 1970s That Nobody Makes Anymore (Mom's Kitchen Memories) |
+| 2026-10-06 | 41 | Ip4P2gZF7Kg | 197 | 15 | 446 | 0.44 | 5 | 0.56 | binh_thuong | – | Không | 15 Forgotten Christmas Decorations From the 1960s and 70s That Vanished From American Homes |
+| 2026-10-07 | 40 | POlY4Y2cxLY | 206 | 15 | 397 | 0.52 | 5 | 0.63 | binh_thuong | – | Không | 30 Halloween Desserts From the 1970s That Have Completely Disappeared! |
+| 2026-10-08 | 39 | LrOOEk7bYQ8 | 251 | 15 | 385 | 0.65 | 5 | 0.74 | binh_thuong | – | Không | 4. 30 Halloween Desserts Every 1970s Kid Remembers (But Nobody Makes Anymore)(Part 02) |
+| 2026-10-09 | 38 | 74tJocQhRQs | 555 | 15 | 385 | 1.44 | 5 | 0.74 | binh_thuong | – | Không | 30 Forgotten 1960s Icebox Desserts Grandma Made That Deserve a Comeback |
+| 2026-10-12 | 35 | LuC5rcLdSh8 | 219 | 15 | 385 | 0.57 | 5 | 0.80 | binh_thuong | – | Không | 15 Forgotten Church Potluck Desserts With Just 3 Ingredients That Fed Entire Congregations |
+| 2026-10-13 | 34 | UP2kEUGCSEU | 329 | 15 | 298 | 1.10 | 5 | 1.04 | binh_thuong | – | Không | 10 Muffin Pan Dinners for Seniors Cooking for One (No Containers Needed) |
+| 2026-10-14 | 33 | XGSMBUoMZW4 | 181 | 15 | 329 | 0.55 | 5 | 0.94 | binh_thuong | – | Không | Ground Beef Went Further in the 1960s Than You Think! |
+| 2026-10-15 | 32 | cz05tfBFiDg | 285 | 15 | 298 | 0.96 | 5 | 1.22 | binh_thuong | – | Không | Only 3 Ingredients! 10 Slow Cooker Dinners Grandma Made With Nothing to Chop |
+| 2026-10-16 | 31 | sdxXGNy6SVc | 635 | 15 | 285 | 2.23 | 5 | 1.08 | hoi_cao | – | Không | 10 Dump-and-Bake Suppers From the 1950s-70s Nobody Makes Anymore (Only 3 Ingredients) |
+| 2026-10-19 | 28 | tqSgspndEns | 309 | 15 | 285 | 1.08 | 5 | 0.85 | chua_chin | – | Không | 20 Dump-and-Bake Dinners With Only 3 Ingredients for Two Seniors (Mix, Pour, Done)(Part 1 ) |
+| 2026-10-21 | 26 | DiMeNBwZBnY | 363 | 15 | 285 | 1.27 | 5 | 0.63 | chua_chin | – | Không | 25 Dump-and-Bake Dinners With Only 3 Ingredients for Two Seniors (Mix, Pour, Done)(Part 02) |
+| 2026-10-22 | 25 | fle9NGezISE | 242 | 15 | 285 | 0.85 | 5 | 0.63 | chua_chin | – | Không | 25 Lost Christmas Candies From the 1970s That Are Impossible to Find Now |
+| 2026-10-23 | 24 | 3qaYrEzZ7Z8 | 559 | 15 | 285 | 1.96 | 5 | 0.63 | chua_chin | – | Không | 20 Forgotten 10-Minute Suppers for Seniors Living Alone (No Chopping, Under $3) |
+| 2026-10-24 | 23 | htGyiuc8LSo | 145 | 15 | 285 | 0.51 | 5 | 0.69 | chua_chin | – | Không | Can You Still Make These Lost 1950s Cocktails? I Tried Every One! |
+| 2026-10-25 | 22 | LtNbZrOm_Wk | 165 | 15 | 285 | 0.58 | 5 | 0.75 | chua_chin | – | Không | 20 Old Appalachian Winter Survival Tricks for Seniors Living Alone (When the Power Goes Out) |
+| 2026-10-26 | 21 | g9c-GvG6Vh4 | 179 | 15 | 251 | 0.71 | 5 | 0.86 | chua_chin | – | Không | 15 Christmas Treats From 1970s Britain We Counted Down the Weeks For |
+| 2026-10-27 | 20 | rJZpmBlJKP8 | 196 | 15 | 251 | 0.78 | 5 | 0.86 | chua_chin | – | Không | 15 Lost $1 No-Bake Candies Grandma Made Between Christmas and New Year’s (Part 1) |
+| 2026-10-28 | 19 | WxThamyilWE | 444 | 15 | 251 | 1.77 | 5 | 0.83 | chua_chin | – | Không | 15 FORGOTTEN Diner Breakfasts From the 1950s That Kept America Full Until Lunch |
+| 2026-10-30 | 17 | SvXSTd6DTqQ | 215 | 15 | 285 | 0.75 | 5 | 0.73 | chua_chin | – | Không | 25 Forgotten Jiffy Mix Dinners Every 1970s Mom Made From That Little Blue Box (Part 1) |
+| 2026-10-31 | 16 | uKlB0Cdmhus | 656 | 15 | 242 | 2.71 | 5 | 0.69 | chua_chin | – | Không | 25 Forgotten Diner Sandwiches Our Grandparents Ate For 20 Cents (Before Fast Food) |
+| 2026-11-01 | 15 | MYGhTh4-0Es | 209 | 15 | 285 | 0.73 | 5 | 0.45 | chua_chin | – | Không | 25 Forgotten Jiffy Mix Dinners Every 1970s Mom Made From That Little Blue Box (Part 2) |
+| 2026-11-02 | 14 | vKXnZ8BgiLY | 110 | 15 | 242 | 0.45 | 5 | 0.61 | chua_chin | – | Không | Cooking Like It's 1890: Forgotten American Recipes Brought Back to Life! |
+| 2026-11-04 | 12 | FStcstkHiTw | 127 | 15 | 242 | 0.52 | 5 | 0.69 | chua_chin | – | Không | The Muffin Tin Secret: 15 Forgotten Dinners for Seniors Alone That Cost Pennies |
+| 2026-11-06 | 10 | UjYCfPAY_CA | 354 | 15 | 215 | 1.65 | 5 | 0.69 | chua_chin | – | Không | 15 Forgotten 1950s Christmas Desserts Mom Made Every December (Do You Remember Them?) |
+| 2026-11-07 | 9 | LImj3QsjTcU | 166 | 15 | 215 | 0.77 | 5 | 0.64 | chua_chin | – | Không | 30 FORGOTTEN Diner Breakfasts From the 1950s That Kept America Full Until Lunch |
+| 2026-11-08 | 8 | h8KwLTI9aBQ | 120 | 15 | 209 | 0.57 | 4 | – | chua_chin | – | Không | 25 Depression-Era Christmas Traditions From My Grandmother’s Recipe Box That We Must Bring Back |
+| 2026-11-09 | 7 | dOV7fzfVK6I | 148 | 15 | 196 | 0.76 | 3 | – | chua_chin | – | Không | 15 Boxing Day Teas Our Nans Made From Christmas Leftovers That Nobody Makes Anymore |
+| 2026-11-11 | 5 | uc8Hvbi3Jmg | 189 | 15 | 179 | 1.06 | 2 | – | chua_chin | – | Không | 20 Forgotten Christmas Dishes Families Prepared Days Before the Big Celebration |
+| 2026-11-12 | 4 | 18jvTowtMBc | 138 | 15 | 179 | 0.77 | 1 | – | chua_chin | – | Không | 15 More Forgotten Christmas Dishes Grandma Made Days Before the Big Celebration |
+| 2026-11-13 | 3 | erzIg7CpHds | 114 | 15 | 179 | 0.64 | 0 | – | chua_chin | – | Không | 20 Forgotten Christmas Side Dishes from the 1970s That Bring Back So Many Memories (Part 01) |

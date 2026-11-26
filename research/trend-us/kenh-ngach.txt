@@ -1,0 +1,23 @@
+# Kênh lõi làm vườn để dò trend (lấy từ research/top20-2026-11-15/bang-lam-vuon.tsv, 18/11/2026). Đo top 20 lại thì thay danh sách này.
+Golden Seniors Living	UCJarlVFtaxAYWtZneBpmbug
+Seedly	UCfVOHwGrbtje0o-jR6hoynA
+Frugal Solutions	UC9TcuDlGy9FTaYxhkOet0Ig
+Backyard Bill	UCcsS-8Zg6c0pfH_8w5SKpCw
+Backyard Secrets	UCirsWlC_-QNiW2CS5AKHN3g
+Simply Green - Plant Care Tips	UCp6MfWNRR0CtHzsBsaFd-4Q
+Roothaven Grounds	UCBUsuxfE9N-KKOOHkwtCSEw
+Nature's Fix	UCYS2inwGQnSxW6-6X68QZSA
+Seeds of Time	UCBf0wjx7f4Q631Njk6TIYMw
+Golden Years Gardening	UCBBD5WZFCXYpKOwyJjB9-RA
+Plantelligence	UC2JpDMLnFVL72ZJyAMEOw7A
+# Bỏ 22/11/2026 (đồ khô, mất điện — không phải kênh vườn; chiếm 3/5 video nóng lần quét 22/11): Prepare Pantry	UCZ7QRuJbGTEZxE669k4OT5Q
+Backyard Buddy	UCBO8HMGxDUE8z-QPDhxaW5g
+Vintage Gardening	UCjxlwa0nyuSKnh3CIQy0bCA
+Green Atlas	UCh14UM3HE-Ktk3S0zzwrpQQ
+Wonder Balcony	UC4yv-054duKWF2l8WtFNXng
+SproutCycle Garden	UCohP7CxHFI6AaIPhhTivk_w
+Plant Explainer	UCeHNR9obRV2UpMkYGWR-wiA
+EverGreen Home Living	UCBkJRmkWA9bIsIjnLDoG75w
+Grow Gently	UCY-Ns49D1fcP6DbLBXozL5A
+Home Garden Concepts	UCGLaHXzG-yMC0AVZIwVqQmg
+Harvest & Heal	UCtI51qvyrJNLmJY3OC00C-A

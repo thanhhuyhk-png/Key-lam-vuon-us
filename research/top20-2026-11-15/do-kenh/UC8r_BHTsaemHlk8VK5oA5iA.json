@@ -1,0 +1,65 @@
+{
+ "chi_so": {
+  "n_video": 34,
+  "n_trong_danh_sach": 12,
+  "n_dai": 1,
+  "n_short": 11,
+  "n_dai_dung_tinh": 0,
+  "nguong_tuoi_video": 14,
+  "subs": 4030,
+  "dong_bo": 0,
+  "phien_ban": "2026-10-22.3",
+  "cua_so_tu": "2026-11-12",
+  "n_ngoai_cua_so": 12,
+  "so_hoi_vien": 0,
+  "trung_vi_20_dai": null,
+  "cao_nhat": null,
+  "thap_nhat": null,
+  "phan_tan": null,
+  "so_video_tren_2x": null,
+  "ty_le_tren_2x": null,
+  "trung_vi_chia_sub": null,
+  "ty_le_like_trung_vi": null,
+  "da_trung_vi": null,
+  "ngay_video_dau": "2026-11-04",
+  "tuoi_tu_video_dau": 12,
+  "view_moi_ngay_video_dau": null,
+  "sub_moi_ngay_video_dau": null,
+  "sub_moi_video": null,
+  "video_30_ngay": 12,
+  "ty_trong_view_short": 0.9639515581377801,
+  "ty_trong_view_short_nguon": "mau",
+  "sub_moi_video_tho": 118.52941176470588,
+  "sub_moi_ngay_video_dau_tho": 335.8333333333333,
+  "co": [
+   "TRUNG_VI_DUNG_VIDEO_TU_14_NGAY",
+   "KHONG_DU_VIDEO_DAI_DU_30_NGAY",
+   "KENH_QUA_MOI_DUOI_14_NGAY",
+   "NHIEU_SHORT",
+   "SUB_LAN_SHORTS",
+   "CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN"
+  ]
+ },
+ "he_so": [
+  {
+   "id": "QaZZCIAuU_A",
+   "title": "What If the WHOLE FAMILY Got Trapped Inside Roblox? 🏠",
+   "ngay": "2026-11-12",
+   "tuoi_ngay": 4,
+   "views": 1911,
+   "n_truoc": 0,
+   "trung_vi_15_truoc": null,
+   "he_so": null,
+   "n_sau": 0,
+   "he_so_sau": null,
+   "muc": null,
+   "ly_do_khong_tinh": "it_hon_5_video_truoc",
+   "cung_ngay": false
+  }
+ ],
+ "doc_file": {
+  "tong_dong": 24,
+  "bo_thieu_view_ngay": 0,
+  "bo_trung_id": 0
+ }
+}

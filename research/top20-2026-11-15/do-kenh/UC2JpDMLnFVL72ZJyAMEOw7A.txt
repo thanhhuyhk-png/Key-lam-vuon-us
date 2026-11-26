@@ -1,0 +1,122 @@
+# Đo kênh: UC2JpDMLnFVL72ZJyAMEOw7A.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 80 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 80 |
+| n_trong_danh_sach | 80 |
+| n_dai | 80 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 9,260 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-03-05 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 626 |
+| cao_nhat | 15,139 |
+| thap_nhat | 131 |
+| phan_tan | 24.16 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.15 |
+| trung_vi_chia_sub | 0.07 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 1.03 |
+| ngay_video_dau | 2026-03-05 |
+| tuoi_tu_video_dau | 256 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 36.17 |
+| sub_moi_video | 116 |
+| video_30_ngay | 4 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-03-05 | 256 | 18ZAji4COdU | 996 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | This Plant Has All 4 Omegas That Salmon Can't Match: Why Has No One Told You? |
+| 2026-03-06 | 255 | vCoDNIlihu8 | 21,323 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Forgotten Vegetables That Grow Like Weeds Without Any Effort |
+| 2026-03-07 | 254 | 0Qmw3GTej8U | 47,751 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Aloe Vera Secrets That Will Make It Grow Twice As Fast |
+| 2026-03-11 | 250 | 4PugN_ps1aA | 1,491 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Spiritual Plants That Attract Positive Energy Into Your Home |
+| 2026-03-13 | 248 | rEsRDIJs28g | 74,620 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Indoor Plants That Thrive In Only Water |
+| 2026-03-14 | 247 | v2smjOnLRcM | 603 | 5 | 21,323 | 0.03 | 5 | 0.21 | binh_thuong | – | Không | 20 Biblical Plants That Will Heal You Instantly |
+| 2026-03-17 | 244 | T2qZnrpTRK8 | 4,396 | 6 | 11,407 | 0.39 | 5 | 0.15 | binh_thuong | – | Không | 20 Collagen Rich Foods That Reverse Aging (Most People Ignore These) |
+| 2026-03-19 | 242 | ze9AyK3tqrw | 745 | 7 | 4,396 | 0.17 | 5 | 1.25 | binh_thuong | – | Không | 20 Forgotten Biblical Superfoods That Will Heal You Instantly (Hidden in the Bible) |
+| 2026-03-21 | 240 | jyCnpSOIBgs | 1,665 | 8 | 2,944 | 0.57 | 5 | 1.87 | binh_thuong | – | Không | 20 Vegetables That Are So Easy to Grow (Even Lazy Gardeners Can Do It!) |
+| 2026-03-23 | 238 | ohZikg_S21g | 92,206 | 9 | 1,665 | 55.38 | 5 | 0.85 | can_kiem_ky | – | Không | 20 Houseplants That NEVER Die (Even If You Forget Them) |
+| 2026-03-25 | 236 | _UGHmMRkX38 | 5,502 | 10 | 3,030 | 1.82 | 5 | 0.47 | binh_thuong | – | Không | 20 Green Fences That Grow Like Weeds (And Are Legal) |
+| 2026-03-27 | 234 | RnlOEg8zfcE | 1,065 | 11 | 4,396 | 0.24 | 5 | 1.67 | binh_thuong | – | Không | 19 Biblical Meals That Will Heal You Instantly |
+| 2026-03-28 | 233 | kwSFATBt2-E | 25,016 | 12 | 3,030 | 8.25 | 5 | 2.42 | manh | – | Không | 20 Fruit Trees More Productive Than Apple (That Nobody Plants) |
+| 2026-03-30 | 231 | 29Eh7zF-t0Q | 805 | 13 | 4,396 | 0.18 | 5 | 5.36 | binh_thuong | – | Không | 20 Japanese Superfoods That Keep You Young (Most People Ignore These) |
+| 2026-04-01 | 229 | yuNxlJ7-gus | 1,415 | 14 | 3,030 | 0.47 | 5 | 7.77 | binh_thuong | – | Không | 20 Plants That Have MORE Protein Than Meat (Most People Ignore These) |
+| 2026-04-03 | 227 | n3LPdImt2k8 | 209,316 | 15 | 1,665 | 126 | 5 | 5.79 | can_kiem_ky | – | Không | 20 Ground Covers That Spread Faster Than Grass (And Rarely Need Mowing) |
+| 2026-04-04 | 226 | FdPZdeg5wx4 | 7,324 | 15 | 4,396 | 1.67 | 5 | 2.19 | binh_thuong | – | Không | 20 Fruit Trees That Grow In Bad Soil (That Nobody Plants) |
+| 2026-04-06 | 224 | qHCuSByQ334 | 65,082 | 15 | 4,396 | 14.80 | 5 | 0.58 | can_kiem_ky | – | Không | 20 Plants That KILL Mosquitoes (And Keep Them Gone Forever) |
+| 2026-04-08 | 222 | tRSj0hy0F9U | 23,544 | 15 | 4,396 | 5.36 | 5 | 0.39 | manh | – | Không | 20 Low Light Houseplants That NEVER Die (Even In Dark Rooms) |
+| 2026-04-10 | 220 | kI4TdMAOf0I | 9,641 | 15 | 5,502 | 1.75 | 5 | 0.09 | binh_thuong | – | Không | 20 Climbing Plants That Grow Faster Than Ivy (Won't Damage Walls) |
+| 2026-04-11 | 219 | x_ypUD4SJ3Q | 497 | 15 | 5,502 | 0.09 | 5 | 0.22 | binh_thuong | – | Không | 20 Anti-Aging Plants That Make You Look 10 Years Younger |
+| 2026-04-13 | 217 | vxuvkS7g0_Y | 2,570 | 15 | 5,502 | 0.47 | 5 | 0.22 | binh_thuong | – | Không | 20 Fruit Trees That THRIVE in Pots (No Garden Needed) |
+| 2026-04-15 | 215 | kE9eydC2DJo | 1,700 | 15 | 5,502 | 0.31 | 5 | 0.12 | binh_thuong | – | Không | 20 Forgotten Vegetables That Grow Like Weeds (Zero Effort Required) |
+| 2026-04-17 | 213 | vPiIKF8wABc | 370 | 15 | 5,502 | 0.07 | 5 | 0.12 | binh_thuong | – | Không | 20 Medicinal Plants People Have Used for Generations (Most Are Forgotten) |
+| 2026-04-18 | 212 | 2r8kNIgiLwA | 464 | 15 | 5,502 | 0.08 | 5 | 0.22 | binh_thuong | – | Không | 20 Tiny Plants That Produce MORE Food Than Fruit Trees |
+| 2026-04-20 | 210 | nLwn7-OOhvE | 1,194 | 15 | 2,570 | 0.46 | 5 | 0.73 | binh_thuong | – | Không | 20 Fruit Trees That Grow In Extreme Cold (That Nobody Plants) |
+| 2026-04-22 | 208 | 7ViMjAczZLI | 50,021 | 15 | 1,700 | 29.42 | 5 | 1.11 | can_kiem_ky | – | Không | 20 Perennial Vines That Feed You for LIFE (Most People Never Plant These) |
+| 2026-04-24 | 206 | mcyK-TmEdTo | 640 | 15 | 2,570 | 0.25 | 5 | 0.73 | binh_thuong | – | Không | 25 Wild Weeds That Are More Nutritious Than Store-Bought Superfoods |
+| 2026-04-25 | 205 | QJx3Yl6abL0 | 601 | 15 | 1,700 | 0.35 | 5 | 1.11 | binh_thuong | – | Không | 20 Trees That Feed Your Family FOREVER (Ignored By Supermarkets) |
+| 2026-04-27 | 203 | hazOQgT8zz0 | 1,887 | 15 | 1,700 | 1.11 | 5 | 0.66 | binh_thuong | – | Không | 20 GROUND COVERS SPREADING FASTER THAN GRASS (NO-MOW LAWN HACK!) |
+| 2026-04-29 | 201 | 9Au9LbOHP6U | 2,312 | 15 | 1,887 | 1.23 | 5 | 0.17 | binh_thuong | – | Không | 20 VEGETABLES YOU CAN GROW WITH ZERO DIRECT SUNLIGHT (SHOCKINGLY EASY!) |
+| 2026-05-01 | 199 | XZivvvWWvpk | 1,960 | 15 | 1,887 | 1.04 | 5 | 0.17 | binh_thuong | – | Không | 20 CROPS THAT LOVE YOUR SHADY YARD (MOST GARDENERS IGNORE THESE) |
+| 2026-05-02 | 198 | vLXsgEBcnH8 | 247 | 15 | 1,887 | 0.13 | 5 | 0.59 | binh_thuong | – | Không | 17 Perennials That THRIVE in Containers/Pots With ZERO Effort! |
+| 2026-05-04 | 196 | 2pMH7u8HEIo | 250 | 15 | 1,700 | 0.15 | 5 | 0.66 | binh_thuong | – | Không | 7 BEST Perennials to Plant This Spring (That Come Back Every Year) |
+| 2026-05-06 | 194 | F04qBByeoxQ | 1,116 | 15 | 1,194 | 0.93 | 5 | 1.63 | binh_thuong | – | Không | 10 GROUNDCOVERS THAT REPLACE MULCH NATURALLY (AND LOOK BETTER!) |
+| 2026-05-08 | 192 | Wuhs1Ebezpc | 324 | 15 | 1,116 | 0.29 | 5 | 1.74 | binh_thuong | – | Không | PLANT THESE 5 TREES FOR INSTANT BACKYARD PRIVACY |
+| 2026-05-09 | 191 | 4DxOtuHovIM | 1,941 | 15 | 1,116 | 1.74 | 5 | 0.27 | binh_thuong | – | Không | WANT A BUG-FREE YARD THIS SUMMER? TRY THESE 15 MOSQUITO-REPELLENT PLANTS |
+| 2026-05-11 | 189 | BOK9ioiSQAs | 2,299 | 15 | 1,116 | 2.06 | 5 | 0.27 | hoi_cao | – | Không | 20 BEAUTIFUL GROUNDCOVERS THAT TAKE OVER YOUR GARDEN (STOP WEEDS NATURALLY) |
+| 2026-05-13 | 187 | oNBGxU_cedw | 305 | 15 | 1,116 | 0.27 | 5 | 0.27 | binh_thuong | – | Không | 20 VEGETABLES THAT LOVE YOUR DARK SHADY CORNERS OF YOUR YARD (MOST GARDENERS DON'T KNOW THIS!) |
+| 2026-05-15 | 185 | Y4rxvotmUPM | 2,089 | 15 | 1,116 | 1.87 | 5 | 0.21 | binh_thuong | – | Không | 20 HOUSE PLANTS THAT WILL TRANSFORM YOUR HEALTH INSTANTLY |
+| 2026-05-16 | 184 | 5gcBAeohqhY | 305 | 15 | 1,194 | 0.26 | 5 | 0.20 | binh_thuong | – | Không | PLANT THESE IN MAY! 20 SELF-SEEDING PERENNIALS THAT FILL YOUR GARDEN FOREVER |
+| 2026-05-18 | 182 | oouLd6bc4sU | 203 | 15 | 1,116 | 0.18 | 5 | 0.23 | binh_thuong | – | Không | PLANT THESE 20 PERENNIALS NOW! (LAZY GARDENERS MUST SEE) |
+| 2026-05-20 | 180 | TG7udaXm-Tw | 234 | 15 | 640 | 0.37 | 5 | 0.40 | binh_thuong | – | Không | 25 Kitchen Scraps You Should NEVER Throw Away (They Regrow Into FREE Food!) |
+| 2026-05-22 | 178 | yPWkoXreOmY | 533 | 15 | 601 | 0.89 | 5 | 0.43 | binh_thuong | – | Không | 20 Vegetables That Are Too EASY to Grow — Perfect for Lazy Gardeners! |
+| 2026-05-23 | 177 | fkCRxu7drmI | 164 | 15 | 533 | 0.31 | 5 | 1.12 | binh_thuong | – | Không | 25 Brilliant FREE Vegetable Gardening Hacks｜More Food for Less Effort! |
+| 2026-05-25 | 175 | -IOBPO2DDII | 257 | 15 | 324 | 0.79 | 5 | 1.85 | binh_thuong | – | Không | Why You Should Spray Your Plants with Hydrogen Peroxide Immediately |
+| 2026-05-27 | 173 | zhw_VujkZy4 | 971 | 15 | 305 | 3.18 | 5 | 1.22 | dang_ghi | – | Không | 25 Incredible Seeds That Replace Mulch Forever — Grow a Self-Mulching Garden Naturally! |
+| 2026-05-29 | 171 | T9e88rl2SmE | 202 | 15 | 305 | 0.66 | 5 | 1.22 | binh_thuong | – | Không | 25 Ways Hydrogen Peroxide Saves Your Garden That Gardeners Keep Secret |
+| 2026-05-30 | 170 | hmC3jWZ78Bs | 613 | 15 | 305 | 2.01 | 5 | 1.22 | hoi_cao | – | Không | 20 Vegetables That Produce The Most In Containers |
+| 2026-06-01 | 168 | lP9lRlfIoVU | 599 | 15 | 324 | 1.85 | 5 | 1.02 | binh_thuong | – | Không | I Buried One $2 PVC Tube — My Soil Was Crawling With Earthworms In 24 Hours |
+| 2026-06-03 | 166 | EI25r-VeV8Y | 372 | 15 | 324 | 1.15 | 5 | 1.02 | binh_thuong | – | Không | The Forbidden Homemade Fertilizer That Makes Grass SKYROCKET With Growth |
+| 2026-06-06 | 163 | P2GzTn3IKcA | 330 | 15 | 372 | 0.89 | 5 | 1.61 | binh_thuong | – | Không | 20 Gardening Tricks For Explosive Plant Growth |
+| 2026-06-08 | 161 | GONRtgmn_3A | 307 | 15 | 330 | 0.93 | 5 | 2.53 | binh_thuong | – | Không | 20 Plants Mice ABSOLUTELY Hate (Plant These Around Your Home) |
+| 2026-06-10 | 159 | MGOmq0Uxpbs | 599 | 15 | 307 | 1.95 | 5 | 2.80 | binh_thuong | – | Không | 20 Cheap Ideas to Make Your GARDEN Beautiful |
+| 2026-06-16 | 153 | ShLeqON3vCU | 250 | 15 | 330 | 0.76 | 5 | 2.60 | binh_thuong | – | Không | 20 Plants That Stop Garden Pests Instantly (No Chemicals) |
+| 2026-06-17 | 152 | 0QyKngPtv9Q | 859 | 15 | 307 | 2.80 | 5 | 2.72 | hoi_cao | – | Không | 20 Vegetables That Grow Like Fruit TREES! Plant Once, Eat Forever |
+| 2026-06-19 | 150 | D_EKylZt4Vk | 946 | 15 | 330 | 2.87 | 5 | 0.68 | hoi_cao | – | Không | 20 Secrets to Growing Lavender That Never Dies (Even If You Forget It) |
+| 2026-06-20 | 149 | 9Iywqoz7Dow | 836 | 15 | 372 | 2.25 | 5 | 0.57 | hoi_cao | – | Không | 20 Weeds That Are Worth More Than Your Vegetable Garden |
+| 2026-06-22 | 147 | 5npgPnqpjaE | 901 | 15 | 533 | 1.69 | 5 | 0.40 | binh_thuong | – | Không | 20 Secrets to Growing Roses That Bloom All Year (Even If You're a Beginner) |
+| 2026-06-25 | 144 | EcGn3ozp1AU | 225 | 15 | 599 | 0.38 | 5 | 0.35 | binh_thuong | – | Không | 20 Vegetables That Thrive In Containers More Than Garden (Plant Once, Eat Forever) |
+| 2026-06-26 | 143 | duOQfabzVqI | 131 | 15 | 599 | 0.22 | 5 | 0.63 | binh_thuong | – | Không | 20 Vegetables and Herbs That Thrive In Containers More Than Garden! |
+| 2026-06-27 | 142 | A9j2hN9h5og | 212 | 15 | 599 | 0.35 | 5 | 1.68 | binh_thuong | – | Không | 20 Vegetables That Grow With Almost No Work (Perfect For Busy Gardeners) |
+| 2026-06-29 | 140 | UReVXS6Lr54 | 167 | 15 | 372 | 0.45 | 5 | 2.70 | binh_thuong | – | Không | 20 Most Productive Container Garden Crops for Small Spaces! |
+| 2026-07-03 | 136 | OEWUjHEdXXg | 380 | 15 | 372 | 1.02 | 5 | 2.70 | binh_thuong | – | Không | 20 Indoor Plants That Will Transform Your Health Instantly |
+| 2026-07-04 | 135 | VHhm-EKlHp4 | 1,004 | 15 | 372 | 2.70 | 5 | 2.24 | hoi_cao | – | Không | Top 20 Low Light Houseplants For Dark Rooms (These Don’t Die) |
+| 2026-07-06 | 133 | fmew_m934sc | 15,139 | 15 | 372 | 40.70 | 5 | 1.77 | can_kiem_ky | – | Không | 20 Secrets to Growing Aloe Vera FAST and EASY |
+| 2026-09-23 | 54 | QcKz2aJWAvg | 1,340 | 15 | 380 | 3.53 | 5 | 1.73 | dang_ghi | – | Không | 20 Succulents That Grow Faster Than Aloe Vera (That Nobody Plants) |
+| 2026-09-25 | 52 | sfuWHUrmt1I | 656 | 15 | 599 | 1.10 | 5 | 1.10 | binh_thuong | – | Không | 40 Ground Covers That Spread Faster Than Grass \| 58-Minute Marathon |
+| 2026-09-26 | 51 | xCgiJyL0VMk | 597 | 15 | 656 | 0.91 | 5 | 1.01 | binh_thuong | – | Không | 13 Fruit Trees That Survive Florida Humidity (That Nobody Plants) |
+| 2026-09-28 | 49 | s2Zj7fP02cM | 833 | 15 | 656 | 1.27 | 5 | 0.80 | binh_thuong | – | Không | 20 Herbs That NEVER Die (Even If You Forget Them) |
+| 2026-10-03 | 44 | ggGj6WwybDE | 660 | 15 | 833 | 0.79 | 5 | 0.63 | binh_thuong | – | Không | 20 Aloe Vera Secrets That Make It Grow Faster Than Weeds |
+| 2026-10-05 | 42 | M6vXWuk-9e4 | 484 | 15 | 660 | 0.73 | 5 | 0.83 | binh_thuong | – | Không | 20 Aloe Vera Varieties That NEVER Die (Even If You Forget Them) |
+| 2026-10-07 | 40 | A65juagYSME | 1,788 | 15 | 656 | 2.73 | 5 | 0.80 | hoi_cao | – | Không | 20 Ground Covers You Should Plant in October ASAP |
+| 2026-10-09 | 38 | Cywx2lMjOaA | 462 | 15 | 656 | 0.70 | 5 | 0.80 | binh_thuong | – | Không | 20 Signs Your Aloe Vera Is Dying (And How to Save It) |
+| 2026-10-14 | 33 | zyvrmUKZvw4 | 525 | 15 | 597 | 0.88 | 5 | 0.87 | binh_thuong | – | Không | 20 Vegetables You Should Plant in October ASAP |
+| 2026-10-16 | 31 | 0dJEXTUT2D8 | 546 | 15 | 597 | 0.91 | 4 | – | binh_thuong | – | Không | 5 Crops EVERYONE Can STILL Plant in October You CANNOT Skip! |
+| 2026-10-19 | 28 | oE95RhPUStw | 2,954 | 15 | 597 | 4.95 | 3 | – | chua_chin | – | Không | 20 Indoor Plants That Thrive Without Direct Sunlight |
+| 2026-10-21 | 26 | cK1XEZNFHoM | 521 | 15 | 656 | 0.79 | 2 | – | chua_chin | – | Không | 30 Indoor Plants That Grow In Water (No Soil Needed) |
+| 2026-10-23 | 24 | m5kDDPWyBVU | 513 | 15 | 656 | 0.78 | 1 | – | chua_chin | – | Không | 20 Lazy Perennials That Come Back Every Year in Pots – Plant Once, Done Forever |
+| 2026-10-26 | 21 | bOptnmYScws | 242 | 15 | 656 | 0.37 | 0 | – | chua_chin | – | Không | 7 Plants You Can Dig Up and Overwinter RIGHT NOW! |

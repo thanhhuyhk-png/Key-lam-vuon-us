@@ -1,0 +1,150 @@
+# Đo kênh: UCaRUhfZeTCydT0uFyFt2xWw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 1,009 |
+| n_trong_danh_sach | 115 |
+| n_dai | 100 |
+| n_short | 15 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 231,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2023-05-10 |
+| n_ngoai_cua_so | 16 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 4,200 |
+| cao_nhat | 50,136 |
+| thap_nhat | 1,423 |
+| phan_tan | 11.94 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.05 |
+| da_trung_vi | 1.03 |
+| ngay_video_dau | 2016-11-16 |
+| tuoi_tu_video_dau | 3,652 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 63.25 |
+| sub_moi_video | 229 |
+| video_30_ngay | 14 |
+| ty_trong_view_short | 0.08 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2016-11-16 | 3,652 | 6LXn9bhRGL0 | 599 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Jonboat bass fishing in the Everglades |
+| 2016-11-18 | 3,650 | DcA5gKpjucY | 116 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Everglades Pond Bass |
+| 2016-11-19 | 3,649 | b7yJ9pyB4Kw | 675 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Bass fishing Everglades Canal in a Gheenoe |
+| 2016-11-22 | 3,646 | __9mNCyGdnI | 91 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Bass fishing a small pond in the Everglades |
+| 2016-11-23 | 3,645 | bG2PW6235YM | 174 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Bass Fishing Everglades Canal with my son |
+| 2016-11-25 | 3,643 | ZD3_3C1_OLQ | 276 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Giant Bass in Everglades Canal |
+| 2016-11-26 | 3,642 | S75Q1Nv6JPI | 98 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Aligator attacks bird in everglades pond |
+| 2016-11-26 | 3,642 | SsJ5i1mOtzA | 103 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Bass Fishing and VW Buses |
+| 2023-05-10 | 1,286 | npnSeNMTHAM | 4,943 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Graft Star Fruit Carambola |
+| 2023-05-13 | 1,283 | e8rlSFHYFQU | 7,159 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Tasting Two Varieties of Sapodilla |
+| 2023-05-17 | 1,279 | 31JdrP115OQ | 244,362 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What Mango Seed Grows the Best Tree? |
+| 2023-05-23 | 1,273 | vkV2BVejhCA | 2,463 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | My Dad Transplants His Avocado Tree |
+| 2023-05-24 | 1,272 | FqhnyUMsU7s | 10,889 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Graft Sapodilla. Chico, Níspero, Naseberry |
+| 2023-05-31 | 1,265 | J2iRMbv4T0Y | 2,643 | 5 | 7,159 | 0.37 | 5 | 2.14 | binh_thuong | – | Không | Four Tropical Fruits Every Fruit Lover Should Try |
+| 2023-06-07 | 1,258 | Uu6cRMJv8ZM | 2,078 | 6 | 6,051 | 0.34 | 5 | 2.53 | binh_thuong | – | Không | A Farmer Asks: Was College Worth the Investment? |
+| 2023-06-08 | 1,257 | w5Zl-EO4DbI | 21,658 | 7 | 4,943 | 4.38 | 5 | 1.84 | dang_ghi | – | Không | Did You Know There Are a Thousand Varieties of Mango? |
+| 2023-06-14 | 1,251 | ruOo95OTuVw | 15,311 | 8 | 6,051 | 2.53 | 5 | 0.75 | hoi_cao | – | Không | How Do Farmers Create New Mango Varieties? |
+| 2023-06-19 | 1,246 | 4kRvcWunIiQ | 2,337 | 9 | 7,159 | 0.33 | 5 | 0.63 | binh_thuong | – | Không | What Happens When 1,000 Mango Lovers Gather in the Same Place at the Same Time |
+| 2023-06-24 | 1,241 | X6NueA0ucZw | 18,243 | 10 | 6,051 | 3.01 | 5 | 0.69 | dang_ghi | – | Không | What Fruit Tree Is Best for Your Backyard? |
+| 2023-06-28 | 1,237 | 2oRyPYwgOg4 | 4,529 | 11 | 7,159 | 0.63 | 5 | 0.56 | binh_thuong | – | Không | How a Mango Farmer Spends His Day |
+| 2023-07-05 | 1,230 | Xpyr3S5qMzw | 9,104 | 12 | 6,051 | 1.50 | 5 | 0.66 | binh_thuong | – | Không | Every Mango Has an Origin Story |
+| 2023-07-11 | 1,224 | ekyF8tuN8CI | 4,016 | 13 | 7,159 | 0.56 | 5 | 0.58 | binh_thuong | – | Không | Making Mango Jam Under a Mango Tree |
+| 2023-07-18 | 1,217 | lwtWdLqz3JA | 4,162 | 14 | 6,051 | 0.69 | 5 | 1.38 | binh_thuong | – | Không | 5 Ways to Eat a Mango |
+| 2023-07-25 | 1,210 | mraVUJBmg1w | 2,006 | 15 | 4,943 | 0.41 | 5 | 1.69 | binh_thuong | – | Không | What's More Difficult: Growing Fruit Trees or Doing the Ironman? |
+| 2023-07-27 | 1,208 | 1-jAwSOLEl8 | 3,918 | 15 | 4,529 | 0.87 | 5 | 2.14 | binh_thuong | – | Không | I Found a Burmese Python In My Backyard |
+| 2023-08-03 | 1,201 | ecznEbvr91o | 29,254 | 15 | 4,162 | 7.03 | 5 | 2.33 | manh | – | Không | Which Mango Variety Does My Wife Like the Best? |
+| 2023-08-09 | 1,195 | 4cLNPD2LCJQ | 9,680 | 15 | 4,162 | 2.33 | 5 | 5.74 | hoi_cao | – | Không | How to Create a Fruit Garden in Your Backyard |
+| 2023-08-16 | 1,188 | QWY1aqgq4g0 | 8,365 | 15 | 4,529 | 1.85 | 5 | 5.28 | binh_thuong | – | Không | 5 Pound Mango? and Other Rare Tropical Fruit |
+| 2023-08-23 | 1,181 | wLb2G5H7QuU | 1,933 | 15 | 4,529 | 0.43 | 5 | 5.28 | binh_thuong | – | Không | How To Make Homemade Mango Freeze Pops |
+| 2023-09-01 | 1,172 | XwWqvAUb1ds | 23,892 | 15 | 4,529 | 5.28 | 5 | 4.43 | manh | – | Không | Avocado Industry Secrets Your Supermarket Doesn't Want You to Know |
+| 2023-09-20 | 1,153 | 69lCyZ1A-mA | 38,173 | 15 | 8,365 | 4.56 | 5 | 0.74 | dang_ghi | – | Không | When Is My Avocado Ready To Eat? |
+| 2023-10-21 | 1,122 | WgUjVdcMGdw | 71,097 | 15 | 8,365 | 8.50 | 5 | 0.74 | manh | – | Không | How to Graft Mango Trees |
+| 2023-11-03 | 1,109 | -yGdJqXJpIA | 20,044 | 15 | 8,365 | 2.40 | 5 | 0.74 | hoi_cao | – | Không | Grafting Two Varieties of Avocado Onto One Tree |
+| 2023-11-10 | 1,102 | CTMW9jKhz3M | 5,881 | 15 | 9,104 | 0.65 | 5 | 0.90 | binh_thuong | – | Không | An Avocados Journey From Farm To Table |
+| 2023-11-30 | 1,082 | vBExJUQuCi8 | 3,832 | 15 | 8,365 | 0.46 | 5 | 3.33 | binh_thuong | – | Không | What You Need to Know if You Don't Have Employer Provided Health Insurance |
+| 2023-12-05 | 1,077 | xMkW3rFz01k | 6,171 | 15 | 8,365 | 0.74 | 5 | 3.33 | binh_thuong | – | Không | Should You Prune the Flowers From Your Young Tropical Fruit Trees? |
+| 2023-12-12 | 1,070 | snl-1Rs4wsQ | 27,843 | 15 | 6,171 | 4.51 | 5 | 10.77 | dang_ghi | – | Không | What to Do When Your Mango Seed Makes Multiple Sprouts Polyembryonic Mangos |
+| 2023-12-22 | 1,060 | e1iNEyEUddU | 1,792,474 | 15 | 8,365 | 214 | 5 | 1.99 | can_kiem_ky | – | Không | How To Grow Avocados From A Store Bought Avocado Seed |
+| 2023-12-28 | 1,054 | ia3ZE_W4NoI | 8,235 | 15 | 9,680 | 0.85 | 5 | 1.72 | binh_thuong | – | Không | Why You Should Prune Your Fruit Trees |
+| 2024-01-04 | 1,047 | eeAnFqRvDTU | 127,905 | 15 | 9,680 | 13.21 | 5 | 0.92 | can_kiem_ky | – | Không | How to Graft Mango Using Top Working, Cleft Graft, and Veneer Graft |
+| 2024-01-17 | 1,034 | VMA1wwjovXk | 4,196 | 15 | 20,044 | 0.21 | 5 | 0.45 | binh_thuong | – | Không | Making Jam With Rare Tropical Fruits: Sapodilla |
+| 2024-01-23 | 1,028 | u1YFwEGCmAU | 66,457 | 15 | 9,680 | 6.87 | 5 | 0.58 | manh | – | Không | What Fruit Can You Harvest in the Winter? |
+| 2024-01-31 | 1,020 | 7wsJKrQ1PjM | 16,615 | 15 | 20,044 | 0.83 | 5 | 0.20 | binh_thuong | – | Không | Do Not Let Your Potted Trees Become Root Bound |
+| 2024-02-07 | 1,013 | hEacTUfnYkg | 5,594 | 15 | 20,044 | 0.28 | 5 | 0.20 | binh_thuong | – | Không | Planting Tropical Fruit Trees on an Avocado Farm |
+| 2024-02-13 | 1,007 | LQLVrWTHYZw | 8,933 | 15 | 20,044 | 0.45 | 5 | 0.20 | binh_thuong | – | Không | How Botanists Created The Edward Kent Hybrid Mango |
+| 2024-02-19 | 1,001 | QkxmcojSCY4 | 1,351 | 15 | 16,615 | 0.08 | 5 | 0.24 | binh_thuong | – | Không | Sunday Tropical Fruit Discussion |
+| 2024-02-20 | 1,000 | MXU2OUe0vFk | 3,987 | 15 | 8,933 | 0.45 | 5 | 1.73 | binh_thuong | – | Không | Checking the Bloom at Sleepy Lizard Avocado Farm |
+| 2024-02-27 | 993 | 6zTsuWpe-Mw | 3,305 | 15 | 8,235 | 0.40 | 5 | 1.88 | binh_thuong | – | Không | A Typical Work Day on an Avocado Farm |
+| 2024-03-04 | 987 | hwBSKENQH0c | 24,903 | 15 | 6,171 | 4.04 | 5 | 1.30 | dang_ghi | – | Không | Planting Tropical Fruit on the East Side of Our Homestead |
+| 2024-03-12 | 979 | 0yffjYpGWfc | 17,919 | 15 | 8,235 | 2.18 | 5 | 0.47 | hoi_cao | – | Không | What To Expect From Your Mango Tree In The Springtime |
+| 2024-03-18 | 973 | DtPpS3QF6sg | 3,896 | 15 | 8,933 | 0.44 | 5 | 0.90 | binh_thuong | – | Không | Avocado Grafting Class |
+| 2024-03-27 | 964 | U6uPNGW0xh4 | 15,496 | 15 | 8,933 | 1.73 | 5 | 0.90 | binh_thuong | – | Không | How to Start Growing a Banana Patch |
+| 2024-03-30 | 961 | PwK7xKeCv38 | 2,955 | 15 | 8,933 | 0.33 | 5 | 1.42 | binh_thuong | – | Không | Our Grove Is On Fire |
+| 2024-04-01 | 959 | g1GU-yxo1IY | 8,013 | 15 | 8,235 | 0.97 | 5 | 1.54 | binh_thuong | – | Không | Flavor Profile and Growing Characteristics of Different Avocado Varieties |
+| 2024-04-10 | 950 | yT4Ak3idzEA | 3,010 | 15 | 8,013 | 0.38 | 5 | 2.51 | binh_thuong | – | Không | What You Need To Learn Before You Start Homesteading |
+| 2024-04-16 | 944 | qlR_tVTG2lk | 12,645 | 15 | 5,594 | 2.26 | 5 | 3.59 | hoi_cao | – | Không | Planting Avocado Trees |
+| 2024-04-23 | 937 | OJN6qMx02FE | 39,441 | 15 | 8,013 | 4.92 | 5 | 0.81 | dang_ghi | – | Không | How To Graft Your Own Mango Tree |
+| 2024-04-26 | 934 | bNr4MlVlRfc | 30,734 | 15 | 8,013 | 3.84 | 5 | 0.81 | dang_ghi | – | Không | Gravity Drip Irrigation Made Simple |
+| 2024-04-30 | 930 | j2nZMxAs39Q | 6,491 | 15 | 8,013 | 0.81 | 5 | 0.69 | binh_thuong | – | Không | Tasting The Rare Mamey Americana |
+| 2024-05-08 | 922 | poqTCAAlKow | 20,086 | 15 | 8,013 | 2.51 | 5 | 0.69 | hoi_cao | – | Không | Armando Uses Ancient Technique To Clone a Fruit Tree For His Mom for Mother's Day |
+| 2024-05-12 | 918 | Ok7SAWCUrPU | 2,891 | 15 | 8,013 | 0.36 | 5 | 0.69 | binh_thuong | – | Không | How We Graft Mango Trees. |
+| 2024-05-19 | 911 | 9i2QKEJSdyE | 5,541 | 15 | 8,013 | 0.69 | 5 | 1.15 | binh_thuong | – | Không | Did You Know The Jackfruit Fruit Grows To Over 100lbs and Tastes Like Bubblegum? |
+| 2024-06-03 | 896 | wz6X_paa13c | 15,127 | 15 | 8,013 | 1.89 | 5 | 0.61 | binh_thuong | – | Không | How We Created A New Avocado Variety |
+| 2024-06-08 | 891 | eK759XsffkE | 4,877 | 15 | 12,645 | 0.39 | 5 | 0.30 | binh_thuong | – | Không | Sampling Exotic Fruit On An Avocado Farm |
+| 2024-06-16 | 883 | 0apYvLAT440 | 9,380 | 15 | 8,013 | 1.17 | 5 | 0.48 | binh_thuong | – | Không | Nature's Ugly Treat.  The Pickering Mango. |
+| 2024-06-21 | 878 | a6ZpbOpy9oA | 2,201 | 15 | 8,013 | 0.27 | 5 | 1.00 | binh_thuong | – | Không | Picking Fresh Ingredients For Mango Salsa |
+| 2024-06-27 | 872 | QIpcY6RiVTk | 9,246 | 15 | 8,013 | 1.15 | 5 | 0.89 | binh_thuong | – | Không | Raw Fruit Vegan Lives Off What He Grows In His Backyard |
+| 2024-07-06 | 863 | tfOz4mml4-k | 3,507 | 15 | 8,013 | 0.44 | 5 | 0.98 | binh_thuong | – | Không | How Fruit Farmers Maintain Genetic Consistency |
+| 2024-07-16 | 853 | 4dGbYCl9gZY | 3,812 | 15 | 8,013 | 0.48 | 5 | 0.98 | binh_thuong | – | Không | What Does an Avocado Farmer's Typical Day Look Like? |
+| 2024-08-07 | 831 | 08MmtGLwqwQ | 8,016 | 15 | 6,491 | 1.23 | 5 | 1.10 | binh_thuong | – | Không | Why You Should Eat Achachairu: Delicious Medicinal and Brand New to America |
+| 2024-08-29 | 809 | SFNPHp_T3FM | 28,261 | 15 | 8,016 | 3.53 | 5 | 0.63 | dang_ghi | – | Không | Where Do All These New Varieties of Avocado Come From? |
+| 2024-09-04 | 803 | qM5-u7O5IK4 | 7,147 | 15 | 8,016 | 0.89 | 5 | 0.63 | binh_thuong | – | Không | How To Graft Mango With A Whip And Tongue Graft. |
+| 2024-09-22 | 785 | FxE-f9zOfgw | 7,827 | 15 | 7,147 | 1.10 | 5 | 0.60 | binh_thuong | – | Không | Did You Know You Can Grow Avocados From a Store Bought Avocado Seed? |
+| 2024-10-08 | 769 | z6JkMDXG_cQ | 3,760 | 15 | 7,147 | 0.53 | 5 | 0.71 | binh_thuong | – | Không | Comparing Supermarket Avocados to Rare and Exotic Avocado Varieties. |
+| 2024-10-10 | 767 | kO5gyN3nxl8 | 5,060 | 15 | 7,147 | 0.71 | 5 | 0.60 | binh_thuong | – | Không | Hurricane Milton Damage to Our Avocado Farm |
+| 2024-10-11 | 766 | URbRF3xlYjo | 4,288 | 15 | 5,541 | 0.77 | 5 | 0.62 | binh_thuong | – | Không | How to stand up your avocado tree after a wind storm |
+| 2024-10-22 | 755 | 1KTo1VVjCWY | 12,238 | 15 | 5,541 | 2.21 | 5 | 0.56 | hoi_cao | – | Không | The Biggest Avocado I've Ever Seen: Marcus Pumpkin |
+| 2025-01-17 | 668 | 2ibgoMmao1M | 3,458 | 15 | 7,147 | 0.48 | 5 | 0.43 | binh_thuong | – | Không | Why I Love Being and Avocado Farmer |
+| 2025-01-27 | 658 | 5oYjXxvHNfs | 11,405 | 15 | 5,060 | 2.25 | 5 | 0.58 | hoi_cao | – | Không | My Transition From Corporate VP to Avocado Farmer |
+| 2025-02-16 | 638 | nTLYpi9xn9k | 3,088 | 15 | 7,147 | 0.43 | 5 | 0.41 | binh_thuong | – | Không | Did You Know We Grow Avocados In America? |
+| 2025-03-03 | 623 | e8t-j3z9zok | 2,930 | 15 | 5,060 | 0.58 | 5 | 1.23 | binh_thuong | – | Không | How do Fruit Trees Make Babies? |
+| 2025-03-23 | 603 | mU3ZTPK_nUI | 2,939 | 15 | 5,060 | 0.58 | 5 | 1.23 | binh_thuong | – | Không | Why Are Avocados So Genetically Diverse? |
+| 2025-03-29 | 597 | KCM1fnaHXm8 | 12,015 | 15 | 4,288 | 2.80 | 5 | 1.46 | hoi_cao | – | Không | How To Choose The Right Avocado Tree For Your Backyard |
+| 2025-04-08 | 587 | V0NC4OCHVkA | 1,424 | 15 | 5,060 | 0.28 | 5 | 1.23 | binh_thuong | – | Không | Live Lunch with Sleepy Lizard |
+| 2025-04-16 | 579 | La2WTPEsYJk | 6,241 | 15 | 5,060 | 1.23 | 5 | 0.59 | binh_thuong | – | Không | Are We Facing a An Avocado Shortage? |
+| 2025-04-21 | 574 | ucUnd_gI7mc | 8,171 | 15 | 5,060 | 1.61 | 5 | 0.59 | binh_thuong | – | Không | The Fascinating Science of Mango Genetics |
+| 2025-04-26 | 569 | _V7d6-fWWco | 2,779 | 15 | 5,060 | 0.55 | 5 | 0.60 | binh_thuong | – | Không | How Farmers Create New Varieties of Fruit |
+| 2025-05-09 | 556 | ZusUz-LVbxg | 9,091 | 15 | 4,288 | 2.12 | 5 | 0.71 | hoi_cao | – | Không | How Do South Florida Mango Farmers Know When to Start Picking? |
+| 2025-05-25 | 540 | U--lpm9RZys | 2,999 | 15 | 4,288 | 0.70 | 5 | 0.89 | binh_thuong | – | Không | How to get some of the best mangos you'll ever taste |
+| 2025-05-26 | 539 | Buevoh_sb-E | 1,423 | 15 | 4,288 | 0.33 | 5 | 1.71 | binh_thuong | – | Không | Memorial Day Tropical Fruit Mukbang |
+| 2025-05-31 | 534 | Y-MK_KaXOBg | 9,570 | 15 | 3,458 | 2.77 | 5 | 1.11 | hoi_cao | – | Không | Tasting classic Florida mangos on our farm |
+| 2025-06-04 | 530 | ATl8arOZL00 | 3,047 | 15 | 3,458 | 0.88 | 5 | 1.31 | binh_thuong | – | Không | My Grove Got Burglarized, Anthracnose, and Mango Snobs |
+| 2025-06-11 | 523 | 8bveEUa3AP4 | 3,828 | 15 | 3,088 | 1.24 | 5 | 1.54 | binh_thuong | – | Không | Sampling Summertime Mango Varieties |
+| 2025-07-11 | 493 | kWPaj3_u8Tc | 7,316 | 15 | 3,088 | 2.37 | 5 | 1.47 | hoi_cao | – | Không | How We Ripen Avocados to Perfection |
+| 2025-08-22 | 451 | zr5gFd71P5s | 11,151 | 15 | 3,088 | 3.61 | 5 | 1.04 | dang_ghi | – | Không | How Humans Domesticated The Avocado |
+| 2025-11-03 | 378 | XeNq6Uw2Jf8 | 2,895 | 15 | 3,828 | 0.76 | 5 | 1.18 | binh_thuong | – | Không | This Family Is Always Welcome At Our Avocado Farm |
+| 2026-01-08 | 312 | mnSr9Bxcwns | 4,535 | 15 | 3,828 | 1.18 | 5 | 1.24 | binh_thuong | – | Không | It's Flowering Season on Our Tropical Fruit Farm. ￼ |
+| 2026-02-11 | 278 | _fVKWm4_QZw | 4,742 | 15 | 4,535 | 1.05 | 5 | 0.85 | binh_thuong | – | Không | What do tropical fruit farmers know about frost mitigation? Turns out we have a lot to learn. ￼ |
+| 2026-03-14 | 247 | 5GuwAZLKS-E | 3,223 | 15 | 4,535 | 0.71 | 5 | 0.85 | binh_thuong | – | Không | He left his corporate job to become a farmer ￼ |
+| 2026-03-27 | 234 | oPlMfUzAAyI | 1,677 | 15 | 4,535 | 0.37 | 5 | 1.12 | binh_thuong | – | Không | This group of students learned to farm mangos on their field trip. |
+| 2026-05-04 | 196 | Qxgrli_l7ZA | 36,229 | 15 | 3,828 | 9.46 | 5 | 1.01 | manh | – | Không | Florida is losing avocado farms at an alarming rate |
+| 2026-05-30 | 170 | 2miyVTIwiYY | 50,136 | 15 | 3,828 | 13.10 | 5 | 1.01 | can_kiem_ky | – | Không | North America's New Fruit: The Achacha￼ |
+| 2026-05-31 | 169 | JZShEiy1rpE | 3,866 | 15 | 4,535 | 0.85 | 5 | 1.04 | binh_thuong | – | Không | How this small mango farm is making the best of a disastrous season￼ |
+| 2026-07-02 | 137 | dw1mevNjeJ0 | 2,241 | 15 | 3,866 | 0.58 | 4 | – | binh_thuong | – | Không | How Much Sugar is In a Piece of Fruit? |
+| 2026-08-17 | 91 | J8BdYh6gg-I | 5,082 | 15 | 3,866 | 1.31 | 3 | – | binh_thuong | – | Không | Marcus pumpkin. The $100 Avocado. ￼ |
+| 2026-08-20 | 88 | Vhhz2sRFuH0 | 3,575 | 15 | 4,535 | 0.79 | 2 | – | binh_thuong | – | Không | Picking Avocado With a Professional Farmer |
+| 2026-08-30 | 78 | F_95LNNFhDo | 31,424 | 15 | 3,866 | 8.13 | 1 | – | manh | – | Không | How to maximize avocado Pollination |
+| 2026-10-30 | 17 | 8Ss9iaMdi4w | 4,710 | 15 | 4,535 | 1.04 | 0 | – | chua_chin | – | Không | The fascinating science behind fruit trees |

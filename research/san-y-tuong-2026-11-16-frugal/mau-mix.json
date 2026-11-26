@@ -1,0 +1,100 @@
+{
+ "ngay_do": "2026-11-16",
+ "nguon_mau": "vidiq_youtube_search (tk …di0) 12 tháng 2025-11-16..2026-11-16, 2 truy vấn: s_m1.json,s_m2.json; giữ long-form ≥4 phút, kênh ≤200K, ≥14 ngày; bỏ OM null",
+ "cach_sap": [
+  "relevance",
+  "date"
+ ],
+ "view_dien_hinh_toi_thieu": 500,
+ "kenh_minh": {
+  "sub": 59900,
+  "trung_vi_view": 597,
+  "view_dien_hinh_uoc": null
+ },
+ "moc_nganh_p50": null,
+ "he_so_kenh_moi": 0.5,
+ "nguong_thang": 1.5,
+ "nguong_om": 2.0,
+ "he_so_khop": 1.0,
+ "chi_phi": 2,
+ "tuoi_toi_thieu_ngay": 14,
+ "videos": [
+  {
+   "id": "dwzvDWIGimg",
+   "title": "How to Make Your Own Seed Starting Mix",
+   "channel_id": "UCSHhqtvo5MLlNQtBcZfKahg",
+   "channel_sub": 169000,
+   "views": 6803,
+   "om": 2.31,
+   "vph": 0.17,
+   "published": "2026-01-16",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "-Tma9X5yOxs",
+   "title": "Best Seed Starting Mix Recipe 🌱 Simple DIY Mix for Strong Seedlings",
+   "channel_id": "UCgGniaqnV8RaQvCxcA2FnhA",
+   "channel_sub": 242,
+   "views": 413,
+   "om": 1.7956521739130435,
+   "vph": 0.2602827763496144,
+   "published": "2026-09-12",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "Wr3Ws2C2g9w",
+   "title": "Seed Starting Mix: DIY Recipe vs Store-Bought (Which Is Better?)",
+   "channel_id": "UCNtNnWI4ccwJFopOONKqDWw",
+   "channel_sub": 14,
+   "views": 50,
+   "om": 2.7027027027027026,
+   "vph": null,
+   "published": "2026-10-22",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "pY6RI9YQi3s",
+   "title": "Stop Buying Bagged Potting and Starting Mix! Make This Instead!",
+   "channel_id": "UCD4ahzHV6fihD79BWBIyY5g",
+   "channel_sub": 4240,
+   "views": 49605,
+   "om": 165.35,
+   "vph": 0.04,
+   "published": "2026-06-08",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "BtmT1whQ4TI",
+   "title": "The BEST SEED STARTING MIX! You Can Make It At Home CHEAP/FREE!",
+   "channel_id": "UCk_NdSWI7kn9gMQI1mt7cMQ",
+   "channel_sub": 88500,
+   "views": 9497,
+   "om": 1.82,
+   "vph": 0.4,
+   "published": "2026-08-14",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "p6Dse7C4_ik",
+   "title": "DIY Seed Starting Mix: Coco Coir + Perlite Demo | Tuesday Seeds 155",
+   "channel_id": "UCl7ABGZqiFZBxvURcSNYDXQ",
+   "channel_sub": 686,
+   "views": 89,
+   "om": 2.8253968253968256,
+   "vph": 0.14803625377643503,
+   "published": "2026-10-26",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "er98KhMD-m4",
+   "title": "I tested 6 potting mixes for starting seeds SIDE BY SIDE!",
+   "channel_id": "UCKPV0kZFMeAF71hhWJH1iAA",
+   "channel_sub": 38100,
+   "views": 19619,
+   "om": 6.08,
+   "vph": 0.92,
+   "published": "2026-01-05",
+   "dinh_dang": "list"
+  }
+ ]
+}

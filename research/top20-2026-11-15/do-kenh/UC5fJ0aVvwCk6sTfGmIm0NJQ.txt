@@ -1,0 +1,59 @@
+# Đo kênh: UC5fJ0aVvwCk6sTfGmIm0NJQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 17 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 17 |
+| n_trong_danh_sach | 17 |
+| n_dai | 17 |
+| n_short | 0 |
+| n_dai_dung_tinh | 6 |
+| nguong_tuoi_video | 30 |
+| subs | 2,380 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2022-12-26 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 5,851 |
+| cao_nhat | 14,109 |
+| thap_nhat | 730 |
+| phan_tan | 2.41 |
+| so_video_tren_2x | 2 |
+| ty_le_tren_2x | 0.33 |
+| trung_vi_chia_sub | 2.46 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | – |
+| ngay_video_dau | 2022-12-26 |
+| tuoi_tu_video_dau | 1,421 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 1.67 |
+| sub_moi_video | 140 |
+| video_30_ngay | 11 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** MAU_TRUNG_VI_NHO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2022-12-26 | 1,421 | xObB9vEs3tA | 730 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 4 Substations ATTACKED \| US Power Grid Failure & Blackouts |
+| 2022-12-27 | 1,420 | k3TKdoOuYRs | 1,397 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Food Shortages \| Empty Shelves Coming In 2023 \| Recalls, Weather & More |
+| 2026-10-06 | 41 | Y5cyD18vfR4 | 4,628 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 63% Have Less Than $500 – 4 Ways to Put $100 Back in Your Bank |
+| 2026-10-08 | 39 | 4i4NkV9kT-A | 7,074 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Employers Are Out Of Control: The 2026 Hiring Crisis |
+| 2026-10-13 | 34 | seQ0fY07VlI | 14,109 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Things You're Wasting Money On And How To Stop! |
+| 2026-10-15 | 32 | taGsV093n10 | 12,302 | 5 | 4,628 | 2.66 | 5 | 5.27 | hoi_cao | – | Không | You're Probably Making These 7 Money Mistakes Right Now |
+| 2026-10-19 | 28 | 0q3b3VH4hvE | 24,392 | 6 | 5,851 | 4.17 | 5 | 2.90 | chua_chin | – | Không | Grocery Shopping Habits From the 1980s and 1990s That Could Save You Hundreds Today |
+| 2026-10-21 | 26 | i-GUjS9I-w4 | 13,642 | 7 | 7,074 | 1.93 | 5 | 6.34 | chua_chin | – | Không | Why Your Grocery Bill Is So High — 11 Food Swaps To Fix It Immediately |
+| 2026-10-23 | 24 | Tc2rzZySWjc | 16,987 | 8 | 9,688 | 1.75 | 5 | 4.63 | chua_chin | – | Không | Where To Actually Store Your Emergency Fund: Most People Get This Wrong |
+| 2026-10-26 | 21 | _3GTOPc4IFg | 44,853 | 9 | 12,302 | 3.65 | 5 | 3.17 | chua_chin | – | Không | The 7 Foods You’ll Regret Not Stocking Up On This Winter |
+| 2026-10-28 | 19 | H---f4dSjvg | 62,486 | 10 | 12,972 | 4.82 | 5 | 2.31 | chua_chin | – | Không | The First 7 Things You Should Do When the Power Grid Fails |
+| 2026-10-30 | 17 | fvvuRIOzozE | 10,329 | 11 | 13,642 | 0.76 | 5 | 2.19 | chua_chin | – | Không | The Power Company Won’t Tell You This: 7 Ways To Cut Your Bill |
+| 2026-11-02 | 14 | ObbeeWk7UOs | 179,541 | 12 | 12,972 | 13.84 | 4 | – | chua_chin | – | Không | Prepare Now: 7 Things You Need To Stockpile Before It's Too Late! |
+| 2026-11-04 | 12 | pmNiu_lhA34 | 38,997 | 13 | 13,642 | 2.86 | 3 | – | chua_chin | – | Không | Winter Is Coming: 8 Ways To Keep Your Family Warm When The Grid Dies |
+| 2026-11-06 | 10 | Bbm5XWavEi8 | 29,929 | 14 | 13,876 | 2.16 | 2 | – | chua_chin | – | Không | The One Device Hackers Want Most - Protect These 8 Before It's Too Late |
+| 2026-11-09 | 7 | P0-1tCAkeOE | 3,440 | 15 | 14,109 | 0.24 | 1 | – | chua_chin | – | Không | Make These 5 Phone Calls TODAY — Save Up to $300 a Month! |
+| 2026-11-11 | 5 | m5ob1JSOLds | 7,777 | 15 | 14,109 | 0.55 | 0 | – | chua_chin | – | Không | The 9 Cheapest Foods You Can Buy Right Now (Under $0.50!) |

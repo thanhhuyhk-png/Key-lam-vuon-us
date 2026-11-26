@@ -1,0 +1,69 @@
+# Đo kênh: UCGLaHXzG-yMC0AVZIwVqQmg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 27 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 27 |
+| n_trong_danh_sach | 27 |
+| n_dai | 27 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 8,560 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-05-06 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 7,914 |
+| cao_nhat | 677,190 |
+| thap_nhat | 1,097 |
+| phan_tan | 85.56 |
+| so_video_tren_2x | 8 |
+| ty_le_tren_2x | 0.40 |
+| trung_vi_chia_sub | 0.92 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.16 |
+| ngay_video_dau | 2025-05-06 |
+| tuoi_tu_video_dau | 559 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 15.31 |
+| sub_moi_video | 317 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-05-06 | 559 | Knhi5TplUxI | 5,908 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 8 Backyard Garden Ideas on a Budget That Look Expensive! |
+| 2025-05-07 | 558 | 0KHX7JFN0YY | 149,889 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Backyard Garden Ideas That Will Blow Your Mind in 2025! |
+| 2025-05-09 | 556 | WdvFMaHBZY0 | 13,435 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 8 Genius Backyard Ideas That Will Transform Your Small Yard Into a Dream Space! |
+| 2025-05-19 | 546 | QQT2t7uBwTk | 37,964 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Unlock the Secret: 7 Key Elements for a Perfect Small Backyard Garden! |
+| 2025-05-24 | 541 | knRcNWdosnI | 7,359 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Small Backyard Garden Ideas: How to Maximize Space with Vertical Plant Walls |
+| 2025-05-26 | 539 | EhT-DxKXC6g | 18,898 | 5 | 13,435 | 1.41 | 5 | 2.00 | binh_thuong | – | Không | 7 Genius Small Backyard Vegetable Garden Layout Ideas |
+| 2025-05-30 | 535 | ZNtTB9QXRzo | 13,025 | 6 | 16,166 | 0.81 | 5 | 2.29 | binh_thuong | – | Không | 2025 Modern Minimalist Garden Ideas: 10 Backyard Designs That Instantly Calm Your Space |
+| 2025-06-06 | 528 | R-hccKpSOsw | 26,934 | 7 | 13,435 | 2.00 | 5 | 2.76 | hoi_cao | – | Không | 2025 Small Backyard Garden Ideas: 7 Secret Ways to Maximize Your Space You Need to Try |
+| 2025-06-16 | 518 | Cq1-eHYrm9w | 377,856 | 8 | 16,166 | 23.37 | 5 | 2.26 | can_kiem_ky | – | Không | 2025 Small Backyard Ideas: Transform Tiny Spaces into an Outdoor Paradise |
+| 2025-06-18 | 516 | wClM10inWRI | 81,320 | 9 | 18,898 | 4.30 | 5 | 0.96 | dang_ghi | – | Không | 2025 Small Backyard Landscaping Ideas: Turn a Tiny Yard into a Luxury Outdoor Oasis! |
+| 2025-06-21 | 513 | TO4C1ZK_xxI | 18,073 | 10 | 22,916 | 0.79 | 5 | 0.59 | binh_thuong | – | Không | 2025 Small Backyard Pool Ideas: Turn Your Tiny Yard into a Private Luxury Oasis! |
+| 2025-06-23 | 511 | 6U-8HxY8TAo | 37,020 | 11 | 18,898 | 1.96 | 5 | 0.71 | binh_thuong | – | Không | 2025 Small Backyard Water Feature Ideas: Bring Serenity and Sound to Your Outdoor Oasis |
+| 2025-06-27 | 507 | sj6gwKNp7Fw | 7,899 | 12 | 22,916 | 0.34 | 5 | 0.59 | binh_thuong | – | Không | 2025 Small Backyard Ideas with Lush Plants for Instant Privacy |
+| 2025-06-30 | 504 | gEryuIiSduI | 36,570 | 13 | 18,898 | 1.94 | 5 | 0.42 | binh_thuong | – | Không | 2025 Small Backyard Ideas: Stunning Luxury Designs On a Budget |
+| 2025-07-03 | 501 | cTFOvBRYvAw | 13,474 | 14 | 22,916 | 0.59 | 5 | 0.35 | binh_thuong | – | Không | 2025 Small Backyard Ideas on a Budget for a Luxury Backyard Retreat |
+| 2025-07-07 | 497 | 4_n_EqtcOu8 | 6,238 | 15 | 18,898 | 0.33 | 5 | 0.42 | binh_thuong | – | Không | 2025 Small Garden Ideas: Transform Your Tiny Yard with Genius Space Saving, Easy Plants & Low Budget |
+| 2025-07-14 | 490 | Rb5MoHO9J94 | 677,190 | 15 | 18,898 | 35.83 | 5 | 0.40 | can_kiem_ky | – | Không | 2025 Small Backyard Garden Ideas: 10 Lush Landscaping Hacks for Tiny Outdoor Spaces |
+| 2025-07-19 | 485 | zyUnkKFTX1o | 7,930 | 15 | 18,898 | 0.42 | 5 | 0.31 | binh_thuong | – | Không | 2025 Small Backyard Ideas: 10 Stunning Landscaping Styles That Instantly Transform Your Tiny Spaces! |
+| 2025-07-27 | 477 | bzIH6JpQA14 | 7,489 | 15 | 18,898 | 0.40 | 5 | 0.29 | binh_thuong | – | Không | 2025 Outdoor Living Ideas: How to Turn Tiny Backyards into Functional Spaces |
+| 2025-07-29 | 475 | PMDcfV8EPZk | 23,914 | 15 | 18,073 | 1.32 | 5 | 0.25 | binh_thuong | – | Không | 2025 Small Backyard Layout Hacks to Create a Perfect Outdoor Living Space |
+| 2025-07-31 | 473 | B0owyfn5RQg | 4,059 | 15 | 18,898 | 0.21 | 5 | 0.24 | binh_thuong | – | Không | 2025 Outdoor Living on a Budget: 10 Cheap Backyard Makeover Ideas That Look Super Expensive! |
+| 2025-08-04 | 469 | XNUx08FmWUA | 5,503 | 15 | 18,073 | 0.30 | 5 | 0.07 | binh_thuong | – | Không | 2025 Small Backyard Ideas: 7 Modern Minimalist Garden Features You'll Wish You Added Sooner |
+| 2025-08-07 | 466 | h-68vhmNcS8 | 5,947 | 15 | 18,073 | 0.33 | 4 | – | binh_thuong | – | Không | 2025 Small Backyard Ideas: 7 Genius Hacks That Make Tiny Yards Look Huge |
+| 2026-02-04 | 285 | BsACsQXhkBM | 4,457 | 15 | 13,474 | 0.33 | 3 | – | binh_thuong | – | Không | Budget Small Backyard Ideas 2026 That Look Expensive but Cost Less 💸🌿 |
+| 2026-07-14 | 125 | 8_oX9ueR9bM | 1,260 | 15 | 7,930 | 0.16 | 2 | – | binh_thuong | – | Không | 10 Small Backyard Ideas That Look Expensive (Luxury Looks on a Budget!) |
+| 2026-07-16 | 123 | O7hTJ1sD3HY | 1,097 | 15 | 7,899 | 0.14 | 1 | – | binh_thuong | – | Không | 10 Tiny Garden Ideas That Make Small Spaces Feel Bigger & More Beautiful |
+| 2026-07-19 | 120 | JANHyTINIgg | 1,283 | 15 | 7,489 | 0.17 | 0 | – | binh_thuong | – | Không | 10 Narrow Side Yard Ideas That Transform Wasted Space Into a Beautiful Garden |

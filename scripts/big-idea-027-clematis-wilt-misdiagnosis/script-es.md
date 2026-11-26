@@ -1,0 +1,43 @@
+# TÍTULO: Su clemátide necesita esto cada julio — solo una de tres causas es real
+
+Ayer, su clemátide estaba cubierta de flores. Esta mañana, toda una enredadera está negra y caída. Su primer pensamiento probablemente es: se marchitó, se perdió. Pero la Royal Horticultural Society dice algo sorprendente: muchos colapsos así no son marchitez en absoluto. Hay tres causas distintas que se ven casi idénticas. Y solo una de ellas es una sentencia de muerte real. En los próximos treinta segundos, sabrá exactamente cuál de las tres está afectando a su enredadera. Y si puede salvarse.
+
+La clemátide crece en casi todas las zonas de jardín de EE. UU., desde la cuatro hasta la nueve. Así que si tiene una de estas enredaderas, esto le aplica. Y aquí está la razón por la que julio importa. Una de estas tres causas solo aparece cuando el clima se vuelve caluroso y húmedo. Eso significa que el verano es exactamente cuando golpea con más fuerza. Empecemos con la más fácil de resolver.
+
+Causa número uno: un tallo roto. Los tallos de la clemátide son huecos y sorprendentemente frágiles. Una fuerte ráfaga de viento. Un perro curioso que pasa rozando. Un manejo brusco mientras ata la enredadera. Cualquiera de estos puede romper un tallo de lado a lado. Cuando eso sucede, el agua no puede llegar a las hojas por encima de la rotura, y toda esa sección se marchita rápido. Se ve exactamente como una enfermedad. Pero no lo es. Esa misma fuente señala este tipo de daño físico como una de las causas más confundidas con el "marchitamiento" de la clemátide. Está al mismo nivel que la sequía y el daño por babosas.
+
+Esta es la prueba: encuentre un tallo sospechoso, corte una pequeña sección y ábrala a la mitad. Tarda unos diez segundos. Si el interior sigue verde y firme, no es marchitez fúngica, es simplemente una tubería rota. La solución es simple. Solo necesita unas tijeras de podar que ya tiene. Cortar la sección dañada hasta el tejido sano hace el trabajo. El resto de la enredadera, la parte que sigue enraizada y verde, generalmente está bien. No hay que desenterrar la planta. No hay necesidad de entrar en pánico.
+
+Pero un tallo roto se queda en su lugar. La siguiente causa se mueve, y come mientras usted duerme.
+
+Causa número dos: plagas. Dos culpables causan la mayor parte del daño aquí. Las babosas y los caracoles se alimentan de noche. Dejan agujeros irregulares y desgarrados en las hojas, y un rastro plateado y viscoso detrás de ellos. Los ácaros araña son lo opuesto: casi invisibles. Pero dejan una telaraña fina en el envés de las hojas, y un aspecto punteado y moteado, especialmente durante períodos calurosos y secos. Ninguno de los dos causa el ennegrecimiento repentino y dramático que produce la marchitez verdadera. En cambio, notará un amarillamiento más lento, hojas masticadas o un deterioro general.
+
+Una nota de seguridad rápida primero. Una bolsa de gránulos químicos para babosas puede costarle cinco o seis dólares, pero muchos de ellos contienen metaldehído. El Merck Veterinary Manual es la referencia estándar que usan los veterinarios. Indica temblores y otros síntomas graves en perros y gatos pocas horas después de la ingestión. Los niños pequeños también están en riesgo. Si tiene mascotas o nietos cerca, evite los gránulos. Si los tiene guardados, almacénelos sellados y fuera de su alcance.
+
+Buenas noticias: no los necesita. La solución para las babosas es muy económica y segura para mascotas: solo un recipiente poco profundo con cerveza enterrado en la tierra. La solución para los ácaros araña también es simple. Un chorro fuerte de agua, o una capa ligera de aceite de neem, generalmente los controla. Ambos se secan rápido. Una vez que las hojas ya no estén mojadas, las mascotas y los nietos pueden volver al jardín sin problema.
+
+Eso es lo que tiene solución: un tallo roto, una plaga hambrienta. Pero hay una pista que casi todo jardinero pasa por alto. Es la forma más rápida de saber si su planta está realmente infectada. Ahora, la causa que sí puede acabar con una sección de su enredadera para siempre. Y esta siguiente parte es para quienes están frente a una enredadera que ya se ha vuelto completamente negra.
+
+Causa número tres: marchitez verdadera de la clemátide. Esta es un hongo real: los científicos lo llaman Calophoma clematidina, aunque los libros más antiguos lo llaman Phoma o Ascochyta. Esto es lo que explica cómo funciona. Piense en ello como una tubería tapada con lodo. El hongo entra a través de una pequeña herida cerca del nivel del suelo, y luego bloquea el flujo de agua justo ahí. Por encima del bloqueo, nada pasa. Así que las hojas y el tallo se marchitan rápido, incluso cuando el suelo debajo tiene suficiente humedad.
+
+Con la marchitez verdadera, abrir un tallo a la mitad muestra tejido negro por dentro, no verde. Es la misma prueba de la causa número uno. ¿Negro por dentro? Ese es el culpable. Verde significa daño. Negro significa marchitez verdadera. Eso es todo: esa es la prueba completa, y no necesita ser un experto para hacerla.
+
+Una vez que el clima se vuelve cálido y húmedo, la mayoría de las infecciones se establecen. Por eso julio es la temporada de mayor riesgo.
+
+Aquí está la parte que debería tranquilizarle. La Royal Horticultural Society, Clemson Cooperative Extension y Penn State Extension coinciden en algo. Esta enfermedad no ataca el sistema de raíces. Las raíces sobreviven. Y como las raíces sobreviven, una clemátide establecida suele enviar nuevos brotes desde la base al año siguiente.
+
+La solución es la misma para cada caso de marchitez verdadera. Corte los tallos afectados hasta el tejido sano, a veces hasta el nivel del suelo. No hay necesidad de desenterrar la planta. Los resultados hablan por sí solos: déle una temporada, y observe lo que vuelve a crecer.
+
+Imagínese esto. Sale una mañana de julio con su café en la mano. Y ahí está: todo un tallo de su clemátide, negro y caído de la noche a la mañana. Antes de sacar la pala, las tijeras de podar son el mejor primer paso. Un pequeño corte, abierto a la mitad, cuenta toda la historia. Verde por dentro apunta a un tallo roto o daño por plagas, y un corte rápido generalmente lo resuelve. Negro por dentro apunta a marchitez verdadera, y cortar con firmeza deja que las raíces hagan el resto.
+
+Ahora, hay algo más que protege contra los tres problemas a la vez. Y ocurre antes de que cualquiera de ellos empiece. Es el tipo de truco por el que los jardineros de toda la vida juraban, mucho antes de que alguien tuviera un estudio universitario que lo respaldara. Resulta que las oficinas de extensión de Clemson, Penn State y la University of Illinois coinciden con ellos.
+
+Plantar una clemátide unas pulgadas más profundo de lo que estaba en su maceta de vivero rinde frutos más adelante. El objetivo es enterrar al menos dos pares de nudos de hojas por debajo del nivel del suelo. Esas tres oficinas de extensión coinciden en esto, aunque lo expresan de manera diferente: esos nudos enterrados actúan como un seguro. Cortado por un cortacésped, masticado por un animal, roto por el viento, afectado por la marchitez verdadera: no importa cuál sea. La planta puede enviar un tallo completamente nuevo desde esos nudos enterrados. No es una solución para un problema que ya tiene. Es protección para el siguiente, antes de que suceda. Un paso simple al momento de plantar. Y habrá reducido el riesgo frente a un tallo roto, una babosa hambrienta y la marchitez verdadera, todo a la vez.
+
+Entonces, este es el resumen. Tres causas pueden hacer que una clemátide colapse: un tallo roto, plagas hambrientas o marchitez fúngica verdadera. Solo esa última es causada por una enfermedad. Las otras dos son simplemente daño, y el daño sana. La próxima vez que una sección caiga, no hay necesidad de entrar en pánico ni de buscar la pala. Las tijeras de podar y un pequeño corte son todo lo que se necesita para ver por dentro. Verde significa daño. Negro significa marchitez verdadera. Cortar con firmeza deja que esas raíces se pongan a trabajar.
+
+Para la próxima primavera, hay muchas posibilidades de que vea brotes verdes frescos trepando de nuevo por ese mismo enrejado. Hágalo bien. Para cuando sus vecinos estén arrancando sus enredaderas "muertas", la suya será la que siga trepando por la cerca.
+
+Usted revisa antes de cavar. Prefiere cortar y esperar antes que arrancar y empezar de nuevo. Ese es el tipo de jardinero que pertenece aquí. Cuéntenos en los comentarios: ¿en qué zona USDA está usted, y su clemátide salió adelante?
+
+Por cortar con inteligencia, salvar la enredadera y disfrutar un poco afuera este julio. ¡Feliz jardinería!

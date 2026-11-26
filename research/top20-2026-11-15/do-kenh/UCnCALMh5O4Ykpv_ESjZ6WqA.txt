@@ -1,0 +1,150 @@
+# Đo kênh: UCnCALMh5O4Ykpv_ESjZ6WqA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 257 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 62,800 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-05-11 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 686 |
+| cao_nhat | 1,491 |
+| thap_nhat | 503 |
+| phan_tan | 2.17 |
+| so_video_tren_2x | 1 |
+| ty_le_tren_2x | 0.05 |
+| trung_vi_chia_sub | 0.01 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.97 |
+| ngay_video_dau | 2025-11-07 |
+| tuoi_tu_video_dau | 374 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 168 |
+| sub_moi_video | 244 |
+| video_30_ngay | 7 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-11-07 | 374 | 84dR5wiUgS4 | 2,319 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Vegetables That GROW LIKE TREES! You Need to Try This |
+| 2025-11-10 | 371 | FlUQMIeIvSE | 332 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Shocking Facts About Toxic Plants That Every Pet Owner Must Know |
+| 2025-11-13 | 368 | 6_uf4d4z2l8 | 3,599 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Save $2000 a Year with These 10 Fruit Trees in Pots |
+| 2025-11-15 | 366 | AO3EEPkYqaI | 87,565 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 5 Minerals That SUPERCHARGE Your Harvest in Just 30 Days |
+| 2025-11-17 | 364 | 1UyejkDXD3w | 671 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Why Your Plants Are Dying and How to FIX Them in 3 Weeks |
+| 2025-11-19 | 362 | Z4ab9tiwFDI | 1,123 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 15 Perennial Flowers That Will CHANGE Your Garden Forever |
+| 2025-11-21 | 360 | PYjPA0kBfkc | 6,971 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 11 Crops That Can Survive EXTREME Cold -31°F |
+| 2025-11-23 | 358 | G9d-vj93JpA | 3,988 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Winter Tasks That Will SAVE You $500 and Boost Your Spring Harvest! |
+| 2026-05-11 | 189 | _pYLuPersN8 | 476 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Ants Can’t Fly — So Why Are They Still in Your Tree? |
+| 2026-05-12 | 188 | EjS4ratgFKg | 340 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Stop Replanting: 15 Long-Blooming Perennials Until Frost |
+| 2026-05-13 | 187 | qLWBNwKTaps | 559 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Dying Plant? 5 Natural Fertilizers That Work — How to Pick the Right One |
+| 2026-05-14 | 186 | ObNf7fOihOE | 347 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Stop Planting 13 Fruit Trees, These 5 Thrive in Pots and Small Spaces |
+| 2026-05-15 | 185 | At5Exq4sjqA | 501 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | STOP Buying Raised Beds! Do This For $0 Instead |
+| 2026-05-16 | 184 | ZEHHgSNjX3k | 4,708 | 5 | 476 | 9.89 | 5 | 0.64 | manh | – | Không | I Buried Copper in My Garden — Here's What Happened |
+| 2026-05-17 | 183 | Z7G3Ab8-_lo | 587 | 6 | 488 | 1.20 | 5 | 0.63 | binh_thuong | – | Không | Stop Throwing Away Mushroom Stems — Regrow $30 Free at Home |
+| 2026-05-18 | 182 | ZoJxVaxzxyw | 307 | 7 | 501 | 0.61 | 5 | 0.69 | binh_thuong | – | Không | Just 4 Kitchen Scraps and Your Fruit Tree Will Explode With Fruit! |
+| 2026-05-19 | 181 | bbt0x-9m4lA | 383 | 8 | 488 | 0.78 | 5 | 0.63 | binh_thuong | – | Không | 3 Tomato Secrets Pros Use Outdoors (Double Your Harvest) |
+| 2026-05-20 | 180 | 7EIiLl47o_o | 283 | 9 | 476 | 0.59 | 5 | 0.65 | binh_thuong | – | Không | STOP Buying Fungicide — 5 Hydrogen Peroxide Garden Hacks |
+| 2026-05-21 | 179 | gjF5EXC25eI | 265 | 10 | 430 | 0.62 | 5 | 0.72 | binh_thuong | – | Không | Skip the $4,200 Deer Fence — Plant These Instead |
+| 2026-05-22 | 178 | oRRaVJbDgts | 786 | 11 | 383 | 2.05 | 5 | 0.80 | hoi_cao | – | Không | Stop Buying Rat Poison — Plant This Instead |
+| 2026-05-23 | 177 | 5lEZTnemgj8 | 345 | 12 | 430 | 0.80 | 5 | 0.72 | binh_thuong | – | Không | 10 Profitable Plants You Can Sell Without a Website |
+| 2026-05-24 | 176 | 6LAUKWwv4fA | 308 | 13 | 383 | 0.80 | 5 | 1.20 | binh_thuong | – | Không | The Ground Cherry Look Alike Hiding in Your Backyard |
+| 2026-05-25 | 175 | rmrozrWrUoM | 305 | 14 | 365 | 0.84 | 5 | 1.52 | binh_thuong | – | Không | 5 'Trash' Items in Your Yard You Should Never Throw Away |
+| 2026-05-26 | 174 | Rcc8Dp_nRI4 | 308 | 15 | 347 | 0.89 | 5 | 1.60 | binh_thuong | – | Không | The Dried Onion Skins Tomato Trick 90 Percent of Gardeners Get Wrong |
+| 2026-05-27 | 173 | _eeNICLoLAU | 556 | 15 | 345 | 1.61 | 5 | 1.54 | binh_thuong | – | Không | Grow Herbs in Water — Never Buy Them Again |
+| 2026-05-28 | 172 | L9gMExFvOK8 | 681 | 15 | 347 | 1.96 | 5 | 1.33 | binh_thuong | – | Không | This One Ingredient Makes Lemon Trees Flower Fast |
+| 2026-05-29 | 171 | -anD8WBkkI8 | 461 | 15 | 347 | 1.33 | 5 | 1.33 | binh_thuong | – | Không | 7 Container Vegetables That Outproduce a Backyard Garden |
+| 2026-05-30 | 170 | bB7zVVGN82Y | 693 | 15 | 383 | 1.81 | 5 | 0.99 | binh_thuong | – | Không | Stop Replanting Tomatoes - Grow Tamarillo Instead (Zone 5+) |
+| 2026-05-31 | 169 | zLaG_plbGiY | 273 | 15 | 383 | 0.71 | 5 | 1.20 | binh_thuong | – | Không | STOP Composting: 5 Kitchen Scraps That Feed Tomatoes Free |
+| 2026-06-01 | 168 | uNGxgi3PjVw | 533 | 15 | 345 | 1.54 | 5 | 1.10 | binh_thuong | – | Không | STOP Buying Garden Sprays 7 Secret Peroxide Hacks |
+| 2026-06-02 | 167 | EDvRfuVjozE | 461 | 15 | 345 | 1.34 | 5 | 1.01 | binh_thuong | – | Không | Stop Wasting $28 on Tomato Hornworm Sprays - Try This Under-$1 Fix |
+| 2026-06-03 | 166 | GaHm4rHhqH4 | 260 | 15 | 383 | 0.68 | 5 | 0.91 | binh_thuong | – | Không | Got a Black Thumb? Plant These 10 Perennials and Walk Away |
+| 2026-06-04 | 165 | v0PH3_Bl24w | 379 | 15 | 345 | 1.10 | 5 | 1.01 | binh_thuong | – | Không | Only 9 of 15 Plants Actually Attract Snakes (6 Are Safe) |
+| 2026-06-05 | 164 | pU87syqoMyg | 627 | 15 | 379 | 1.65 | 5 | 0.92 | binh_thuong | – | Không | STOP Putting Coffee Grounds on These 3 Plants (They Die) |
+| 2026-06-06 | 163 | 8AMYMqOVxxA | 349 | 15 | 461 | 0.76 | 5 | 0.75 | binh_thuong | – | Không | Stop Pulling These 12 Backyard Weeds - Dry Them for Winter |
+| 2026-06-07 | 162 | 1N5LXVIoR8E | 335 | 15 | 379 | 0.88 | 5 | 0.97 | binh_thuong | – | Không | NEVER Spray These: 12 Backyard Weeds Safe for Kids & Pets |
+| 2026-06-08 | 161 | oDU9qJFVlpo | 324 | 15 | 379 | 0.85 | 5 | 0.97 | binh_thuong | – | Không | Deer Ate Everything 9 Deer-Resistant Perennials (Pet-Safe) |
+| 2026-06-09 | 160 | PqU8IeLV0Kk | 347 | 15 | 379 | 0.92 | 5 | 1.25 | binh_thuong | – | Không | STOP Buying These: 9 Safe Perennials For Cats & Dogs (ASPCA Secret) |
+| 2026-06-10 | 159 | jkK-cQTmAnQ | 474 | 15 | 379 | 1.25 | 5 | 1.12 | binh_thuong | – | Không | Don't Waste Your Banana Peels — The Exact Schedule for Tomatoes, Peppers & 8 More Plants |
+| 2026-06-12 | 157 | 9BFe_3F-YUM | 526 | 15 | 461 | 1.14 | 5 | 0.80 | binh_thuong | – | Không | Eggshells, Coffee & Banana Peels: Which Kitchen Scrap Works? |
+| 2026-06-14 | 155 | acDhj05Ae_w | 367 | 15 | 461 | 0.80 | 5 | 0.77 | binh_thuong | – | Không | The Perennial Trap Garden Centers Don’t Explain |
+| 2026-06-15 | 154 | WnVtLBJ5LhE | 355 | 15 | 379 | 0.94 | 5 | 0.89 | binh_thuong | – | Không | Don’t Plant These 15 Vegetables in the Ground |
+| 2026-06-18 | 151 | RoE0T6MhlAM | 495 | 15 | 367 | 1.35 | 5 | 0.92 | binh_thuong | – | Không | The #1 Place Snakes Hide Around Your Home |
+| 2026-06-20 | 149 | dWgjnUjFo_k | 424 | 15 | 367 | 1.16 | 5 | 0.91 | binh_thuong | – | Không | This $2 Flower Secretly Kills Pests Underground |
+| 2026-06-22 | 147 | 5PGo2xCctig | 282 | 15 | 379 | 0.74 | 5 | 0.89 | binh_thuong | – | Không | 8 “Low Maintenance” Perennial Plants That Are Slowly Destroying Your Yard |
+| 2026-06-24 | 145 | q75iQdtbRR8 | 337 | 15 | 367 | 0.92 | 5 | 1.01 | binh_thuong | – | Không | Aloe Vera Works Better Than Store-Bought Rooting Powder |
+| 2026-06-26 | 143 | _Hr6ran5Ltc | 333 | 15 | 355 | 0.94 | 5 | 1.08 | binh_thuong | – | Không | 7 No-Bend Garden Setups That Save Your Back After 60 |
+| 2026-06-28 | 141 | -FSrOiVDjXA | 561 | 15 | 355 | 1.58 | 5 | 1.04 | binh_thuong | – | Không | 5 Things Nobody Tells You About Growing Avocado From Seed |
+| 2026-06-30 | 139 | WB_VdYG3nZI | 216 | 15 | 355 | 0.61 | 5 | 1.04 | binh_thuong | – | Không | 7 Aloe Setup Swaps for Gardeners Over 65 |
+| 2026-07-02 | 137 | Ef0Tj2Ap4zE | 369 | 15 | 349 | 1.06 | 5 | 1.09 | binh_thuong | – | Không | Why Grandmother’s Aloe Lived 30 Years — It’s the Biology |
+| 2026-07-04 | 135 | 2kgIpg0dLJ8 | 382 | 15 | 355 | 1.08 | 5 | 0.81 | binh_thuong | – | Không | Build a No Bend Raised Bed for Under $50 |
+| 2026-07-06 | 133 | c3gvAJpDT2s | 440 | 15 | 367 | 1.20 | 5 | 0.78 | binh_thuong | – | Không | The Milk Jug Watering Trick, Made Safe in 1 Step - Gardening Over 60 |
+| 2026-07-08 | 131 | KC-tEYYfv2U | 195 | 15 | 369 | 0.53 | 5 | 0.78 | binh_thuong | – | Không | The Only 8 Vegetables Worth Planting in July \| Gardening Over 60 |
+| 2026-07-10 | 129 | PvS4XnaAkAg | 229 | 15 | 369 | 0.62 | 5 | 0.82 | binh_thuong | – | Không | Science Says: Plant These 6 After July 4th \| Old Fashioned Gardening Tips |
+| 2026-07-12 | 127 | pGy_4R5qfv0 | 2,079 | 15 | 367 | 5.66 | 5 | 0.83 | manh | – | Không | Save Any Dying Aloe in 5 Steps (Even Mushy Black Roots) |
+| 2026-07-14 | 125 | fsafoTOrrs4 | 288 | 15 | 367 | 0.78 | 5 | 1.11 | binh_thuong | – | Không | 7 Things to Plant in July, Zone by Zone (5–9) \| Senior Gardening Tips |
+| 2026-07-16 | 123 | iKUYogaUeBA | 303 | 15 | 355 | 0.85 | 5 | 1.14 | binh_thuong | – | Không | Your Clematis Needs This Every July — Only 1 of 3 Causes Is Real |
+| 2026-07-18 | 121 | lQCBBR2okzs | 244 | 15 | 337 | 0.72 | 5 | 1.29 | binh_thuong | – | Không | Regrow 6 Vegetables From Scraps, No Soil  \| Gardening Without Bending |
+| 2026-07-20 | 119 | -YqioWGh_n0 | 406 | 15 | 333 | 1.22 | 5 | 1.31 | binh_thuong | – | Không | Turn 3 Old Bottles Into a No-Bend Drip System for Tomatoes \| Senior Gardening Tips |
+| 2026-07-22 | 117 | FV_P4NVhO6o | 436 | 15 | 333 | 1.31 | 5 | 0.81 | binh_thuong | – | Không | Grow 7 Herbs in Water — No Soil, No Smell, No Mess  \| Gardening for Elderly |
+| 2026-07-24 | 115 | wbSI0-ekcQs | 651 | 15 | 337 | 1.93 | 5 | 0.80 | binh_thuong | – | Không | You’re Pulling $6 Salad: 7 Yard Weeds That Beat Store Greens |
+| 2026-07-26 | 113 | 0aBBjVFt-kE | 187 | 15 | 369 | 0.51 | 5 | 0.73 | binh_thuong | – | Không | 5 “Low-Maintenance” Perennials and the Year They Actually Pay Off |
+| 2026-07-28 | 111 | qGALNpq-dHY | 556 | 15 | 369 | 1.51 | 5 | 0.73 | binh_thuong | – | Không | Save a Dying Snake Plant in 5 Steps (Even Soft, Yellow Leaves) \| Senior Gardening Tips |
+| 2026-07-29 | 110 | NlWOvxlMLM0 | 227 | 15 | 369 | 0.62 | 5 | 0.73 | binh_thuong | – | Không | Plant This 4-Layer Perennial Border Once, Spray Way Less |
+| 2026-07-31 | 108 | WAGiVPj8_mw | 271 | 15 | 369 | 0.73 | 5 | 0.72 | binh_thuong | – | Không | Why Afternoon Sun Kills Aloe Plants—And the Biology of Where to Move It |
+| 2026-08-01 | 107 | UZTCCzYxUn4 | 271 | 15 | 303 | 0.89 | 5 | 0.87 | binh_thuong | – | Không | Do Eggshells Really Add Calcium What Science Found \| Gardening Over 60 |
+| 2026-08-03 | 105 | mCvtwjODkVg | 275 | 15 | 288 | 0.95 | 5 | 0.92 | binh_thuong | – | Không | Save a Dying Pothos in 5 Steps (Even Black, Rotten Roots) \| Senior Gardening Tips |
+| 2026-08-05 | 103 | pv_zkvGHmg4 | 178 | 15 | 275 | 0.65 | 5 | 1.01 | binh_thuong | – | Không | 7 Perennials That Bloom All Summer With Almost No Water \| Senior Gardening Tips |
+| 2026-08-07 | 101 | pvgI1Gp9CLs | 264 | 15 | 275 | 0.96 | 5 | 1.01 | binh_thuong | – | Không | The 8-Inch Fix for a Dying Clematis \| Gardening Over 60 |
+| 2026-08-09 | 99 | ulm9-FG-wO0 | 229 | 15 | 275 | 0.83 | 5 | 1.08 | binh_thuong | – | Không | Your $4 Basil Plant Is Overcrowded — Split It Into 20 Thriving Plants |
+| 2026-08-11 | 97 | N6CeGXVRGXc | 279 | 15 | 271 | 1.03 | 5 | 1.25 | binh_thuong | – | Không | 5 Crops You’ll Deeply Regret Not Planting in August! |
+| 2026-08-13 | 95 | a8yBwaItJO4 | 298 | 15 | 271 | 1.10 | 5 | 1.59 | binh_thuong | – | Không | 1 August Mistake Kills Every Hydrangea Bloom Next Year |
+| 2026-08-15 | 93 | CCyZCM1bjNQ | 541 | 15 | 271 | 2.00 | 5 | 1.59 | binh_thuong | – | Không | 5 Mistakes That Are Quietly Rotting Your Snake Plant’s Roots |
+| 2026-08-17 | 91 | tVlYsqtpJ-k | 262 | 15 | 275 | 0.95 | 5 | 1.56 | binh_thuong | – | Không | Your Mosquito Plant Won’t Work Until You Do This 30-Second Step |
+| 2026-08-18 | 90 | YCikSbsz-0U | 340 | 15 | 271 | 1.25 | 5 | 1.70 | binh_thuong | – | Không | Why Your Lush Green Clematis Never Blooms (1 Fertilizer Mistake) |
+| 2026-08-20 | 88 | jooL8ahB7Po | 987 | 15 | 271 | 3.64 | 5 | 1.70 | dang_ghi | – | Không | Kill Weeds With Cardboard — No Bending, No Pulling, $0 Cost |
+| 2026-08-22 | 86 | PLkt1mJSKoM | 430 | 15 | 271 | 1.59 | 5 | 2.00 | binh_thuong | – | Không | Bury Your Clematis 3 Inches “Wrong” \|  Senior Gardening Tips |
+| 2026-08-24 | 84 | Lqu-ljFvLz4 | 460 | 15 | 275 | 1.67 | 5 | 2.26 | binh_thuong | – | Không | Why Most Aloe Leaf Cuttings Fail (And What Actually Fixes It) |
+| 2026-08-26 | 82 | tpT3I4YyDnk | 175 | 15 | 275 | 0.64 | 5 | 2.46 | binh_thuong | – | Không | 7 No-Dig Perennials for September That Come Back Every Year |
+| 2026-08-28 | 80 | 5K5_CtsXNhk | 844 | 15 | 275 | 3.07 | 5 | 2.26 | dang_ghi | – | Không | Save a Dying Orchid in 5 Steps (Even Limp Leaves and Dry Roots) |
+| 2026-08-30 | 78 | ukw25pxwNd8 | 542 | 15 | 279 | 1.94 | 5 | 2.42 | binh_thuong | – | Không | The Only 9 Houseplants You Should Buy If You Have Pets |
+| 2026-08-31 | 77 | 9jC6o7ZB_r4 | 676 | 15 | 298 | 2.27 | 5 | 2.08 | hoi_cao | – | Không | 6 Lazy Perennials to Plant in Pots This September — Plant Once, Done Forever |
+| 2026-09-02 | 75 | ZKD78h7zDPI | 621 | 15 | 340 | 1.83 | 5 | 2.32 | binh_thuong | – | Không | Are Your Houseplants Toxic? What to Know Before Bringing Them In |
+| 2026-09-04 | 73 | W__yPMMTqZY | 1,491 | 15 | 430 | 3.47 | 5 | 1.84 | dang_ghi | – | Không | The Truth About Long-Term Water Culture: Don't Make This Mistake |
+| 2026-09-06 | 71 | flgEDqow2qI | 542 | 15 | 460 | 1.18 | 5 | 1.72 | binh_thuong | – | Không | The #1 Reason Your Houseplants Are Dying (It’s Not What You Think) |
+| 2026-09-08 | 69 | NT3FFF2reUU | 790 | 15 | 541 | 1.46 | 5 | 1.33 | binh_thuong | – | Không | Tastes Like Apple and Honey. Grandma Planted It Once - Why Does Nobody Plant It? |
+| 2026-09-09 | 68 | 3Tc-BEn7hEk | 503 | 15 | 542 | 0.93 | 5 | 1.33 | binh_thuong | – | Không | Don't Turn the Heat On Until You Do These 7 Things to Your Plants |
+| 2026-09-12 | 65 | t8RXUghfsSw | 1,060 | 15 | 542 | 1.96 | 5 | 1.29 | binh_thuong | – | Không | Just 1 Spoon Makes Any Flower Bloom 10x Faster (Florist’s Secret) |
+| 2026-09-14 | 63 | pUgLlp8Qt_w | 952 | 15 | 542 | 1.76 | 5 | 1.06 | binh_thuong | – | Không | 16 Things Grandma Always Planted in October (Before the First Frost) |
+| 2026-09-16 | 61 | I4kJaXz0LYM | 573 | 15 | 621 | 0.92 | 5 | 1.02 | binh_thuong | – | Không | 4 Kitchen Bug Sprays Ranked — 1 of Them Feeds the Aphids |
+| 2026-09-18 | 59 | rkfJHglYn94 | 722 | 15 | 621 | 1.16 | 5 | 1.02 | binh_thuong | – | Không | Build a Budget Friendly Garden Bed Under $15 |
+| 2026-09-20 | 57 | AaOMVkbPalg | 697 | 15 | 621 | 1.12 | 5 | 1.02 | binh_thuong | – | Không | 100 Bags of Leaves Turn Into 10 Bags of Free Fertilizer |
+| 2026-09-22 | 55 | IVz1L7Pct5s | 520 | 15 | 676 | 0.77 | 5 | 0.95 | binh_thuong | – | Không | 7 Plants That Thrive in the Darkest Room in Your House |
+| 2026-09-24 | 53 | R_F8iPe124Y | 507 | 15 | 676 | 0.75 | 5 | 0.97 | binh_thuong | – | Không | 4 Rooting Tricks Ranked by What Actually Works (Not What’s Popular) |
+| 2026-09-26 | 51 | cpLpYrKBNkQ | 631 | 15 | 676 | 0.93 | 5 | 1.19 | binh_thuong | – | Không | 10 Plants Poisoning Their Neighbors (And the Soil Myth That Isn’t True) |
+| 2026-09-30 | 47 | f8I-4O-QWWY | 831 | 15 | 631 | 1.32 | 5 | 1.28 | binh_thuong | – | Không | 4 Hidden Reasons Your Snake Plant Is Struggling (Not Root Rot) |
+| 2026-10-07 | 40 | OsXFj3Lqku8 | 805 | 15 | 676 | 1.19 | 5 | 0.97 | binh_thuong | – | Không | Warning: Don't Use Potato Water On Orchids Until You Watch This! |
+| 2026-10-09 | 38 | O_DXIaRQOvA | 645 | 15 | 697 | 0.93 | 5 | 0.94 | binh_thuong | – | Không | Plant ONE Garlic Clove in a Pot Harvest a Full Head Next Summer |
+| 2026-10-11 | 36 | mISpbkQ58F8 | 658 | 15 | 697 | 0.94 | 5 | 1.06 | binh_thuong | – | Không | Your Christmas Cactus Isn't Blooming Because of This |
+| 2026-10-13 | 34 | es8EANbfaxM | 947 | 15 | 658 | 1.44 | 5 | 0.95 | binh_thuong | – | Không | Why Your Grocery Store Ginger Won't Grow (And How to Fix It) |
+| 2026-10-16 | 31 | j3YlJirYv88 | 807 | 15 | 697 | 1.16 | 5 | 0.83 | binh_thuong | – | Không | Stop Throwing Away Pineapple Tops — Grow a Free Plant Instead |
+| 2026-10-18 | 29 | RSSJLmTNYbg | 577 | 15 | 697 | 0.83 | 5 | 0.89 | chua_chin | – | Không | The Winter Window Test: How To Know If You Have Enough Light |
+| 2026-10-26 | 21 | NFPmRO2FZYI | 623 | 15 | 697 | 0.89 | 5 | 0.52 | chua_chin | – | Không | No Flowers on Your Lemon Tree? Count This 1 Number Tomorrow |
+| 2026-10-28 | 19 | ocByKNBqZFg | 738 | 15 | 658 | 1.12 | 4 | – | chua_chin | – | Không | Geraniums Will Explode With Flowers If You Do This Now |
+| 2026-11-03 | 13 | KybDlhJ-Zgc | 363 | 15 | 658 | 0.55 | 3 | – | chua_chin | – | Không | Rose Cuttings in a Potato One Small Study Found No Roots |
+| 2026-11-06 | 10 | Uanf2aMH0iU | 326 | 15 | 658 | 0.50 | 2 | – | chua_chin | – | Không | Don’t Pull Your Pepper Plants Yet. They Can Live for Years |
+| 2026-11-11 | 5 | 9PWB233HBFc | 824 | 15 | 645 | 1.28 | 1 | – | chua_chin | – | Không | You’re Throwing Away Free Plants: Root These 9 in a Glass of Water |
+| 2026-11-15 | 1 | rr_1fCTtuP4 | 9 | 15 | 645 | 0.01 | 0 | – | chua_chin | – | Không | Nobody Believed Dragon Fruit Could Survive on Desert Sand — Until This Happened |

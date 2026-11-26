@@ -1,0 +1,150 @@
+# Đo kênh: UCgyZ17wWE13nL73eFSDxdgw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 257 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 38,200 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-01-26 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 682 |
+| cao_nhat | 1,660 |
+| thap_nhat | 272 |
+| phan_tan | 2.43 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.15 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.05 |
+| da_trung_vi | 1.18 |
+| ngay_video_dau | 2025-03-26 |
+| tuoi_tu_video_dau | 600 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 63.67 |
+| sub_moi_video | 149 |
+| video_30_ngay | 10 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-03-26 | 600 | N2oACfqw3zc | 430 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | TOP 10 Grocery Products You NEED to Stockpile Before They're GONE! |
+| 2025-03-31 | 595 | bgcYEoFILBo | 330 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 8 Shocking Grocery Items That Will Disappear Before April 2025! |
+| 2025-04-10 | 585 | qdkU6cECCw0 | 1,313 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Grocery Products You NEED To Stockpile BEFORE It's Too Late! |
+| 2025-04-13 | 582 | wMlqVv-JiqU | 2,264 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | I Tried to Buy These 12 Grocery Items and They Were GONE From Every Store! |
+| 2025-04-15 | 580 | SewCqSLnDbI | 979 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Unexpected Items ALREADY Missing From Grocery Shelves in April 2025! |
+| 2025-04-16 | 579 | 84hzzLjUy40 | 272 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | These 12 Items Will Be IMPOSSIBLE to Find Before April 2025 Ends! |
+| 2025-04-20 | 575 | f0rp18B4sr8 | 476 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 7 Grocery Items DISAPPEARING FAST From Stores This April 2025 – BUY NOW! |
+| 2025-04-25 | 570 | rr4ydqWlbrE | 873 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Grocery Items You NEED To STOCKPILE Before April 2025 Ends! |
+| 2026-01-26 | 294 | VOQ4ToQ4Z9I | 3,022 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 9 Blackout Supplies 99% of Families Are Missing (Stock Up NOW Before It's Too Late!) |
+| 2026-01-26 | 294 | lzQFsxXiT_s | 4,669 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Power Goes Out in 2026: ONLY 3 Devices Keep You ALIVE (Most Don't Have #2!) |
+| 2026-01-27 | 293 | INhN3rP9hIc | 2,120 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 9 Foods That Last FOREVER Without Refrigeration (Stock These Before February!) |
+| 2026-01-30 | 290 | a_G2W4ceqG8 | 2,107 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 5 Survival Items vs 3 That Make You a TARGET When SHTF! |
+| 2026-01-30 | 290 | yhy20ZXppAU | 634 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Dehydrated Foods That Last DECADES (Most Preppers Don't Know About #3!) |
+| 2026-01-31 | 289 | 10XrQ3lWi5Y | 1,028 | 5 | 2,120 | 0.48 | 5 | 2.35 | binh_thuong | – | Không | Canned vs Dehydrated vs Freeze-Dried: Which Food ACTUALLY Lasts Longest? |
+| 2026-02-02 | 287 | 1-qxMlqn1nI | 1,961 | 6 | 2,114 | 0.93 | 5 | 2.74 | binh_thuong | – | Không | Blackout Ready? Your First Actions Determine Everything! |
+| 2026-02-03 | 286 | wj2LIXBpRHc | 55,511 | 7 | 2,107 | 26.35 | 5 | 2.36 | can_kiem_ky | – | Không | 6 Long-Lasting Foods That Beat Rice and Beans |
+| 2026-02-04 | 285 | nOPALMjyQTk | 4,981 | 8 | 2,114 | 2.36 | 5 | 0.83 | hoi_cao | – | Không | 7 Survival Foods Preppers Quietly Stockpile (Stores Don’t Advertise These) |
+| 2026-02-04 | 285 | M11rL-s1Vsg | 822 | 9 | 2,120 | 0.39 | 5 | 0.83 | binh_thuong | – | Không | ONLY 5 Foods You MUST Have Before the Crisis Hits |
+| 2026-02-07 | 282 | pTuBMLtR-PU | 5,794 | 10 | 2,114 | 2.74 | 5 | 0.79 | hoi_cao | – | Không | 9 Foods You'll Regret Not Stockpiling Before the Next Blackout |
+| 2026-02-07 | 282 | mGaEF5syZyg | 5,931 | 11 | 2,120 | 2.80 | 5 | 0.53 | hoi_cao | – | Không | The Cheapest Way to Build a 1-Year Food Supply (For Less Than $1/Day) |
+| 2026-02-08 | 281 | NZkN_R4sCVs | 1,679 | 12 | 2,571 | 0.65 | 5 | 0.44 | binh_thuong | – | Không | These 30 Walmart Staples NEVER EXPIRE \| Budget Prepping |
+| 2026-02-09 | 280 | mfzNUWy0RW8 | 1,754 | 13 | 2,120 | 0.83 | 5 | 0.53 | binh_thuong | – | Không | Food Stockpile Mistakes Even Experienced Preppers Make |
+| 2026-02-11 | 278 | bhsYsgJ6xwc | 1,121 | 14 | 2,114 | 0.53 | 5 | 0.59 | binh_thuong | – | Không | Most Popular Survival Foods Fail After Just 2 Years (These 7 LAST!) |
+| 2026-02-11 | 278 | b6EqygllYjA | 909 | 15 | 2,107 | 0.43 | 5 | 1.32 | binh_thuong | – | Không | Don't Waste Food During a Blackout: Here's the Plan |
+| 2026-02-13 | 276 | kBcVFn8ZqBU | 885 | 15 | 1,961 | 0.45 | 5 | 1.42 | binh_thuong | – | Không | Skip These 3 'Prepper Foods' at Walmart \| Buy These 8 Instead |
+| 2026-02-13 | 276 | _1fPO9-kd3k | 2,949 | 15 | 1,754 | 1.68 | 5 | 0.84 | binh_thuong | – | Không | Dollar Store Survival Haul: 15 Items You'll REGRET Not Buying |
+| 2026-02-15 | 274 | e34LNaiqpIs | 1,251 | 15 | 1,754 | 0.71 | 5 | 1.59 | binh_thuong | – | Không | 11 Items in Your Home That Make You a Target After SHTF |
+| 2026-02-15 | 274 | ioaat_AEmjQ | 2,784 | 15 | 1,679 | 1.66 | 5 | 0.97 | binh_thuong | – | Không | Stockpile These 25 Canned Foods Before They're GONE! |
+| 2026-02-16 | 273 | U3XZXrU_ga4 | 4,978 | 15 | 1,754 | 2.84 | 5 | 0.93 | hoi_cao | – | Không | If Grocery Stores Ran Out Tomorrow — Grab THESE First! |
+| 2026-02-18 | 271 | na73-3hvNBQ | 1,472 | 15 | 1,961 | 0.75 | 5 | 1.05 | binh_thuong | – | Không | 7 Foods That Will NEVER Expire (Even If You Forget About Them) |
+| 2026-02-19 | 270 | oviBQyBV_Cs | 1,301 | 15 | 1,754 | 0.74 | 5 | 3.20 | binh_thuong | – | Không | Don't Waste Shelf Space: 7 Canned Vegetables Preppers HOARD vs 3 They Trash |
+| 2026-02-20 | 269 | cJjXmi3n1HI | 102,081 | 15 | 1,679 | 60.80 | 5 | 1.75 | can_kiem_ky | – | Không | Power Outage for 90 Days? Start Stocking These 12 Foods Now! |
+| 2026-02-21 | 268 | oySXlahfhR0 | 1,637 | 15 | 1,679 | 0.97 | 5 | 1.75 | binh_thuong | – | Không | 25 Survival Foods Under $50 That Actually Last Years |
+| 2026-02-22 | 267 | hYsOcABVIXc | 2,052 | 15 | 1,679 | 1.22 | 5 | 1.75 | binh_thuong | – | Không | Most Preppers Buy the Wrong Food (These 10 Last Forever) |
+| 2026-02-23 | 266 | EKETRMmYFk4 | 5,621 | 15 | 1,679 | 3.35 | 5 | 1.22 | dang_ghi | – | Không | The Blackout Problem NOBODY Wants to Talk About! |
+| 2026-02-25 | 264 | GwEj8k4G38w | 62,928 | 15 | 1,679 | 37.48 | 5 | 1.20 | can_kiem_ky | – | Không | 20 Home Depot Items Every Prepper MUST Own Before SHTF! |
+| 2026-03-03 | 258 | BHbCvoWUFng | 2,940 | 15 | 1,754 | 1.68 | 5 | 0.66 | binh_thuong | – | Không | These 12 Dollar Store Items Could Save You When SHTF! |
+| 2026-03-04 | 257 | es2HuoIxUto | 1,159 | 15 | 2,052 | 0.56 | 5 | 0.98 | binh_thuong | – | Không | Rice vs Wheat vs Oats: Most Preppers Are STOCKPILING the Wrong One! |
+| 2026-03-05 | 256 | 4tcsml2dJSE | 797 | 15 | 2,052 | 0.39 | 5 | 1.00 | binh_thuong | – | Không | 10 Prepper Items That Are a Complete Waste of Money! |
+| 2026-03-05 | 256 | TruaTwcdWBI | 2,053 | 15 | 2,052 | 1.00 | 5 | 0.98 | binh_thuong | – | Không | 15 Cheapest Survival Foods Every Prepper Should Be Stockpiling Now! |
+| 2026-03-07 | 254 | l1BUFhZwgeM | 2,016 | 15 | 2,053 | 0.98 | 5 | 0.42 | binh_thuong | – | Không | What Happens When Your Home Has NO Power, NO Heat and NO Water? |
+| 2026-03-09 | 252 | k1hqqGg2gJY | 597 | 15 | 2,052 | 0.29 | 5 | 1.15 | binh_thuong | – | Không | 7 Things That STOP Working in a Blackout (Most People Find Out Too Late) |
+| 2026-03-10 | 251 | 5BNvvIM4fUU | 2,858 | 15 | 2,052 | 1.39 | 5 | 1.15 | binh_thuong | – | Không | 20 Prepper Items Ranked From WORST to BEST |
+| 2026-03-12 | 249 | tsPS9yb0SMM | 2,357 | 15 | 2,052 | 1.15 | 5 | 0.69 | binh_thuong | – | Không | Is It Too Late to Start Stockpiling Food? |
+| 2026-03-13 | 248 | 11zZxV68Rsw | 707 | 15 | 2,052 | 0.34 | 5 | 0.69 | binh_thuong | – | Không | Your First Aid Kit Is Useless Without These 5 Swaps — Most Preppers Get This Wrong |
+| 2026-03-14 | 247 | YqL8idC0PpY | 869 | 15 | 2,052 | 0.42 | 5 | 0.69 | binh_thuong | – | Không | 30 Genius Prepper Methods That Have Disappeared (And Why You Need Them) |
+| 2026-03-15 | 246 | CqozPvuedEY | 32,401 | 15 | 2,052 | 15.79 | 5 | 0.69 | can_kiem_ky | – | Không | 11 Survival Guns That Will Keep You Alive When SHTF |
+| 2026-03-17 | 244 | NLTFKxMrmQY | 24,047 | 15 | 2,052 | 11.72 | 5 | 0.69 | can_kiem_ky | – | Không | 7 Canned Fruits Every Prepper Must Have (And 3 That Are a Complete Waste of Money) |
+| 2026-03-19 | 242 | czEXUq2BfOg | 1,412 | 15 | 2,053 | 0.69 | 5 | 0.69 | binh_thuong | – | Không | 21 Survival Items That Are Normal in The US But Nowhere Else |
+| 2026-03-21 | 240 | -nQ4F7IFD_U | 1,409 | 15 | 2,053 | 0.69 | 5 | 0.71 | binh_thuong | – | Không | Most Preppers Stock Rice — Here's Why That's a Mistake |
+| 2026-03-23 | 238 | jb6ZqJQYcr0 | 735 | 15 | 2,016 | 0.36 | 5 | 0.72 | binh_thuong | – | Không | Winter is HERE and Your Heater WON'T Save You! |
+| 2026-03-24 | 237 | TUP8pHXq0Es | 1,615 | 15 | 1,412 | 1.14 | 5 | 0.99 | binh_thuong | – | Không | Most Preppers Own These 20 Worthless Items |
+| 2026-03-25 | 236 | l6djmqacHMc | 6,824 | 15 | 1,412 | 4.83 | 5 | 0.99 | dang_ghi | – | Không | Top 15 Costco Foods Every Prepper Buys In Bulk (And 5 You Should Not!) |
+| 2026-03-26 | 235 | QK74KMNjSEI | 875 | 15 | 1,615 | 0.54 | 5 | 0.86 | binh_thuong | – | Không | Stockpiling Canned Food? You're Probably Making These 10 Mistakes |
+| 2026-03-29 | 232 | iU-d2i33bGg | 1,453 | 15 | 1,615 | 0.90 | 5 | 0.86 | binh_thuong | – | Không | 25 MUST HAVE Canned Foods You Should Be STOCKPILING Right Now! |
+| 2026-03-29 | 232 | RL_cLDuJC9g | 1,391 | 15 | 1,453 | 0.96 | 5 | 2.15 | binh_thuong | – | Không | Your Canned Goods Expire — These 12 Foods Last Decades Longer (Most Preppers Miss This) |
+| 2026-03-31 | 230 | mT2uWxHFsnU | 689 | 15 | 1,412 | 0.49 | 5 | 3.46 | binh_thuong | – | Không | Foods That Can Make You a Target When SHTF! |
+| 2026-04-02 | 228 | 8wObUKZLuQ8 | 3,130 | 15 | 1,412 | 2.22 | 5 | 3.46 | hoi_cao | – | Không | 9 Home Depot Items Most Preppers Completely Miss |
+| 2026-04-02 | 228 | 9oGxTpW4ifE | 1,057 | 15 | 1,412 | 0.75 | 5 | 3.46 | binh_thuong | – | Không | Every Prepper Gets Frozen Food Wrong (And What to Do Instead) |
+| 2026-04-05 | 225 | v_YqJ1-Q3wY | 18,701 | 15 | 1,409 | 13.27 | 5 | 3.04 | can_kiem_ky | – | Không | Top 7 Canned Meats You Should Be Stockpiling Right Now (And 3 You Should Absolutely Not) |
+| 2026-04-06 | 224 | NFQmFXH1M0U | 4,889 | 15 | 1,412 | 3.46 | 5 | 0.86 | dang_ghi | – | Không | Home Depot Has a Prepper Section and Most People Walk Right Past It |
+| 2026-04-07 | 223 | ipD_0Mm9c8Q | 6,224 | 15 | 1,453 | 4.28 | 5 | 0.83 | dang_ghi | – | Không | I Spent $200 Prepping for SHTF and Here's Exactly What I Bought |
+| 2026-04-08 | 222 | 5TKk17ob4LI | 4,281 | 15 | 1,453 | 2.95 | 5 | 0.83 | hoi_cao | – | Không | Most Preppers Waste Money on Survival Food (These Grocery Store Items Last 20 Years) |
+| 2026-04-10 | 220 | IeGU5OLwdB0 | 1,213 | 15 | 1,453 | 0.83 | 5 | 1.11 | binh_thuong | – | Không | I Spent $30 at the Dollar Store and Here's What's Actually Worth Buying for Survival |
+| 2026-04-12 | 218 | avZ0yA1dIjo | 763 | 15 | 1,453 | 0.53 | 5 | 1.88 | binh_thuong | – | Không | Most New Preppers Get Food Stockpiling Wrong and These Are the Only 10 Foods That Matter |
+| 2026-04-13 | 217 | xVxK2u68R1o | 710 | 15 | 1,453 | 0.49 | 5 | 1.88 | binh_thuong | – | Không | Your Home Fails in This Exact Order During a Power Outage |
+| 2026-04-14 | 216 | 72Gz53mtWQU | 1,617 | 15 | 1,453 | 1.11 | 5 | 1.88 | binh_thuong | – | Không | Foods Every Prepper Actually Needs Right Now And 3 That Are a Total Waste of Money |
+| 2026-04-15 | 215 | AA2MguOwVDw | 2,732 | 15 | 1,453 | 1.88 | 5 | 1.31 | binh_thuong | – | Không | 20 Survival Skills Most People Have Never Heard Of — Your Grandparents Knew Them All |
+| 2026-04-17 | 213 | Pa84kzR2ujo | 8,270 | 15 | 1,453 | 5.69 | 5 | 1.31 | manh | – | Không | 20 Survival Items UNDER $10 That Most Preppers Never Think to Buy. Big Mistake! |
+| 2026-04-19 | 211 | -PZHVPu84u4 | 3,614 | 15 | 1,617 | 2.24 | 5 | 0.78 | hoi_cao | – | Không | If I Had to Start My Entire Food Stockpile Over, I'd Only Buy These 10 Items! |
+| 2026-04-20 | 210 | 1oNMwqjGCd0 | 1,901 | 15 | 2,732 | 0.70 | 5 | 0.46 | binh_thuong | – | Không | Most People Get Canned Food Completely Wrong. These Are the Only 10 Worth Buying |
+| 2026-04-21 | 209 | pIyx05ruees | 1,066 | 15 | 2,732 | 0.39 | 5 | 0.46 | binh_thuong | – | Không | Most Preppers Don't Have This Critical 200 Year Old Survival Skill  Learn It Before It's Too Late |
+| 2026-04-22 | 208 | 6uy5GtAQdz4 | 298 | 15 | 2,732 | 0.11 | 5 | 0.46 | binh_thuong | – | Không | These 10 Foods Never Expire and Most People Don't Own a Single One! |
+| 2026-04-24 | 206 | cRkofu5M9Aw | 2,025 | 15 | 1,901 | 1.07 | 5 | 0.66 | binh_thuong | – | Không | The 72-Hour Rule Most People Fail. These 8 Items Are Your Only Lifeline |
+| 2026-04-26 | 204 | WRNu92IOaYw | 1,255 | 15 | 2,025 | 0.62 | 5 | 0.65 | binh_thuong | – | Không | Most People Have No Idea These 15 Foods Are Already Disappearing From Shelves |
+| 2026-04-27 | 203 | CER-gf9glCA | 2,189 | 15 | 1,901 | 1.15 | 5 | 0.33 | binh_thuong | – | Không | I Ranked 20 Survival Items So You Don't Have to — Most Preppers Get This Completely Wrong |
+| 2026-04-29 | 201 | JgsaIPkwlfk | 634 | 15 | 1,901 | 0.33 | 5 | 0.64 | binh_thuong | – | Không | The Only 10 Survival Items Worth Buying and Most Preppers Get the Order Completely Wrong |
+| 2026-05-01 | 199 | wq3fV7ezXa0 | 461 | 15 | 1,617 | 0.29 | 5 | 0.75 | binh_thuong | – | Không | Stockpile These 15 Grocery Items Before They're Gone From Shelves |
+| 2026-05-04 | 196 | zFlIMeO2czI | 1,660 | 15 | 1,255 | 1.32 | 5 | 0.46 | binh_thuong | – | Không | 30 Grocery Items Smart Preppers Are Quietly Stockpiling Before May Prices Hit |
+| 2026-05-06 | 194 | w_velJyB_yw | 1,324 | 15 | 1,617 | 0.82 | 5 | 0.31 | binh_thuong | – | Không | 14 Grocery Items Only Dumb Preppers Stockpile and Here's What to Buy Instead |
+| 2026-05-08 | 192 | h9QVTvQUfOs | 500 | 15 | 1,617 | 0.31 | 5 | 0.36 | binh_thuong | – | Không | Most People Have Never Heard of These 12 Survival Foods and Here's Why They Stay Hidden |
+| 2026-05-11 | 189 | HV0Cz_QFpUc | 1,208 | 15 | 1,617 | 0.75 | 5 | 0.36 | binh_thuong | – | Không | Most People Don't Know These 12 Grocery Items Disappear First in Any Crisis |
+| 2026-05-12 | 188 | Q_VyUFijcVQ | 580 | 15 | 1,324 | 0.44 | 5 | 0.43 | binh_thuong | – | Không | 12 Emergency Items the Government Says You Need But Most People Don't Have |
+| 2026-05-16 | 184 | 5cwaQIM0WYo | 415 | 15 | 1,255 | 0.33 | 5 | 0.45 | binh_thuong | – | Không | Stockpile These 11 Foods Before Other Preppers Find Out About Them |
+| 2026-05-17 | 183 | GwjPakOA6aM | 272 | 15 | 1,208 | 0.23 | 5 | 0.58 | binh_thuong | – | Không | These 12 Foods Disappear First When Shelves Go Empty and Most People Aren't Ready |
+| 2026-05-19 | 181 | EV2h3lIjVks | 727 | 15 | 1,066 | 0.68 | 5 | 0.62 | binh_thuong | – | Không | 10 Canned Meats Ranked From Worst to Best and Most Preppers Buy in the Wrong Order |
+| 2026-05-22 | 178 | zCcYMNMFvvY | 704 | 15 | 727 | 0.97 | 5 | 0.77 | binh_thuong | – | Không | 11 Survival Items That Will Become Illegal to Stockpile in the Next Crisis |
+| 2026-05-26 | 174 | vdjlg4wmgHM | 563 | 15 | 704 | 0.80 | 5 | 0.79 | binh_thuong | – | Không | Most Preppers Don’t Know These 12 No-Cook Foods. Stock Them Before the Power Fails |
+| 2026-05-28 | 172 | re8JcYsN3FU | 555 | 15 | 704 | 0.79 | 5 | 0.94 | binh_thuong | – | Không | 15 Cheap Household Items That Will Be Worth More Than Gold After SHTF |
+| 2026-06-02 | 167 | qn8KnGXwmNA | 1,617 | 15 | 634 | 2.55 | 5 | 1.04 | hoi_cao | – | Không | The ONLY 7 Items You Need To Survive When SHTF! |
+| 2026-06-04 | 165 | 4zaCVdLqKwk | 660 | 15 | 634 | 1.04 | 5 | 0.88 | binh_thuong | – | Không | 25 Cheap Items Smart Preppers STOCKPILE to HOARD and BARTER With When SHTF! |
+| 2026-06-06 | 163 | sA9ISc4H9O8 | 303 | 15 | 634 | 0.48 | 5 | 1.43 | binh_thuong | – | Không | 100 Days Of Food For $100: LASTS 30 YEARS! |
+| 2026-06-08 | 161 | Lka0HM_6XJ4 | 314 | 15 | 580 | 0.54 | 5 | 1.56 | binh_thuong | – | Không | These 20 Foods Never Expire and Smart People Are Stockpiling Them Right Now! |
+| 2026-06-11 | 158 | 7XP0tH_oITg | 930 | 15 | 580 | 1.60 | 5 | 1.56 | binh_thuong | – | Không | 15 Affordable Survival Items (You Don't Need Anything Else) |
+| 2026-06-13 | 156 | ZkoCAeKCsiQ | 1,576 | 15 | 580 | 2.72 | 5 | 1.47 | hoi_cao | – | Không | 15 Tractor Supply Items Most Preppers Forget to Stockpile |
+| 2026-06-15 | 154 | 3BwMYRKvh_I | 559 | 15 | 580 | 0.96 | 5 | 1.56 | binh_thuong | – | Không | 12 Great Depression Survival Skills Every Modern Prepper Has Forgotten |
+| 2026-06-19 | 150 | zVmInKDiUp0 | 905 | 15 | 580 | 1.56 | 5 | 1.47 | binh_thuong | – | Không | 15 MUST-HAVE PREPS to Survive 90 Days With NO POWER! |
+| 2026-06-21 | 148 | -nM7L3SdZuI | 853 | 15 | 580 | 1.47 | 5 | 1.72 | binh_thuong | – | Không | 10 Dollar Tree Items Every Prepper Must Grab Before SHTF! |
+| 2026-10-22 | 25 | baBopXibIpc | 1,574 | 15 | 660 | 2.38 | 5 | 1.51 | chua_chin | – | Không | I Built a 3-Month Pantry for $150: Here's Exactly What I Bought |
+| 2026-10-26 | 21 | Ox7PrvyESMU | 396 | 15 | 704 | 0.56 | 5 | 2.58 | chua_chin | – | Không | 12 Walmart Foods to Buy Before Holiday Prices Hit (Most Still Under $3) |
+| 2026-10-27 | 20 | HZLhRVdXFms | 3,590 | 15 | 704 | 5.10 | 5 | 1.41 | chua_chin | – | Không | 20 Harbor Freight Items Every Prepper MUST Own Before SHTF! |
+| 2026-10-29 | 18 | fMYXmNgpwkM | 539 | 15 | 704 | 0.77 | 5 | 1.41 | chua_chin | – | Không | 7 Cheap Tricks That Keep Mice Out of Your Food Stockpile |
+| 2026-10-30 | 17 | gH6vZDjtHA0 | 995 | 15 | 660 | 1.51 | 5 | 2.35 | chua_chin | – | Không | 10 Unique Prepper Ways to Keep Food Cold With NO POWER and SHTF |
+| 2026-10-31 | 16 | pSrudeKi2lk | 1,813 | 15 | 853 | 2.13 | 4 | – | chua_chin | – | Không | 9 Vehicles That Still Run After an EMP!!! |
+| 2026-11-04 | 12 | bMndKUQgYxw | 2,015 | 15 | 905 | 2.23 | 3 | – | chua_chin | – | Không | EU Tells Millions to Stockpile Food for 72 Hours — Should Americans Do the Same? |
+| 2026-11-07 | 9 | XcD1ImXD0m8 | 721 | 15 | 905 | 0.80 | 2 | – | chua_chin | – | Không | FEMA Emergency Prep: 10 Mistakes That Could Leave You Unprepared |
+| 2026-11-11 | 5 | U2BoC63PsZg | 966 | 15 | 905 | 1.07 | 1 | – | chua_chin | – | Không | Seniors Should Only Buy These 25 Groceries And Stop Wasting Money On Everything Else! |
+| 2026-11-14 | 2 | cFbl9Cl3pg8 | 1,550 | 15 | 930 | 1.67 | 0 | – | chua_chin | – | Không | First 72 Hours After an EMP |

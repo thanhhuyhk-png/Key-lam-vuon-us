@@ -1,0 +1,150 @@
+# Đo kênh: UCTEMcac4t4xbLejDGOPkSfA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 120 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 17,200 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-27 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 16,660 |
+| cao_nhat | 158,377 |
+| thap_nhat | 591 |
+| phan_tan | 9.51 |
+| so_video_tren_2x | 7 |
+| ty_le_tren_2x | 0.35 |
+| trung_vi_chia_sub | 0.97 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.12 |
+| ngay_video_dau | 2026-03-25 |
+| tuoi_tu_video_dau | 236 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 72.88 |
+| sub_moi_video | 143 |
+| video_30_ngay | 14 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-03-25 | 236 | toyYDWgcQkc | 489,950 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Lost African American Recipes Your Grandparents Once Knew |
+| 2026-03-27 | 234 | lVVs560Uv5o | 6,360 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Survival Foods Slaves Ate on Plantations |
+| 2026-03-29 | 232 | M3uwsArnRlc | 32,646 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Poor Man One-Pot Meals Seniors Used to Cook Living Alone |
+| 2026-03-31 | 230 | FpUuN8HQdSo | 1,423 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Meals Cowboys Really Ate in the Wild West |
+| 2026-04-02 | 228 | bB4JvWhUZoc | 6,788 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 30 Poor Man Sandwiches From The Great Depression |
+| 2026-04-04 | 226 | ZxRKbthvWVk | 297,371 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Poor Man Snacks From the 1970s No One Makes Today |
+| 2026-04-06 | 224 | 0Qj9nAQO4vo | 2,320 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Rugged Frontier Foods Mountain Men Actually Ate to Survive |
+| 2026-04-08 | 222 | 1gTUrp-TUec | 14,200 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Poor Man Dinners From the 1950s No One Cooks Anymore |
+| 2026-04-27 | 203 | OKkD_jrSCxs | 281 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Hillbilly Candies People Actually Ate in the Early 1960s! |
+| 2026-04-28 | 202 | JCxdeuYgLpc | 703 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 CHEAP 3-Ingredient Meals American Seniors Made When Times Were Tight |
+| 2026-04-29 | 201 | wOxBzhl41h8 | 370 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 30 Easy Homemade Snacks from the 1970s No One Makes Today |
+| 2026-05-01 | 199 | cOnPOP7WrhY | 226 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Pasta Dishes Italian Immigrants Really Ate in Little Italy, NYC |
+| 2026-05-02 | 198 | e5xg0sVxf9k | 125 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Foods Mexican Immigrants Actually Ate at 1930s Fiesta San Antonio |
+| 2026-05-04 | 196 | IwWzEDNKdE0 | 261 | 5 | 281 | 0.93 | 5 | 0.89 | binh_thuong | – | Không | 25 Incredible Foods Served in Colonial Taverns (1700s) |
+| 2026-05-05 | 195 | iKRK4yxT_-k | 81 | 6 | 271 | 0.30 | 5 | 1.40 | binh_thuong | – | Không | 25 Foods Irish Immigrants Really Ate in 1800s Boston |
+| 2026-05-07 | 193 | 1XkgySz0JlE | 162 | 7 | 261 | 0.62 | 5 | 1.69 | binh_thuong | – | Không | 25 Crockpot Recipes Straight From Grandma’s Lost Cookbook |
+| 2026-05-08 | 192 | N9dnG7lTI9g | 250 | 8 | 244 | 1.03 | 5 | 1.91 | binh_thuong | – | Không | 25  Forgotten Working-Class Sandwiches Our Grandparents Grew Up On |
+| 2026-05-19 | 181 | MH8L2gXL--A | 507 | 9 | 250 | 2.03 | 5 | 1.86 | hoi_cao | – | Không | 25 FORGOTTEN Poor Man Suppers for Seniors Living Alone (Ready in 10 Minutes!) |
+| 2026-05-20 | 180 | _d9wKClyWbg | 465 | 10 | 256 | 1.82 | 5 | 2.00 | binh_thuong | – | Không | 25 Cheap Comfort Meals for Seniors Living Alone (That Actually Taste Good!) |
+| 2026-05-21 | 179 | -4_mea_ogBA | 379 | 11 | 261 | 1.45 | 5 | 2.33 | binh_thuong | – | Không | 25 Hillbilly Cooking Secrets That Beat Inflation Better Than Coupons |
+| 2026-05-23 | 177 | GOGRqrDUW20 | 441 | 12 | 271 | 1.63 | 5 | 2.92 | binh_thuong | – | Không | 25 Amish Cooking Secrets Modern Families Forgot (But Seniors Still Use!) |
+| 2026-05-24 | 176 | 27to5XYAFts | 607 | 13 | 281 | 2.16 | 5 | 3.14 | hoi_cao | – | Không | 25 Vintage Breakfasts That Defined Small-Town America (Now Gone) |
+| 2026-05-26 | 174 | qw0zjdGKKck | 4,975 | 14 | 326 | 15.28 | 5 | 2.43 | can_kiem_ky | – | Không | 25 Diner Meals That Once Made America Famous (Now Gone Forever) |
+| 2026-05-28 | 172 | zTrWdJyBDkw | 511 | 15 | 370 | 1.38 | 5 | 2.14 | binh_thuong | – | Không | 25 FORGOTTEN Poor Man Skillet Meals That Fed Entire Families for Pennies |
+| 2026-05-30 | 170 | Nc6jx2rP4vA | 882 | 15 | 379 | 2.33 | 5 | 1.31 | hoi_cao | – | Không | 25 Lazy One-Pan Meals 1950s Mothers Made on Exhausting Weeknights |
+| 2026-06-01 | 168 | _WeRIjKvKU4 | 792 | 15 | 379 | 2.09 | 5 | 1.31 | hoi_cao | – | Không | 25 Forgotten One-Pot Suppers That Fed Farm Families for Pennies |
+| 2026-06-03 | 166 | QVE--jnhnqI | 1,925 | 15 | 441 | 4.37 | 5 | 1.12 | dang_ghi | – | Không | 25 Lunch Counter Meals Every American Town Used to Have |
+| 2026-06-05 | 164 | L2oiUZS6JsU | 444 | 15 | 465 | 0.95 | 5 | 1.42 | binh_thuong | – | Không | 25 Forgotten Diner Sandwiches That Vanished After the 1970s |
+| 2026-06-07 | 162 | NLe5OU7bCkI | 496 | 15 | 465 | 1.07 | 5 | 1.42 | binh_thuong | – | Không | 25 Diner Comfort Foods That Defined Working-Class America |
+| 2026-06-09 | 160 | L0-4BggLbCg | 412 | 15 | 496 | 0.83 | 5 | 1.56 | binh_thuong | – | Không | 25 Hillbilly Meals That Kept Appalachian Families Alive Through Winter |
+| 2026-06-11 | 158 | sMvh_XHw0mo | 1,087 | 15 | 496 | 2.19 | 5 | 1.56 | hoi_cao | – | Không | 25 Lunch Counter Desserts From the 1950s That Vanished Without a Trace |
+| 2026-06-13 | 156 | Xz-NRBs4iXs | 662 | 15 | 507 | 1.31 | 5 | 41.03 | binh_thuong | – | Không | 25 Forgotten 1980s TV Dinners That Supermarkets Refuse to Put Back on Shelves |
+| 2026-06-15 | 154 | fvF4oGXYPsA | 185,624 | 15 | 511 | 363 | 5 | 1.51 | can_kiem_ky | – | Không | 25 Church Basement Recipes Every Small Town Used to Bring |
+| 2026-06-17 | 152 | t89IRjBcpD8 | 224 | 15 | 607 | 0.37 | 5 | 1.81 | binh_thuong | – | Không | 25 Hillbilly Desserts Children Begged For During the 1960s |
+| 2026-06-19 | 150 | 7YF-0gByaRs | 774 | 15 | 607 | 1.28 | 5 | 34.27 | binh_thuong | – | Không | 25 Oddly Useful Depression-Era Kitchen Tricks That Still Work in 2026 |
+| 2026-06-21 | 148 | DpQRusSXa8Y | 91,293 | 15 | 662 | 138 | 5 | 1.92 | can_kiem_ky | – | Không | 25 Cheap 15-Minute Suppers for Seniors Who Are Tired of Eating the Same Thing |
+| 2026-06-23 | 146 | 1CcwQ9U6F3E | 20,804 | 15 | 774 | 26.88 | 5 | 1.42 | can_kiem_ky | – | Không | 25 FORGOTTEN Frisch's Big Boy Menu Items That Vanished Forever |
+| 2026-06-24 | 145 | I5--Jrn7DJk | 269 | 15 | 792 | 0.34 | 5 | 1.60 | binh_thuong | – | Không | 25 FORGOTTEN Stuckey's Menu Items That Disappeared From American Roads Forever |
+| 2026-06-25 | 144 | yBIgXL3BLHU | 1,096 | 15 | 774 | 1.42 | 5 | 1.64 | binh_thuong | – | Không | 25 FORGOTTEN Sambo's Restaurant Menu Items Every American Loved That Vanished Forever |
+| 2026-06-27 | 142 | i8XdL_h93w8 | 21,199 | 15 | 792 | 26.77 | 5 | 0.65 | can_kiem_ky | – | Không | 25 FORGOTTEN Lum's Restaurant Menu Items Nobody Serves Anymore |
+| 2026-06-28 | 141 | HUTVsBhidBM | 1,270 | 15 | 792 | 1.60 | 5 | 0.34 | binh_thuong | – | Không | 25 Howard Johnson's Menu Favorites That Have Completely Vanished |
+| 2026-06-29 | 140 | dwNwWf1-aSc | 238 | 15 | 1,087 | 0.22 | 5 | 0.47 | binh_thuong | – | Không | 25 Forgotten County Fair Foods from the 1950s You Can't Find at Fairs Anymore |
+| 2026-07-01 | 138 | vF-OT4M0kQM | 9,842 | 15 | 774 | 12.72 | 5 | 0.67 | can_kiem_ky | – | Không | 25 FORGOTTEN W.T. Grant Lunch Counter Foods Nobody Serves Anymore |
+| 2026-07-02 | 137 | nOxn9vv3-3U | 515 | 15 | 1,087 | 0.47 | 5 | 1.22 | binh_thuong | – | Không | 25 Woolworth's Lunch Counter Classics Nobody Seems to Serve Anymore |
+| 2026-07-03 | 136 | wOw_cJV_Ndw | 272 | 15 | 1,087 | 0.25 | 5 | 1.22 | binh_thuong | – | Không | 25 Homemade Fourth of July Dishes Every Family Once Served |
+| 2026-07-04 | 135 | XqrK8yvIHm8 | 201 | 15 | 1,087 | 0.18 | 5 | 1.63 | binh_thuong | – | Không | 25 Hearty Lumberjack Breakfasts That Logging Camps Actually Ate Before Sunrise |
+| 2026-07-06 | 133 | a1MoAADbNME | 1,770 | 15 | 774 | 2.29 | 5 | 1.72 | hoi_cao | – | Không | 25 FORGOTTEN Shoney's Menu Items Nobody Serves Anymore |
+| 2026-07-07 | 132 | Yy3bn6lwi60 | 29,862 | 15 | 1,096 | 27.25 | 5 | 0.82 | can_kiem_ky | – | Không | 25 FORGOTTEN A&W Restaurant Menu Items Nobody Serves Anymore |
+| 2026-07-08 | 131 | n7UmcndvI-E | 1,329 | 15 | 1,096 | 1.21 | 5 | 0.82 | binh_thuong | – | Không | 25 FORGOTTEN Sizzler Menu Items Nobody Serves Anymore |
+| 2026-07-10 | 129 | xIR386ccLaU | 383 | 15 | 1,270 | 0.30 | 5 | 0.71 | binh_thuong | – | Không | 25 FORGOTTEN Friendly's Menu Items Nobody Serves Anymore |
+| 2026-07-11 | 128 | ell5PlPFBh0 | 8,291 | 15 | 1,270 | 6.53 | 5 | 0.54 | manh | – | Không | 25 FORGOTTEN Sears Cafeteria Meals Everyone Grabbed Before the Stores Closed |
+| 2026-07-12 | 127 | ILExNqP_W1g | 684 | 15 | 1,270 | 0.54 | 5 | 0.71 | binh_thuong | – | Không | 25 FORGOTTEN Walmart Snack Bar Meals Everyone Misses Today |
+| 2026-07-13 | 126 | ggw8RBfur6o | 903 | 15 | 1,096 | 0.82 | 5 | 0.41 | binh_thuong | – | Không | 25 Forgotten Kmart Cafeteria Meals Everyone Loved Before the Blue Light Faded |
+| 2026-07-15 | 124 | i4n0yWnBpno | 1,391 | 15 | 1,096 | 1.27 | 5 | 0.41 | binh_thuong | – | Không | 25 FORGOTTEN Woolworth Lunch Counter Meals Everyone Loved Before They Vanished |
+| 2026-07-16 | 123 | Sclzp2yP8RE | 451 | 15 | 1,270 | 0.36 | 5 | 0.56 | binh_thuong | – | Không | 25 Forgotten $1 Meals Hidden in Old Cookbooks That Still Taste Amazing |
+| 2026-07-18 | 121 | AJynHyMYm3w | 265 | 15 | 903 | 0.29 | 5 | 1.50 | binh_thuong | – | Không | 25 FORGOTTEN A&P Lunch Counter Meals Everyone Grabbed Before Grocery Shopping Changed Forever |
+| 2026-07-19 | 120 | uaTaQPxIvss | 2,436 | 15 | 684 | 3.56 | 5 | 1.04 | dang_ghi | – | Không | 25 Forgotten Cast-Iron Skillet Meals Grandma Made Every Sunday (Almost No One Cooks Today) |
+| 2026-07-21 | 118 | PJ4BdKqBjrU | 453 | 15 | 903 | 0.50 | 5 | 1.37 | binh_thuong | – | Không | 25 Forgotten Poor Man's Potato Dinners Grandma Swore By |
+| 2026-07-23 | 116 | nUK62JtAPA4 | 709 | 15 | 684 | 1.04 | 5 | 1.98 | binh_thuong | – | Không | 25 Forgotten Automat Meals From the 1950s That Disappeared When Fast Food Took Over |
+| 2026-07-24 | 115 | _0FfQo6p3ac | 1,474 | 15 | 709 | 2.08 | 5 | 1.91 | hoi_cao | – | Không | 25 Easy Summer Comfort Meals From the 1970s Almost Nobody Makes Anymore |
+| 2026-07-25 | 114 | zrNCl1GQ-ZQ | 1,357 | 15 | 903 | 1.50 | 5 | 1.57 | binh_thuong | – | Không | 25 FORGOTTEN Burger Chef Menu Items Nobody Can Order Anymore |
+| 2026-07-27 | 112 | iuIW2G1JCJE | 330 | 15 | 1,329 | 0.25 | 5 | 1.07 | binh_thuong | – | Không | 25 FORGOTTEN Chi-Chi's Restaurant Meals That Disappeared Forever |
+| 2026-07-28 | 111 | ZQp66hnFUQk | 1,233 | 15 | 903 | 1.37 | 5 | 1.57 | binh_thuong | – | Không | 25 FORGOTTEN Sambo's Restaurant Meals Nobody Eats Anymore |
+| 2026-07-30 | 109 | 8mL8zlf5ybg | 1,422 | 15 | 903 | 1.57 | 5 | 0.48 | binh_thuong | – | Không | 25 FORGOTTEN Pup 'N' Taco Menu Items That Vanished Forever |
+| 2026-07-31 | 108 | bDDY1T5M0wU | 3,310 | 15 | 903 | 3.67 | 5 | 0.42 | dang_ghi | – | Không | 15 Easy 3-Ingredient Dinners Seniors Can Make in Minutes |
+| 2026-08-02 | 106 | 6dHRpzq2Fro | 4,022 | 15 | 1,233 | 3.26 | 5 | 0.31 | dang_ghi | – | Không | 15 One-Pot Dinners That Save Seniors Time and Money |
+| 2026-08-06 | 102 | AeiFx-YcjIs | 207 | 15 | 1,233 | 0.17 | 5 | 0.35 | binh_thuong | – | Không | 25 Dirt-Cheap Comfort Dinners for Seniors Living Alone |
+| 2026-08-07 | 101 | kXhSvIQajXo | 434 | 15 | 1,233 | 0.35 | 5 | 0.35 | binh_thuong | – | Không | 25 Cozy Budget Dinners Seniors Keep Coming Back To |
+| 2026-08-08 | 100 | SFnEIYq5GhE | 379 | 15 | 1,233 | 0.31 | 5 | 0.36 | binh_thuong | – | Không | 25 Cheap Homemade Dinners Every Senior Will Love |
+| 2026-08-11 | 97 | B2aEhnxdwLU | 298 | 15 | 709 | 0.42 | 5 | 0.94 | binh_thuong | – | Không | 25 Forgotten Electric Skillet Dinners Every 1960s Mom Made on Busy Weeknights |
+| 2026-08-12 | 96 | BdUBFCfOYmQ | 435 | 15 | 709 | 0.61 | 5 | 0.94 | binh_thuong | – | Không | 25 Forgotten Back-of-the-Box Dinners Every 1960s Mom Grew Up Making |
+| 2026-08-13 | 95 | iD4JxJXxxdA | 438 | 15 | 709 | 0.62 | 5 | 1.73 | binh_thuong | – | Không | 25 Simple Dinners Seniors Over 60 Can't Get Enough Of |
+| 2026-09-05 | 72 | sxcYkqitq0s | 2,237 | 15 | 453 | 4.94 | 5 | 2.71 | dang_ghi | – | Không | 40 FORGOTTEN Casserole Pan Dinners Every 1960s Mom Made From Scratch |
+| 2026-09-07 | 70 | 6kog2oVGwwg | 669 | 15 | 709 | 0.94 | 5 | 1.73 | binh_thuong | – | Không | STOP Cooking Eggs The Old Way! Try These 25 Depression-Era Tricks |
+| 2026-09-09 | 68 | AFMKdJ8yCGA | 1,227 | 15 | 669 | 1.83 | 5 | 2.94 | binh_thuong | – | Không | 40 FORGOTTEN One-Pan Farm Dinners That Fed Hungry Families for Generations |
+| 2026-09-11 | 66 | RKBe6g244ok | 591 | 15 | 669 | 0.88 | 5 | 15.34 | binh_thuong | – | Không | 25 Forgotten Ozark Meals Poor Families Ate to Survive |
+| 2026-09-13 | 64 | ugWoE3NG2DE | 1,966 | 15 | 591 | 3.33 | 5 | 63.51 | dang_ghi | – | Không | 40 FORGOTTEN 3-Ingredient Farm Dinners No One Makes Anymore |
+| 2026-09-15 | 62 | _bWnCuMRynU | 74,544 | 15 | 669 | 111 | 5 | 29.14 | can_kiem_ky | – | Không | 25 Foods Movie Stars Actually Ate in Hollywood Commissaries During the 1940s |
+| 2026-09-17 | 60 | HKSqnxUcDYQ | 643 | 15 | 669 | 0.96 | 5 | 33.92 | binh_thuong | – | Không | 25 Cheap Meals Movie Stars Ate Before Finding Fame in 1960s Hollywood |
+| 2026-09-19 | 58 | zimYJiMbA7s | 37,532 | 15 | 643 | 58.37 | 5 | 30.32 | can_kiem_ky | – | Không | 25 Foods Served at Hollywood’s Most Exclusive Dinner Parties in the 1960s |
+| 2026-09-21 | 56 | ZBggROIEwNA | 10,263 | 15 | 643 | 15.96 | 5 | 30.32 | can_kiem_ky | – | Không | 25 Comfort Foods Hollywood’s Biggest Stars Loved in the 1940s |
+| 2026-09-23 | 54 | nrC89MUTj7Q | 75,157 | 15 | 643 | 117 | 5 | 30.32 | can_kiem_ky | – | Không | 25 Foods Movie Stars Ordered at Hollywood’s Most Famous Restaurants in the 1950s |
+| 2026-09-25 | 52 | YxIz8p5toeM | 19,494 | 15 | 669 | 29.14 | 5 | 33.92 | can_kiem_ky | – | Không | 25 Foods Served at Frank Sinatra’s Hollywood Dinner Parties |
+| 2026-09-27 | 50 | 2bTSoszmu0g | 22,692 | 15 | 1,227 | 18.49 | 5 | 13.09 | can_kiem_ky | – | Không | 25 Room Service Meals Hollywood Stars Ordered at Luxury Hotels in the 1960s |
+| 2026-09-29 | 48 | 8Brx7iqCTD4 | 16,056 | 15 | 1,966 | 8.17 | 5 | 5.00 | manh | – | Không | 25 Foods Served at Elvis Presley’s Legendary Graceland Dinners |
+| 2026-10-01 | 46 | Km7wH_t_bvQ | 9,823 | 15 | 2,237 | 4.39 | 5 | 7.22 | dang_ghi | – | Không | 25 Foods Served at Old Hollywood’s Most Extravagant Weddings |
+| 2026-10-03 | 44 | 0-6ZOCXF4CY | 107,803 | 15 | 9,823 | 10.97 | 5 | 1.64 | can_kiem_ky | – | Không | 25 Foods Served at John Wayne’s Private Hollywood Dinner Parties |
+| 2026-10-05 | 42 | kLFR5TwLqRo | 53,988 | 15 | 10,263 | 5.26 | 5 | 1.57 | manh | – | Không | 25 Foods Served at Marilyn Monroe’s Intimate Hollywood Dinners |
+| 2026-10-07 | 40 | l7F5nA6Kym0 | 1,200 | 15 | 16,056 | 0.07 | 5 | 1.07 | binh_thuong | – | Không | 25 Foods Served at Marlon Brando’s Private Hollywood Dinners |
+| 2026-10-09 | 38 | pDLCXH4bUYA | 1,823 | 15 | 16,056 | 0.11 | 5 | 1.07 | binh_thuong | – | Không | 25 Foods Served at Frank Sinatra’s Private Hollywood Dinner Parties |
+| 2026-10-11 | 36 | D9h-1qyfkFk | 16,146 | 15 | 16,056 | 1.01 | 5 | 1.07 | binh_thuong | – | Không | 25 Foods Served at Elizabeth Taylor’s Extravagant Hollywood Dinners |
+| 2026-10-13 | 34 | PIEubqER6Xw | 66,344 | 15 | 16,146 | 4.11 | 5 | 0.53 | dang_ghi | – | Không | 25 Foods Served at Dean Martin’s Private Hollywood Dinner Parties |
+| 2026-10-15 | 32 | 7A3vuvdHni8 | 158,377 | 15 | 19,494 | 8.12 | 5 | 0.30 | manh | – | Không | 25 Foods Served at Lucille Ball’s Private Hollywood Dinners |
+| 2026-10-17 | 30 | lABR222cDzQ | 17,174 | 15 | 19,494 | 0.88 | 5 | 0.30 | binh_thuong | – | Không | 25 Foods Served at Clint Eastwood’s Private Dinner Parties |
+| 2026-10-19 | 28 | zJ3-8mJ_aF8 | 5,150 | 15 | 19,494 | 0.26 | 5 | 0.41 | chua_chin | – | Không | 25 Foods Served at Johnny Cash’s Private Family Dinners |
+| 2026-10-21 | 26 | DO_zsMgDNlo | 8,608 | 15 | 17,174 | 0.50 | 5 | 0.34 | chua_chin | – | Không | 25 Foods Served at Audrey Hepburn’s Intimate Dinner Parties |
+| 2026-10-23 | 24 | y5DmNd5yGko | 4,807 | 15 | 17,174 | 0.28 | 5 | 0.34 | chua_chin | – | Không | 25 Foods Served at Doris Day’s Private Hollywood Dinner Parties |
+| 2026-10-25 | 22 | Hrh1N-3zhSw | 5,775 | 15 | 16,146 | 0.36 | 5 | 0.35 | chua_chin | – | Không | 25 Foods Served at James Stewart’s Private Hollywood Dinner Parties |
+| 2026-10-27 | 20 | msaZ0tA1FG0 | 11,992 | 15 | 16,056 | 0.75 | 5 | 0.32 | chua_chin | – | Không | 25 Foods Served at Betty White’s Private Hollywood Dinner Parties |
+| 2026-10-29 | 18 | WeXK7BwReVQ | 7,990 | 15 | 11,992 | 0.67 | 5 | 0.33 | chua_chin | – | Không | 25 Foods Served at Cary Grant’s Private Hollywood Dinner Parties |
+| 2026-10-31 | 16 | IPgz3BD6rdM | 5,139 | 15 | 9,823 | 0.52 | 5 | 0.29 | chua_chin | – | Không | 25 Foods Served at Carol Burnett’s Private Hollywood Dinner Parties |
+| 2026-11-02 | 14 | 92Jw5PpbA4Q | 5,719 | 15 | 8,608 | 0.66 | 5 | 0.33 | chua_chin | – | Không | 25 Foods Served at Burt Reynolds’ Private Hollywood Dinner Parties |
+| 2026-11-04 | 12 | Z0xWkVUaMXM | 3,909 | 15 | 7,990 | 0.49 | 5 | 0.26 | chua_chin | – | Không | 25 Foods Served at Paul Newman’s Private Hollywood Dinner Parties |
+| 2026-11-06 | 10 | PDo8nuXoVV8 | 2,074 | 15 | 5,775 | 0.36 | 4 | – | chua_chin | – | Không | 25 Foods Served at Desi Arnaz’s Private Hollywood Dinner Parties |
+| 2026-11-08 | 8 | XPFARA4PpTo | 2,871 | 15 | 5,775 | 0.50 | 3 | – | chua_chin | – | Không | 20 Bizarre Foods Elvis Presley Ate Behind the Gates of Graceland |
+| 2026-11-10 | 6 | 2ax9M6ekz3s | 2,019 | 15 | 5,775 | 0.35 | 2 | – | chua_chin | – | Không | 20 Outrageous Meals Marlon Brando Ate Behind Closed Doors |
+| 2026-11-12 | 4 | NqGRKvnoUlI | 66,548 | 15 | 5,719 | 11.64 | 1 | – | chua_chin | – | Không | 20 Strange Foods Michael Jackson Ate Behind the Gates of Neverland Ranch |
+| 2026-11-14 | 2 | HLVpQOazAzI | 599 | 15 | 5,719 | 0.10 | 0 | – | chua_chin | – | Không | 20 Extravagant Foods Elizabeth Taylor Ate Behind Hollywood's Closed Doors |

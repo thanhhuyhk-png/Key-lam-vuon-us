@@ -1,0 +1,21 @@
+# Mốc mùa vụ US cho do_trend.py --lich (thêm 22/11/2026). Cột: ngay (MM-DD hoặc mã lễ: thanksgiving, mothers, fathers, memorial, labor) · su_kien · tu_khoa · ghi_chu
+# Ngày là mốc lên lịch (đỉnh tìm kiếm thường quanh ngày này), không phải số liệu cho lời đọc. Mốc theo zone lấy zone 6 làm giữa; zone ấm sớm hơn, lạnh muộn hơn.
+ngay	su_kien	tu_khoa	ghi_chu
+thanksgiving	Thanksgiving	thanksgiving cactus, fall cleanup	xương rồng nở dịp lễ; dọn vườn thu
+12-10	Mùa cây Giáng sinh	christmas cactus, poinsettia care, amaryllis	đỉnh tìm kiếm đầu–giữa tháng 12
+12-25	Christmas	christmas cactus, poinsettia after christmas, holiday plants	sau lễ: giữ poinsettia, amaryllis sống
+01-05	Catalog hạt giống	seed catalog, seed starting, garden planning	đầu năm người xem lên kế hoạch
+01-20	Winter sowing	winter sowing, milk jug	tháng 1–2
+02-14	Valentine	roses, flowers	hoa, hồng
+02-20	Ươm hạt trong nhà (zone 5–7)	seed starting indoors, grow lights, tomato seeds	6–8 tuần trước sương giá cuối
+03-15	Trồng khoai tây, đậu sớm	potatoes, peas, cool season crops	cây chịu lạnh
+04-15	Sương giá cuối (zone 6)	last frost, transplanting, hardening off	zone 5 cuối 4–giữa 5
+05-01	Trồng cà chua ra vườn	tomatoes, peppers, companion planting	sau sương giá cuối
+mothers	Mother's Day	flowers, hanging baskets	quà hoa, chậu treo
+memorial	Memorial Day	vegetable garden, raised bed	cuối tuần trồng vườn lớn nhất năm
+06-15	Sâu bệnh đầu hè	tomato blight, aphids, squash bugs	hè
+07-15	Trồng vụ thu	fall garden, succession planting	gieo cho vụ thu
+09-01	Trồng tỏi, cây vụ đông	garlic, cover crops, fall planting	tháng 9–10
+10-01	Mang cây vào nhà	overwintering plants, bringing plants indoors	trước sương giá đầu
+10-31	Halloween bí ngô	pumpkins, squash	bí
+11-01	Chuẩn bị vườn mùa đông	winterize garden, leaves mulch, cold frame	tháng 11

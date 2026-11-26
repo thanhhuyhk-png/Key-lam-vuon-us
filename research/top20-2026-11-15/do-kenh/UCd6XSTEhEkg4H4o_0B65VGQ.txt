@@ -1,0 +1,153 @@
+# Đo kênh: UCd6XSTEhEkg4H4o_0B65VGQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 219 |
+| n_trong_danh_sach | 123 |
+| n_dai | 100 |
+| n_short | 23 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 100,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2024-01-14 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 10,062 |
+| cao_nhat | 804,732 |
+| thap_nhat | 855 |
+| phan_tan | 79.98 |
+| so_video_tren_2x | 9 |
+| ty_le_tren_2x | 0.45 |
+| trung_vi_chia_sub | – |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 3.83 |
+| ngay_video_dau | 2021-01-21 |
+| tuoi_tu_video_dau | 2,125 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | – |
+| sub_moi_video | – |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.22 |
+| ty_trong_view_short_nguon | mau |
+| sub_moi_video_tho | 457 |
+| trung_vi_chia_sub_tho | 0.10 |
+| sub_moi_ngay_video_dau_tho | 47.06 |
+
+**Cờ:** PHAN_TAN_CAO, SUB_LAN_SHORTS
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2021-01-21 | 2,125 | reOsR3nWPrw | 485 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Grid Down Fried Eggs |
+| 2021-02-02 | 2,113 | YfKVKCpS9hI | 482 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Preppers Coffee In Percolator |
+| 2021-02-05 | 2,110 | sFHyBBpMFFw | 422 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Emergency Cooking: Oatmeal |
+| 2021-02-09 | 2,106 | Z4kY5vexR2g | 229 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Prepping: The Big Picture |
+| 2021-02-14 | 2,101 | 2YmTcHHzUQY | 4,588 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Cooking On A Charcoal Chimney With Wood |
+| 2021-02-19 | 2,096 | kkn59GizleQ | 11,641 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Powdered Butter For SHTF Cooking? |
+| 2021-03-05 | 2,082 | QX4Jvt8ysBg | 427 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | SHTF Cooking: Soup And Fried Cornbread |
+| 2021-03-12 | 2,075 | MWi0tx1O3I0 | 360 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Top Reasons To Prepare |
+| 2024-01-14 | 1,037 | ve04qNh9dZY | 19,249 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Power Outage Emergency 35 Cents Multi-Fuel Stove |
+| 2024-01-18 | 1,033 | PqCiZOqTGYs | 12,915 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Mason Jar: Food Storage, SHTF, Power Outages, More! |
+| 2024-01-21 | 1,030 | oc3KsYqxlJk | 7,782 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Apocalyptic Comfort Food For Long Term Emergencies |
+| 2024-01-25 | 1,026 | EaV7wYitQ-4 | 14,413 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Survival Food Storage: Canned Food |
+| 2024-01-28 | 1,023 | 9JJnPylC7Ek | 12,134 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Power Outage Emergency Cooking |
+| 2024-02-01 | 1,019 | n9Zev208vTs | 42,098 | 5 | 12,915 | 3.26 | 5 | 0.94 | dang_ghi | – | Không | Food Storage: Long Term Best Methods |
+| 2024-02-08 | 1,012 | XQMh2U9_4fc | 58,387 | 6 | 13,664 | 4.27 | 5 | 0.51 | dang_ghi | – | Không | How To Use Oxygen Absorbers. A Prepper's Guide |
+| 2024-02-11 | 1,009 | ZFyvoaHLglQ | 762,785 | 7 | 14,413 | 52.92 | 5 | 0.48 | can_kiem_ky | – | Không | Dollar Tree Fuels: Cook, Heat, Light |
+| 2024-02-18 | 1,002 | mW0KLlKaurc | 12,082 | 8 | 16,831 | 0.72 | 5 | 0.41 | binh_thuong | – | Không | Guide To Canned Tuna |
+| 2024-02-23 | 997 | 8Cv3b1xd90g | 6,978 | 9 | 14,413 | 0.48 | 5 | 0.82 | binh_thuong | – | Không | Beans:  Canned Beans VS Dry Beans |
+| 2024-03-01 | 990 | KkvNK2SqnFY | 2,000 | 10 | 13,664 | 0.15 | 5 | 0.86 | binh_thuong | – | Không | ALLPOWERS S2000 Portable Power Station |
+| 2024-03-02 | 989 | OBXZUpMZqYo | 1,703 | 11 | 12,915 | 0.13 | 5 | 1.07 | binh_thuong | – | Không | Monument Grills Mesa 325 |
+| 2024-03-03 | 988 | gP71CZwplRI | 11,815 | 12 | 12,524 | 0.94 | 5 | 1.11 | binh_thuong | – | Không | Charcoal Grill One Cinder Block |
+| 2024-03-09 | 982 | K5uKj57mO6M | 666,914 | 13 | 12,134 | 54.96 | 5 | 0.31 | can_kiem_ky | – | Không | Canned Food: The Seven Best Canned Meats |
+| 2024-03-13 | 978 | 5K8wbPoAy8Q | 16,985 | 14 | 12,524 | 1.36 | 5 | 0.30 | binh_thuong | – | Không | Survival: Food: No Cooking Required Meals |
+| 2024-03-22 | 969 | pu0F6RECeeA | 3,781 | 15 | 12,915 | 0.29 | 5 | 1.07 | binh_thuong | – | Không | DIY Water Treatment Kit For Safe Drinking Water |
+| 2024-04-06 | 954 | YgHa9mXW_-0 | 13,859 | 15 | 12,134 | 1.14 | 5 | 0.57 | binh_thuong | – | Không | Dollar Tree Canned Meats: Worth The Price? |
+| 2024-04-13 | 947 | sPt2069TDRo | 3,212 | 15 | 12,134 | 0.26 | 5 | 0.57 | binh_thuong | – | Không | Survival Gardening: 7 Best Survival Crops |
+| 2024-04-18 | 942 | ADsGNO3WqZw | 3,421 | 15 | 12,134 | 0.28 | 5 | 1.44 | binh_thuong | – | Không | ITEHIL Reverse Osmosis Emergency Drinking Water |
+| 2024-04-22 | 938 | 31481D8UsN8 | 113,577 | 15 | 12,082 | 9.40 | 5 | 0.57 | manh | – | Không | Butane Stoves For Off-Grid |
+| 2024-04-26 | 934 | qFAVcJj8724 | 98,459 | 15 | 12,082 | 8.15 | 5 | 0.48 | manh | – | Không | $5 Dollar Tree Emergency Power Outage Kitchen |
+| 2024-05-03 | 927 | 1-0fP2A6TVc | 6,906 | 15 | 12,082 | 0.57 | 5 | 0.48 | binh_thuong | – | Không | Are Dollar Tree Canned Foods Worth Buying? |
+| 2024-05-05 | 925 | gIEmckQXtgA | 1,941 | 15 | 11,815 | 0.16 | 5 | 0.49 | binh_thuong | – | Không | Solar Generator: AllPowers R1500 |
+| 2024-05-11 | 919 | arvAhalzw88 | 17,476 | 15 | 6,978 | 2.50 | 5 | 0.84 | hoi_cao | – | Không | MRE's In A Can: Canned Food Meals |
+| 2024-05-16 | 914 | Tqeen39UBR0 | 5,830 | 15 | 6,978 | 0.84 | 5 | 0.57 | binh_thuong | – | Không | Stock Up On Storage Foods: Best Dollar Tree Foods |
+| 2024-05-24 | 906 | 5LYw6sjSMLI | 3,969 | 15 | 6,906 | 0.57 | 5 | 0.39 | binh_thuong | – | Không | Outdoor Kitchen Friend: London Sunshine Kamado Grill |
+| 2024-06-03 | 896 | V59Fjc_iqYk | 11,466 | 15 | 6,906 | 1.66 | 5 | 0.33 | binh_thuong | – | Không | Survival Gear: Vesta Stove For Grid-Down/SHTF Cooking |
+| 2024-06-08 | 891 | lOQ33WcBz54 | 2,189 | 15 | 11,466 | 0.19 | 5 | 0.24 | binh_thuong | – | Không | Survival Snacks: Nutella VS Nutastic |
+| 2024-06-28 | 871 | VopJaHCtZhY | 9,319 | 15 | 6,906 | 1.35 | 5 | 0.39 | binh_thuong | – | Không | Best Canned Chicken For Your Canned Chicken Recipes |
+| 2024-07-04 | 865 | UBhliAd9S00 | 1,362 | 15 | 6,906 | 0.20 | 5 | 0.70 | binh_thuong | – | Không | A Prepper's Survival Garden Summer Update |
+| 2024-07-08 | 861 | 1Yxi9m2MZFo | 2,725 | 15 | 5,830 | 0.47 | 5 | 1.22 | binh_thuong | – | Không | Portable Power Station AllPowers R2500 |
+| 2024-07-10 | 859 | PbMoP8waCNA | 2,276 | 15 | 5,830 | 0.39 | 5 | 1.28 | binh_thuong | – | Không | Simpure Countertop Reverse Osmosis Water Filter |
+| 2024-07-12 | 857 | jJ6oYUFPtpk | 7,442 | 15 | 3,969 | 1.88 | 5 | 1.80 | binh_thuong | – | Không | Survival: Canned Food Sterno Stove No Power Cooking |
+| 2024-07-16 | 853 | LN1Eg7l9onE | 4,822 | 15 | 5,830 | 0.83 | 5 | 1.94 | binh_thuong | – | Không | LetPot Indoor Hydroponic Garden |
+| 2024-08-02 | 836 | KouHaedKfQQ | 7,139 | 15 | 5,830 | 1.22 | 5 | 4.19 | binh_thuong | – | Không | Dollar General Canned Food: Easy One Pot Meals |
+| 2024-08-14 | 824 | 0ikRAZxfI5s | 24,410 | 15 | 5,830 | 4.19 | 5 | 13.85 | dang_ghi | – | Không | Dollar General Canned Food: Best Canned Meats |
+| 2024-08-17 | 821 | HyhR2l_mJwo | 11,288 | 15 | 5,830 | 1.94 | 5 | 13.85 | binh_thuong | – | Không | $50 Budget Prepper Pantry Stock Up $1 Items |
+| 2024-08-24 | 814 | ianBBfWJtr8 | 6,530 | 15 | 5,830 | 1.12 | 5 | 13.85 | binh_thuong | – | Không | Chicken Or Roast Beef: Best Value In Canned Meat |
+| 2024-09-02 | 805 | yHpYx0d0EMw | 90,245 | 15 | 6,530 | 13.82 | 5 | 8.13 | can_kiem_ky | – | Không | Miniature Stoves For Power Outages, Emergencies, Survival |
+| 2024-09-05 | 802 | TiqCO5tD0fI | 82,697 | 15 | 6,530 | 12.66 | 5 | 3.61 | can_kiem_ky | – | Không | Avoid These 5 Foods For Long Term Storage: Prepper Pantry Mistakes |
+| 2024-09-14 | 793 | kTMciLgkSQo | 80,726 | 15 | 7,139 | 11.31 | 5 | 0.75 | can_kiem_ky | – | Không | Your First $1000: The Ultimate Beginner’s Guide to Prepping for Any Crisis |
+| 2024-10-06 | 771 | IStw-_uah4g | 53,106 | 15 | 7,442 | 7.14 | 5 | 0.65 | manh | – | Không | Aldi Canned Meats Ranked: Finding The Best Value |
+| 2024-10-29 | 748 | V0xk9z6fzGQ | 23,573 | 15 | 7,442 | 3.17 | 5 | 0.57 | dang_ghi | – | Không | Get Ready for 2024 Election Day Mayhem! |
+| 2024-11-05 | 741 | TxHEEy3YU74 | 4,235 | 15 | 9,319 | 0.45 | 5 | 0.52 | binh_thuong | – | Không | Dollar General Best Bang For Your Buck Budget Prepping Items Prepper Haul |
+| 2024-11-08 | 738 | eqtcgbJaezw | 3,143 | 15 | 7,442 | 0.42 | 5 | 0.72 | binh_thuong | – | Không | EXTEND Your Power Station Energy With the B1000 Backup Battery |
+| 2024-11-13 | 733 | 3RKRDN0hALA | 5,347 | 15 | 7,442 | 0.72 | 5 | 0.81 | binh_thuong | – | Không | Trader Joe's Canned Tuna: Compared To National Leading Brands And The Best Is... |
+| 2024-11-17 | 729 | r5LvaTyfzH0 | 4,855 | 15 | 7,442 | 0.65 | 5 | 2.57 | binh_thuong | – | Không | Oupes Mega 1 Power Station: Ultimate Power Outage Solutions |
+| 2024-11-27 | 719 | _BNstb5gqOg | 2,731 | 15 | 7,442 | 0.37 | 5 | 4.06 | binh_thuong | – | Không | Is Your Emergency Water Supply READY for the Worst? Discover the Best Treatment Methods! |
+| 2024-12-08 | 708 | Nt7-N_XzLOc | 19,095 | 15 | 7,139 | 2.67 | 5 | 4.23 | hoi_cao | – | Không | Surprising Fuels in Your Home for Power Outages & Emergencies |
+| 2024-12-12 | 704 | 1u8ytqNZ8K0 | 30,821 | 15 | 11,288 | 2.73 | 5 | 0.53 | hoi_cao | – | Không | 10 Must-Have Dollar Tree Prepping Items for $1.25 |
+| 2025-02-21 | 633 | qK5ySPszZVA | 6,003 | 15 | 19,095 | 0.31 | 5 | 1.52 | binh_thuong | – | Không | Walmart Inflation Busting Budget Prepping: Best $1 Items Beginner Prepping |
+| 2025-02-28 | 626 | pn4osLZT-Ro | 30,222 | 15 | 11,288 | 2.68 | 5 | 0.37 | hoi_cao | – | Không | Survival Water Storage Made Easy |
+| 2025-03-06 | 620 | iUf9Y7ffrZg | 30,432 | 15 | 19,095 | 1.59 | 5 | 0.18 | binh_thuong | – | Không | $10 Dollar Tree Blackout Kit For Emergencies, Disasters, Power Outages |
+| 2025-03-08 | 618 | fn0m7pPTnFw | 3,404 | 15 | 23,573 | 0.14 | 5 | 0.18 | binh_thuong | – | Không | Dollar General Emergency Fuels: Cook, Heat, Light |
+| 2025-03-14 | 612 | _QYMKyh1gio | 1,746 | 15 | 19,095 | 0.09 | 5 | 0.22 | binh_thuong | – | Không | Power Station Oupes Newest: Exodus 1500 |
+| 2025-03-20 | 606 | VDMoLIW_i5s | 28,951 | 15 | 6,003 | 4.82 | 5 | 0.69 | dang_ghi | – | Không | Canned Food: The Ultimate Long Term Storage Food For Beginners |
+| 2025-03-29 | 597 | 9VCQgN3QagY | 4,155 | 15 | 6,003 | 0.69 | 5 | 1.32 | binh_thuong | – | Không | The Ultimate Power Station: The AllPowers R4000 |
+| 2025-04-09 | 586 | 4qsq8OIDCXQ | 3,417 | 15 | 5,347 | 0.64 | 5 | 2.08 | binh_thuong | – | Không | $10 DIY Emergency Repair Kit from Dollar Tree (Every Prepper Needs This!) |
+| 2025-04-11 | 584 | BDacrmGybIU | 7,917 | 15 | 4,855 | 1.63 | 5 | 2.29 | binh_thuong | – | Không | Thermal Master P2 Pro: The World's Smallest Thermal Camera And Why You Need It |
+| 2025-04-26 | 569 | lLGZJ88PMIY | 3,714 | 15 | 5,347 | 0.69 | 5 | 2.08 | binh_thuong | – | Không | How To Start Prepping: Where To Go And What To Get |
+| 2025-05-27 | 538 | QQ_YHDYQRDI | 11,117 | 15 | 5,347 | 2.08 | 5 | 1.61 | hoi_cao | – | Không | How to Make Canned Food Last for Decades! |
+| 2025-06-07 | 527 | _ZI2_9ENG4s | 143,204 | 15 | 6,003 | 23.86 | 5 | 0.79 | can_kiem_ky | – | Không | Stock These Canned Meats in 2025 – Before the Next Crisis Hits |
+| 2025-06-15 | 519 | 91-aEYNmv0o | 48,600 | 15 | 7,917 | 6.14 | 5 | 0.60 | manh | – | Không | Best Emergency No-Cook Foods For Chaos And Civil Unrest |
+| 2025-06-25 | 509 | 695PrkMWXp0 | 8,630 | 15 | 11,117 | 0.78 | 5 | 0.24 | binh_thuong | – | Không | Is Aldi's Canned Meat REALLY Better Than Dollar Tree's for Prepping? |
+| 2025-07-12 | 492 | LOGyIgjMOzI | 4,730 | 15 | 8,630 | 0.55 | 5 | 0.31 | binh_thuong | – | Không | Are You Making These Food Storage Mistakes? |
+| 2025-07-19 | 485 | FJ5qvlIrruc | 1,980 | 15 | 7,917 | 0.25 | 5 | 0.33 | binh_thuong | – | Không | Turn Pantry Staples Into Life Saving Candles! |
+| 2025-07-24 | 480 | ZdOYoe0LwIg | 2,642 | 15 | 7,917 | 0.33 | 5 | 1.53 | binh_thuong | – | Không | 1. Power Outage Survival: Allpowers R1500 Lite, Full Size Capability, Small Size Price |
+| 2025-08-13 | 460 | VE0Dq8tJ74g | 24,195 | 15 | 4,730 | 5.12 | 5 | 2.56 | manh | – | Không | 3 Aldi Canned Meats Preppers Must Get! |
+| 2025-08-21 | 452 | 4tTPCASkCI0 | 2,599 | 15 | 4,730 | 0.55 | 5 | 2.56 | binh_thuong | – | Không | I Upgraded My First Aid Kit for Grid Down Emergencies! (Ozio Medical) |
+| 2025-09-04 | 438 | IMoE1l8tXtQ | 14,805 | 15 | 4,730 | 3.13 | 5 | 2.56 | dang_ghi | – | Không | Cooking Without Power: The Best Stove For Your Grid-Down Kitchen |
+| 2025-09-09 | 433 | tBQfVkCEHtk | 2,617 | 15 | 7,917 | 0.33 | 5 | 5.49 | binh_thuong | – | Không | The Best Power Outage Cooking Fuel |
+| 2025-09-13 | 429 | gJROA3tZzxA | 12,093 | 15 | 4,730 | 2.56 | 5 | 9.19 | hoi_cao | – | Không | 10 Best Dollar General Survival Items (Perfect for Beginner Preppers) |
+| 2025-09-20 | 422 | bbopO4emCZU | 66,038 | 15 | 7,917 | 8.34 | 5 | 5.49 | manh | – | Không | Emergency Heaters (Power Outage Winter Heat Safety Guide) |
+| 2025-09-24 | 418 | uoWQeKDYZfc | 1,618 | 15 | 8,630 | 0.19 | 5 | 5.04 | binh_thuong | – | Không | Countdown to Preparedness Book Review \| Jim Cobb’s 52-Week Survival Plan |
+| 2025-09-26 | 416 | pz2sPls5S8I | 255,153 | 15 | 8,630 | 29.57 | 5 | 0.72 | can_kiem_ky | – | Không | The Easiest Way To Store Food Long Term (No Mylar Needed!) |
+| 2025-10-04 | 408 | abtpulu-rx0 | 43,487 | 15 | 11,117 | 3.91 | 5 | 0.54 | dang_ghi | – | Không | 5 Free Prepping Hacks You Need Now! |
+| 2025-10-09 | 403 | ofX5YrtTXSM | 1,401 | 15 | 12,093 | 0.12 | 5 | 0.49 | binh_thuong | – | Không | The Dabbsson 2000L |
+| 2025-10-10 | 402 | TkbKiETXx_w | 97,817 | 15 | 8,630 | 11.33 | 5 | 0.68 | can_kiem_ky | – | Không | Long-Term Food Storage Mistakes: Oxygen Absorbers vs Vacuum Sealing (What’s Best?) |
+| 2025-10-21 | 391 | Tgkgq2F8nWM | 6,252 | 15 | 8,630 | 0.72 | 5 | 0.48 | binh_thuong | – | Không | 5 Huge Prepping Mistakes You Must Avoid! |
+| 2025-10-24 | 388 | hGjRv4HzQAs | 5,964 | 15 | 6,252 | 0.95 | 5 | 0.44 | binh_thuong | – | Không | How To Start Prepping With Just $20! |
+| 2025-10-30 | 382 | pgSdBGoWqC8 | 2,355 | 15 | 6,252 | 0.38 | 5 | 0.44 | binh_thuong | – | Không | Portable Power: The Allpowers R600 |
+| 2025-10-31 | 381 | AlkkoKVwYn8 | 4,119 | 15 | 6,252 | 0.66 | 5 | 0.44 | binh_thuong | – | Không | Record High Beef Prices! Is It Time To Find An Alternative? |
+| 2025-11-15 | 366 | XxvZMpnFLEU | 5,882 | 15 | 6,252 | 0.94 | 5 | 0.44 | binh_thuong | – | Không | Bulk Canned Meat Shopping Secrets You Need To Know! |
+| 2026-01-29 | 291 | e2NwUQ1SwWA | 2,728 | 15 | 5,964 | 0.46 | 5 | 9.17 | binh_thuong | – | Không | Emergency Grid-Down Winter Heat - Toilet Paper Stove |
+| 2026-02-14 | 275 | -QXNpPmCJEI | 855 | 15 | 5,964 | 0.14 | 5 | 24.17 | binh_thuong | – | Không | The Glass Is Half Empty… or Half Full? Why This Determines Your Survival in 2026 |
+| 2026-02-18 | 271 | vezWfhBPZSk | 1,862 | 15 | 5,882 | 0.32 | 5 | 24.51 | binh_thuong | – | Không | These 5 Food Storage Mistakes Are Killing Your Budget |
+| 2026-03-19 | 242 | ggHl6b3zNgE | 144,170 | 15 | 5,882 | 24.51 | 5 | 9.30 | can_kiem_ky | – | Không | Build Your Emergency Food Supply For $5 at Dollar Tree: The 3 Foods To Get! |
+| 2026-03-26 | 235 | EcRMr2or7VA | 341,625 | 15 | 5,882 | 58.08 | 5 | 8.48 | can_kiem_ky | – | Không | 2 Minutes To Long Term Food Storage: No Mylar, No Buckets, No Oxygen Absorbers |
+| 2026-04-02 | 228 | 8gJLBZGfKD8 | 54,682 | 15 | 5,882 | 9.30 | 5 | 8.16 | manh | – | Không | Turn $20 Into a REAL Emergency Survival Food Supply |
+| 2026-04-09 | 221 | QAgzoAUc8gY | 407,919 | 15 | 5,964 | 68.40 | 5 | 8.05 | can_kiem_ky | – | Không | Survival Food: Don't Stock The Wrong Canned Foods |
+| 2026-04-23 | 207 | ROz7aHTDKOU | 4,741 | 15 | 5,964 | 0.79 | 5 | 8.05 | binh_thuong | – | Không | Control These 5 Things or Your Emergency Food Won't Last |
+| 2026-05-01 | 199 | pLhF17u6OXU | 6,283 | 15 | 5,882 | 1.07 | 5 | 8.48 | binh_thuong | – | Không | 3 Layer Emergency Cooking \| What Most Preppers Get Wrong |
+| 2026-05-07 | 193 | XJCmSPh-Qtw | 49,879 | 15 | 5,964 | 8.36 | 5 | 8.05 | manh | – | Không | Emergency Food That Needs Zero Cooking |
+| 2026-08-21 | 87 | 77O5Kvq2YHc | 48,014 | 15 | 5,964 | 8.05 | 5 | 4.66 | manh | – | Không | Is The NEW Chef Boyardee the Ultimate Prepper Canned Food? |
+| 2026-08-26 | 82 | npzPEqieut4 | 804,732 | 15 | 5,964 | 135 | 5 | 1.76 | can_kiem_ky | – | Không | Don't Waste Money! The 5 Most Important Foods For Long Term Storage In Your Emergency Pantry |
+| 2026-08-28 | 80 | ERGGPo4fXus | 10,494 | 15 | 6,283 | 1.67 | 4 | – | binh_thuong | – | Không | Grid-Down: The Simplest No-Cook Emergency Meal |
+| 2026-09-03 | 74 | MpGUSwYsbiM | 253,913 | 15 | 10,494 | 24.20 | 3 | – | can_kiem_ky | – | Không | 5 Grocery Store Foods For Long Term Storage - No Repackaging Required |
+| 2026-09-11 | 66 | OgObAhDgtyA | 9,614 | 15 | 48,014 | 0.20 | 2 | – | binh_thuong | – | Không | How to Stop Bugs From Ruining Your Long-Term Food Storage |
+| 2026-09-18 | 59 | RTLQ91QwIW8 | 27,806 | 15 | 48,014 | 0.58 | 1 | – | binh_thuong | – | Không | 5 Grocery Foods With the Longest Best-By Dates—No Repackaging Required |
+| 2026-09-26 | 51 | cdKuUv2_Nh4 | 9,630 | 15 | 48,014 | 0.20 | 0 | – | binh_thuong | – | Không | What Size Oxygen Absorber Do You Really Need? |

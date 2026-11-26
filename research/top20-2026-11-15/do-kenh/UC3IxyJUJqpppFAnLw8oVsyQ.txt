@@ -1,0 +1,150 @@
+# Đo kênh: UC3IxyJUJqpppFAnLw8oVsyQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 110 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 268 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 26,900 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-06-04 |
+| n_ngoai_cua_so | 10 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 935 |
+| cao_nhat | 10,921 |
+| thap_nhat | 561 |
+| phan_tan | 11.68 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.03 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.71 |
+| ngay_video_dau | 2025-12-15 |
+| tuoi_tu_video_dau | 336 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 80.06 |
+| sub_moi_video | 100 |
+| video_30_ngay | 11 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-12-15 | 336 | kg4pjms4X9g | 604 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Would You Eat a Cockroach to Stay Alive Here’s Why You Might Have To |
+| 2025-12-21 | 330 | K0lwNvnnPeA | 2,644 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The 15 Brutal Survival Rules No One Teaches You in Life \| Science Based Guide |
+| 2025-12-22 | 329 | mDir-7JmSK8 | 407 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Civilization Is Gone. You’re Injured. Here’s How You Survive Without a Hospital |
+| 2025-12-24 | 327 | 0Mokfla-vq0 | 5,516 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | IF You’re Not a Prepper, This Is How Normal People Try to Survive |
+| 2025-12-25 | 326 | AEpJhF2Vzw4 | 841 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | What Happens When You Can’t Google “How to Survive” \| Be A Prepper this Way |
+| 2025-12-26 | 325 | 1e71RDFn5QQ | 63 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Your Prepping Plan Works… Until Your Kid Gets Sick |
+| 2025-12-26 | 325 | VzwreYmR2Vg | 164 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Don't Let Them In The Ultimate Guide to Doorstep Safety |
+| 2025-12-29 | 322 | USfESNfnEwA | 1,896 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Prepper Foods That Will Outlive You and Still Be Edible \| STORE THEM ASAP |
+| 2026-06-04 | 165 | 2-Dl3YmdRLM | 1,871 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | FEMA Engineers Use These 8 Harbor Freight Tools Before Any Grid Collapse |
+| 2026-06-05 | 164 | hy2Ao0gojjA | 2,364 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What Special Forces Soldiers Quietly Buy at Walmart Right Now — 9 Items Disappearing Fast |
+| 2026-06-06 | 163 | WReRyEXg8kk | 10,419 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Tractor Supply Has 7 Items on FEMA's Unpublished Prep List — Farmers Have Known This for Years |
+| 2026-06-07 | 162 | ea3IFhzQp4A | 1,054 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | These Home Depot Items Disappear 48 Hours Before Every Disaster \|  Prepping 2026 Guide |
+| 2026-06-08 | 161 | VANgF66lOps | 1,011 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Sam's Club Has 9 Survival Items FEMA Recommends — Most Members Never Touch Them |
+| 2026-06-09 | 160 | 8pqZSchw03w | 728 | 5 | 1,871 | 0.39 | 5 | 0.25 | binh_thuong | – | Không | 10 Home Depot Items Military Logistics Officers Trust More Than Expensive Survival Gear |
+| 2026-06-10 | 159 | GHBNH0WEyI4 | 468 | 6 | 1,462 | 0.32 | 5 | 0.32 | binh_thuong | – | Không | FEMA Just Quietly Removed These 11 Items From Its Public Preparedness Guidance \| Prepping 2026 Guide |
+| 2026-06-11 | 158 | JcBgffPCvLw | 472 | 7 | 1,054 | 0.45 | 5 | 0.48 | binh_thuong | – | Không | Fleet Farm Has 9 Items Veterans Stockpile Before Anyone Else — Most Customers Never Notice Them |
+| 2026-06-12 | 157 | Q-9B1Iik7_g | 391 | 8 | 1,032 | 0.38 | 5 | 0.63 | binh_thuong | – | Không | Costco Is Quietly Pulling These 13 Items From Warehouses - Stockpile Them ASAP |
+| 2026-06-13 | 156 | o5Wxs7dkujM | 502 | 9 | 1,011 | 0.50 | 5 | 0.65 | binh_thuong | – | Không | These 11 Items Won't Be Restocked at Walmart Until 2027 — Members Are Already Stocking Up |
+| 2026-06-14 | 155 | kTrt6JvFrmo | 411 | 10 | 870 | 0.47 | 5 | 0.94 | binh_thuong | – | Không | 13 Items to Get Before July 1st — After That, the Price You're Paying Today Is Gone |
+| 2026-06-15 | 154 | lPb9UOAGwj0 | 653 | 11 | 728 | 0.90 | 5 | 1.27 | binh_thuong | – | Không | 11 Items That Vanish From Walmart in the First 6 Hours of Grid Collapse — People Grab Wrong Items |
+| 2026-06-16 | 153 | -qz0RNWPFkw | 3,055 | 12 | 690 | 4.42 | 5 | 1.34 | dang_ghi | – | Không | 9 Cheap Items at Tractor Supply That Veterans Stockpile Before Anyone Else |
+| 2026-06-17 | 152 | lNVw9f5VytA | 819 | 13 | 728 | 1.12 | 5 | 1.27 | binh_thuong | – | Không | 17 Items The Red Cross Says You Must Stockpile Now |
+| 2026-06-18 | 151 | YkzQ8z66NB8 | 410 | 14 | 774 | 0.53 | 5 | 1.19 | binh_thuong | – | Không | FEMA's Search and Rescue Teams Keep These 13 Items at Home — Never on Any Public List |
+| 2026-06-19 | 150 | Vhyhhemg48c | 144,849 | 15 | 728 | 199 | 5 | 1.27 | can_kiem_ky | – | Không | 9 Cheap Items at Tractor Supply Experienced Preppers Stockpile in Bulk |
+| 2026-06-20 | 149 | dNwh8Ie_gx0 | 924 | 15 | 728 | 1.27 | 5 | 1.21 | binh_thuong | – | Không | 13 Items the Mormon Church Tells Its Members to Stockpile ( FEMA Uses the Same List ) |
+| 2026-06-21 | 148 | 5pxiTa2k0qE | 1,647 | 15 | 728 | 2.26 | 5 | 1.21 | hoi_cao | – | Không | 7 Cheap Items at Tractor Supply That Outperform a $3,000 Prepper Kit |
+| 2026-06-22 | 147 | hm6OXKj-5MQ | 348 | 15 | 728 | 0.48 | 5 | 1.21 | binh_thuong | – | Không | 15 Dollar Tree Items That Feel Illegal to Buy This Cheap — Experienced Preppers Grab These First |
+| 2026-06-23 | 146 | FzAhIGPw7PI | 761 | 15 | 653 | 1.17 | 5 | 1.80 | binh_thuong | – | Không | The Prepper Blacklist:  9 Items FEMA Quietly Discourages You From Buying |
+| 2026-06-24 | 145 | YEyQWp9kuJs | 1,176 | 15 | 653 | 1.80 | 5 | 4.31 | binh_thuong | – | Không | Stop Spending Money on Survival Gear — 11 Items at Tractor Supply That Do the Same Job |
+| 2026-06-25 | 144 | MZ26vl5qp90 | 882 | 15 | 653 | 1.35 | 5 | 4.31 | binh_thuong | – | Không | 9 Things Experienced Preppers Know About Tractor Supply That Beginners Find Out Too Late |
+| 2026-06-26 | 143 | KxH1VBrdRm4 | 30,382 | 15 | 761 | 39.92 | 5 | 3.70 | can_kiem_ky | – | Không | Extreme Heat Prepping:  How to Survive 110°F Without Power |
+| 2026-06-26 | 143 | Klg3D6QTW1s | 561 | 15 | 819 | 0.68 | 5 | 3.44 | binh_thuong | – | Không | What Experienced Preppers Keep in Their Dog's Emergency Kit — 10 Items Beginners Never Think to Add |
+| 2026-06-27 | 142 | G1SdYY-0HBM | 3,172 | 15 | 819 | 3.87 | 5 | 0.92 | dang_ghi | – | Không | 9 Items the U.S  Army Buys at Walmart in Bulk — Experienced Preppers Never Knew |
+| 2026-06-28 | 141 | 1t-_i0-gGVI | 2,815 | 15 | 882 | 3.19 | 5 | 0.84 | dang_ghi | – | Không | What Experienced Preppers Buy at Costco Every Single Month |
+| 2026-06-29 | 140 | ttqTr5HU1so | 577 | 15 | 924 | 0.62 | 5 | 0.82 | binh_thuong | – | Không | What Experienced Preppers Do When the Water Stops — 9 Items They Staged Before It Happened |
+| 2026-06-30 | 139 | LPuZwn9OPbA | 5,958 | 15 | 924 | 6.45 | 5 | 0.80 | manh | – | Không | How Experienced Preppers Keep Their House Under 85°F Without Power — FEMA Doesn't Teach This Method |
+| 2026-07-01 | 138 | a03T38SrEX4 | 743 | 15 | 924 | 0.80 | 5 | 0.63 | binh_thuong | – | Không | 9 Items at Walmart Experienced Preppers Buy Every Month That DESTROYs $500 Survival Kits |
+| 2026-07-02 | 137 | UuXkL50M5Zo | 757 | 15 | 924 | 0.82 | 5 | 0.53 | binh_thuong | – | Không | 9 Cheap Items at Aldi Experienced Preppers Stockpile Before Everyone Else Catches On |
+| 2026-07-03 | 136 | _rQjpXCVdAs | 584 | 15 | 924 | 0.63 | 5 | 0.49 | binh_thuong | – | Không | 9 Tractor Supply Items So Good They DESTROY Every Survival Kit You've Paid For |
+| 2026-07-04 | 135 | KN5vk7_0JNs | 2,168 | 15 | 882 | 2.46 | 5 | 0.51 | hoi_cao | – | Không | Red Cross Updated Its Emergency List — Preppers Are Grabbing These 17 Items Now |
+| 2026-07-05 | 134 | wbcTSCZfwyI | 381 | 15 | 882 | 0.43 | 5 | 0.56 | binh_thuong | – | Không | More Items at Tractor Supply Veterans Stockpile Before Anyone Else — The Ones That Surprised Even Us |
+| 2026-07-06 | 133 | kG28AT6i0B4 | 490 | 15 | 761 | 0.64 | 5 | 0.59 | binh_thuong | – | Không | 25 Forgotten Depression Era Skills That Would Save Your Life in a Blackout |
+| 2026-07-07 | 132 | v4tev7-IMmI | 451 | 15 | 761 | 0.59 | 5 | 0.70 | binh_thuong | – | Không | 12 Grocery Items Experienced Preppers Are Buying Before Hurricane Season Peaks |
+| 2026-07-08 | 131 | Viw4K3Vszfs | 244 | 15 | 757 | 0.32 | 5 | 0.79 | binh_thuong | – | Không | 9 Foods Only Beginners Keep in Their Emergency Pantry |
+| 2026-07-09 | 130 | NrbJNhdUcwM | 1,453 | 15 | 743 | 1.96 | 5 | 0.81 | binh_thuong | – | Không | 10 Things Experienced Preppers Do the Moment the GRID COLLAPSE |
+| 2026-07-10 | 129 | Yc7ump3UZp8 | 531 | 15 | 743 | 0.71 | 5 | 0.84 | binh_thuong | – | Không | 11 Cheap Items at Tractor Supply FEMA Employees Stockpile — But Won't Tell You Why |
+| 2026-07-11 | 128 | TQrYhw9jPoQ | 199 | 15 | 584 | 0.34 | 5 | 1.07 | binh_thuong | – | Không | FEMA Employees Don't Follow FEMA's Own Advice-  Here's What They Do Instead |
+| 2026-07-12 | 127 | 8CSstc17zR0 | 599 | 15 | 584 | 1.03 | 5 | 1.07 | binh_thuong | – | Không | The One Thing the Army Teaches About Grid Failure That FEMA Never Mentions |
+| 2026-07-13 | 126 | P32kr0CdWlw | 1,328 | 15 | 584 | 2.27 | 5 | 1.06 | hoi_cao | – | Không | What FEMA Quietly Removed From Its Emergency List in 2026 — And What You Should Buy Instead |
+| 2026-07-14 | 125 | JWXj0HBqEHs | 626 | 15 | 584 | 1.07 | 5 | 1.01 | binh_thuong | – | Không | Why the Army Quietly Stopped Issuing One of the Most Common Items in Every Emergency Kit |
+| 2026-07-15 | 124 | XqSnAzpfKLc | 795 | 15 | 599 | 1.33 | 5 | 0.98 | binh_thuong | – | Không | I Tested My Emergency Food for 30 Days and Here's What Actually Failed |
+| 2026-07-16 | 123 | W7dXOIS_oEs | 439 | 15 | 599 | 0.73 | 5 | 1.04 | binh_thuong | – | Không | What Actually Happens in the First 14 Days After a Grid Collapse |
+| 2026-07-17 | 122 | 9QeRMzFf7Z0 | 620 | 15 | 584 | 1.06 | 5 | 1.07 | binh_thuong | – | Không | 9 Foods Quietly Disappearing From Stores — And What to Buy Before They're Gone |
+| 2026-07-18 | 121 | TWDLNyd5m80 | 590 | 15 | 584 | 1.01 | 5 | 1.61 | binh_thuong | – | Không | 13 Survival Items FEMA Insiders Stockpile Before Any Crisis Hits |
+| 2026-07-19 | 120 | UKV13cnbzOQ | 586 | 15 | 590 | 0.99 | 5 | 2.15 | binh_thuong | – | Không | Walmart Just Quietly Cancelled Orders for These 9 Items- STOCKPILE THEM NOW |
+| 2026-07-20 | 119 | T8wUOI4P5co | 1,286 | 15 | 586 | 2.19 | 5 | 1.60 | hoi_cao | – | Không | These 9 Canned Foods Smart People Are Quietly Buying Before Prices Go Up |
+| 2026-07-21 | 118 | MrU4XcqpoIs | 622 | 15 | 590 | 1.05 | 5 | 2.15 | binh_thuong | – | Không | 9 Survival Items the Amish Buy in Bulk at Walmart — And Why They Outlast Everything Else |
+| 2026-07-23 | 116 | aUAL0zevx6o | 938 | 15 | 599 | 1.57 | 5 | 2.12 | binh_thuong | – | Không | 11 Cheap Items at Harbor Freight That Veterans Stockpile Before Any Crisis |
+| 2026-07-25 | 114 | K0FFJ1psLco | 1,268 | 15 | 620 | 2.05 | 5 | 1.89 | hoi_cao | – | Không | What Red Cross Employees Actually Keep at Home — 9 Items That Surprised Me |
+| 2026-07-27 | 112 | 0dZDoQw8ALo | 2,071 | 15 | 622 | 3.33 | 5 | 1.36 | dang_ghi | – | Không | 13 Tractor Supply Items Preppers Don't Want You Knowing About |
+| 2026-07-29 | 110 | QwLpPGwbkHI | 468 | 15 | 622 | 0.75 | 5 | 1.36 | binh_thuong | – | Không | What FEMA and the Mormon Church Agree On — 9 Items Every Household Needs Before September |
+| 2026-08-01 | 107 | sJS-36I9rPY | 1,648 | 15 | 622 | 2.65 | 5 | 1.11 | hoi_cao | – | Không | The Three  Item Veterans Use That Embarrasses Every Expensive Survival Kit |
+| 2026-08-03 | 105 | DidMP19YSYo | 1,169 | 15 | 626 | 1.87 | 5 | 1.10 | binh_thuong | – | Không | The Vehicle Survival Kit Veterans Keep Hidden in Every Trunk |
+| 2026-08-05 | 103 | frz888nyoNs | 488 | 15 | 795 | 0.61 | 5 | 1.07 | binh_thuong | – | Không | 9 Cheap Items at Sam's Club Veterans Stockpile Before Any Crisis |
+| 2026-08-08 | 100 | Hy3ttLpADP4 | 848 | 15 | 626 | 1.35 | 5 | 1.10 | binh_thuong | – | Không | 9 Cheap Items at Dollar General Veterans Stockpile Before Any Crisis |
+| 2026-08-10 | 98 | Fi0OiJZjAxQ | 691 | 15 | 795 | 0.87 | 5 | 0.59 | binh_thuong | – | Không | The Honest Truth About Bug Out Bags — Why Most Veterans Don't Actually Have One |
+| 2026-08-12 | 96 | DOW8PPGW-9E | 473 | 15 | 691 | 0.68 | 5 | 0.87 | binh_thuong | – | Không | I Bought My Entire Emergency Kit at Dollar Tree — Here's What Actually Worked |
+| 2026-08-14 | 94 | 3jItrcO5lvw | 1,375 | 15 | 691 | 1.99 | 5 | 0.87 | binh_thuong | – | Không | 9 Emergency Items That Actually Work When You Live in an Apartment |
+| 2026-08-16 | 92 | XIUf7rBATFo | 1,082 | 15 | 848 | 1.28 | 5 | 0.71 | binh_thuong | – | Không | What ER Nurses Keep in Their Home Emergency Kit — 9 Items That Surprised Me |
+| 2026-08-17 | 91 | LsNH-AMhCU4 | 184 | 15 | 938 | 0.20 | 5 | 1.24 | binh_thuong | – | Không | These 12 Items Will Be Gone From Stores Once a Hurricane Warning Is Issued |
+| 2026-08-18 | 90 | 9SmVd9enSnw | 247 | 15 | 938 | 0.26 | 5 | 1.38 | binh_thuong | – | Không | 20 Biblical Plants That Will Heal You Instantly Every Prepper Should Know |
+| 2026-08-18 | 90 | W9mWhg-iE_c | 603 | 15 | 848 | 0.71 | 5 | 2.69 | binh_thuong | – | Không | FEMA Just Issued a Hurricane Warning — 9 Items You Need Before the Shelves Clear |
+| 2026-08-21 | 87 | mKL2dj0WxU4 | 1,165 | 15 | 848 | 1.37 | 5 | 3.97 | binh_thuong | – | Không | What Red Cross Volunteers Stage Before September 10 — 9 Items They Don't Put on the List |
+| 2026-08-23 | 85 | 6rXqbGLcoIg | 2,278 | 15 | 848 | 2.69 | 5 | 4.19 | hoi_cao | – | Không | 13 More Tractor Supply Items Preppers Don't Want You Knowing About |
+| 2026-08-26 | 82 | -Fw9RrC9hNg | 1,293 | 15 | 848 | 1.52 | 5 | 4.19 | binh_thuong | – | Không | 9 Cheap Items at AutoZone That Military Veterans Stockpile Before Any Crisis |
+| 2026-08-30 | 78 | G_aRGpk49-4 | 3,368 | 15 | 848 | 3.97 | 5 | 6.02 | dang_ghi | – | Không | What Military Veterans Do in the First 6 Hours If the Grid Collapses in Your City |
+| 2026-09-02 | 75 | FrEzIKQl3fg | 5,109 | 15 | 1,082 | 4.72 | 5 | 3.28 | dang_ghi | – | Không | 13 Items FEMA Quietly Removed From Its Stockpile List — And What Employees Buy Instead |
+| 2026-09-05 | 72 | Q6NwmgeAEvo | 3,553 | 15 | 1,082 | 3.28 | 5 | 1.21 | dang_ghi | – | Không | 13 Items That Will Vanish From Costco in the First 24 Hours of Any Major Crisis |
+| 2026-09-08 | 69 | oXEC5dCrmrg | 7,264 | 15 | 1,082 | 6.71 | 5 | 0.72 | manh | – | Không | The Exact Get Home Bag a Navy SEAL Builds for Under $75 — Most Preppers Build This Wrong |
+| 2026-09-11 | 66 | x_5c9--9l9o | 1,312 | 15 | 1,165 | 1.13 | 5 | 0.67 | binh_thuong | – | Không | 18 Normal Household Items Veterans Stockpile That Double as Emergency Gear |
+| 2026-09-14 | 63 | 2sxWYXaFX7Q | 10,921 | 15 | 1,293 | 8.45 | 5 | 0.60 | manh | – | Không | 15 Items the Pentagon Tells Soldiers to Have at Home — They Won't Tell Civilians |
+| 2026-09-15 | 62 | U0zlIj428EI | 767 | 15 | 1,312 | 0.58 | 5 | 0.59 | binh_thuong | – | Không | The VA Just Quietly Updated Veterans' Emergency Guidance — 9 Things Changed |
+| 2026-09-16 | 61 | pZsu5Kd9un4 | 780 | 15 | 1,312 | 0.59 | 5 | 0.59 | binh_thuong | – | Không | 15 More Tractor Supply Items Veterans Are Clearing Off Shelves This September |
+| 2026-09-18 | 59 | ugaET_Tp5hs | 775 | 15 | 1,293 | 0.60 | 5 | 0.71 | binh_thuong | – | Không | The US Military Just Quietly Started Stockpiling These 13 Items — Here's What That Tells Civilians |
+| 2026-09-20 | 57 | JuBB_D-7phA | 6,213 | 15 | 1,293 | 4.81 | 5 | 0.58 | dang_ghi | – | Không | 9 Things Veterans Buy at an Army Surplus Store That Civilians Walk Past - Prepping Guide 2026 |
+| 2026-09-22 | 55 | Gi6kPAQZJi8 | 561 | 15 | 1,312 | 0.43 | 5 | 0.61 | binh_thuong | – | Không | 13 Items FEMA Says Every American Needs Before Harshest Winter Nights — Veterans Already Have All 13 |
+| 2026-09-24 | 53 | 3qEp_35dGV0 | 1,308 | 15 | 1,312 | 1.00 | 5 | 0.61 | binh_thuong | – | Không | 15 Cheap Tractor Supply Items Veterans Stockpile Before the Next Grid Collapse |
+| 2026-09-27 | 50 | 2XFNFw94aRg | 755 | 15 | 1,312 | 0.58 | 5 | 0.70 | binh_thuong | – | Không | What Military Veterans Do in the First 30 Minutes If a Dirty Bomb Hits Your City |
+| 2026-09-28 | 49 | wKbS-TzcBv0 | 918 | 15 | 1,312 | 0.70 | 5 | 0.61 | binh_thuong | – | Không | 17 Items the Red Cross Tells Every American to Have at Home — Most Families Own 3 |
+| 2026-09-30 | 47 | r3WeH2TR44U | 677 | 15 | 1,308 | 0.52 | 5 | 0.72 | binh_thuong | – | Không | 12 Canned Foods Veterans Buy Before October 15 — And Why the Window Is Closing |
+| 2026-10-02 | 45 | hnJbjlraC6M | 803 | 15 | 1,308 | 0.61 | 5 | 0.72 | binh_thuong | – | Không | 9 Items at Tractor Supply That Will Be Worth More Than Gold When Supply Chains Break |
+| 2026-10-04 | 43 | DzGygGD5iCs | 956 | 15 | 918 | 1.04 | 5 | 1.02 | binh_thuong | – | Không | FEMA Is Telling Employees to Stockpile These 11 Items — They Haven't Said This Publicly |
+| 2026-10-07 | 40 | cSHCkz7I1q0 | 937 | 15 | 918 | 1.02 | 5 | 1.04 | binh_thuong | – | Không | 13 Canned Foods Veterans Stockpile That Never Expire ( Most Cost Under $5 ) |
+| 2026-10-10 | 37 | 7gpf3vP9Vyg | 767 | 15 | 918 | 0.84 | 5 | 1.04 | binh_thuong | – | Không | 11 Cheap Harbor Freight Items Veterans Stockpile Before Anyone Else Does |
+| 2026-10-11 | 36 | gDi6domCcto | 1,070 | 15 | 803 | 1.33 | 5 | 1.16 | binh_thuong | – | Không | 13 Items at Lowe's Veterans Quietly Stockpile — Civilians Have No Idea Why |
+| 2026-10-13 | 34 | OLtc9YX-3to | 933 | 15 | 803 | 1.16 | 5 | 0.88 | binh_thuong | – | Không | Red Cross Says You MUST Have These 11 Items Before November — Most Families Have Zero |
+| 2026-10-15 | 32 | QWU4XEFEoc0 | 958 | 15 | 803 | 1.19 | 5 | 0.75 | binh_thuong | – | Không | These 12 Items Disappear From Walmart in the First Hour When Supply Chains Break |
+| 2026-10-20 | 27 | 25c5cIZuIps | 2,619 | 15 | 918 | 2.85 | 5 | 0.58 | chua_chin | – | Không | 9 Items at Army Surplus That Experienced Preppers Quietly Stockpile — Civilians Walk Right Past Them |
+| 2026-10-23 | 24 | Ag3Fkf4WOrg | 526 | 15 | 933 | 0.56 | 5 | 0.64 | chua_chin | – | Không | 11 Items First Responders Buy at Tractor Supply That Become Priceless When the Grid Collapse |
+| 2026-10-25 | 22 | uTJxf2E_rcs | 708 | 15 | 933 | 0.76 | 5 | 0.64 | chua_chin | – | Không | These 13 Items Sell Out in 48 Hours When a Crisis Hits — Most Families Learn That Too Late |
+| 2026-10-27 | 20 | 3lTXSHsqnMY | 600 | 15 | 918 | 0.65 | 5 | 0.74 | chua_chin | – | Không | Build Your Survival Pantry: 15 Foods That Don't Expire |
+| 2026-10-30 | 17 | KZb0gItKHws | 532 | 15 | 918 | 0.58 | 5 | 0.75 | chua_chin | – | Không | 13 Dollar Tree Items That Disappear Before a Winter Storm Warning |
+| 2026-11-01 | 15 | G1wmQrWIBw8 | 265 | 15 | 803 | 0.33 | 5 | 0.86 | chua_chin | – | Không | 11 Items Hobby Lobby Still Sells That Double as Serious Survival Gear |
+| 2026-11-02 | 14 | Cez1n6rhlsA | 1,067 | 15 | 803 | 1.33 | 4 | – | chua_chin | – | Không | 13 Survival Methods From World War 2 That Experienced Preppers Have Quietly Revived |
+| 2026-11-03 | 13 | MYG4vYhILvs | 1,334 | 15 | 803 | 1.66 | 3 | – | chua_chin | – | Không | Stop Buying Freeze Dried Meals for Emergencies -The 1960s Civil Defense Foods That Last 30 Years |
+| 2026-11-05 | 11 | czB1mL9-QKo | 679 | 15 | 933 | 0.73 | 2 | – | chua_chin | – | Không | Put a Trash Bag in Your Toilet Before the Ice Storm, Watch What Happens (9 Dollar Tree Buys) |
+| 2026-11-08 | 8 | jJvrQhAWuwI | 687 | 15 | 933 | 0.74 | 1 | – | chua_chin | – | Không | 90 Days Without Power : These 10 Forgotten Items Could RUIN Your Entire Survival Plan! |
+| 2026-11-11 | 5 | TOjraHl471c | 680 | 15 | 767 | 0.89 | 0 | – | chua_chin | – | Không | The 10 Items You Must Keep In Your Car This Winter And ( What You're Missing ) |

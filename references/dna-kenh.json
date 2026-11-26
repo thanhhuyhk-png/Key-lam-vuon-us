@@ -1,0 +1,252 @@
+{
+ "ngay": "2026-11-16",
+ "cua_so_ngay": 90,
+ "n_gan": 32,
+ "n_tham_chieu": 79,
+ "trung_vi_5d_10_gan": 543.5,
+ "nguong": {
+  "an_toan_5d": 815,
+  "but_5d": 2718
+ },
+ "duoi_phai": {
+  "gan": {
+   "trung_vi_view": 638.5,
+   "ty_le_ge_3x": 0.0,
+   "so_ge_5000": 0
+  },
+  "tham_chieu": {
+   "trung_vi_view": 987,
+   "ty_le_ge_3x": 0.18,
+   "so_ge_5000": 10
+  }
+ },
+ "dac_diem": {
+  "dao_niem_tin": {
+   "ten": "Đảo niềm tin «Stop / Never … Instead»",
+   "he_so_gan": null,
+   "n_gan": 2,
+   "he_so_tham_chieu": 1.43,
+   "n_tham_chieu": 40,
+   "he_so_ctr_moi": null
+  },
+  "free_tien": {
+   "ten": "Miễn phí / $ / never buy",
+   "he_so_gan": 1.12,
+   "n_gan": 4,
+   "he_so_tham_chieu": 3.25,
+   "n_tham_chieu": 14,
+   "he_so_ctr_moi": null
+  },
+  "do_ai_cung_co": {
+   "ten": "Thứ ai cũng có / đang vứt đi",
+   "he_so_gan": 1.42,
+   "n_gan": 7,
+   "he_so_tham_chieu": 1.87,
+   "n_tham_chieu": 23,
+   "he_so_ctr_moi": null
+  },
+  "it_cong": {
+   "ten": "Ít công (lazy / no soil / no dig / plant once)",
+   "he_so_gan": null,
+   "n_gan": 2,
+   "he_so_tham_chieu": 0.67,
+   "n_tham_chieu": 12,
+   "he_so_ctr_moi": null
+  },
+  "danh_sach": {
+   "ten": "Danh sách ≥ 5 món",
+   "he_so_gan": 0.86,
+   "n_gan": 7,
+   "he_so_tham_chieu": 1.75,
+   "n_tham_chieu": 20,
+   "he_so_ctr_moi": null
+  },
+  "gia_tri_cao": {
+   "ten": "Đổi giá trị «most valuable / gold / better than»",
+   "he_so_gan": null,
+   "n_gan": 1,
+   "he_so_tham_chieu": 0.92,
+   "n_tham_chieu": 8,
+   "he_so_ctr_moi": null
+  },
+  "mot_cay": {
+   "ten": "Một cây cụ thể (sửa lỗi / chăm một loài)",
+   "he_so_gan": 1.11,
+   "n_gan": 9,
+   "he_so_tham_chieu": null,
+   "n_tham_chieu": 2,
+   "he_so_ctr_moi": 1.2
+  },
+  "so_hai_mat": {
+   "ten": "Sợ / mất (toxic / dying / kill / warning / mistake)",
+   "he_so_gan": 0.93,
+   "n_gan": 10,
+   "he_so_tham_chieu": 0.65,
+   "n_tham_chieu": 19,
+   "he_so_ctr_moi": null
+  },
+  "khoa_hoc": {
+   "ten": "Khoa học / kiểm chứng / extension",
+   "he_so_gan": 0.78,
+   "n_gan": 6,
+   "he_so_tham_chieu": null,
+   "n_tham_chieu": 2,
+   "he_so_ctr_moi": null
+  },
+  "mua_thang": {
+   "ten": "Tháng / mùa",
+   "he_so_gan": 1.06,
+   "n_gan": 5,
+   "he_so_tham_chieu": null,
+   "n_tham_chieu": 1,
+   "he_so_ctr_moi": null
+  },
+  "grandma": {
+   "ten": "Bà / folklore",
+   "he_so_gan": null,
+   "n_gan": 2,
+   "he_so_tham_chieu": 1.4,
+   "n_tham_chieu": 8,
+   "he_so_ctr_moi": null
+  }
+ },
+ "do_dai": {
+  "< 10′": {
+   "gan": {
+    "n": 17,
+    "trung_vi": 519,
+    "avd": 29.2,
+    "giay_xem": 152
+   },
+   "tham_chieu": {
+    "n": 11,
+    "trung_vi": 924,
+    "avd": 33.1,
+    "giay_xem": 180
+   }
+  },
+  "10–15′": {
+   "gan": {
+    "n": 9,
+    "trung_vi": 515,
+    "avd": 23.0,
+    "giay_xem": 151
+   },
+   "tham_chieu": {
+    "n": 43,
+    "trung_vi": 944,
+    "avd": 31.9,
+    "giay_xem": 224
+   }
+  },
+  "15–20′": {
+   "gan": {
+    "n": 4,
+    "trung_vi": 402.0,
+    "avd": 14.7,
+    "giay_xem": 160
+   },
+   "tham_chieu": {
+    "n": 15,
+    "trung_vi": 1172,
+    "avd": 25.2,
+    "giay_xem": 269
+   }
+  },
+  "≥ 20′": {
+   "gan": {
+    "n": 2,
+    "trung_vi": 671.5,
+    "avd": 20.8,
+    "giay_xem": 277
+   },
+   "tham_chieu": {
+    "n": 10,
+    "trung_vi": 1034.5,
+    "avd": 26.1,
+    "giay_xem": 387
+   }
+  }
+ },
+ "studio": {
+  "n": 8,
+  "trung_vi_impressions": 6141.0,
+  "trung_vi_ctr": 2.465,
+  "ctr_catalog_cu": 4.59,
+  "video": [
+   {
+    "ngay": "2026-10-11",
+    "impressions": 3795.0,
+    "ctr": 3.14,
+    "views": 659,
+    "avd": 34.73,
+    "dai_phut": 9,
+    "title": "Your Christmas Cactus Isn't Blooming Because of This"
+   },
+   {
+    "ngay": "2026-10-13",
+    "impressions": 8048.0,
+    "ctr": 2.98,
+    "views": 947,
+    "avd": 27.390000000000004,
+    "dai_phut": 9,
+    "title": "Why Your Grocery Store Ginger Won't Grow (And How to Fix It)"
+   },
+   {
+    "ngay": "2026-10-16",
+    "impressions": 14232.0,
+    "ctr": 1.62,
+    "views": 808,
+    "avd": 28.96,
+    "dai_phut": 7,
+    "title": "Stop Throwing Away Pineapple Tops — Grow a Free Plant Instead"
+   },
+   {
+    "ngay": "2026-10-18",
+    "impressions": 5106.0,
+    "ctr": 2.15,
+    "views": 577,
+    "avd": 12.82,
+    "dai_phut": 17,
+    "title": "The Winter Window Test: How To Know If You Have Enough Light"
+   },
+   {
+    "ngay": "2026-10-26",
+    "impressions": 15206.0,
+    "ctr": 1.33,
+    "views": 625,
+    "avd": 15.289999999999997,
+    "dai_phut": 20,
+    "title": "No Flowers on Your Lemon Tree? Count This 1 Number Tomorrow"
+   },
+   {
+    "ngay": "2026-10-28",
+    "impressions": 7176.0,
+    "ctr": 2.61,
+    "views": 740,
+    "avd": 12.15,
+    "dai_phut": 18,
+    "title": "Geraniums Will Explode With Flowers If You Do This Now"
+   },
+   {
+    "ngay": "2026-11-03",
+    "impressions": 2154.0,
+    "ctr": 2.32,
+    "views": 368,
+    "avd": 16.53,
+    "dai_phut": 19,
+    "title": "Rose Cuttings in a Potato One Small Study Found No Roots"
+   },
+   {
+    "ngay": "2026-11-06",
+    "impressions": 1182.0,
+    "ctr": 2.79,
+    "views": 329,
+    "avd": 18.76,
+    "dai_phut": 17,
+    "title": "Don’t Pull Your Pepper Plants Yet. They Can Live for Years"
+   }
+  ]
+ },
+ "sub_tu_video_gan": 14
+}

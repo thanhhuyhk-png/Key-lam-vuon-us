@@ -1,0 +1,90 @@
+# Đo kênh: UCh14UM3HE-Ktk3S0zzwrpQQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 48 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 48 |
+| n_trong_danh_sach | 48 |
+| n_dai | 48 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 612 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-01-24 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 98.00 |
+| cao_nhat | 303 |
+| thap_nhat | 18 |
+| phan_tan | 3.09 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.15 |
+| trung_vi_chia_sub | 0.16 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 1.13 |
+| ngay_video_dau | 2026-01-24 |
+| tuoi_tu_video_dau | 296 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 2.07 |
+| sub_moi_video | 12.75 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-01-24 | 296 | f06mu4iLSDs | 25 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | THIS DECORATIVE PLANT RIVALS MEAT FOR PROTEIN — Grows Back Every Year and Nobody Talks About It |
+| 2026-01-25 | 295 | QS35uCEn6lw | 15 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | This Berry Delivers Rare Iron Density — Produces for Decades While Remaining Unknown |
+| 2026-01-26 | 294 | AoopGi9ME24 | 16 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Ancient Longevity Berry Proven by Science — Why Aren’t You Growing It in Your Backyard? |
+| 2026-01-27 | 293 | 90SkAy4fDAs | 14 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | More Vitamins Than Spinach — The Long-Living Superfood You Plant Once for 20 Years |
+| 2026-01-28 | 292 | g75siJmJOEw | 41 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Ancient People Protected This Divine Food Plant — Now It Grows Free All Around Us Today |
+| 2026-01-29 | 291 | 3yb7AqNcEyE | 21 | 5 | 16 | 1.31 | 5 | 3.25 | binh_thuong | – | Không | The Forgotten Super Protein Plant – This Crop Beats Beef and Threatens the Food Industry |
+| 2026-01-30 | 290 | smV4hnabKjY | 15 | 6 | 18.50 | 0.81 | 5 | 2.81 | binh_thuong | – | Không | WWII Soil Secrets That Could Save Agriculture — The System Was Built to Hide This. AGRICULTURE |
+| 2026-02-02 | 287 | VznAym_LFdc | 52 | 7 | 16 | 3.25 | 5 | 3.69 | dang_ghi | – | Không | This Root Regrows Forever \| Infinite Food Supply That Survives Even the Coldest Winters Forever |
+| 2026-02-03 | 286 | pBokiUSpj_0 | 64 | 8 | 18.50 | 3.46 | 5 | 3.19 | dang_ghi | – | Không | Secret Potato Method Big Agriculture Never Taught You — Massive Crops, No Fertilizers, No Tech |
+| 2026-02-04 | 285 | kdRMKwiWljM | 59 | 9 | 21 | 2.81 | 5 | 3.00 | hoi_cao | – | Không | Your Garden Can Grow 10x Faster — The Ancient Soil Trick Modern Farming Suppressed |
+| 2026-02-05 | 284 | WylDSRnWwH0 | 18 | 10 | 23.00 | 0.78 | 5 | 8.26 | binh_thuong | – | Không | A Protein Crop That Grows In Days, Not Months \| Why Big Agriculture Is Trying To Control It |
+| 2026-02-06 | 283 | UkpdOoeztSU | 26 | 11 | 21 | 1.24 | 5 | 12.90 | binh_thuong | – | Không | The Real Source of 100+ Year Longevity — A Plant You Can’t Buy in America |
+| 2026-02-07 | 282 | O_bMxgcUeXk | 190 | 12 | 23.00 | 8.26 | 5 | 11.78 | manh | – | Không | 10 Forgotten Vegetables That Grow Like Weeds — Zero Work, Massive Harvest for LAZY Gardeners |
+| 2026-02-08 | 281 | GUgJ-fMiHG8 | 63 | 13 | 25 | 2.52 | 5 | 13.44 | hoi_cao | – | Không | Forbidden Perennial Beats Peppers: Grows in Snowstorms & Feeds You Forever – Avoid White Seed Lies! |
+| 2026-02-09 | 280 | S52Qfpa_6b8 | 884 | 14 | 25.50 | 34.67 | 5 | 13.18 | can_kiem_ky | – | Không | Better Than Ginger  Cold Hardy Varieties, Easier Growing, Better Yields  That's Why They Buried It |
+| 2026-02-10 | 279 | XuwkfGicO8M | 271 | 15 | 26 | 10.42 | 5 | 12.92 | can_kiem_ky | – | Không | This Weed Beats Salmon Nutrition — The Leaf With Extreme Omega-3 Density Power Source |
+| 2026-02-11 | 278 | twP0ghAoi1k | 336 | 15 | 41 | 8.20 | 5 | 9.34 | manh | – | Không | Dead Soil Comes Back to Life Fast \| Ancient Liquid Formula That Fixes Soil Without Fertilizers |
+| 2026-02-12 | 277 | keR3zNsvhWE | 192 | 15 | 52 | 3.69 | 5 | 27.50 | dang_ghi | – | Không | Secret Mulch Formula That Triples Crops — The Harvest Method Farmers Aren’t Taught in America |
+| 2026-02-13 | 276 | 7FXp2ulK8sU | 16,828 | 15 | 59 | 285 | 5 | 6.49 | can_kiem_ky | – | Không | $12 Automatic Rainwater System - Endless Garden Irrigation During Water Shortages Across America |
+| 2026-02-14 | 275 | 1NYq92jil3U | 383 | 15 | 63 | 6.08 | 5 | 22.70 | manh | – | Không | WWII Survival Soil Secrets They Tried to Bury — Grow 2x More Food During Food Shortages |
+| 2026-02-15 | 274 | mQUpnlekpTE | 59 | 15 | 64 | 0.92 | 5 | 22.34 | binh_thuong | – | Không | The Backyard “Weed” Native Americans Valued as Medicine — Why Modern Science Is Reconsidering It |
+| 2026-02-16 | 273 | m9TKaLrSevw | 1,430 | 15 | 64 | 22.34 | 5 | 33.27 | can_kiem_ky | – | Không | This Mushroom Turns Waste Into High-Protein Food \| The Future of Sustainable Urban Farming |
+| 2026-02-18 | 271 | uGIp6GldXsc | 2,988 | 15 | 190 | 15.73 | 5 | 4.18 | can_kiem_ky | – | Không | Kangkong Feeds Over 3 Billion People — Why Growing Water Spinach Is Banned in the U.S. |
+| 2026-02-19 | 270 | iYK64MWvV6E | 42 | 15 | 192 | 0.22 | 5 | 4.14 | binh_thuong | – | Không | Stop Garden Pests Overnight — The Chemical-Free Defense System That Actually Works |
+| 2026-02-20 | 269 | YCRB0bgWxSs | 2,129 | 15 | 192 | 11.09 | 5 | 1.23 | can_kiem_ky | – | Không | Plant Omega-3 That Beats Fish Oil — The Asian Healing Herb America Rarely Talks About |
+| 2026-02-22 | 267 | 5VakQuFG3tE | 237 | 15 | 271 | 0.87 | 5 | 0.58 | binh_thuong | – | Không | This Backyard Liquid Destroys Leaf Piles Fast \| Turn Yard Waste Into Rich Compost in Days |
+| 2026-02-23 | 266 | kLa8I2LGkQc | 4,469 | 15 | 271 | 16.49 | 5 | 0.35 | can_kiem_ky | – | Không | Microgreens That Never Stop Growing — 5-Minute Bucket Farming System Anyone Can Start |
+| 2026-02-25 | 264 | wX8xGFMQ7D8 | 795 | 15 | 336 | 2.37 | 5 | 0.28 | hoi_cao | – | Không | They Call It Toxic—Greeks Eat It Daily and Outlive the World \| The Blue Zone Longevity Secret |
+| 2026-02-27 | 262 | Eesn7tmlgHc | 156 | 15 | 383 | 0.41 | 5 | 0.25 | binh_thuong | – | Không | These Vegetables GUARANTEE a Harvest in Full Shade \| 15 Crops That Grow Anyway |
+| 2026-03-02 | 259 | MriYy61fya4 | 87 | 15 | 383 | 0.23 | 5 | 0.37 | binh_thuong | – | Không | Grow INSANE Ginger Harvests in ONE Pot — Zero Effort, Shade-Friendly, Big Yields Fast! |
+| 2026-03-03 | 258 | O1zv3CcKTrw | 18 | 15 | 336 | 0.05 | 5 | 0.42 | binh_thuong | – | Không | Brew This 4,000-Year-Old Drink for Just $1 \| Big Beverage Hopes You Never Discover This Secret |
+| 2026-03-04 | 257 | atOU-k5-b_c | 95 | 15 | 336 | 0.28 | 5 | 0.42 | binh_thuong | – | Không | 600-Year Concrete From a Living Plant — Why U.S. Building Codes Still Block It Today |
+| 2026-03-05 | 256 | qKa-kgzwHeU | 244 | 15 | 237 | 1.03 | 5 | 0.35 | binh_thuong | – | Không | Stop Killing Your Ginger Harvest! Add This ONE Thing for Massive Roots & Explosive Growth |
+| 2026-03-06 | 255 | w901XY_gURk | 140 | 15 | 244 | 0.57 | 5 | 0.32 | binh_thuong | – | Không | A Rare Honey-Sweet Berry Bush That Produces for 60 Years — Why Most Gardens Don’t Have It |
+| 2026-03-09 | 252 | xSgxupzIhyw | 250 | 15 | 237 | 1.05 | 5 | 0.32 | binh_thuong | – | Không | The 5-Minute Avocado Seed Hack — Lazy Gardeners Are Using This Trick To Grow Trees Indoors |
+| 2026-05-03 | 197 | wPxBykyAOZs | 74 | 15 | 237 | 0.31 | 5 | 0.35 | binh_thuong | – | Không | America Is Rediscovering This Powerful Pest Powder Garden Bugs Hate It And So Do Regulators |
+| 2026-05-03 | 197 | cLPEJnvZepw | 77 | 15 | 237 | 0.32 | 5 | 0.35 | binh_thuong | – | Không | 4 Cheap Rice Secrets That Revive Dead Soil \| Worms Multiply Like Crazy (Science-Backed) |
+| 2026-05-05 | 195 | 1JL308jigoM | 82 | 15 | 156 | 0.53 | 5 | 0.67 | binh_thuong | – | Không | No Wheat. No Corn. Endless Flour From This Forgotten Root Big Food Never Wanted You Growing |
+| 2026-05-05 | 195 | kRcqKi4D-9c | 70 | 15 | 140 | 0.50 | 5 | 0.75 | binh_thuong | – | Không | 6 Wild Plants Growing Free in Your Backyard — Most Americans Still Rip Them Out by Mistake |
+| 2026-05-08 | 192 | NHZuddLma4M | 303 | 15 | 140 | 2.16 | 5 | 0.72 | hoi_cao | – | Không | 10 Longest Blooming Perennials Americans Are Obsessed With 🌼 Endless Color Without Replanting |
+| 2026-06-24 | 145 | 4G0t4K8b5Xs | 137 | 15 | 140 | 0.98 | 5 | 0.39 | binh_thuong | – | Không | Never Add This to Rosemary. Most Gardeners Keep Doing It and Wonder Why Their Plants Fail |
+| 2026-06-25 | 144 | 4GOZhABKCA0 | 45 | 15 | 137 | 0.33 | 5 | 0.74 | binh_thuong | – | Không | This Ancient Leaf Fed Civilizations for Centuries — Yet Eating It Raw Is a Big Mistake |
+| 2026-06-26 | 143 | 2xGLSpL3Tn4 | 105 | 15 | 95 | 1.11 | 5 | 1.06 | binh_thuong | – | Không | Grow Clematis That Blooms for Years — 5 Proven Secrets to Keep It Healthy and Thriving Forever |
+| 2026-06-28 | 141 | QF6Hydzrvc0 | 31 | 15 | 95 | 0.33 | 4 | – | binh_thuong | – | Không | Don't Make These June Hydrangea Mistakes — They're Why Your Hydrangeas Won't Bloom |
+| 2026-06-30 | 139 | tA6ot4mSB8E | 101 | 15 | 87 | 1.16 | 3 | – | binh_thuong | – | Không | Why Most Cuttings Fail to Root — Add This One Ingredient and Watch Roots Explode Fast! |
+| 2026-07-01 | 138 | xxFmKY0A9as | 55 | 15 | 95 | 0.58 | 2 | – | binh_thuong | – | Không | This Homemade Spray Wipes Out Garden Pests Fast (Ants, Aphids, Whiteflies, Thrips & More) |
+| 2026-07-07 | 132 | uHLS08zKf_g | 123 | 15 | 95 | 1.29 | 1 | – | binh_thuong | – | Không | 14 Vegetables You MUST Plant in July Before It's Too Late \| Grow a Huge Harvest This Season |
+| 2026-07-10 | 129 | usfI7T9wWZI | 112 | 15 | 101 | 1.11 | 0 | – | binh_thuong | – | Không | One Fruit Pit Can Become a Tree! Grow Peach, Plum, Cherry, Apricot & Almond Like a Pro at Home |

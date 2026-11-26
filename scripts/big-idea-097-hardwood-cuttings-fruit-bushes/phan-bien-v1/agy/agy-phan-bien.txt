@@ -1,0 +1,66 @@
+PHẢN BIỆN VÒNG 1 — big-idea-097 "Stop Buying Fruit Bushes: Grow 6 for Free From Winter Cuttings"
+Người phản biện: độc lập (chỉ đọc brief.md, script.md, research-brief.md, allowed-numbers.json). Mốc giờ ước theo 165 wpm, ~1.590 từ → ~9:40.
+Số: mọi số đọc trong script đều có trong allowed-numbers.json. Tên nguồn bằng giọng: ASPCA ×1, Iowa ×1 → L14 ổn.
+
+== 1. DỮ KIỆN THEO CLAIM LEDGER ==
+[CHẶN] M2 Nho · "One university source suggests ... with two or three buds left above the soil." @2:24 + "Set each one in the ground with just the top bud showing." @2:36 · Hai câu liền nhau dặn ngược nhau (2–3 mắt trên đất theo C06 và chỉ chừa mắt ngọn). Ý "chỉ chừa mắt ngọn" không có trong dòng C04 của ledger. Trước đó lại nói "Each cutting needs three buds" rồi "two to six buds", cuối cùng "Count the buds" mà không nói đếm mấy · Bỏ câu "just the top bud showing"; chốt một hướng: "Three buds is the target. Leave the top one or two above the soil." (C02, C06)
+[CHẶN] M5 Sung/lựu · "Wrap the cuttings in damp paper in a bag for ten to fourteen days ... After that, pot them up" @6:16 rồi "Until spring, keep the cuttings in the crisper drawer" @6:56 · Trình tự sai: bảo ủ callus rồi trồng chậu (cảnh cửa sổ tháng 3) TRƯỚC, nhưng 40 giây sau lại bảo trữ ngăn mát tới xuân. Người xem không biết làm việc nào trước · Xếp lại: (1) cắt khi cây ngủ → (2) trữ ngăn rau tới đầu xuân, không để đóng băng (C25) → (3) ủ giấy ẩm 10–14 ngày (C21) → (4) trồng chậu. Nói "Then try a trick for the cold months" thành "Come early spring, ..."
+[CHẶN] M5 · "Most figs handle zones six B and up." @7:05 · C24 chỉ nói giống 'Celeste' chịu được 6b–10. Câu này nâng thành "most figs" (sai phạm vi theo CR4). D6 dặn không đưa một ngưỡng chung, C22 nói ≤20°F có thể chết sát đất. Ở 6b, người xem cắm ngoài trời sẽ mất cây · "One hardy variety, Celeste, is rated to zone six B. Many figs aren't that tough. In the cold half of the country, a fig is a pot plant." (C24, C22, D6)
+[NÊN SỬA] HOOK · "Cut it from a grape vine in February, push it into the ground" @0:03 · Gộp lúc lấy cành với lúc cắm, đúng hiểu lầm D1 mà Editorial Signature muốn gỡ. Tháng 2 ở phần lớn nước Mỹ đất còn đóng băng, M1 lại bảo trữ tủ lạnh · "Cut it from a grape vine in February. Plant it when the soil softens, and it can become a whole new vine." (C01, C06, C25)
+[NÊN SỬA] HOOK · "No rooting hormone, no special equipment, nothing to buy." @0:12 · C03 chỉ nói nho không cần hormone. Về sau script lại có kéo cắt tỉa, potting mix, bột kích rễ cho lựu, chậu gallon, cát/than bùn, bể phun sương. Lời hứa ở hook bị chính bài phủ định (tinh thần L17) · "No rooting hormone for grapes. Just a pair of pruning shears." (C03)
+[NÊN SỬA] M1 · "A sleeping plant isn't growing leaves, so a cutting has one job: make roots. [C07]" @1:23 · C07 không có cơ chế này. Câu còn mâu thuẫn với M4: elderberry ra lá trước khi có rễ · Bỏ câu, hoặc đổi thành "Dormant wood is what every source on our list starts with." (Consensus 1)
+[NÊN SỬA] M2 · "Many growers then give them a full year in a nursery bed" @2:40 · Dòng C04 trong ledger không có ý "một năm luống ươm", chỉ ghi chú allowed-numbers có. "Many growers" nói quá một nguồn · Mở lại EC 1639 để thêm vào ledger, hoặc nói "One grape guide suggests a year in a nursery bed first."
+[NÊN SỬA] M3 · "Sticking them straight into the ground outdoors works less often than with currants." @3:42 · C08 chỉ nói "can take longer". Ý cắm thẳng ngoài trời kém hơn không có nguồn · Bỏ câu này, câu "it can take longer" là đủ.
+[NÊN SỬA] M3 · "But one state still regulates them statewide, and another asks for a permit." @4:20 · Ledger chỉ kiểm NC/NH, còn ME/MA/MI chưa mở. Câu dễ hiểu thành "chỉ 1 bang" · "At least one state still bans them statewide, and another needs a permit." (C13, C14)
+[NÊN SỬA] M3 CITE_ZONE · "Grapes wait for February. Currants can go in late autumn, or late winter. Elderberries want February or March." @4:30 + "because plants wake up at different times" · Lại trộn lúc lấy cành với lúc cắm (C01 = lúc lấy, C09 = lấy/cắm). Lý do "wake up at different times" không có trong D1 (D1 nói là do khí hậu và do hai việc bị gộp) · "The cutting dates differ. Grapes are cut in February, currants anytime from late fall, elderberries February or March. The planting date is simpler: when the soil softens." Bỏ câu lý do.
+[NÊN SỬA] M5 Lựu · "move them into gallon pots. Let them grow four to six weeks before they go in the ground. [C26]" @6:47 · Dòng C26 trong ledger không có "gallon pots" hay "4–6 weeks", chỉ có "trồng chậu". Câu cũng chưa khoanh vùng: ngoài zone 8–10 thì không nên ra đất · Kiểm lại PDF E-613 rồi bổ sung ledger, hoặc nói "pot them up, and plant out only where winters are mild." (C26, C27)
+[NÊN SỬA] KẾT · "In four to six weeks, a cutting that looked like a dead twig could have its first roots. [C16]" @9:20 · C16 là số của elderberry, không áp chung: lý gai chậm hơn, lựu 8–16 tuần (C28) · "In about a month, an elderberry cutting can have its first roots." (C16)
+[GỢI Ý] M4 · "Pot them in clean potting mix, and keep them moist and warm." @5:10 · Dòng C16 không ghi chi tiết này. Kiểm lại ANR-0110 hoặc bỏ. Ngoài ra câu "too much hormone can hurt" (C18) đứng trước "hormone is optional" (C16), nên đảo thứ tự.
+[GỢI Ý] M6 · "Even plum, peach and cherry rootstocks are only sometimes started from cuttings." @7:46 · D-brief dặn không xếp mận/đào/anh đào vào nhóm "hiếm". Chữ "only" đẩy chúng vào nhóm đó; bỏ "only".
+[GỢI Ý] M3 · "Currants. Red, black or white." · "White" không có trong ledger, còn lý chua đen thì nhạy bệnh nhất (C12) và bị cấm ở Ohio (C15). Nói "Red or black — and black is the one some states restrict."
+
+== 2. AN TOÀN ==
+[NÊN SỬA] M2 · "The ASPCA says grapes and raisins can cause kidney damage in dogs. So keep the fruit out of reach." @2:49 · Đúng C40 nhưng thiếu bước khẩn cấp ghi trong YMYL · Thêm: "If your dog eats some, call your vet right away."
+[NÊN SỬA] M4 · "Always cook the berries before eating them. And never eat the leaves." @5:45 · Video này dạy cầm và cắt chính THÂN elderberry, mà C41/C42 nói thân và lá độc hơn quả. Câu cũng bỏ quả xanh (C43) · "Cook ripe berries before eating. Never eat unripe ones, or the leaves and stems." (C41–C43)
+[GỢI Ý] M5 · C24 ghi sung độc với mèo, chó, ngựa (nguồn NC State, không phải ASPCA). Có thể thêm nửa câu "and keep cuttings away from pets" vào cảnh báo nhựa sung.
+[NÊN SỬA] Trình tự · ACTION_TIP "tie a ribbon on every fruit plant you already own" @1:49, "Pick one" @9:28 · Mẹo làm ngay này đứng 6:40 trước bước kiểm nhãn PP/PPAF (8:30): cây mua ở vườn ươm vẫn có thể còn patent. Mẹo chạy trước bước nó cần · Thêm vào ACTION_TIP: "...and while you're there, check the tag for the letters P P." (C46, C47)
+
+== 3. CHÍNH SÁCH / INAUTHENTIC ==
+Không thấy nhân chứng bịa, narrator tự trồng, conspiracy, health-fear, claim tuyệt đối, hay nhãn tuổi trên title. Đạt.
+[GỢI Ý] "Most of us haul it to the curb." @0:45 / "than many of us get" @5:52 · Chữ "us" ngầm cho người kể là người làm vườn (X5 nhẹ). Đổi thành "Most pruning piles end up at the curb."
+[GỢI Ý] "the fruit tree almost everyone reaches for first" @7:24 · Nói quá, không có nguồn. Đổi thành "the fruit tree a lot of gardeners try first".
+[GỢI Ý] KẾT "your neighbors may be asking where you got your currants" · Hàng xóm ở đây là giả định, không phải nhân chứng, nên không vi phạm L11. Vẫn nên giữ ở dạng "may".
+
+== 4. GIỮ CHÂN ==
+Bản đồ loop: Loop#1 (táo) gieo 0:26 · nhắc 4:53 · đóng 7:29. Loop#2 (cây ra lá trước rễ) gieo 4:56 · đóng 5:24. Loop#3 (thứ cản bạn cắt cây) gieo 8:25 · đóng 8:30. Loop "workaround vùng lạnh" gieo 5:57 · đóng 7:05–7:16.
+[NÊN SỬA] Loop#1 · Từ 0:33 đến 4:53 (~4′20″) không nhắc lại lần nào, đúng lúc qua vùng rơi 40–55 s và phút 2–3 · Gắn một câu nhắc ở cuối M2 @2:59: "And no, the apple isn't on this list. You'll see why."
+[GỢI Ý] Loop#3 · Gieo xong 5 giây đã đóng, nên không giữ chân được gì. Gieo sớm hơn (cuối M5 @7:24) hoặc nhập vào lời chuyển.
+[NÊN SỬA] L19 · M3 3:12–4:41 có 4 câu cite chung cùng khuôn "source": "Some sources ... Others say", "The length varies by source", "an older reference warns", "The sources don't agree" · Giữ câu trong CITE_ZONE. Các câu khác nói thẳng: "Six to twelve inches works." / "European types are the stubborn ones."
+[GỢI Ý] Đoạn chết · M3 3:12–4:12 (~60 s) dồn liền độ dài, mùa và độ chịu lạnh. M2 @2:13 có 4 cụm số trong ~60 từ (6–12 in, 2–3 mắt, 12–16 in, 2–6 mắt) · Để thẻ đồ hoạ mang số, giọng chỉ nói quy luật "count buds".
+L3/L4/L6/L15/L5: Đạt. Có "three buds" và thẻ OSU trước 0:12. Sáu tên cây ~0:20. Từ 38 đến 60 s có loop mở, không có lộ trình. Phút 4–6 có tension khoảng mỗi 30–40 s.
+L17 "Free"/"Winter"/"Grow 6": các PROMISE_OK hợp lý. Riêng chữ "nothing to buy" ở hook thì không được che (xem mục 1).
+
+== 5. CHẤM PHẦN MỞ (0–60 s) ==
+① Loop/câu hỏi trong 10 s: 3/5. Có hình "bare stick", nhưng câu hỏi thật ("Which one?") tới 0:26 mới có.
+② Bằng chứng/số trước 20 s: 4/5. "three buds" + "no hormone" + thẻ nguồn đều trước 0:17.
+③ Trả lời lời hứa của title trong 60 s: 5/5. Có sáu tên cây, điều kiện "free" và luật cắt khi cây ngủ.
+④ Dựng được bằng footage thật/đồ hoạ: 5/5.
+⑤ Đúng Claim Ledger: 3/5. Gộp "February + push into ground", và "no special equipment, nothing to buy" vượt C03.
+⑥ Đúng giọng kênh: 5/5.
+⑦ Khác góc đối thủ: 3/5. Hook vẫn gần "free plants from cuttings / pruning scraps"; góc riêng (lịch cắt, nhãn patent) chưa lộ trong 60 s.
+→ 28/35 (đạt ngưỡng, không bắt buộc viết lại). Gợi ý vá 2 câu ở mục 1 là lên 30.
+
+== 6. CẢNH BÁO NGƯỜI DỰNG ==
+- 0:00–0:10: đừng dùng cảnh cắm cành xuống đất đóng băng/tuyết, vì sẽ trái câu đã sửa "plant when the soil softens".
+- 2:49: không dùng cảnh chó ăn hoặc ngửi chùm nho. Hiện thẻ ASPCA.
+- M3: dán nhãn đúng lý chua và lý gai (dễ nhầm). Tránh cận cảnh lý chua đen ngay câu luật bang. Thẻ "CHECK YOUR STATE".
+- M4: không dùng cảnh ăn quả elderberry sống hay quả xanh. Kiểm footage là Sambucus thật, vì cụm quả đen dễ nhầm với cây độc khác.
+- M5: không dùng hình Ficus benjamina (weeping fig) cho sung ăn quả. Cảnh nhựa sung phải có găng tay. Thẻ zone ghi rõ "Celeste 6b" nếu giữ số này.
+- M5 lựu: nếu quay bột kích rễ thì che nhãn thương hiệu.
+- M6: không dùng cảnh cành táo ra rễ thành công. Cảnh việt quất cần thấy rõ giàn phun sương.
+- M7: nhãn PP dùng nhãn mẫu tự làm, không dùng nhãn của giống/hãng có thật.
+- Thẻ nhiệt độ ghi °F (33–40°F, −22°F), vì giọng không nói "Fahrenheit".
+
+Hook: 28/35
+3 điểm mạnh nhất: (1) Cảnh báo an toàn đặt đúng chỗ, mỗi cây một câu, không chôn vùi. (2) Phần táo/việt quất/patent trung thực, hedge tốt, có "information, not legal advice". (3) Lời hứa của title được trả trong 40 s, có thẻ nguồn trước 0:17.
+KẾT LUẬN: ĐẠT CÓ SỬA. Cần sửa 3 lỗi CHẶN: chồi nho mâu thuẫn, trình tự sung/lựu, "most figs 6b". Sau đó sửa 14 lỗi NÊN SỬA.

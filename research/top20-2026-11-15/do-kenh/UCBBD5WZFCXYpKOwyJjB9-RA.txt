@@ -1,0 +1,150 @@
+# Đo kênh: UCBBD5WZFCXYpKOwyJjB9-RA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 109 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 293 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 116,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-02-26 |
+| n_ngoai_cua_so | 9 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,487 |
+| cao_nhat | 5,809 |
+| thap_nhat | 496 |
+| phan_tan | 3.91 |
+| so_video_tren_2x | 2 |
+| ty_le_tren_2x | 0.10 |
+| trung_vi_chia_sub | 0.01 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.66 |
+| ngay_video_dau | 2025-03-30 |
+| tuoi_tu_video_dau | 596 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 195 |
+| sub_moi_video | 396 |
+| video_30_ngay | 7 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-03-30 | 596 | dywbgoFbhHU | 52 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | After 75, 99% of Deaths Happen for These 8 Reasons – How to Avoid Them and Stay Healthy |
+| 2025-04-03 | 592 | yPSiAsUoF2Q | 127 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | When Your Children Don’t Respect You, Do THIS – 6 Ways to Regain Respect |
+| 2025-04-04 | 591 | 3NCaXBXeALg | 11 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | After 70, Do THIS Every Morning to Avoid Memory Loss – 8 Easy Habits |
+| 2025-04-05 | 590 | JVzRVuN6S14 | 11 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 8 Dangerous Fruits Elders Must Avoid – They're Secretly Destroying Your Leg Strength! |
+| 2025-04-06 | 589 | P_eZPhTL0Z4 | 11 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Say Goodbye to Clutter: 25 Items You Don’t Need in Your Home After 70 |
+| 2025-04-07 | 588 | HYa1RFMEOZg | 65 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Turn Old Junk into Stunning Garden Decor: Easy Upcycling Ideas |
+| 2025-04-09 | 586 | gcfu8zdfCTY | 34 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Diet That Fights Wrinkles After 70 \| Secrets to Healthy Aging |
+| 2025-04-10 | 585 | bATYqrMV5GQ | 20 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 4 Simple Home Remedies for Tightening Skin & Lifting Face for Seniors |
+| 2026-02-26 | 263 | zrLZOBxBOqg | 7,689 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Plant Once, Peck Forever: Why Is This Superfeed Kept a Secret? |
+| 2026-02-27 | 262 | 71o-MAmQbt8 | 32,921 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 13 Super Food Fruits With MORE PROTEIN Than BEEF (You Can Grow These!) |
+| 2026-02-28 | 261 | _0VPa6Yq7sg | 2,885 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 13 Spiritual Plants That Will Bless & Protect Your Home (Ancient Secrets! |
+| 2026-03-02 | 259 | tEiTYWE2KaM | 2,093 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Crops You  PLANT ONCE That FEEDS YOU FOREVER! |
+| 2026-03-04 | 257 | nj0m5vgd3GI | 67,075 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | These 7 Plants Replace CHICKEN Feed Completely! Grow Once, Feed Forever! |
+| 2026-03-05 | 256 | w2LyV1NFtkM | 10,718 | 5 | 7,689 | 1.39 | 5 | 0.23 | binh_thuong | – | Không | 15 Illegal Crops More Nutrious Than Anything You Can Buy - Why They Were Erased. |
+| 2026-03-09 | 252 | fu85fGBc2-E | 1,409 | 6 | 9,204 | 0.15 | 5 | 0.19 | binh_thuong | – | Không | Top 15 Crops That THRIVE When You Trellis Them |
+| 2026-03-10 | 251 | G19n4tqZJC0 | 2,743 | 7 | 7,689 | 0.36 | 5 | 0.23 | binh_thuong | – | Không | Do This and Almost Any Tree Cutting Will Root \| Natural Rooting Method (No Chemicals) |
+| 2026-03-10 | 251 | 7Aa79R96zBc | 1,742 | 8 | 5,287 | 0.33 | 5 | 0.43 | binh_thuong | – | Không | Never PLANT FRUIT TREES ALONE - This Companion Tricks Doubles Your Harvest! |
+| 2026-03-11 | 250 | uqR7Yea4XoE | 970 | 9 | 2,885 | 0.34 | 5 | 8.50 | binh_thuong | – | Không | Before Food Prices Explode, Plant These 5 Crops |
+| 2026-03-12 | 249 | DbSsMMOl27w | 2,278 | 10 | 2,814 | 0.81 | 5 | 34.40 | binh_thuong | – | Không | 13 Profitable Plants That Will Make You A Millionaire (They are Hiding it!) |
+| 2026-03-13 | 248 | Dly4uZTDTVs | 1,255 | 11 | 2,743 | 0.46 | 5 | 35.29 | binh_thuong | – | Không | Plant These 7 Trees Once, Eat For 100 Years |
+| 2026-03-16 | 245 | u10GSuwE_gU | 464,122 | 12 | 2,510 | 185 | 5 | 27.47 | can_kiem_ky | – | Không | Want a Bug-Free Yard This Summer Try These 10 MOSQUITO-REPELLENT Plants |
+| 2026-03-17 | 244 | kXg0biOmAWQ | 24,527 | 13 | 2,743 | 8.94 | 5 | 35.29 | manh | – | Không | 13 Green Fences That Grow Faster Than Bamboo (And Are Legal) |
+| 2026-03-21 | 240 | 3DPCvRkrPxw | 161,640 | 14 | 2,814 | 57.44 | 5 | 24.51 | can_kiem_ky | – | Không | Plant Once, Enjoy Forever 13 Perennials That Fill Your Garden FAST. |
+| 2026-03-24 | 237 | vx4lSz6EPxA | 96,793 | 15 | 2,885 | 33.55 | 5 | 7.77 | can_kiem_ky | – | Không | 13 Vegetables You Must Plant in March Before It’s Too Late! |
+| 2026-03-26 | 235 | tqEYmmg0VLw | 68,975 | 15 | 2,885 | 23.91 | 5 | 4.75 | can_kiem_ky | – | Không | 11 Perfect Vegetables To Grow in a Shady Garden Space |
+| 2026-03-28 | 233 | lwVeL5SPZeE | 1,370 | 15 | 2,885 | 0.47 | 5 | 4.75 | binh_thuong | – | Không | 17 Biblical Food That Will Heal You Instantly |
+| 2026-03-29 | 232 | 0ep7Tpa8DAY | 102,704 | 15 | 2,743 | 37.44 | 5 | 0.99 | can_kiem_ky | – | Không | 10 Longest-Blooming Perennial Flowers That Keep Your Garden Alive – Discover & Grow Today! |
+| 2026-03-31 | 230 | yt7iwH9aNWE | 13,705 | 15 | 10,718 | 1.28 | 5 | 0.25 | binh_thuong | – | Không | 13 Most Profitable Crops to Grow From Seeds That Nurseries Don’t Tell You About. |
+| 2026-04-03 | 227 | 5jYNcTmb70M | 22,414 | 15 | 10,718 | 2.09 | 5 | 0.25 | hoi_cao | – | Không | Plant THESE 13 Perennials in Early Spring (Or Regret It All Year!) |
+| 2026-04-07 | 223 | 9No1YMQFZ-Y | 2,719 | 15 | 13,705 | 0.20 | 5 | 0.27 | binh_thuong | – | Không | Top 9 Fruit Trees That Thrive in Pots & Small Spaces |
+| 2026-04-09 | 221 | Z2x-crFBAtc | 2,011 | 15 | 13,705 | 0.15 | 5 | 1.62 | binh_thuong | – | Không | 11 Fruit Bushes That Thrive in Heat — Plant Once, Harvest for Decades! |
+| 2026-04-10 | 220 | CEx7gfgijBw | 2,305 | 15 | 13,705 | 0.17 | 5 | 1.62 | binh_thuong | – | Không | 15 Ground Covers That Grow Faster Than Grass (No Mowing Needed!) |
+| 2026-04-12 | 218 | WO5YXT0puyA | 35,605 | 15 | 13,705 | 2.60 | 5 | 0.57 | hoi_cao | – | Không | 18 Dangerous Plants You Should Never Grow in Your Garden or Yard |
+| 2026-04-13 | 217 | NXjvTlcWXpQ | 3,633 | 15 | 22,414 | 0.16 | 5 | 0.35 | binh_thuong | – | Không | Plant These 15 Perennials Once And Enjoy Beautiful Flowers EVERY Year |
+| 2026-04-14 | 216 | lnPmF7SmtUc | 280,587 | 15 | 22,414 | 12.52 | 5 | 0.35 | can_kiem_ky | – | Không | Stop Weeding Forever! 9 Ground Covers That Suppress Weeds |
+| 2026-04-15 | 215 | kpulJDsdTNw | 22,218 | 15 | 24,527 | 0.91 | 5 | 0.23 | binh_thuong | – | Không | Plant These in APRIL! 13 FAST SPREADING Perennials for a LUSH LandScape All Year Round |
+| 2026-04-18 | 212 | Q-y69g4wpaE | 4,163 | 15 | 22,414 | 0.19 | 5 | 0.25 | binh_thuong | – | Không | 12 Best Container Perennials to Plant in April for Stunning Summer Pots |
+| 2026-04-19 | 211 | vbFws3aEoYk | 7,854 | 15 | 22,218 | 0.35 | 5 | 0.22 | binh_thuong | – | Không | 9 Hardy Perennials That Survive Heat, Rain & Neglect In Containers |
+| 2026-04-22 | 208 | 9rSYZ-5Ifxs | 3,644 | 15 | 13,705 | 0.27 | 5 | 0.36 | binh_thuong | – | Không | 11 VEGETABLES YOU CAN GROW IN APRIL WITH ZERO DIRECT SUNLIGHT (BEGINNER FRIENDLY!) |
+| 2026-04-24 | 206 | onxk7YeLcNM | 18,045 | 15 | 7,854 | 2.30 | 5 | 0.40 | hoi_cao | – | Không | Plant Once, Enjoy Forever 11 Perennials That FILL Your Garden QUICK |
+| 2026-04-27 | 203 | wVl5e3WXeoQ | 5,706 | 15 | 7,854 | 0.73 | 5 | 0.23 | binh_thuong | – | Không | Plant These in April! 15 Crops That Thrive in Shade |
+| 2026-04-28 | 202 | KbuVtHcUH3s | 1,581 | 15 | 7,854 | 0.20 | 5 | 0.23 | binh_thuong | – | Không | Too Lazy to Garden? Plant These 11 Perennials Now! |
+| 2026-05-01 | 199 | CiwNDk9OmwU | 4,967 | 15 | 5,706 | 0.87 | 5 | 0.24 | binh_thuong | – | Không | 13 Perennials Every Garden Must Have! |
+| 2026-05-03 | 197 | V68lJY8B47E | 3,150 | 15 | 4,967 | 0.63 | 5 | 0.28 | binh_thuong | – | Không | 10 Plants That Bloom All Summer in Containers 🌸 (Easy & Low Maintenance) |
+| 2026-05-05 | 195 | VVzqPS9I4_U | 1,773 | 15 | 4,163 | 0.43 | 5 | 0.32 | binh_thuong | – | Không | Stop Ruining Your Hydrangeas This Spring! 5 Planting Mistakes to Avoid |
+| 2026-05-06 | 194 | OA7OJzybDgY | 1,368 | 15 | 4,163 | 0.33 | 5 | 0.32 | binh_thuong | – | Không | 13 Longest Blooming Perennials for Color Until Frost ( Trial Garden Picks) |
+| 2026-05-12 | 188 | F7KnWW4ruMg | 1,335 | 15 | 4,163 | 0.32 | 5 | 0.26 | binh_thuong | – | Không | 13 Best Cottage Garden Flowers That Thrive in Real Gardens (Low Maintenance) |
+| 2026-05-16 | 184 | 8o9labl3rQY | 1,100 | 15 | 4,163 | 0.26 | 5 | 0.24 | binh_thuong | – | Không | 7 FAST-GROWING PRIVACY TREES FOR FENCE LINES (Instant Backyard Privacy in Months!) |
+| 2026-05-19 | 181 | ZFmsYc-Bc_I | 1,856 | 15 | 3,644 | 0.51 | 5 | 0.28 | binh_thuong | – | Không | 9  Fast-Growing Non-Invasive Ground Covers That TRANSFORM Your Yard FAST! 🌿 (No More Weeds) |
+| 2026-05-23 | 177 | BboVOAv3H14 | 953 | 15 | 3,644 | 0.26 | 5 | 0.28 | binh_thuong | – | Không | Small Yard? Plant THESE 7 Dwarf Ornamental Trees That TRANSFORM Any Space! 🌳✨ |
+| 2026-05-25 | 175 | B173IqA-iR8 | 1,773 | 15 | 3,150 | 0.56 | 5 | 0.29 | binh_thuong | – | Không | 9 SHRUBS WORTH PLANTING IN LATE MAY/JUNE - YOUR GARDEN WILL LOOK MORE EXPENSIVE |
+| 2026-05-26 | 174 | LNswucA1ifQ | 926 | 15 | 1,856 | 0.50 | 5 | 0.54 | binh_thuong | – | Không | SHADE IN YOUR GARDEN? 7 SHRUBS THAT TRANSFORMS EVEN THE DARKEST CORNER |
+| 2026-05-30 | 170 | 7RDs9gycj8s | 1,010 | 15 | 1,773 | 0.57 | 5 | 0.70 | binh_thuong | – | Không | NEVER PLANT THESE TOGETHER! 13 KILLER VEGETABLES PAIRS IN YOUR GARDEN |
+| 2026-06-03 | 166 | rNcZHyTJuOk | 2,644 | 15 | 1,773 | 1.49 | 5 | 0.52 | binh_thuong | – | Không | These 20 Vegetables Grow Like Fruit TREES! Plant Once, Eat Forever |
+| 2026-06-04 | 165 | 6VuwCI4Ml0c | 574 | 15 | 1,773 | 0.32 | 5 | 0.52 | binh_thuong | – | Không | Never Leave Bare Ground: 10 Shade-Loving Plants That Fill Your Garden Fast |
+| 2026-06-05 | 164 | 82CoADEgtDA | 701 | 15 | 1,581 | 0.44 | 5 | 0.58 | binh_thuong | – | Không | 7 MUST GROW PERENNIAL VEGETABLES: HARVEST YEAR AFTER YEAR… |
+| 2026-06-08 | 161 | 1ofn3BAqA3M | 1,243 | 15 | 1,368 | 0.91 | 5 | 0.60 | binh_thuong | – | Không | 9 PLANTS THAT KILLS APHIDS, MEALYBUGS, ANTS, WHITEFLIES AND MORE NATURALLY |
+| 2026-06-13 | 156 | qz4rmVawlUM | 3,137 | 15 | 1,335 | 2.35 | 5 | 0.41 | hoi_cao | – | Không | 9 Dwarf Fruit Trees You Can Grow in Buckets — Even on a Tiny Patio |
+| 2026-06-16 | 153 | GesueOYF7bY | 923 | 15 | 1,335 | 0.69 | 5 | 0.41 | binh_thuong | – | Không | 9 Plants Tick Hate The Most (Grow These Around Your House) |
+| 2026-06-18 | 151 | HIdPaUpTXv0 | 822 | 15 | 1,243 | 0.66 | 5 | 0.44 | binh_thuong | – | Không | 10 Lazy Perennials to Plant in June That Grow Fast and Take No Effort |
+| 2026-06-19 | 150 | G6hIIBknWtg | 484 | 15 | 1,100 | 0.44 | 5 | 0.50 | binh_thuong | – | Không | 7 Vines For Fence That Actually Works. ( 6 Plants You Must Avoid) |
+| 2026-06-23 | 146 | Vg7UIqJ0abE | 351 | 15 | 1,010 | 0.35 | 5 | 0.55 | binh_thuong | – | Không | I Planted Them and Regretted It: 13 Perennials That Don't Behave The Way Nurseries Promised |
+| 2026-06-25 | 144 | CxEdLPq0W6s | 552 | 15 | 953 | 0.58 | 5 | 0.57 | binh_thuong | – | Không | Top 7 Easy To Grow Vegetables For Beginners\| SEED TO HARVEST |
+| 2026-06-27 | 142 | criY4LXS6Sg | 635 | 15 | 926 | 0.69 | 5 | 0.59 | binh_thuong | – | Không | 13 Best Plants That Repel Mosquitoes Naturally 🦟 \| Safe for Pets & Bee-Friendly |
+| 2026-06-29 | 140 | XJ4zwUF1YKs | 823 | 15 | 923 | 0.89 | 5 | 0.59 | binh_thuong | – | Không | 13 Perennials Container Vegetables Your Plant Once and Harvest For Years |
+| 2026-07-02 | 137 | eAy3dtQWS6A | 502 | 15 | 823 | 0.61 | 5 | 0.67 | binh_thuong | – | Không | 11 Crops You MUST Plant in July (Before It’s Too Late) |
+| 2026-07-04 | 135 | _QKxx-SJ4QA | 418 | 15 | 822 | 0.51 | 5 | 0.80 | binh_thuong | – | Không | Your Perennial Garden NEEDS This Before July Hits! (7 Mistakes That Kill Summer Blooms) |
+| 2026-07-09 | 130 | kgv_hCQ0sDg | 545 | 15 | 701 | 0.78 | 5 | 0.94 | binh_thuong | – | Không | The Secret July Sowing Window: 13 Fast Flowers To Plant Right Now For A Gorgeous Fall! |
+| 2026-07-10 | 129 | cDwsk_FfHws | 549 | 15 | 635 | 0.86 | 5 | 1.03 | binh_thuong | – | Không | DO THIS And Your Fruit Trees Will Be Loaded With Fruits \| 100% Proven |
+| 2026-07-12 | 127 | AVGGlcu1420 | 667 | 15 | 574 | 1.16 | 5 | 1.14 | binh_thuong | – | Không | 13 FRUIT TREES FOR CONTAINERS THAT LOVE JULY HEAT - ENJOY A LARGE HARVEST EVERY SEASON |
+| 2026-07-15 | 124 | ZeI-ZYwD9Mk | 1,128 | 15 | 635 | 1.78 | 5 | 1.03 | binh_thuong | – | Không | Plant These 10 Neglected Native Perennials in July for Better Blooms Every Single Year |
+| 2026-07-18 | 121 | OAzv7EV8s80 | 656 | 15 | 635 | 1.03 | 5 | 1.35 | binh_thuong | – | Không | Your Coneflowers  Need This Every July - Don't Ignore These Secrets! |
+| 2026-07-19 | 120 | KgyDMjfKKLI | 450 | 15 | 635 | 0.71 | 5 | 1.78 | binh_thuong | – | Không | 11 Early July Perennials To Plant This Summer Blooms \| You're Not Late! |
+| 2026-07-21 | 118 | V42mqAolBfs | 518 | 15 | 552 | 0.94 | 5 | 2.05 | binh_thuong | – | Không | Get RID Of THESE PLANTS - They Are Feeding The APHIDS. Plant These Instead! |
+| 2026-07-23 | 116 | pBvvO7ZHto0 | 1,129 | 15 | 549 | 2.06 | 5 | 3.71 | hoi_cao | – | Không | 11 Late July/August Perennials To Plant This Garden Fall Blooms |
+| 2026-07-26 | 113 | 7bR3t4fGPcw | 860 | 15 | 549 | 1.57 | 5 | 3.71 | binh_thuong | – | Không | Don't Wait Until Fall! Plant These 8 Flowers In SUMMER FOR STUNNING BLOOMS |
+| 2026-07-29 | 110 | LPyIrGHkwRM | 2,037 | 15 | 552 | 3.69 | 5 | 1.25 | dang_ghi | – | Không | 13 Magnesium Rich Drinks That Will Heal You Instantly |
+| 2026-07-30 | 109 | SSBFuSmU6DU | 3,280 | 15 | 635 | 5.17 | 5 | 1.09 | manh | – | Không | 12 Vegetables You Should Plant in August ASAP — Do It Now! |
+| 2026-08-05 | 103 | oio3zs77gic | 692 | 15 | 656 | 1.05 | 5 | 2.13 | binh_thuong | – | Không | 15 Ground covers To Plant Instead of PULLING WEEDS! |
+| 2026-08-09 | 99 | JS-06iJop60 | 2,550 | 15 | 667 | 3.82 | 5 | 1.99 | dang_ghi | – | Không | Your Coneflowers Need This In Every August - Most Gardner's Gets It Wrong! |
+| 2026-08-13 | 95 | Z1tUR8MD1iU | 516 | 15 | 667 | 0.77 | 5 | 2.09 | binh_thuong | – | Không | 11 Fruit Trees Grown From Seeds That Won't Turn Wild 🍋 Your Own Indoor Orchard |
+| 2026-08-15 | 93 | u_U-w06DBjs | 496 | 15 | 667 | 0.74 | 5 | 2.37 | binh_thuong | – | Không | 9 Flowers for Lazy Gardeners (Blooms Before Frost) |
+| 2026-08-18 | 90 | XwXS2tOlqYA | 3,979 | 15 | 667 | 5.97 | 5 | 2.37 | manh | – | Không | August Is Your Last Chance To Prune These 7 Plants Before It's Too Late For Next Year |
+| 2026-08-21 | 87 | 2gPltW5kVdk | 1,395 | 15 | 692 | 2.02 | 5 | 3.07 | hoi_cao | – | Không | Put These 11 Plants in Your Yard & Mosquitoes Will Flee Instantly! |
+| 2026-08-26 | 82 | wkd_LRRps7g | 1,330 | 15 | 860 | 1.55 | 5 | 2.47 | binh_thuong | – | Không | END OF AUGUST: DON'T PRUNE THIS 5 PLANTS OR YOU'LL DEEPLY REGRET IT IN SPRING! |
+| 2026-08-28 | 80 | WaTF4whG7H8 | 1,579 | 15 | 1,128 | 1.40 | 5 | 2.04 | binh_thuong | – | Không | 11 Fruit Trees More Productive Than Apple (That Nobody Plants) |
+| 2026-08-30 | 78 | slUD83nSYIU | 2,306 | 15 | 1,129 | 2.04 | 5 | 1.99 | hoi_cao | – | Không | 8 Perennials You MUST Cut to the Ground First Week Of September (To Stop Pests & Disease) |
+| 2026-09-01 | 76 | KnYMl4ujPek | 2,123 | 15 | 1,330 | 1.60 | 5 | 1.69 | binh_thuong | – | Không | 7 Crops You'll Hate Not Planting in September! (Thrive Late Summer into Fall & Winter) |
+| 2026-09-03 | 74 | -DzFD0I7aZI | 5,809 | 15 | 1,395 | 4.16 | 5 | 1.23 | dang_ghi | – | Không | Snakes and Mice HATE These 7 Plants (Put Them Near Your Foundation NOW) |
+| 2026-09-05 | 72 | 5nbfX5eiCLI | 1,658 | 15 | 1,579 | 1.05 | 5 | 1.09 | binh_thuong | – | Không | 5 Living Mulch Plants That Kill Weeds Forever! (Never Weed Again) |
+| 2026-09-09 | 68 | 6985syNKazo | 2,751 | 15 | 1,658 | 1.66 | 5 | 0.76 | binh_thuong | – | Không | Kills Everything In 5 Seconds (Caterpillars, Aphids, Mealybugs, Ants, Flies, And All Garden Pest) |
+| 2026-09-10 | 67 | fSF-WO2QqdQ | 2,249 | 15 | 2,037 | 1.10 | 5 | 0.62 | binh_thuong | – | Không | 15 "Lazy" Plants That Grow More Food Than a Full Garden (Plant Once, Never Weed Again) |
+| 2026-09-15 | 62 | BSdq0IpdSH0 | 1,717 | 15 | 2,123 | 0.81 | 5 | 0.59 | binh_thuong | – | Không | 13 Vegetables That Yield MORE in Containers Than Garden |
+| 2026-09-20 | 57 | b3j3bjv70Dk | 1,016 | 15 | 1,717 | 0.59 | 5 | 0.73 | binh_thuong | – | Không | 12 FASTEST-GROWING CROPS YOU CAN HARVEST IN 30 DAYS! 🌱 |
+| 2026-09-22 | 55 | QBxQpKi0Klk | 1,258 | 15 | 1,717 | 0.73 | 5 | 0.69 | binh_thuong | – | Không | If Winter Gets Harsher, I'd Plant These 8 Crops This Fall |
+| 2026-09-26 | 51 | aFCSEWwzMkU | 1,258 | 15 | 1,658 | 0.76 | 5 | 0.71 | binh_thuong | – | Không | 8 Container Vegetables You'll DEEPLY Regret Not Planting Before October 7th |
+| 2026-10-01 | 46 | 7oM3a6r2Sf8 | 955 | 15 | 1,658 | 0.58 | 5 | 0.76 | binh_thuong | – | Không | 7 Fall Vegetables You'll DEEPLY Regret Not Planting Before October 15th |
+| 2026-10-03 | 44 | rW_Tf6Y9R8A | 1,252 | 15 | 1,658 | 0.76 | 5 | 0.71 | binh_thuong | – | Không | 10 Plants Worth More Than Gold That Nobody Is Planting |
+| 2026-10-07 | 40 | cL_cu_N5rqE | 847 | 15 | 1,579 | 0.54 | 5 | 0.75 | binh_thuong | – | Không | 9 Hanging Mosquito-Repellent Plants That Thrive in Pots and Get Rid of Them Forever |
+| 2026-10-13 | 34 | 6iXnxsP4fCY | 1,184 | 15 | 1,579 | 0.75 | 5 | 0.70 | binh_thuong | – | Không | 9 Perennials EVERYONE Can Plant in October You'll HATE Skipping! |
+| 2026-10-16 | 31 | 0oRamk9S784 | 1,840 | 15 | 1,579 | 1.17 | 5 | 0.70 | binh_thuong | – | Không | I WISH I KNEW THIS SOONER: Just 1 Spoonful and All Your Plants GROW and FRUIT 5x FASTER |
+| 2026-10-19 | 28 | gujRUc79Ll8 | 2,933 | 15 | 1,658 | 1.77 | 5 | 0.52 | chua_chin | – | Không | 58× STRONGER THAN MANURE & FREE! Just 1 Spoon in Fall Makes Soil SUPER FERTILE! |
+| 2026-10-22 | 25 | -gmrmgBn-t0 | 662 | 15 | 1,658 | 0.40 | 5 | 0.52 | chua_chin | – | Không | Save Your Strawberries: 5 Fatal Mistakes causing you your Strawberries |
+| 2026-10-30 | 17 | hdYXIBKjskc | 1,098 | 15 | 1,258 | 0.87 | 4 | – | chua_chin | – | Không | Soak Your Seeds In THIS Before Planting — 3x Faster Roots, 5x Bigger Harvest. Nurseries HIDE This |
+| 2026-11-07 | 9 | Go0VcIa44y4 | 858 | 15 | 1,258 | 0.68 | 3 | – | chua_chin | – | Không | 13 Container Vegetables You Should Plant In November ASAP |
+| 2026-11-08 | 8 | OXtql7RISS4 | 2,884 | 15 | 1,252 | 2.30 | 2 | – | chua_chin | – | Không | The 7 Perennial Seed You Must Start  in November |
+| 2026-11-11 | 5 | aNyBfqkH5VI | 704 | 15 | 1,252 | 0.56 | 1 | – | chua_chin | – | Không | 13 ILLEGAL FRUITS YOU CAN’T GROW IN AMERICAN GARDENS 2026!!! |
+| 2026-11-14 | 2 | AKk0zZR1OjQ | 374 | 15 | 1,184 | 0.32 | 0 | – | chua_chin | – | Không | 7 Spiritual Plants That Attract Money$ & Bring Fortune to Your Home |

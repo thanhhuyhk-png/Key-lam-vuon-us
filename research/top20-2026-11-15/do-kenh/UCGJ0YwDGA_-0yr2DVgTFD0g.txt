@@ -1,0 +1,82 @@
+# Đo kênh: UCGJ0YwDGA_-0yr2DVgTFD0g.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 40 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 40 |
+| n_trong_danh_sach | 40 |
+| n_dai | 40 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 8,190 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-02-01 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 670 |
+| cao_nhat | 32,038 |
+| thap_nhat | 174 |
+| phan_tan | 47.78 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.08 |
+| ty_le_like_trung_vi | 0.06 |
+| da_trung_vi | 0.20 |
+| ngay_video_dau | 2026-02-01 |
+| tuoi_tu_video_dau | 288 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 28.44 |
+| sub_moi_video | 205 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-02-01 | 288 | ASXJlDU5nlE | 4,884 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | This 1980s Stove Uses 90% Less Fuel (Forgotten Technology) |
+| 2026-02-03 | 286 | tKsALQsg_sk | 684 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Why Your City Will Starve in 72 Hours (The JIT Trap) |
+| 2026-02-07 | 282 | KwkmGGS1szc | 1,983 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Hours of Heat from a TIN CAN (WW2 Secret) |
+| 2026-02-13 | 276 | g3qUJ-7BsOM | 1,513 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Only Electronics That Survive An EMP (It’s Not What You Think) |
+| 2026-02-18 | 271 | C6M0Ei89neY | 7,376 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Keep This Filter FOREVER. (Why WW2 Soldiers Used Clay) |
+| 2026-02-21 | 268 | Wz4198EX_jM | 203,812 | 5 | 1,983 | 103 | 5 | 10.76 | can_kiem_ky | – | Không | The $3 Off-Grid Alarm (Why Preppers Sleep So Well) |
+| 2026-02-22 | 267 | y0g-I6TYVpA | 21,337 | 6 | 3,434 | 6.21 | 5 | 0.74 | manh | – | Không | The $0 Survival Fish Trap (Catch Food While You Sleep) |
+| 2026-02-24 | 265 | KIQgyvVoAO8 | 107,770 | 7 | 4,884 | 22.07 | 5 | 0.48 | can_kiem_ky | – | Không | Passive Survival: Infinite Clean Water For $0 (SHTF) |
+| 2026-02-26 | 263 | BHwwcj-VGJc | 2,327 | 8 | 6,130 | 0.38 | 5 | 0.42 | binh_thuong | – | Không | Why Vikings NEVER Drank Water (SHTF Survival Hack) |
+| 2026-02-28 | 261 | sqdDdb5-7PQ | 1,834 | 9 | 4,884 | 0.38 | 5 | 0.52 | binh_thuong | – | Không | How Vikings Slept In -30°C Without Freezing To Death |
+| 2026-03-01 | 260 | W_ZdZxmC4Ss | 25,238 | 10 | 3,606 | 7.00 | 5 | 0.59 | manh | – | Không | Dirty Water → Safe Water (This Shouldn’t Work) |
+| 2026-03-03 | 258 | LGW_fian3JQ | 2,556 | 11 | 4,884 | 0.52 | 5 | 0.25 | binh_thuong | – | Không | How To Catch Fish Without a Hook ($0 Primitive Survival Trap) |
+| 2026-03-05 | 256 | 8mB9NfTtxOk | 2,137 | 12 | 3,720 | 0.57 | 5 | 0.32 | binh_thuong | – | Không | NOT GAS: The $0 DIY Smokeless Survival Stove |
+| 2026-03-07 | 254 | 4Gr2No-aiag | 2,935 | 13 | 2,556 | 1.15 | 5 | 0.45 | binh_thuong | – | Không | I Built a $0 Gravity Generator (Never Buy Batteries) |
+| 2026-03-09 | 252 | qlgAAv0u7-w | 1,200 | 14 | 2,746 | 0.44 | 5 | 0.37 | binh_thuong | – | Không | This Stick Trap Hunts While You Sleep \| Primitive Survival Engineering |
+| 2026-03-11 | 250 | qEU_8OwO088 | 985 | 15 | 2,556 | 0.39 | 5 | 0.45 | binh_thuong | – | Không | The Radio That Works Forever: DIY "Ghost Signal" (No Batteries) |
+| 2026-03-13 | 248 | N3J681g7mNA | 811 | 15 | 2,327 | 0.35 | 5 | 0.50 | binh_thuong | – | Không | WW3: The First 60 Minutes – Survival Protocol |
+| 2026-03-15 | 246 | L4hIdXuO9So | 1,599 | 15 | 2,327 | 0.69 | 5 | 0.45 | binh_thuong | – | Không | Stop Running. The Math Proves Your Bug-Out Bag Will Kill You |
+| 2026-03-18 | 243 | fgsN5HOMHcU | 1,160 | 15 | 2,327 | 0.50 | 5 | 0.43 | binh_thuong | – | Không | How to Build a 25-Year Food Supply for $18 (Forever Bucket Blueprint) |
+| 2026-03-20 | 241 | MekAa8Zzzg0 | 1,007 | 15 | 2,327 | 0.43 | 5 | 0.45 | binh_thuong | – | Không | Why Your Fire Always Dies — 3 Mistakes Nobody Tells You |
+| 2026-03-22 | 239 | o-aev42xQ5o | 2,664 | 15 | 2,137 | 1.25 | 5 | 0.49 | binh_thuong | – | Không | How to Sharpen a Knife Without a Sharpener (Glass, Stone, Belt Method) |
+| 2026-03-24 | 237 | 99WoBY-Rojo | 1,050 | 15 | 2,137 | 0.49 | 5 | 0.46 | binh_thuong | – | Không | This $3 Alarm Triggers the Second They Touch the Door |
+| 2026-03-26 | 235 | dm_qyXLpTiI | 663 | 15 | 1,834 | 0.36 | 5 | 0.62 | binh_thuong | – | Không | Why People Walk in Circles When Lost — And How Survivors Escape |
+| 2026-03-28 | 233 | dgZSidd51Qc | 973 | 15 | 1,599 | 0.61 | 5 | 1.39 | binh_thuong | – | Không | They Know This. You Don't. \| 3 Ways to Store Meat Without Power or Pressure Cooker |
+| 2026-03-30 | 231 | mP-tWFu4Ml4 | 32,038 | 15 | 1,200 | 26.70 | 5 | 1.85 | can_kiem_ky | – | Không | How to Get Drinking Water From a Tree (No Filter Required) |
+| 2026-04-01 | 229 | gC2pjyLMbFE | 1,130 | 15 | 1,200 | 0.94 | 5 | 1.85 | binh_thuong | – | Không | Grow Protein in a Jar: The Survival Food System That Works When Everything Fails |
+| 2026-04-04 | 226 | Q6_Tt-PLlUQ | 701 | 15 | 1,160 | 0.60 | 5 | 1.91 | binh_thuong | – | Không | Door Security: Why Movement Control Beats Expensive Locks \| Grid Zero |
+| 2026-04-07 | 223 | cTzRa9LWPnM | 2,215 | 15 | 1,130 | 1.96 | 5 | 0.60 | binh_thuong | – | Không | How to Survive Mosquitoes in the Wild |
+| 2026-04-11 | 219 | fOOoyQHWIw0 | 3,996 | 15 | 1,130 | 3.54 | 5 | 0.36 | dang_ghi | – | Không | This Tiny $2 Trick Makes 10 Fires |
+| 2026-04-16 | 214 | BXo64yUAj6k | 18,365 | 15 | 1,130 | 16.25 | 5 | 0.26 | can_kiem_ky | – | Không | Water Purification: 4 Protocols That Work Anywhere \| Grid Zero |
+| 2026-04-21 | 209 | 7ftFK15h3jM | 678 | 15 | 1,130 | 0.60 | 5 | 0.26 | binh_thuong | – | Không | Water From Air: $12 Fog Net That Works While You Sleep \| Grid Zero |
+| 2026-04-25 | 205 | Cux4ABAv9Lc | 278 | 15 | 1,130 | 0.25 | 5 | 0.26 | binh_thuong | – | Không | The Sun Never Lies: Navigate Without GPS Using 3 Field Methods |
+| 2026-04-30 | 200 | SGxSXvg3mTY | 408 | 15 | 1,130 | 0.36 | 5 | 0.25 | binh_thuong | – | Không | What To Do In The First 48 Hours When The Power Goes Out |
+| 2026-05-04 | 196 | c8dNY5Kvt2o | 293 | 15 | 1,050 | 0.28 | 5 | 0.27 | binh_thuong | – | Không | Urban Survival vs Rural Survival — Which One Actually Kills You? |
+| 2026-05-08 | 192 | bxrRNJ58ZuE | 237 | 15 | 1,007 | 0.24 | 5 | 0.38 | binh_thuong | – | Không | No Power. 40 Degrees. Here's How You Survive The Next 72 Hours |
+| 2026-05-13 | 187 | rmRq-q3470Y | 393 | 15 | 973 | 0.40 | 4 | – | binh_thuong | – | Không | They're Not Telling You Everything About Hantavirus — Cal Hunter |
+| 2026-05-17 | 183 | guKVaCRMzaY | 174 | 15 | 701 | 0.25 | 3 | – | binh_thuong | – | Không | Your Brain Betrayed You — Why You Freeze In A Crisis And How To Stop It |
+| 2026-05-22 | 178 | UMxvsA6yuNU | 283 | 15 | 678 | 0.42 | 2 | – | binh_thuong | – | Không | How to Make Rope From Scratch — Any Plant, Any Location |
+| 2026-05-31 | 169 | nNjOC6x2U2I | 465 | 15 | 678 | 0.69 | 1 | – | binh_thuong | – | Không | The Forgotten Cooling System Built Into Every House Before 1900 |
+| 2026-06-09 | 160 | dPavjW1cZGo | 382 | 15 | 465 | 0.82 | 0 | – | binh_thuong | – | Không | The $0 Tool That Replaced a Doctor for 200 Years |

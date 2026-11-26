@@ -1,0 +1,150 @@
+# Đo kênh: UCcsS-8Zg6c0pfH_8w5SKpCw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 175 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 84,600 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-06-17 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,124 |
+| cao_nhat | 1,875 |
+| thap_nhat | 868 |
+| phan_tan | 1.67 |
+| so_video_tren_2x | 0 |
+| ty_le_tren_2x | 0.00 |
+| trung_vi_chia_sub | 0.01 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 1.24 |
+| ngay_video_dau | 2026-01-25 |
+| tuoi_tu_video_dau | 295 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 287 |
+| sub_moi_video | 483 |
+| video_30_ngay | 21 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-01-25 | 295 | bJF24v23CZ0 | 45,477 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Secret Korean Rule That Grows Vegetables 3x Quicker |
+| 2026-01-25 | 295 | sqdwdvl9Zv4 | 718 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Japanese Gardening Rule That Ensures a GIANT Harvest! |
+| 2026-01-26 | 294 | lWwed-us2TA | 745 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Secret Korean Method To Grow Bean Sprouts in 3 Days |
+| 2026-01-29 | 291 | v5y7tzqvcM0 | 7,133 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | KOREAN GARDENING HACK: How To Get Tons of Produce in Home Garden For DIRT CHEAP |
+| 2026-01-31 | 289 | oNyhw9dx1Wk | 14,021 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Secret Japanese Gardening Rule That Kills All Garden Pests! |
+| 2026-02-01 | 288 | YpWIhF8fJzI | 94,649 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 15 Japanese SECRETS That Will TRANSFORM Your Garden FOREVER |
+| 2026-02-02 | 287 | JT5eqR3wKmg | 2,727 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Korean Farmers Use THIS Bacteria to Triple Their Harvest (LAB Method) |
+| 2026-02-03 | 286 | 9enViwLgsL0 | 3,494 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Why Japanese Farmers NEVER Dig Their Soil (And Grow 10x More Food) |
+| 2026-06-17 | 152 | wrQLzpgLhh8 | 1,016 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Grow an Avocado Tree From ONE Seed... The Old AMISH Way |
+| 2026-06-18 | 151 | qrAchFvTKX0 | 1,129 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Grow a HUGE Ginger Harvest in One Bucket... The AMISH Way |
+| 2026-06-19 | 150 | UdQZCEsTnM4 | 2,247 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Prune Tomatoes The AMISH Way... DOUBLE the Harvest! |
+| 2026-06-20 | 149 | uZLQigB4Q1o | 648 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | A Real Update From The Guy Behind Backyard Bill, And How I Save Seeds Worth Keeping |
+| 2026-06-22 | 147 | Oi7sV7rM_JY | 613 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Vegetables Every AMISH Garden ALWAYS Grows |
+| 2026-06-22 | 147 | 25MkVmgl_4k | 1,062 | 5 | 1,016 | 1.05 | 5 | 0.97 | binh_thuong | – | Không | 6 Crops the AMISH Grow So They NEVER Go Hungry |
+| 2026-06-23 | 146 | T20klxnNxsw | 1,198 | 6 | 1,039 | 1.15 | 5 | 0.84 | binh_thuong | – | Không | 5 "Forbidden" Tomato Secrets the Pros Will Take to Their GRAVES |
+| 2026-06-25 | 144 | vUtgdxgnIz4 | 2,357 | 7 | 1,062 | 2.22 | 5 | 0.82 | hoi_cao | – | Không | Even DEAD Plants Spring Back to Life! The Forbidden Fertilizer They Don't Want You Using |
+| 2026-06-26 | 143 | nJ5GjDv3CgI | 986 | 8 | 1,096 | 0.90 | 5 | 0.80 | binh_thuong | – | Không | Root ANY Cutting The AMISH Way. No Chemicals, No Hormones! |
+| 2026-06-27 | 142 | SKcLBsNX7HE | 444 | 9 | 1,062 | 0.42 | 5 | 0.82 | binh_thuong | – | Không | A Production Update On The Channel — And The Old Mulching Method I Keep Coming Back To |
+| 2026-06-28 | 141 | 1WPgchl8J1s | 872 | 10 | 1,039 | 0.84 | 5 | 0.75 | binh_thuong | – | Không | Why the Amish NEVER Buy Fertilizer — The $0 Secret They've Guarded for 200 Years |
+| 2026-06-29 | 140 | mocHIXT1PFU | 525 | 11 | 1,016 | 0.52 | 5 | 1.92 | binh_thuong | – | Không | 7 Crops the Amish Grow in SECRET — And Why Big Farms Want Them Gone |
+| 2026-06-30 | 139 | nBPFMLIhUcg | 1,948 | 12 | 1,001 | 1.95 | 5 | 0.78 | binh_thuong | – | Không | The  Illegal  Mulch Pros Use in Secret — Why Won't Anyone Teach This  1 |
+| 2026-07-01 | 138 | HcCUEUW9sN4 | 2,266 | 13 | 1,016 | 2.23 | 5 | 0.73 | hoi_cao | – | Không | The "Forbidden" Amish Soil Secret That EXPLODES Tomato Harvests — Buried Since 1962 |
+| 2026-07-02 | 137 | EyQ7xsKlIDI | 619 | 14 | 1,039 | 0.60 | 5 | 0.75 | binh_thuong | – | Không | Nurseries Want This BANNED: The $0 Kitchen Scrap That Triples Your Harvest Overnight |
+| 2026-07-03 | 136 | Z2J00VcMGHA | 784 | 15 | 1,016 | 0.77 | 5 | 1.06 | binh_thuong | – | Không | The Lost Amish Pest Method They Buried Decades Ago — Kills Bugs Instantly, Costs $0 |
+| 2026-07-04 | 135 | goZ8eZufBcQ | 2,037 | 15 | 986 | 2.07 | 5 | 0.75 | hoi_cao | – | Không | A Quick Channel Update + 3 Tips For Storing Your Harvest Without A Fridge |
+| 2026-07-07 | 132 | fg6h2vXa-zw | 741 | 15 | 986 | 0.75 | 5 | 1.10 | binh_thuong | – | Không | How to Start Beekeeping The Amish Way (Step-by-Step Guide) |
+| 2026-07-09 | 130 | xeuqxbakZUE | 278 | 15 | 872 | 0.32 | 5 | 2.24 | binh_thuong | – | Không | How To Grow Avocados The Amish Way! |
+| 2026-07-11 | 128 | _qoKeO5VPrk | 6,946 | 15 | 872 | 7.97 | 5 | 1.24 | manh | – | Không | KILL EVERY Mouse The AMISH Way. NO Poison, SAFE For Pets & Kids! |
+| 2026-07-12 | 127 | iiDR6redHM4 | 1,082 | 15 | 986 | 1.10 | 5 | 1.29 | binh_thuong | – | Không | KILL ALL Yellowjackets And Wasps The Amish Way (Safe For Honey Bees) |
+| 2026-07-13 | 126 | 0cMpDg7o4b8 | 408 | 15 | 986 | 0.41 | 5 | 1.29 | binh_thuong | – | Không | The Old Amish Way to Know When Bees REJECTED Their Queen |
+| 2026-07-14 | 125 | 1eAMprKaXJg | 1,949 | 15 | 872 | 2.24 | 5 | 1.46 | hoi_cao | – | Không | Grow Lots of Tomatoes... Not Leaves - The Amish Way |
+| 2026-07-17 | 122 | 6zdwqEnjPTw | 3,384 | 15 | 872 | 3.88 | 5 | 0.81 | dang_ghi | – | Không | KILL Every Fly Around Your Home The Amish Way (Easy DIY) |
+| 2026-07-18 | 121 | 3hjmiKFsVro | 529 | 15 | 872 | 0.61 | 5 | 0.81 | binh_thuong | – | Không | Honestly, Here's What's Been Going On Behind The Scenes |
+| 2026-07-20 | 119 | xLDPx_PYqB4 | 1,271 | 15 | 872 | 1.46 | 5 | 0.81 | binh_thuong | – | Không | The Amish Never Pull These 6 Weeds (More Valuable Than Your Vegetables) |
+| 2026-07-22 | 117 | ozGdv720SSA | 703 | 15 | 1,082 | 0.65 | 5 | 0.75 | binh_thuong | – | Không | 15 Benefits of Hydrogen Peroxide Most Gardeners Don't Know |
+| 2026-07-24 | 115 | IVHE61YEVjo | 1,485 | 15 | 1,082 | 1.37 | 5 | 0.49 | binh_thuong | – | Không | 5 Amish Secrets to Grow Buckets of Potatoes in Small Spaces |
+| 2026-07-25 | 114 | hYxYQAq_7HM | 346 | 15 | 1,082 | 0.32 | 5 | 0.49 | binh_thuong | – | Không | Some Stuff I've Been Meaning To Tell You |
+| 2026-07-26 | 113 | jdODxtBzVhU | 421 | 15 | 784 | 0.54 | 5 | 0.68 | binh_thuong | – | Không | 10 Amish Crops God Designed to Heal You Instantly |
+| 2026-07-27 | 112 | _nb9LAbkvFM | 848 | 15 | 784 | 1.08 | 5 | 0.68 | binh_thuong | – | Không | The 8 Crops the Amish Are Planting NOW To Survive the Coming Food Collapse |
+| 2026-07-28 | 111 | tv7cP3n8VAY | 816 | 15 | 848 | 0.96 | 5 | 0.63 | binh_thuong | – | Không | 20 Forgotten Amish Vegetables That Grow Like Weeds - The Lazy Gardener's Goldmine |
+| 2026-07-29 | 110 | O_vBuqurOL8 | 534 | 15 | 816 | 0.65 | 5 | 0.66 | binh_thuong | – | Không | Why Victory Gardens Were So Cheap to Grow (Copy Them) |
+| 2026-08-01 | 107 | ElQN-G2aHIA | 272 | 15 | 816 | 0.33 | 5 | 1.09 | binh_thuong | – | Không | Why This Old-Fashioned Way Of Growing Means So Much To Me |
+| 2026-08-04 | 104 | gBDEKmIfQJQ | 466 | 15 | 816 | 0.57 | 5 | 1.10 | binh_thuong | – | Không | The Amish Secret They Banned Forever! Kills Pests Instantly. Costs Only $2 |
+| 2026-08-06 | 102 | SeBlQEhRdv4 | 2,741 | 15 | 703 | 3.90 | 5 | 1.26 | dang_ghi | – | Không | The Amish Secret That Waters Garden Automatically For 20 Years Perfect For Lazy |
+| 2026-08-07 | 101 | X47xZXgUKgM | 888 | 15 | 703 | 1.26 | 5 | 1.28 | binh_thuong | – | Không | 25 FORGOTTEN Amish Gardening Skills Every Single American Knew 100 Years Ago |
+| 2026-08-09 | 99 | gSaLBFPCTIE | 539 | 15 | 816 | 0.66 | 5 | 1.11 | binh_thuong | – | Không | Big Agriculture BANNED These 15 Amish Vegetables (They're 10x Stronger Than GMOs) |
+| 2026-08-10 | 98 | YMR33MDFNek | 1,250 | 15 | 703 | 1.78 | 5 | 1.29 | binh_thuong | – | Không | 25 "Illegal" but "Genius" Amish Gardening Tricks (Copy Them) |
+| 2026-08-12 | 96 | 7X1o6s7Bk0U | 897 | 15 | 703 | 1.28 | 5 | 1.43 | binh_thuong | – | Không | Why Amish Farmers Never Pull These 6 Weeds! (Worth Gold) |
+| 2026-08-15 | 93 | BOBiViuCDng | 417 | 15 | 816 | 0.51 | 5 | 1.93 | binh_thuong | – | Không | A Few Things Happening Behind The Camera Right Now |
+| 2026-08-16 | 92 | Ty6956FoxSQ | 1,008 | 15 | 703 | 1.43 | 5 | 2.24 | binh_thuong | – | Không | Borax vs Baking Soda vs Hydrogen Peroxide - A 45-Year Gardener's Verdict |
+| 2026-08-18 | 90 | HxGOfG-FIR4 | 907 | 15 | 816 | 1.11 | 5 | 2.08 | binh_thuong | – | Không | Neem Oil vs Dish Soap vs Hydrogen Peroxide — A 45-Year Nurseryman's Verdict |
+| 2026-08-20 | 88 | i_omU8siL_Q | 3,453 | 15 | 816 | 4.23 | 5 | 2.08 | dang_ghi | – | Không | Compost vs Aged Manure vs Leaf Mold — A 45-Year Gardener's Verdict |
+| 2026-08-29 | 79 | 5apXqVQFISg | 1,573 | 15 | 848 | 1.85 | 5 | 2.00 | binh_thuong | – | Không | What I Learned The Day I Visited A Real Amish Farm |
+| 2026-09-01 | 76 | -PpiIH80dI4 | 1,695 | 15 | 888 | 1.91 | 5 | 1.68 | binh_thuong | – | Không | Epsom Salt vs Coffee Grounds vs Eggshells — A 45-Year Gardener's Verdict |
+| 2026-09-08 | 69 | O5r0Rkk9x2o | 1,488 | 15 | 897 | 1.66 | 5 | 1.52 | binh_thuong | – | Không | The Amish Secret to Keeping Weeds Out of Your Garden Forever |
+| 2026-09-10 | 67 | G_lkItMQRjc | 2,287 | 15 | 907 | 2.52 | 5 | 1.16 | hoi_cao | – | Không | The Amish Secret to Keeping Deer Out of Your Garden Forever |
+| 2026-09-11 | 66 | L1e9xJqLKxs | 2,288 | 15 | 1,008 | 2.27 | 5 | 1.04 | hoi_cao | – | Không | 7 Amish Plants That Keep Every Bug Out of Your Garden Forever |
+| 2026-09-14 | 63 | oByxMNelZ8k | 843 | 15 | 1,250 | 0.67 | 5 | 0.89 | binh_thuong | – | Không | This Amish Secret Keeps Bugs Out of Your Garden Forever (No Sprays, No Chemicals) |
+| 2026-09-15 | 62 | aSjLGuTm0nU | 1,365 | 15 | 1,250 | 1.09 | 5 | 0.89 | binh_thuong | – | Không | Stop Spraying Your Garden - The Amish Keep Bugs Out With This Instead |
+| 2026-09-16 | 61 | ZRTPsa8eOso | 802 | 15 | 1,250 | 0.64 | 5 | 0.89 | binh_thuong | – | Không | This New Tomato Growth Hack Will Change Everything - Find Out Why! |
+| 2026-09-17 | 60 | Dh7Ns7Ey504 | 1,048 | 15 | 1,250 | 0.84 | 5 | 0.98 | binh_thuong | – | Không | STOP Planting Garlic The Old Way! Try These 25 Amish Tricks |
+| 2026-09-18 | 59 | WUhHgOSUaCc | 1,219 | 15 | 1,250 | 0.98 | 5 | 0.90 | binh_thuong | – | Không | The New Frost Warning Every Gardener Needs to Hear Before October - Find Out Why! |
+| 2026-09-20 | 57 | y2Y71-mxKHM | 1,111 | 15 | 1,219 | 0.91 | 5 | 1.01 | binh_thuong | – | Không | Seniors, This One Watering Mistake Is Slowly Killing Your Garden (Stop It Today) |
+| 2026-09-21 | 56 | rAv-5vbfmug | 2,322 | 15 | 1,219 | 1.90 | 5 | 0.92 | binh_thuong | – | Không | 20 Poor Man Garden Tricks That Make $500 Raised Beds Look Ridiculous |
+| 2026-09-22 | 55 | CD0HKtIidIk | 638 | 15 | 1,365 | 0.47 | 5 | 0.82 | binh_thuong | – | Không | Check Your Tomato Leaves! The 10-Second Test That Predicts Your Whole Harvest |
+| 2026-09-23 | 54 | m02bDzSuqH4 | 1,692 | 15 | 1,365 | 1.24 | 5 | 0.77 | binh_thuong | – | Không | 12 Things Old Gardeners NEVER Throw Away (Americans Toss Them Every Single Week) |
+| 2026-09-24 | 53 | gl9W_mQfCWM | 1,124 | 15 | 1,488 | 0.76 | 5 | 0.70 | binh_thuong | – | Không | STOP Cutting Back These 8 Plants This Fall (The Amish Leave Them Until Spring) |
+| 2026-09-25 | 52 | EZOsYT6vWs4 | 1,232 | 15 | 1,365 | 0.90 | 5 | 0.77 | binh_thuong | – | Không | 20 Backyard Plants Worth More Than Gold That the Amish Never Stopped Growing |
+| 2026-09-26 | 51 | QJ6oVwPdffk | 918 | 15 | 1,232 | 0.75 | 5 | 0.85 | binh_thuong | – | Không | Fall Has Arrived, And So Has The Real Work |
+| 2026-09-27 | 50 | SPsuqZocaa4 | 1,047 | 15 | 1,219 | 0.86 | 5 | 0.80 | binh_thuong | – | Không | The 12 Most Valuable Plants You Can Grow at Home (And Nobody Is Planting Them) |
+| 2026-09-28 | 49 | RqOHDb3rmkc | 942 | 15 | 1,124 | 0.84 | 5 | 0.93 | binh_thuong | – | Không | The Amish Sweet Potato Method That Grows 100 Pounds in 4 Square Feet |
+| 2026-09-29 | 48 | gKvbOe2uXz4 | 1,465 | 15 | 1,111 | 1.32 | 5 | 0.94 | binh_thuong | – | Không | 12 Crops the Amish Plant in October to Eat All Winter (Last Chance Before Frost) |
+| 2026-09-30 | 47 | uNSQOiDno3k | 1,056 | 15 | 1,111 | 0.95 | 5 | 0.94 | binh_thuong | – | Không | 20 Poor Man Pest Tricks That Make $1,000 Exterminators Look Ridiculous |
+| 2026-10-01 | 46 | unHMI_TgihE | 980 | 15 | 1,111 | 0.88 | 5 | 0.94 | binh_thuong | – | Không | Sprinkle 2 Spoons of Borax Before Frost and Next Year's Garden Is Pest-Free |
+| 2026-10-02 | 45 | lAicgJgdzLY | 868 | 15 | 1,056 | 0.82 | 5 | 1.13 | binh_thuong | – | Không | 20 Poor Man Garden Tricks That Make $300 Grocery Bills Look Ridiculous |
+| 2026-10-04 | 43 | mFyWdjD_sEE | 1,045 | 15 | 1,056 | 0.99 | 5 | 1.13 | binh_thuong | – | Không | 20 Crops Your Grandma Grew That Are Now ILLEGAL in America (Check #3) |
+| 2026-10-05 | 42 | a9EE0gMWONM | 1,423 | 15 | 1,056 | 1.35 | 5 | 1.13 | binh_thuong | – | Không | 1 Cup of White Vinegar Kills Every Weed Forever (A $3 Jug Beats $30 Weed Killer) |
+| 2026-10-06 | 41 | RWH3CHaA97w | 1,193 | 15 | 1,056 | 1.13 | 5 | 1.23 | binh_thuong | – | Không | 12 Yard Plants That Are Now ILLEGAL in Most States (Most Seniors Still Have #1) |
+| 2026-10-07 | 40 | 0I7xEjQDbXM | 1,025 | 15 | 1,056 | 0.97 | 5 | 1.23 | binh_thuong | – | Không | Spray 1 Capful of Hydrogen Peroxide and Every Bug on Your Plants Drops Dead |
+| 2026-10-08 | 39 | CN609ilxdtA | 1,610 | 15 | 1,047 | 1.54 | 5 | 1.24 | binh_thuong | – | Không | Your Hydrangeas Need One Thing in October, Most Gardeners Get It BACKWARDS |
+| 2026-10-09 | 38 | J3xXrhPw2tY | 1,044 | 15 | 1,056 | 0.99 | 5 | 1.34 | binh_thuong | – | Không | Put Vicks in Your Garden and Watch What Happens (6 Uses Grandma Swore By) |
+| 2026-10-11 | 36 | N-2f9q0VJ4o | 1,303 | 15 | 1,047 | 1.24 | 5 | 1.35 | binh_thuong | – | Không | The Old Native American Trick That Roots ANY Branch in 7 Days (Costs $0) |
+| 2026-10-12 | 35 | CKU0mJS39pU | 1,875 | 15 | 1,047 | 1.79 | 5 | 1.35 | binh_thuong | – | Không | Your Roses Need This Before the First Frost, Most Gardeners Get It WRONG |
+| 2026-10-13 | 34 | qCT60v4GzpM | 885 | 15 | 1,047 | 0.85 | 5 | 1.35 | binh_thuong | – | Không | 25 Japanese Winter Garden Tricks for Seniors (That Cost PENNIES!) |
+| 2026-10-14 | 33 | y475zrTP2_s | 1,614 | 15 | 1,047 | 1.54 | 5 | 1.34 | binh_thuong | – | Không | Spray WD-40 in Your Garden and Watch What Happens (6 Uses Old Farmers Swear By) |
+| 2026-10-15 | 32 | htIsbc2jPVE | 1,413 | 15 | 1,056 | 1.34 | 5 | 1.23 | binh_thuong | – | Không | Clone ANY Fruit Tree From One Branch, The Japanese Way (No Grafting) |
+| 2026-10-16 | 31 | A61hV89gzz0 | 1,301 | 15 | 1,193 | 1.09 | 5 | 1.17 | binh_thuong | – | Không | 21 Native American Pest Tricks for Seniors That Cost PENNIES (No Sprays) |
+| 2026-10-19 | 28 | eOuS9YN86fA | 585,068 | 15 | 1,193 | 490 | 5 | 1.17 | chua_chin | – | Không | Your Christmas Cactus Needs This in October, Most Gardeners Get It WRONG |
+| 2026-10-20 | 27 | bhsZO5rQGMI | 1,399 | 15 | 1,301 | 1.08 | 5 | 1.06 | chua_chin | – | Không | NEVER Kill the Black Snake in Your Yard, Here's What It's Protecting You From |
+| 2026-10-21 | 26 | SWMvOg-E9Vs | 1,086 | 15 | 1,303 | 0.83 | 5 | 1.06 | chua_chin | – | Không | 11 Hydrogen Peroxide Tricks Exterminators Don't Want You to Know (#4 Saves $500) |
+| 2026-10-22 | 25 | Wd9kYL6MD8U | 1,168 | 15 | 1,303 | 0.90 | 5 | 1.06 | chua_chin | – | Không | Sweet as Honey, Crunchy as an Apple. 10 Pounds a Plant. Why Does Nobody Grow It? |
+| 2026-10-23 | 24 | Lyho3eDZP_0 | 5,178 | 15 | 1,303 | 3.97 | 5 | 0.81 | chua_chin | – | Không | Plant THIS Around Your House and Mice Stay Out All Winter (Old Farmer Trick) |
+| 2026-10-25 | 22 | wBQo8YVc3Lw | 1,889 | 15 | 1,303 | 1.45 | 5 | 0.73 | chua_chin | – | Không | Your Rosemary Needs This Before the First Frost, Most Gardeners Get It WRONG |
+| 2026-10-27 | 20 | IS5JrFJViyY | 1,381 | 15 | 1,399 | 0.99 | 5 | 0.68 | chua_chin | – | Không | NEVER Kill the Yellow Garden Spider, Here's What It's Protecting You From |
+| 2026-10-29 | 18 | Xow30CQGjAg | 946 | 15 | 1,399 | 0.68 | 5 | 0.68 | chua_chin | – | Không | 11 Hydrogen Peroxide Tricks Garden Centers Don't Want You to Know (#3 Saves $200) |
+| 2026-10-30 | 17 | QrP0OCAAVhU | 1,054 | 15 | 1,381 | 0.76 | 5 | 0.55 | chua_chin | – | Không | Tastes Like Banana Custard. Grows Wild in America. Why Does Nobody Plant It? |
+| 2026-11-02 | 14 | gkQ0S8WXtzI | 954 | 15 | 1,381 | 0.69 | 5 | 0.55 | chua_chin | – | Không | Title: Plant THIS Around Your Yard and Ticks Stay Away All Year (Old Farmer Trick) |
+| 2026-11-02 | 14 | 2EsHR19j29A | 748 | 15 | 1,381 | 0.54 | 5 | 0.55 | chua_chin | – | Không | Do These 5 Things To Your Christmas Cactus in October and Watch it Explode With Flowers! |
+| 2026-11-03 | 13 | M3AMdAdYKTM | 731 | 15 | 1,301 | 0.56 | 5 | 0.67 | chua_chin | – | Không | Your Amaryllis Needs This in November, Most Gardeners Get It WRONG! |
+| 2026-11-04 | 12 | AlihswruzIo | 2,449 | 15 | 1,301 | 1.88 | 5 | 0.59 | chua_chin | – | Không | Just 1 Glass of This Secret Water Makes Any Christmas Cactus Plant Bloom Like Crazy! |
+| 2026-11-05 | 11 | 2S-ZvzqxRcs | 763 | 15 | 1,301 | 0.59 | 5 | 0.45 | chua_chin | – | Không | Your Garlic Needs This in November, Most Gardeners Get It WRONG |
+| 2026-11-06 | 10 | ch49q0HLkNo | 877 | 15 | 1,168 | 0.75 | 5 | 0.51 | chua_chin | – | Không | Do This Right Now If You Want a BLOOMING Christmas Cactus By December! |
+| 2026-11-08 | 8 | yDk_bef70pE | 590 | 15 | 1,086 | 0.54 | 5 | 0.54 | chua_chin | – | Không | Top 10 Plants To Grow For This Christmas Season (Infinite Flowers!) |
+| 2026-11-09 | 7 | Ve8O9YjyS64 | 948 | 15 | 1,054 | 0.90 | 4 | – | chua_chin | – | Không | Too Lazy to Garden? Plant These 9 Perennials in November (They Come Back Forever) |
+| 2026-11-10 | 6 | 8QDk3Wj21s0 | 591 | 15 | 954 | 0.62 | 3 | – | chua_chin | – | Không | Secret Peel Trick Makes Christmas Cactus Bloom With Tons of Flowers! (Instant & FREE!) |
+| 2026-11-11 | 5 | 6itYeF3cb1c | 554 | 15 | 948 | 0.58 | 2 | – | chua_chin | – | Không | 15 Survival Crops That Become WORTH GOLD When Society Collapses |
+| 2026-11-12 | 4 | 6FMJNRZrl04 | 586 | 15 | 946 | 0.62 | 1 | – | chua_chin | – | Không | How To Properly Repot a Christmas Cactus (Best Method) |
+| 2026-11-13 | 3 | ojZz0hsVMWc | 505 | 15 | 877 | 0.58 | 0 | – | chua_chin | – | Không | 20 POOR MAN Gardening Tricks That Make Expensive Tools & Equipment Look Like a Scam |

@@ -1,0 +1,150 @@
+# Đo kênh: UCcJceGUaevGlP7s2xzL9akA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 111 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 605 |
+| n_trong_danh_sach | 101 |
+| n_dai | 100 |
+| n_short | 1 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 1,240,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-05-04 |
+| n_ngoai_cua_so | 10 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 24,626 |
+| cao_nhat | 546,955 |
+| thap_nhat | 14,309 |
+| phan_tan | 22.21 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.15 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 1.20 |
+| ngay_video_dau | 2016-09-18 |
+| tuoi_tu_video_dau | 3,711 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 334 |
+| sub_moi_video | 2,050 |
+| video_30_ngay | 2 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2016-09-18 | 3,711 | 64gu27K2B8A | 8,149 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Tropical garden update Southern California |
+| 2016-11-18 | 3,650 | SJeu1e_uiNc | 2,545 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Southern California tropical garden November update.. greenhouse. |
+| 2017-01-14 | 3,593 | ymaF5gxRBk8 | 1,856 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | January 14, 2017 |
+| 2017-08-02 | 3,393 | g_BwZA3qL1A | 18,268 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Southern California tropical garden update August 2017 |
+| 2017-10-18 | 3,316 | DkGZTT-vqiI | 997 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Fall Garden Series... AAS Varieties |
+| 2018-02-06 | 3,205 | 7GRs3OOggSo | 28,443 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Meyer Lemon Espalier |
+| 2018-02-06 | 3,205 | IWXYHfk_Jt4 | 37,027 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Planting Bare Root Raspberries |
+| 2018-02-09 | 3,202 | l86uElv8Kvs | 15,580 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Apple Trees - Winter Pruning and Care |
+| 2025-05-04 | 561 | QhpYNbWJGBU | 374,453 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The ONE Tomato Growing Hack That Actually Works! |
+| 2025-05-10 | 555 | nHB3EnOqzYw | 58,127 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Grow More Food in Raised Beds & Containers -7 Creative Ways |
+| 2025-05-17 | 548 | FJfqRE2rDd0 | 91,735 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Tomato Growing Mistakes - How to Avoid or Fix Them...How to Grow Tomatoes. |
+| 2025-05-24 | 541 | jciKRMW3N3Y | 56,901 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 PEPPER Growing Mistakes You Can EASILY Avoid |
+| 2025-06-07 | 527 | rGnKFH3QNTk | 42,790 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Secrets Garden Centers Don't Want You To Know! |
+| 2025-06-14 | 520 | lqAaRrvDPAo | 310,733 | 5 | 58,127 | 5.35 | 5 | 0.80 | manh | – | Không | Curled Tomato Leaves? Don’t Panic—Do This! |
+| 2025-06-21 | 513 | zTyxlUKlTwM | 46,290 | 6 | 74,931 | 0.62 | 5 | 0.60 | binh_thuong | – | Không | 7 Fertilizer Mistakes That RUIN Your Vegetable Garden |
+| 2025-06-28 | 506 | tsrBSD7l7i4 | 30,591 | 7 | 58,127 | 0.53 | 5 | 1.04 | binh_thuong | – | Không | How to Grow Vegetables in Containers // Container Gardening |
+| 2025-07-05 | 499 | rd1XSTmVYow | 60,181 | 8 | 57,514 | 1.05 | 5 | 0.78 | binh_thuong | – | Không | 10 Crops to Direct Sow in July, Wherever You Live! |
+| 2025-07-12 | 492 | DUwGe8sLJSw | 119,624 | 9 | 58,127 | 2.06 | 5 | 0.63 | hoi_cao | – | Không | Why Do My Raised Beds Dry Out So Fast? 5 Raised Bed Watering Mistakes. |
+| 2025-07-19 | 485 | GsF7xQGIRRQ | 36,348 | 10 | 59,154 | 0.61 | 5 | 0.76 | binh_thuong | – | Không | The BIGGEST Gardening LIE! It will waste your time & energy! |
+| 2025-07-26 | 478 | SpjnIQqKVK8 | 44,976 | 11 | 58,127 | 0.77 | 5 | 0.35 | binh_thuong | – | Không | 4 Secret Ingredients Your Tomatoes & Peppers Are Begging For! |
+| 2025-08-02 | 471 | DCZnX75EvRI | 100,751 | 12 | 57,514 | 1.75 | 5 | 0.35 | binh_thuong | – | Không | 7 Crops to Direct Sow in August, Wherever You Live! |
+| 2025-08-09 | 464 | Ay0qFdBeWCs | 20,038 | 13 | 58,127 | 0.34 | 5 | 0.35 | binh_thuong | – | Không | Don't Do THIS to Your Peppers! |
+| 2025-08-16 | 457 | T94yiQqT4iw | 14,938 | 14 | 57,514 | 0.26 | 5 | 0.35 | binh_thuong | – | Không | 15 Genius Companion Plants for Tomato Lovers |
+| 2025-08-23 | 450 | p9DUh7x0-Pk | 97,117 | 15 | 56,901 | 1.71 | 5 | 0.35 | binh_thuong | – | Không | 6 Gardening Problems Solved with Hydrogen Peroxide |
+| 2025-08-24 | 449 | pgb4Y-63elw | 20,098 | 15 | 56,901 | 0.35 | 5 | 0.65 | binh_thuong | – | Không | Why Gardeners Are Pouring THIS on Ant Hills |
+| 2025-08-30 | 443 | PHBMOz2VjuQ | 91,436 | 15 | 46,290 | 1.98 | 5 | 0.71 | binh_thuong | – | Không | 10 Crops to Direct Sow in September, Wherever You Live! |
+| 2025-09-06 | 436 | 5NAr_TIqj_k | 16,141 | 15 | 46,290 | 0.35 | 5 | 0.71 | binh_thuong | – | Không | Top 6 Easy To Grow FALL Vegetables For Beginners/SEED TO HARVEST |
+| 2025-09-13 | 429 | HzfL1lXsRpg | 11,776 | 15 | 44,976 | 0.26 | 5 | 0.73 | binh_thuong | – | Không | 7 Fall Planting Mistakes |
+| 2025-09-20 | 422 | s1n932OdiKE | 122,913 | 15 | 44,976 | 2.73 | 5 | 0.51 | hoi_cao | – | Không | How to OverWinter Your Pepper Plants... In Any Climate! |
+| 2025-09-27 | 415 | gjEezw2sfWE | 37,105 | 15 | 44,976 | 0.82 | 5 | 0.51 | binh_thuong | – | Không | 14 Crops to Direct Sow in October, Wherever You Live! |
+| 2025-10-04 | 408 | KaXb2J41WkM | 32,996 | 15 | 37,105 | 0.89 | 5 | 0.59 | binh_thuong | – | Không | Do THIS Before Winter Hits Your Raised Beds - Any Climate! |
+| 2025-10-11 | 401 | 9MoH82nQ9BU | 18,267 | 15 | 37,105 | 0.49 | 5 | 0.59 | binh_thuong | – | Không | FALL PLANTING! The EASIEST Way to Plant Potatoes! |
+| 2025-10-18 | 394 | nwYu2dmW_wk | 21,910 | 15 | 36,348 | 0.60 | 5 | 0.37 | binh_thuong | – | Không | Plant Onions in FALL for BEST RESULTS! |
+| 2025-10-25 | 387 | RbQMDNOLTKA | 22,918 | 15 | 32,996 | 0.69 | 5 | 0.41 | binh_thuong | – | Không | How to Grow Peas  -  Complete Growing Guide |
+| 2025-11-08 | 373 | oTtdaaWr8Co | 28,280 | 15 | 22,918 | 1.23 | 5 | 0.59 | binh_thuong | – | Không | How to Grow Asparagus - Step By Step - Complete Grow Guide |
+| 2025-11-15 | 366 | TQ52J3RiSVs | 11,741 | 15 | 22,918 | 0.51 | 5 | 0.82 | binh_thuong | – | Không | Epsom Salt Is Ruining Your Garden—Here’s Proof |
+| 2025-11-22 | 359 | HwUNYGfrVv4 | 12,250 | 15 | 21,910 | 0.56 | 5 | 2.55 | binh_thuong | – | Không | DO NOT Rotate Your Crops in 2026 Unless You Have This Issue |
+| 2025-12-20 | 331 | 7yU0e6XCJig | 13,409 | 15 | 21,910 | 0.61 | 5 | 3.14 | binh_thuong | – | Không | Why Your Lettuce Fails (And How to Grow It Perfectly) |
+| 2026-01-03 | 317 | doxm54KhEBU | 90,695 | 15 | 21,910 | 4.14 | 5 | 3.14 | dang_ghi | – | Không | The Seed Packet Detail That Ruins Tomato Yields |
+| 2026-01-10 | 310 | nx3VI2fSHjc | 223,708 | 15 | 21,910 | 10.21 | 5 | 3.14 | can_kiem_ky | – | Không | The Raised Bed Detail Most Gardeners Get Wrong |
+| 2026-01-14 | 306 | _WJiPmAzaFc | 18,885 | 15 | 22,918 | 0.82 | 5 | 3.00 | binh_thuong | – | Không | 10 Easiest Vegetables to Start From Seed (Beginner Proof) |
+| 2026-01-17 | 303 | EANCiAAZSCE | 55,767 | 15 | 21,910 | 2.55 | 5 | 3.14 | hoi_cao | – | Không | This Is Why Indoor Seed Starting Fails |
+| 2026-01-22 | 298 | anJrRPg3aHI | 68,829 | 15 | 22,918 | 3.00 | 5 | 3.42 | dang_ghi | – | Không | Is The Government Coming For Our Seeds? |
+| 2026-01-24 | 296 | DY_-ojbzauU | 381,469 | 15 | 28,280 | 13.49 | 5 | 2.77 | can_kiem_ky | – | Không | The Biggest Seed-Starting Mistake Everyone Makes |
+| 2026-01-31 | 289 | q2BUCU1BSRM | 78,419 | 15 | 28,280 | 2.77 | 5 | 1.46 | hoi_cao | – | Không | Tomatoes I’m Done Growing (And What I'm Planting Instead) |
+| 2026-02-05 | 284 | lG1d2f7oeuU | 31,179 | 15 | 28,280 | 1.10 | 5 | 3.18 | binh_thuong | – | Không | How I Decide What to Start in February (Any Climate) |
+| 2026-02-07 | 282 | UJZixt3Q4Gs | 31,484 | 15 | 28,280 | 1.11 | 5 | 4.58 | binh_thuong | – | Không | Grow the RIGHT Tomato for Where You Live (Stop Guessing) |
+| 2026-02-14 | 275 | bNUAw0X-pmg | 644,824 | 15 | 31,179 | 20.68 | 5 | 2.88 | can_kiem_ky | – | Không | Seed-Starting Mistakes Pros Never Make |
+| 2026-02-21 | 268 | l7UCbDzdsd4 | 129,604 | 15 | 31,484 | 4.12 | 5 | 2.85 | dang_ghi | – | Không | Why Your Pepper Seedlings Struggle Indoors |
+| 2026-02-26 | 263 | 7zE2PjTW99k | 41,178 | 15 | 55,767 | 0.74 | 5 | 2.83 | binh_thuong | – | Không | Plant These in March Now (Before It’s Too Late) |
+| 2026-02-28 | 261 | TGQxCZNiT5k | 89,842 | 15 | 55,767 | 1.61 | 5 | 2.83 | binh_thuong | – | Không | I Built My Raised Beds Wrong — Don’t Do This! |
+| 2026-03-07 | 254 | V33juEQllNo | 173,939 | 15 | 68,829 | 2.53 | 5 | 2.29 | hoi_cao | – | Không | Best Way to Start Tomato Seeds Indoors to Grow Strong Plants |
+| 2026-03-14 | 247 | iwrg3RoPweA | 27,128 | 15 | 78,419 | 0.35 | 5 | 2.51 | binh_thuong | – | Không | I Was Wrong About These Gardening Tips (Fix This Now) |
+| 2026-03-21 | 240 | 0B7G1pok1uE | 573,114 | 15 | 78,419 | 7.31 | 5 | 2.01 | manh | – | Không | Seeds Sprouted? Do This Next |
+| 2026-03-28 | 233 | VnkLhzN98i8 | 157,822 | 15 | 78,419 | 2.01 | 5 | 1.07 | hoi_cao | – | Không | Cut THESE Branches for More Figs |
+| 2026-04-02 | 228 | JT9W2PZWjqw | 25,769 | 15 | 78,419 | 0.33 | 5 | 1.07 | binh_thuong | – | Không | Seed Starting in April Is Different — Do This Instead |
+| 2026-04-04 | 226 | qZLNMLwwKCc | 219,502 | 15 | 78,419 | 2.80 | 5 | 1.07 | hoi_cao | – | Không | The ONE Way to Grow Tomatoes That Works |
+| 2026-04-09 | 221 | N1NCpbnzPWY | 196,630 | 15 | 89,842 | 2.19 | 5 | 0.63 | hoi_cao | – | Không | Don’t Grow Sweet Potatoes Until You Watch This |
+| 2026-04-11 | 219 | w3P8p4T5p8w | 83,975 | 15 | 129,604 | 0.65 | 5 | 0.18 | binh_thuong | – | Không | April Gardening Mistakes That Could Ruin Your Season |
+| 2026-04-16 | 214 | 7Z6JZXPCBJM | 23,421 | 15 | 89,842 | 0.26 | 5 | 0.59 | binh_thuong | – | Không | Do You Actually Need Fertilizer? (Most Get This Wrong) |
+| 2026-04-18 | 212 | acJowCH9iEk | 56,824 | 15 | 89,842 | 0.63 | 5 | 0.59 | binh_thuong | – | Không | Most People Fill Raised Beds Wrong (Do This Instead) |
+| 2026-04-22 | 208 | Nd2-jzwC_oM | 103,676 | 15 | 89,842 | 1.15 | 5 | 0.26 | binh_thuong | – | Không | Why Your Raised Bed Soil Stops Working After 3 Years |
+| 2026-04-24 | 206 | 2g_avC-8SwQ | 23,633 | 15 | 103,676 | 0.23 | 5 | 0.51 | binh_thuong | – | Không | You’re Making Gardening Harder Than It Needs to Be |
+| 2026-04-25 | 205 | nhi84-VWBRE | 19,004 | 15 | 89,842 | 0.21 | 5 | 0.66 | binh_thuong | – | Không | I Buried Logs in My Raised Bed… Here’s What Happened |
+| 2026-04-29 | 201 | MZ_2lC939pM | 52,898 | 15 | 83,975 | 0.63 | 5 | 0.71 | binh_thuong | – | Không | Your Plants Aren’t Growing… Here’s Why |
+| 2026-05-01 | 199 | LLgf8YDVVbQ | 59,428 | 15 | 83,975 | 0.71 | 5 | 0.68 | binh_thuong | – | Không | What to Plant in May Before It’s Too Late |
+| 2026-05-02 | 198 | limsDH5uqN4 | 19,568 | 15 | 59,428 | 0.33 | 5 | 0.96 | binh_thuong | – | Không | Most Gardening Products are a Waste of Money |
+| 2026-05-08 | 192 | NZI1QXFYx98 | 60,638 | 15 | 56,824 | 1.07 | 5 | 1.00 | binh_thuong | – | Không | Pepper Growing Mistakes That Ruin Harvests |
+| 2026-05-09 | 191 | fI5KI_ZpElc | 399,748 | 15 | 59,428 | 6.73 | 5 | 0.71 | manh | – | Không | 7 Raised Bed Mistakes to Avoid |
+| 2026-05-15 | 185 | mBgSLbNY5ms | 42,308 | 15 | 59,428 | 0.71 | 5 | 0.33 | binh_thuong | – | Không | Grow TONS of Cherry Tomatoes in ONE Pot |
+| 2026-05-16 | 184 | o2pvAflGoIQ | 57,046 | 15 | 56,824 | 1.00 | 5 | 0.35 | binh_thuong | – | Không | The 10 Most Productive Vegetables You Can Grow |
+| 2026-05-21 | 179 | 7c49JQsNp0s | 15,261 | 15 | 57,046 | 0.27 | 5 | 0.61 | binh_thuong | – | Không | 7 Fertilizer Mistakes That are Killing Your Garden |
+| 2026-05-23 | 177 | ClOefLyN_0g | 113,269 | 15 | 56,824 | 1.99 | 5 | 0.35 | binh_thuong | – | Không | How to Grow Tomatoes (NOT Leaves) \| The Complete Guide |
+| 2026-05-30 | 170 | qQ4jRYKpwEs | 19,832 | 15 | 56,824 | 0.35 | 5 | 0.62 | binh_thuong | – | Không | Most Tomato Companion Planting Advice Is Wrong |
+| 2026-06-06 | 163 | JTn4CqPmOUw | 19,266 | 15 | 52,898 | 0.36 | 5 | 0.66 | binh_thuong | – | Không | Your Tomato Plant Looks Healthy… That’s the Problem |
+| 2026-06-07 | 162 | l33166YCIs0 | 38,395 | 15 | 52,898 | 0.73 | 5 | 0.66 | binh_thuong | – | Không | What to Plant in June (Before It's Too Late) |
+| 2026-06-13 | 156 | PMcIqzBlVKY | 35,043 | 15 | 42,308 | 0.83 | 5 | 0.61 | binh_thuong | – | Không | Most Tomato Advice Is WRONG |
+| 2026-06-20 | 149 | BT8sJxgTvJg | 10,511 | 15 | 38,395 | 0.27 | 5 | 0.67 | binh_thuong | – | Không | Everything You’ve Been Told About Gardening Is WRONG |
+| 2026-06-25 | 144 | z7Mir7K1m-g | 163,057 | 15 | 38,395 | 4.25 | 5 | 0.67 | dang_ghi | – | Không | Stop Buying Basil — Do This Instead |
+| 2026-06-27 | 142 | HLS_qlxPQWA | 25,845 | 15 | 42,308 | 0.61 | 5 | 0.67 | binh_thuong | – | Không | Stop Believing the Raised Bed Hype |
+| 2026-07-02 | 137 | nXCS45HxDGA | 148,906 | 15 | 38,395 | 3.88 | 5 | 0.46 | dang_ghi | – | Không | EARWIGS Are DESTROYING Your Garden! Do This Tonight |
+| 2026-07-04 | 135 | ErUKqhpha58 | 17,655 | 15 | 38,395 | 0.46 | 5 | 0.48 | binh_thuong | – | Không | What to Plant in JULY (And What to Stop Growing) |
+| 2026-07-09 | 130 | FZbH6Q6D8Yg | 9,445 | 15 | 38,395 | 0.25 | 5 | 0.57 | binh_thuong | – | Không | 4 Weird Products That Actually Work in the Garden |
+| 2026-07-11 | 128 | SghlI4QkYbg | 88,097 | 15 | 35,043 | 2.51 | 5 | 0.62 | hoi_cao | – | Không | The Biggest Mistake Tomato Gardeners Make in Summer |
+| 2026-07-16 | 123 | sFVtfrLsSVs | 28,458 | 15 | 35,043 | 0.81 | 5 | 0.62 | binh_thuong | – | Không | Don't Spray Powdery Mildew Until You Watch This |
+| 2026-07-18 | 121 | O2CQYxZPQH4 | 10,008 | 15 | 28,458 | 0.35 | 5 | 1.21 | binh_thuong | – | Không | Should You Stop Buying Lettuce? |
+| 2026-07-23 | 116 | YyCg27cEREE | 18,389 | 15 | 25,845 | 0.71 | 5 | 1.33 | binh_thuong | – | Không | The Biggest Mistakes Pepper Gardeners Make in Summer |
+| 2026-07-25 | 114 | cKh9VvS4_nA | 21,736 | 15 | 25,845 | 0.84 | 5 | 1.33 | binh_thuong | – | Không | Grow More Squash in Less Space |
+| 2026-07-30 | 109 | WbSvvJtjZ4s | 37,248 | 15 | 21,736 | 1.71 | 5 | 1.59 | binh_thuong | – | Không | Why Do My Raised Beds Dry Out So Fast? (5 Watering Mistakes) |
+| 2026-08-01 | 107 | DzWh1OZuSWE | 42,393 | 15 | 25,845 | 1.64 | 5 | 0.97 | binh_thuong | – | Không | What to Plant in August (Before the Window Closes) |
+| 2026-08-06 | 102 | 1vwDHx9KYAE | 34,462 | 15 | 28,458 | 1.21 | 5 | 0.78 | binh_thuong | – | Không | 7 Raised Bed Gardening Hacks I Wish I Knew Sooner |
+| 2026-08-08 | 100 | wwt-eQu03J0 | 25,084 | 15 | 28,458 | 0.88 | 5 | 0.78 | binh_thuong | – | Không | Why Are My Tomato Leaves Turning Yellow? |
+| 2026-08-15 | 93 | ABVr0tUCoy4 | 16,812 | 15 | 25,845 | 0.65 | 5 | 1.44 | binh_thuong | – | Không | How to Stop Aphids from Ruining Your Garden |
+| 2026-08-20 | 88 | mlXMHx3OWZU | 546,955 | 15 | 25,845 | 21.16 | 5 | 0.86 | can_kiem_ky | – | Không | How to Grow an Avocado Tree That Actually Produces Fruit |
+| 2026-08-22 | 86 | KpntOwkV6H8 | 22,215 | 15 | 25,845 | 0.86 | 5 | 0.94 | binh_thuong | – | Không | How to Get Rid of Tomato Hornworms |
+| 2026-08-27 | 81 | UBCci7n1HJ0 | 16,347 | 15 | 25,084 | 0.65 | 5 | 1.48 | binh_thuong | – | Không | How to Make Compost at Home (For Beginners) |
+| 2026-08-29 | 79 | NSsmvUMCJWk | 37,133 | 15 | 22,215 | 1.67 | 5 | 1.75 | binh_thuong | – | Không | Your Garden Isn’t Done! What to Plant in September |
+| 2026-09-05 | 72 | LY3m22VK1Vg | 126,175 | 15 | 25,084 | 5.03 | 5 | 0.96 | manh | – | Không | Green Tomatoes Won’t Ripen? Do This Before Frost |
+| 2026-09-10 | 67 | IqPuYFZo30U | 21,643 | 15 | 28,458 | 0.76 | 5 | 0.85 | binh_thuong | – | Không | Do This NOW or You’ll Regret It in Spring |
+| 2026-09-12 | 65 | ctYxUeDqeUs | 24,169 | 15 | 25,084 | 0.96 | 5 | 1.30 | binh_thuong | – | Không | Start Your Fall Seeds NOW — But Don’t Make These Mistakes |
+| 2026-09-17 | 60 | hdOOu9ZZgCE | 57,064 | 15 | 24,169 | 2.36 | 5 | 0.91 | hoi_cao | – | Không | Before You Throw Out Your Pepper Plants, Do This! |
+| 2026-09-19 | 58 | leXa2MY2G9g | 38,924 | 15 | 25,084 | 1.55 | 5 | 0.88 | binh_thuong | – | Không | I Ripped Out My Garden — Was It Worth It? |
+| 2026-09-24 | 53 | 3nS39vt0TpU | 14,309 | 15 | 34,462 | 0.42 | 5 | 0.64 | binh_thuong | – | Không | 7 Fall Garden Mistakes That Can Ruin Your Harvest |
+| 2026-09-26 | 51 | TfL-kxaVCkI | 20,488 | 15 | 34,462 | 0.59 | 4 | – | binh_thuong | – | Không | 14 Vegetables You Can STILL Plant in October |
+| 2026-10-10 | 37 | kiJAG5lc85o | 32,712 | 15 | 25,084 | 1.30 | 3 | – | binh_thuong | – | Không | I've Had Enough! |
+| 2026-10-15 | 32 | 1UvaUzy5yl0 | 22,108 | 15 | 25,084 | 0.88 | 2 | – | binh_thuong | – | Không | STOP Growing Peas Wrong! Do THIS Instead! |
+| 2026-10-24 | 23 | LrLCWlkkvU0 | 25,631 | 15 | 24,169 | 1.06 | 1 | – | chua_chin | – | Không | Grow Vegetables ALL WINTER With This Simple Trick! |
+| 2026-11-07 | 9 | zaDl5dkhD-c | 12,656 | 15 | 24,169 | 0.52 | 0 | – | chua_chin | – | Không | 44 Crops to Plant in NOVEMBER! |

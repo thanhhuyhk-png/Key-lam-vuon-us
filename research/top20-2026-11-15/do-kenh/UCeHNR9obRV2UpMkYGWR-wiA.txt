@@ -1,0 +1,80 @@
+# Đo kênh: UCeHNR9obRV2UpMkYGWR-wiA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 45 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 45 |
+| n_trong_danh_sach | 45 |
+| n_dai | 38 |
+| n_short | 7 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 8,050 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-02-24 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,581 |
+| cao_nhat | 221,630 |
+| thap_nhat | 151 |
+| phan_tan | 140 |
+| so_video_tren_2x | 9 |
+| ty_le_tren_2x | 0.45 |
+| trung_vi_chia_sub | 0.20 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 12.11 |
+| ngay_video_dau | 2026-02-24 |
+| tuoi_tu_video_dau | 265 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 30.38 |
+| sub_moi_video | 179 |
+| video_30_ngay | 3 |
+| ty_trong_view_short | 0.08 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-02-24 | 265 | XcO1FqUEyFQ | 201 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Every Type of Berry Explained |
+| 2026-03-08 | 253 | DJz9LlzmoZA | 225 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Every Forgotten Cherry Explained |
+| 2026-03-12 | 249 | mKcIVT-SP5E | 69 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Every Anti Aging Plant Explained |
+| 2026-03-14 | 247 | vtRnFhvZC9g | 70 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Every Profitable Plants Explained in 14 Minutes |
+| 2026-03-29 | 232 | oJ1ZB-ulehw | 302 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 15 Forgotten Vegetables That Grow Like Weeds |
+| 2026-03-31 | 230 | KZtw7kLVqLw | 831 | 5 | 201 | 4.13 | 5 | 2.26 | dang_ghi | – | Không | 8 Fruits For Pots and Small Space Gardening |
+| 2026-04-04 | 226 | ozZzdTZ2Lls | 579 | 6 | 213 | 2.72 | 5 | 1.54 | hoi_cao | – | Không | 8 Fruit Trees You Can Grow in Poor Soil |
+| 2026-04-06 | 224 | aYi50-10tqA | 454 | 7 | 225 | 2.02 | 5 | 1.10 | hoi_cao | – | Không | 8 Vegetables You Can Regrow From Kitchen Scraps |
+| 2026-04-08 | 222 | negLGR9nUVY | 679 | 8 | 264 | 2.58 | 5 | 0.94 | hoi_cao | – | Không | Plant These Vegetables For Fast Harvest |
+| 2026-04-11 | 219 | AIQ2wpexEXc | 327 | 9 | 302 | 1.08 | 5 | 0.80 | binh_thuong | – | Không | 10 Easy To Grow Vegetables In Backyard |
+| 2026-04-14 | 216 | gf1rIDjjzA4 | 195 | 10 | 314 | 0.62 | 5 | 0.79 | binh_thuong | – | Không | 10 Perennials Flowers That Bloom Fast |
+| 2026-04-18 | 212 | NH1Qnbh9P0M | 248 | 11 | 302 | 0.82 | 5 | 3.14 | binh_thuong | – | Không | 10 Plants You Should Avoid To Plant |
+| 2026-04-21 | 209 | gLo0KdXOC-k | 208 | 12 | 275 | 0.76 | 5 | 3.67 | binh_thuong | – | Không | 10 Vegetables To Grow in Pots and Small Spaces |
+| 2026-04-25 | 205 | 9F1xww314RM | 1,008 | 13 | 248 | 4.06 | 5 | 28.63 | dang_ghi | – | Không | 10 Vegetables That Need Minimum Sunlight |
+| 2026-04-27 | 203 | xlKnbGIpPGc | 242 | 14 | 275 | 0.88 | 5 | 25.82 | binh_thuong | – | Không | 10 Plants That Control Garden Pests Naturally |
+| 2026-04-30 | 200 | nVL7gvjM2IE | 7,100 | 15 | 248 | 28.63 | 5 | 87.51 | can_kiem_ky | – | Không | 10 Veggies You Should Plant in May |
+| 2026-05-02 | 198 | g1ybJR6Q-sQ | 949 | 15 | 302 | 3.14 | 5 | 71.86 | dang_ghi | – | Không | 10 Vertical Garden Hacks for Better Harvest |
+| 2026-05-12 | 188 | uTYj0iYwG1o | 45,270 | 15 | 327 | 138 | 5 | 2.50 | can_kiem_ky | – | Không | 8 Vegetables That Thrive In Heat And Summer Drought |
+| 2026-05-16 | 184 | Aypcf1bwkLc | 21,702 | 15 | 454 | 47.80 | 5 | 1.15 | can_kiem_ky | – | Không | 8 Vertical Climbing Vegetables That Thrive With Minimum Maintenance |
+| 2026-05-21 | 179 | vZP6RSKRf7M | 520 | 15 | 579 | 0.90 | 5 | 0.63 | binh_thuong | – | Không | 7 Root Veggies You can Grow Easily |
+| 2026-05-29 | 171 | LRiXGP43Wy8 | 27,554 | 15 | 579 | 47.59 | 5 | 0.63 | can_kiem_ky | – | Không | 8 Vegetables You Should Plant in June |
+| 2026-06-06 | 163 | HWWOTFaZZ5o | 151 | 15 | 579 | 0.26 | 5 | 0.63 | binh_thuong | – | Không | 8 Vegetables That are Too Easy To Grow |
+| 2026-06-10 | 159 | 0ioErkbB0Z8 | 818 | 15 | 520 | 1.57 | 5 | 0.70 | binh_thuong | – | Không | 10 Vegetables You Can Still Plant in Summer |
+| 2026-06-15 | 154 | J6ecslar3EQ | 162 | 15 | 679 | 0.24 | 5 | 0.73 | binh_thuong | – | Không | How to Pick a Sweet And Juicy Watermelon, 9 Things to Look For |
+| 2026-06-18 | 151 | AEQ9mQrLUSU | 366 | 15 | 520 | 0.70 | 5 | 0.95 | binh_thuong | – | Không | 10 Beautiful Perennials You Should Plant in June(Before it's too late) |
+| 2026-06-24 | 145 | OCbJsxrv5Og | 157,199 | 15 | 520 | 302 | 5 | 0.95 | can_kiem_ky | – | Không | 15 Vegetables You Can Plant in July |
+| 2026-07-07 | 132 | B32SW2f9ooA | 308 | 15 | 818 | 0.38 | 5 | 0.61 | binh_thuong | – | Không | 10 Container Vegetables You Can Still Start in July |
+| 2026-07-16 | 123 | AvGR9nvNiNk | 193,847 | 15 | 818 | 237 | 5 | 0.61 | can_kiem_ky | – | Không | 15 Vegetables You Must Plant in August |
+| 2026-08-02 | 106 | 1SH18IHw9WY | 495 | 15 | 949 | 0.52 | 5 | 2.33 | binh_thuong | – | Không | 13 Spiritual Plants That Attract Positive Energy into Your Home |
+| 2026-08-12 | 96 | pnqQfYxhIXY | 379 | 15 | 818 | 0.46 | 5 | 23.45 | binh_thuong | – | Không | 8 Tips How to Grow Sweet Potato in One Container |
+| 2026-08-21 | 87 | dOYKEdmPXWY | 175,467 | 15 | 818 | 215 | 5 | 23.45 | can_kiem_ky | – | Không | 20 Vegetables You Can Still Start in September |
+| 2026-09-08 | 69 | nBsIBn16Yrg | 321 | 15 | 818 | 0.39 | 5 | 23.45 | binh_thuong | – | Không | 15 Plant Foods That Have More Protein Than Meat |
+| 2026-09-10 | 67 | 2d9NYBKAWH4 | 2,213 | 15 | 520 | 4.26 | 5 | 36.88 | dang_ghi | – | Không | 20 Container Vegetables To Plant in Fall And Forget All Winter |
+| 2026-09-22 | 55 | o9R5c_YQtvM | 221,630 | 15 | 520 | 426 | 4 | – | can_kiem_ky | – | Không | 20 Vegetables To Plant in October ASAP |
+| 2026-10-16 | 31 | iMTGeQO3XbQ | 19,180 | 15 | 520 | 36.88 | 3 | – | can_kiem_ky | – | Không | 15 Vegetables Must Plant in Late October |
+| 2026-10-23 | 24 | 3Ov5og7i0OM | 27,625 | 15 | 818 | 33.77 | 2 | – | chua_chin | – | Không | 20 Vegetables You Should Plant in November ASAP |
+| 2026-10-30 | 17 | hpjmqco2ImU | 3,015 | 15 | 818 | 3.69 | 1 | – | chua_chin | – | Không | 15 Container Vegetables You'll Deeply Regret Not Planting in November |
+| 2026-11-11 | 5 | v5_XtaOkfCI | 664 | 15 | 2,213 | 0.30 | 0 | – | chua_chin | – | Không | 15 Container Vegetables That Survive Winter in Small Spaces |

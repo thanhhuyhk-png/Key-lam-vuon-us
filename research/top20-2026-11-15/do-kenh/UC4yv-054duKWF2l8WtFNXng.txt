@@ -1,0 +1,69 @@
+# Đo kênh: UC4yv-054duKWF2l8WtFNXng.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 27 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 27 |
+| n_trong_danh_sach | 27 |
+| n_dai | 27 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 1,290 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-21 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 4,299 |
+| cao_nhat | 369,853 |
+| thap_nhat | 174 |
+| phan_tan | 86.03 |
+| so_video_tren_2x | 7 |
+| ty_le_tren_2x | 0.35 |
+| trung_vi_chia_sub | 3.33 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.28 |
+| ngay_video_dau | 2026-04-21 |
+| tuoi_tu_video_dau | 209 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 6.17 |
+| sub_moi_video | 47.78 |
+| video_30_ngay | 6 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-04-21 | 209 | Q41beekZJ00 | 8,030 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Growing Orchids In Water 🌸 Secrets To Orchids create new roots and flowers immediately |
+| 2026-04-22 | 208 | Q-HMC-mnOlg | 4,238 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Just Banana Peels And Beer 🌸 Secrets To Orchids Create New Roots And Flowers Immediately |
+| 2026-04-23 | 207 | JK2V1YWyQsk | 7,457 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Just Garlic 🌸 Simple Tricks to Root Phalaenopsis Orchid Leaves FAST And Flowers Immediately |
+| 2026-04-24 | 206 | EFIWbACBJmI | 4,360 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Just this powder - Will this method help orchids bloom faster in 30 days? |
+| 2026-05-02 | 198 | SiLh1m8JEcg | 2,666 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Just garlic Orchid In Water 🌸 Secrets To Orchids create new roots and flowers immediately |
+| 2026-05-03 | 197 | GHsv5AydsEw | 16,873 | 5 | 4,360 | 3.87 | 5 | 0.40 | dang_ghi | – | Không | 🌸Just Need Rice! Orchid leaves immediately grow roots and bloom all year round |
+| 2026-05-04 | 196 | e1002C7UCmM | 854 | 6 | 5,908 | 0.14 | 5 | 1.06 | binh_thuong | – | Không | Just this type of seed is enough - Will this method help orchids bloom faster in 30 days? |
+| 2026-05-05 | 195 | Yvm8zhe5UQc | 6,251 | 7 | 4,360 | 1.43 | 5 | 0.44 | binh_thuong | – | Không | Use Cinnamon Powder To Help Orchids Bloom Even When Grown In Water 🌸 |
+| 2026-05-06 | 194 | UHV-zS9_spo | 1,731 | 8 | 5,306 | 0.33 | 5 | 0.36 | binh_thuong | – | Không | Just Coffee Beans 🌸 Secrets To Orchids Create New Roots And Flowers Immediately |
+| 2026-05-07 | 193 | pAm1kF5qei4 | 1,012 | 9 | 4,360 | 0.23 | 5 | 0.44 | binh_thuong | – | Không | Just Ginger 🌸 Simple Tricks to Root Phalaenopsis Orchid Leaves FAST And Flowers Immediately |
+| 2026-05-09 | 191 | JFRy2WS9Gf4 | 14,821 | 10 | 4,299 | 3.45 | 5 | 0.44 | dang_ghi | – | Không | Few people know that it is possible to propagate super-fast orchids this way |
+| 2026-05-10 | 190 | i8X_SjR1HtU | 9,082 | 11 | 4,360 | 2.08 | 5 | 0.30 | hoi_cao | – | Không | Just Garlic 🌸 Easy Tricks to Root Phalaenopsis Orchid Leaves FAST And Flowers Immediately |
+| 2026-05-14 | 186 | zeZYJdRDMQc | 1,906 | 12 | 5,306 | 0.36 | 5 | 0.25 | binh_thuong | – | Không | Few people know that you can revive a dying orchid plant super quickly this way. |
+| 2026-05-16 | 184 | 5l38RCGjrFk | 1,932 | 13 | 4,360 | 0.44 | 5 | 0.30 | binh_thuong | – | Không | Just onions 🌸 Simple tips to help Phalaenopsis orchids root quickly and bloom immediately |
+| 2026-05-18 | 182 | K9_6Pk3Zmqk | 1,300 | 14 | 4,299 | 0.30 | 5 | 10.27 | binh_thuong | – | Không | Just Onions 🌸 Easy Tricks to Root Phalaenopsis Orchid Leaves FAST And Flowers Immediately |
+| 2026-05-22 | 178 | dYUuMIS4OQM | 174 | 15 | 4,238 | 0.04 | 5 | 10.42 | binh_thuong | – | Không | Few people know that it is possible to onions super-fast orchids this way |
+| 2026-05-24 | 176 | KioPID0pmvs | 882 | 15 | 2,666 | 0.33 | 5 | 16.57 | binh_thuong | – | Không | 🌸Just use ginger! Your dying orchid will sprout roots immediately and bloom year-round. |
+| 2026-10-05 | 42 | TGhG9u0VMvg | 369,853 | 15 | 1,932 | 191 | 5 | 12.75 | can_kiem_ky | – | Không | Small Space, Bigger Cucumber Harvest! Try This Curved Trellis with Plastic Bin |
+| 2026-10-09 | 38 | lc7uQjYRy54 | 45,804 | 15 | 1,932 | 23.71 | 5 | 8.09 | can_kiem_ky | – | Không | This Plastic Container Method Grows Tons of Potato! |
+| 2026-10-12 | 35 | 2lasegXHlC0 | 44,169 | 15 | 1,932 | 22.86 | 5 | 3.81 | can_kiem_ky | – | Không | No Daily Watering! Grow Big and Sweet Watermelons in Plastic Bottles |
+| 2026-10-15 | 32 | 4Yjgq_xUaLQ | 24,627 | 15 | 1,932 | 12.75 | 5 | 1.62 | can_kiem_ky | – | Không | Limited Space? Grow More Green Beans With This Simple Sack Method |
+| 2026-10-20 | 27 | 6YtUrCEMOSk | 3,122 | 15 | 1,932 | 1.62 | 5 | 1.31 | chua_chin | – | Không | This Plastic Container Method Grows Tons of Tomatoes With Almost No Care! |
+| 2026-10-23 | 24 | 3BgyfQnU6C0 | 2,529 | 15 | 3,122 | 0.81 | 4 | – | chua_chin | – | Không | I Used Fish and Old Sacks to Grow Bottle Gourds… Look at the Harvest! |
+| 2026-10-28 | 19 | l-E2RjrbP80 | 15,622 | 15 | 2,529 | 6.18 | 3 | – | chua_chin | – | Không | Amazing Garlic Growing Hack! Strong Roots and Easy Harvests in Plastic Bottles |
+| 2026-11-01 | 15 | DXnuXQI72jA | 7,357 | 15 | 3,122 | 2.36 | 2 | – | chua_chin | – | Không | No Backyard Needed! Grow Big, Juicy Tomatoes with This Hanging Method! |
+| 2026-11-05 | 11 | hKfVHtGbXck | 1,073 | 15 | 7,357 | 0.15 | 1 | – | chua_chin | – | Không | Green Onions Grow Bigger and Faster With This Simple Potato Trick - Green Onions in Styrofoam Box |
+| 2026-11-11 | 5 | 7Na2AQLsPuI | 214 | 15 | 3,122 | 0.07 | 0 | – | chua_chin | – | Không | Growing Watermelons in Grow Bags \| Surprised by How Big and Sweet the Fruits Turn Out! |

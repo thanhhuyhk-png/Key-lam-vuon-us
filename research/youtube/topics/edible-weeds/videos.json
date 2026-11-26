@@ -1,0 +1,36 @@
+{
+  "keyword": "edible weeds",
+  "market": "US",
+  "date_range": "last 3 months (2026-04-15 → 2026-07-15)",
+  "generated": "2026-07-15",
+  "source_tools": ["vidiq_outliers", "vidiq_youtube_search"],
+  "note": "Nguồn gốc yêu cầu: video ES viral '11 Malezas Comestibles Que Podrían Estar Creciendo en Tu Jardín' (11 edible weeds that could be growing in your garden). Tìm landscape US market.",
+  "on_topic_winners": [
+    {"videoId": "f2j8lEhthfE", "title": "11 Backyard Weeds With Antibiotic Like Power", "channel": "Old Oak Gardening", "country": "US", "subs": 58900, "views": 284197, "breakout": 184.15, "vph": 263.03, "duration_s": 1484, "engagement": 0.026, "angle": "MEDICINAL/antibiotic", "published": "2026-05"},
+    {"videoId": "AgkNKbzRxiE", "title": "Stop Destroying These 10 Weeds — They're More Valuable Than Your Garden", "channel": "Hidden Nature Secret", "country": "US", "subs": 7950, "views": 300597, "breakout": 53.52, "vph": 162.97, "duration_s": 1205, "engagement": 0.042, "angle": "VALUE + negative-command", "published": "2026-04"},
+    {"videoId": "IDS-ETmRWpU", "title": "7 Weeds Stronger Than Antibiotics (You're Killing Them!)", "channel": "Garden Center Point", "country": "US", "subs": 2010, "views": 63832, "breakout": 129.21, "vph": 34.19, "duration_s": 723, "engagement": 0.034, "angle": "MEDICINAL/antibiotic", "published": "2026-04"},
+    {"videoId": "IhqTX7GiFZM", "title": "12 Backyard Weeds Most People Ignore — But They Act Like Antibiotics", "channel": "Industry Leak", "country": "GB", "subs": 12000, "views": 34876, "breakout": 71.05, "vph": 46.23, "duration_s": 2360, "engagement": 0.05, "angle": "MEDICINAL/antibiotic", "published": "2026-06"},
+    {"videoId": "prlt8nCC3U4", "title": "10 Backyard Weeds That Are Superfoods in Disguise", "channel": "Old Oak Gardening", "country": "US", "subs": 58900, "views": 39251, "breakout": 18.14, "vph": 43.02, "duration_s": 1466, "engagement": 0.056, "angle": "NUTRITION/superfood", "published": "2026-05"},
+    {"videoId": "gIohrb1WFYY", "title": "11 Backyard Weeds More Nutritious Than Vegetables", "channel": "Old Oak Gardening", "country": "US", "subs": 58900, "views": 21714, "breakout": 9.76, "vph": 19.48, "duration_s": 1361, "engagement": 0.027, "angle": "NUTRITION/superfood", "published": "2026-07"},
+    {"videoId": "A632zdQkfqA", "title": "11 Backyard Weeds That Work Like Natural Antibiotics", "channel": "The Homestead Gardener", "country": "DE", "subs": 46600, "views": 29735, "breakout": 10.7, "vph": 3.5, "duration_s": 1606, "engagement": 0.07, "angle": "MEDICINAL/antibiotic", "published": "2026-05"},
+    {"videoId": "DZZjbS7yqdc", "title": "10 Backyard Weeds With Surprising Health Benefits", "channel": "Old Oak Gardening", "country": "US", "subs": 58900, "views": 16893, "breakout": 4.47, "duration_s": 1326, "angle": "MEDICINAL/health", "published": "2026-05"}
+  ],
+  "recent_search_us": [
+    {"videoId": "3PwKc7Ni0HU", "title": "10 \"Weeds\" In Your Yard That Are Actually FREE Superfoods", "channel": "Garden Crumbs", "angle": "NUTRITION + FREE/value", "published": "2026-05-17"},
+    {"videoId": "WsmnbChevy8", "title": "6 \"Weeds\" Your Grandparents Ate (That You're Accidentally Throwing Away!)", "channel": "Garden Crumbs", "angle": "ANCESTRAL nostalgia + waste-regret", "published": "2026-05-29"},
+    {"videoId": "XkgHlf59f7s", "title": "You're Throwing Away Food! 12 Edible Weeds You Should Be Eating!", "channel": "Garden Smarter", "angle": "WASTE-regret + edible", "published": "2026-06-13"},
+    {"videoId": "xoR8ldA93is", "title": "This \"WEED\" is More Nutritious Than Your Vegetables!", "channel": "Nature at Your Door (Frank Taylor)", "angle": "SINGLE-SUBJECT deep dive", "published": "2026-04-18"},
+    {"videoId": "ruzPY-7nFdE", "title": "VIOLETS in your backyard! BEAUTIFUL AND NUTRITIOUS!", "channel": "Nature at Your Door (Frank Taylor)", "angle": "SINGLE-SUBJECT deep dive", "published": "2026-04-25"},
+    {"videoId": "M0E_IzTIlNE", "title": "This native backyard \"weed\" tastes like lemons!", "channel": "Nature at Your Door (Frank Taylor)", "angle": "SINGLE-SUBJECT + sensory hook", "published": "2026-06-27"},
+    {"videoId": "PALnDDtZlSE", "title": "Don't Pull Chickweed Until You Watch This!", "channel": "Nature at Your Door (Frank Taylor)", "angle": "SINGLE-SUBJECT + negative-command", "published": "2026-05-30"},
+    {"videoId": "wEGl-Ce7vcI", "title": "5 Wild Edible Plants You Probably Have In Your Back Yard", "channel": "Gathering Basket Homestead", "angle": "FORAGING demo", "published": "2026-06-09"},
+    {"videoId": "TKhNiepFqh8", "title": "Stop Killing These 6 Backyard Weeds Growing Free Food", "channel": "Homestead Ground", "angle": "VALUE + negative-command", "published": "2026-05-09"},
+    {"videoId": "f8EEYJ63Cmo", "title": "These 6 Common Weeds Are Actually the Most Valuable Plants in Your Yard", "channel": "Evergreen Home", "angle": "VALUE", "published": "2026-04-16"},
+    {"videoId": "df246iV6bgo", "title": "6 Common Weeds That Are More Nutritious Than Your Garden Crops", "channel": "Buried Knowledge", "angle": "NUTRITION", "published": "2026-04-23"},
+    {"videoId": "PVoagTJhqYQ", "title": "Stop Killing These 6 Weeds (They're Actually Edible!)", "channel": "The Herbal Discovery", "angle": "VALUE + edible", "published": "2026-05-29"},
+    {"videoId": "dWIQcxJnmL0", "title": "These 8 Weeds Are Worth More Than Your Plants in Your Yard", "channel": "Growinomics", "angle": "VALUE", "published": "2026-05-16"},
+    {"videoId": "6QFYSysrr2U", "title": "You're Destroying the Most Valuable Plants in Your Yard", "channel": "Remedy Roots", "angle": "VALUE + negative-command", "published": "2026-06-10"},
+    {"videoId": "tLy5lfGfns0", "title": "These 6 Weeds Could Be The Most Valuable Plants in Your Yard | Seedly", "channel": "Seedly", "angle": "VALUE", "published": "2026-04-15"},
+    {"videoId": "jg4KByv9EYk", "title": "Foraging a Spring Tea Blend From Wild Plants", "channel": "The Cottage Peach", "angle": "CULINARY/recipe application", "published": "2026-05-15"}
+  ]
+}

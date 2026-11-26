@@ -1,0 +1,120 @@
+# Đo kênh: UCirsWlC_-QNiW2CS5AKHN3g.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 78 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 78 |
+| n_trong_danh_sach | 78 |
+| n_dai | 78 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 230 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-01 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 650 |
+| cao_nhat | 6,372 |
+| thap_nhat | 34 |
+| phan_tan | 9.81 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 2.82 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.47 |
+| ngay_video_dau | 2026-08-01 |
+| tuoi_tu_video_dau | 107 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 2.15 |
+| sub_moi_video | 2.95 |
+| video_30_ngay | 12 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-01 | 107 | RsHZvdXgd8o | 12 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Plant These 20 Vegetables in August Before It’s Too Late |
+| 2026-08-02 | 106 | WNA4k9lRZXU | 2 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Flowers You Should Plant in August ASAP |
+| 2026-08-03 | 105 | to6ZqUOapSw | 6 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Plants That Can Build a Small Farm Fortune (Most People Ignore These) |
+| 2026-08-04 | 104 | SUnOQlnOqRw | 8 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Plants You Can Grow in Water That Help Support Collagen |
+| 2026-08-05 | 103 | -d0Qsxe3xq4 | 6 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Don’t Empty Your Pots This Fall: Grow These 20 Perennial Vegetables Instead |
+| 2026-08-06 | 102 | lRctEZdTsAg | 199 | 5 | 6 | 33.17 | 5 | 2.17 | can_kiem_ky | – | Không | 20 Lucky Plants That Attract Wealth (Most People Buy the Wrong Ones) |
+| 2026-08-07 | 101 | R_9eQ8cqvec | 13 | 6 | 7.00 | 1.86 | 5 | 1.86 | binh_thuong | – | Không | 20 Spiritual Plants for a Peaceful Home (And Which Ones to Avoid) |
+| 2026-08-08 | 100 | p__w3t_2uvM | 10 | 7 | 8 | 1.25 | 5 | 1.62 | binh_thuong | – | Không | 20 Indoor Plants That Actually Survive Without Sunlight |
+| 2026-08-09 | 99 | lxGai4KlYO0 | 13 | 8 | 9.00 | 1.44 | 5 | 4.78 | binh_thuong | – | Không | 20 Indoor Plants for Dim Rooms: Most People Pick the Wrong Ones |
+| 2026-08-10 | 98 | 7xmDQHT739Y | 336 | 9 | 10 | 33.60 | 5 | 0.80 | can_kiem_ky | – | Không | 20 Lucky Plants for Your Home (Most People Put Them in the Wrong Room) |
+| 2026-08-11 | 97 | xKSppoXIvkY | 51 | 10 | 11.00 | 4.64 | 5 | 0.73 | dang_ghi | – | Không | 20 Lucky Plants Everyone Wants, But Most People Misunderstand |
+| 2026-08-12 | 96 | YJGQZdFEcqY | 8 | 11 | 12 | 0.67 | 5 | 2.33 | binh_thuong | – | Không | 20 Indoor Plants That Can Grow In Water \| Grow Houseplants Without Soil |
+| 2026-08-13 | 95 | OKqNjYdNCZQ | 7 | 12 | 11.00 | 0.64 | 5 | 3.91 | binh_thuong | – | Không | 20 Houseplants That Outperform Air Fresheners (NASA Approved) |
+| 2026-08-14 | 94 | VIoQDKdpoz8 | 43 | 13 | 10 | 4.30 | 5 | 6.10 | dang_ghi | – | Không | 20 Spiritual Plants Said to Keep Bad Energy Away (And Invite Abundance) |
+| 2026-08-15 | 93 | m90QZmXXOKg | 7 | 14 | 11.00 | 0.64 | 5 | 12.64 | binh_thuong | – | Không | 20 Spiritual Plants That Bring Peace and Positive Energy Into Your Home |
+| 2026-08-16 | 92 | VOYuMAzDz3M | 180 | 15 | 10 | 18.00 | 5 | 13.90 | can_kiem_ky | – | Không | 20 Feng Shui Plants That Bring Good Energy Into Your Home |
+| 2026-08-17 | 91 | YaeK0k4MGBY | 28 | 15 | 10 | 2.80 | 5 | 39.70 | hoi_cao | – | Không | 20 Spiritual Plants Once Used Against the Evil Eye and Witchcraft |
+| 2026-08-18 | 90 | xBDmf9QxVRU | 493 | 15 | 13 | 37.92 | 5 | 15.31 | can_kiem_ky | – | Không | 20 Lucky Plants That Bring Good Luck and Prosperity Into Your Home |
+| 2026-08-19 | 89 | BRkkypWQjg8 | 61 | 15 | 13 | 4.69 | 5 | 15.31 | dang_ghi | – | Không | 20 Lucky Plants Linked to Money, Wealth and Prosperity Through History |
+| 2026-08-20 | 88 | Cm2ZNjh2AIE | 139 | 15 | 28 | 4.96 | 5 | 8.00 | dang_ghi | – | Không | 20 Feng Shui Plants and Exactly Where to Place Them in Your Home |
+| 2026-08-21 | 87 | at1mbwdYzWo | 486 | 15 | 43 | 11.30 | 5 | 4.63 | can_kiem_ky | – | Không | 20 Spiritual Plants That Make Your Home Feel Peaceful and Protected |
+| 2026-08-23 | 85 | uBy7pNglDXc | 397 | 15 | 43 | 9.23 | 5 | 2.33 | manh | – | Không | 20 Plants You're Using for Wealth That Are Actually Hurting Your Luck |
+| 2026-08-24 | 84 | E-bXJcr6NWY | 199 | 15 | 51 | 3.90 | 5 | 1.37 | dang_ghi | – | Không | 20 Lucky Indoor Plants for Small Spaces: Don't Buy the WRONG One |
+| 2026-08-25 | 83 | uo9B2jGdYDU | 100 | 15 | 61 | 1.64 | 5 | 1.15 | binh_thuong | – | Không | 20 Plants People Once Used to Keep Negative Energy OUT of the Home |
+| 2026-08-26 | 82 | R5AOKkH_c_s | 224 | 15 | 100 | 2.24 | 5 | 0.50 | hoi_cao | – | Không | 20 Feng Shui Plants for Your Front Door: Don't Put Them on the WRONG Side |
+| 2026-08-27 | 81 | 5fbgPf2syIk | 70 | 15 | 100 | 0.70 | 5 | 0.50 | binh_thuong | – | Không | 20 Spiritual Plants Old-Timers Used to Keep Evil OUT of the Home |
+| 2026-08-28 | 80 | peTyWEWJO1w | 34 | 15 | 100 | 0.34 | 5 | 3.52 | binh_thuong | – | Không | 20 Sacred Plants Used in Prayer & Blessing: What Most People Get Wrong |
+| 2026-08-29 | 79 | _R7YeK5al4o | 47 | 15 | 100 | 0.47 | 5 | 3.52 | binh_thuong | – | Không | 20 Plants Believed to Bring Good Luck Around the World: Some You May NOT Want to Bring Home |
+| 2026-08-30 | 78 | 4-Z1opnMeUw | 382 | 15 | 100 | 3.82 | 5 | 3.52 | dang_ghi | – | Không | 20 Feng Shui Plants That Could Be in the WRONG Place Right Now |
+| 2026-09-01 | 76 | KDVSD8tWGBA | 50 | 15 | 139 | 0.36 | 5 | 2.53 | binh_thuong | – | Không | 20 Spiritual Plants Linked to Love & Harmony: What Most People Get Wrong |
+| 2026-09-03 | 74 | ZhekIqeRPDg | 554 | 15 | 139 | 3.99 | 5 | 1.29 | dang_ghi | – | Không | 20 Lucky Plants for the Bedroom According to Feng Shui: Don't Pick the WRONG One |
+| 2026-09-04 | 73 | _6HACsskgcw | 352 | 15 | 139 | 2.53 | 5 | 0.35 | hoi_cao | – | Không | 20 Feng Shui Plants for the Kitchen and Dining Room: Don't Put Them in the WRONG Place |
+| 2026-09-05 | 72 | iSQ6bf1jF1M | 180 | 15 | 199 | 0.90 | 5 | 0.25 | binh_thuong | – | Không | 20 Spiritual Herbs Used to Bless & Protect the Home: What Most People Get Wrong |
+| 2026-09-07 | 70 | uNrdmRoOqa8 | 644 | 15 | 180 | 3.58 | 5 | 0.27 | dang_ghi | – | Không | 20 Ancient Plants Linked to Peace, Luck & Prosperity: What Most People Get Wrong |
+| 2026-09-09 | 68 | OyL17WznAjk | 49 | 15 | 199 | 0.25 | 5 | 0.33 | binh_thuong | – | Không | 20 Biblical Foods Modern Health Trends Forgot (Most Are Still in Your Kitchen) |
+| 2026-09-11 | 66 | MFvSkqEYM5c | 42 | 15 | 199 | 0.21 | 5 | 1.03 | binh_thuong | – | Không | 20 Foods From the Biblical World People Once Ate for Everyday Strength |
+| 2026-09-13 | 64 | cjadmnUlow0 | 29 | 15 | 180 | 0.16 | 5 | 1.29 | binh_thuong | – | Không | 20 Biblical Plants Once Used for Joint Comfort |
+| 2026-09-14 | 63 | om0WyOBHAss | 65 | 15 | 100 | 0.65 | 5 | 3.24 | binh_thuong | – | Không | 20 Forgotten American Remedies Grandma May Have Known |
+| 2026-09-15 | 62 | iM53XOWklNQ | 232 | 15 | 70 | 3.31 | 5 | 4.63 | dang_ghi | – | Không | 20 Perennial Vegetables You Can Plant Once and Harvest for Years |
+| 2026-09-16 | 61 | wQeW2vRhYD8 | 204 | 15 | 70 | 2.91 | 5 | 4.99 | hoi_cao | – | Không | 20 Biblical Plants Modern Health Forgot |
+| 2026-09-17 | 60 | RPUwCDJql4M | 349 | 15 | 70 | 4.99 | 5 | 5.01 | dang_ghi | – | Không | 20 Biblical Foods Modern Health Forgot |
+| 2026-09-18 | 59 | m0txOzu33ns | 324 | 15 | 180 | 1.80 | 5 | 6.08 | binh_thuong | – | Không | 20 Biblical Superfoods Modern Health Forgot |
+| 2026-09-19 | 58 | YNsBcufFHos | 2,356 | 15 | 204 | 11.55 | 5 | 5.36 | can_kiem_ky | – | Không | 20 Spiritual Plants That Attract Positive Energy Into Your Home |
+| 2026-09-20 | 57 | KA6zD5JG65Y | 167 | 15 | 232 | 0.72 | 5 | 4.72 | binh_thuong | – | Không | 20 Pretty Invasive Plants That Can Ruin Your Garden |
+| 2026-09-21 | 56 | qo0QFnnbUIk | 1,094 | 15 | 204 | 5.36 | 5 | 6.62 | manh | – | Không | 20 Garden Plants That Could Be Illegal Where You Live |
+| 2026-09-22 | 55 | s9iP7tA9hvo | 351 | 15 | 232 | 1.51 | 5 | 5.82 | binh_thuong | – | Không | 20 Biblical Meals Modern Diets Left Behind |
+| 2026-09-23 | 54 | DAyArfsWtXs | 1,595 | 15 | 232 | 6.88 | 5 | 4.72 | manh | – | Không | 20 Indoor Plants That Make Your Home Feel Fresh Again |
+| 2026-09-24 | 53 | PnTRscr20Ok | 6,372 | 15 | 232 | 27.47 | 5 | 3.64 | can_kiem_ky | – | Không | 20 Indoor Plants You Didn't Know Could Start in Water |
+| 2026-09-25 | 52 | jaiil-c9-_c | 1,096 | 15 | 324 | 3.38 | 5 | 2.60 | dang_ghi | – | Không | 20 Indoor Plants That Make a House Feel Like a Home Again |
+| 2026-09-26 | 51 | n9svbwmchHE | 1,351 | 15 | 324 | 4.17 | 5 | 2.60 | dang_ghi | – | Không | 20 Biblical Plants That Grow in Water |
+| 2026-09-27 | 50 | NdoX9S8yHaE | 844 | 15 | 349 | 2.42 | 5 | 1.24 | hoi_cao | – | Không | 20 Air Purifying Plants That Make Your Home Feel Cleaner |
+| 2026-09-28 | 49 | mGDE_EYPy1Y | 413 | 15 | 351 | 1.18 | 5 | 1.87 | binh_thuong | – | Không | Is Your ZZ Plant in the Right Spot? The 2 Best Places for Peace at Home |
+| 2026-09-29 | 48 | yvlHCvs-750 | 351 | 15 | 413 | 0.85 | 5 | 1.59 | binh_thuong | – | Không | 20 Spiritual Plants That Will Make Your Home Feel Calmer and Safer |
+| 2026-10-01 | 46 | dMU5iPh65QY | 1,091 | 15 | 413 | 2.64 | 5 | 1.56 | hoi_cao | – | Không | 15 Forgotten Plants That Make Your Home Feel Alive Again |
+| 2026-10-03 | 44 | Qr4PMEmXczs | 927 | 15 | 844 | 1.10 | 5 | 0.63 | binh_thuong | – | Không | 20 Indoor Plants That Actually Make a House a Home |
+| 2026-10-05 | 42 | IM2wPf78GDQ | 432 | 15 | 927 | 0.47 | 5 | 0.69 | binh_thuong | – | Không | 20 Old-Fashioned Houseplants That Bring a Home to Life |
+| 2026-10-06 | 41 | mtpFAKNNuqo | 655 | 15 | 927 | 0.71 | 5 | 0.58 | binh_thuong | – | Không | 20 Lucky Plants for Home That Modern Life Forgot |
+| 2026-10-07 | 40 | TiJxtIbOC1E | 644 | 15 | 927 | 0.69 | 5 | 0.42 | binh_thuong | – | Không | 20 Spiritual Plants Your Grandmother Kept in Her Kitchen |
+| 2026-10-08 | 39 | 2H27EjxuN5I | 535 | 15 | 844 | 0.63 | 5 | 0.46 | binh_thuong | – | Không | 12 Bedroom Plants for a Peaceful Room (and 5 to Keep Away From Your Bed) |
+| 2026-10-09 | 38 | hgqbHW_SpVo | 391 | 15 | 844 | 0.46 | 5 | 0.23 | binh_thuong | – | Không | 15 Spiritual Plants Old Homes Kept by the Front Door for Protection |
+| 2026-10-11 | 36 | K2ygmekqR2k | 1,342 | 15 | 655 | 2.05 | 5 | 0.30 | hoi_cao | – | Không | 20 Forgotten Superfoods With More Protein Than You Think |
+| 2026-10-12 | 35 | z53qWTV4i9E | 138 | 15 | 844 | 0.16 | 5 | 0.23 | binh_thuong | – | Không | 20 Container Plants That Feed You Before Fruit Trees Do |
+| 2026-10-13 | 34 | lYg6P8Qf-OE | 194 | 15 | 655 | 0.30 | 5 | 0.63 | binh_thuong | – | Không | 20 Home Remedies Our Grandparents Used Before Modern Products |
+| 2026-10-14 | 33 | Z20Lmv2__y8 | 415 | 15 | 644 | 0.64 | 5 | 0.29 | binh_thuong | – | Không | 20 Garden Plants That Support Collagen After 50 |
+| 2026-10-15 | 32 | pE8-ruMe9m0 | 34 | 15 | 535 | 0.06 | 5 | 0.41 | binh_thuong | – | Không | 20 Plants That Crowd Out Weeds Without Weed Killer |
+| 2026-10-17 | 30 | DXrsvdnI0uk | 960 | 15 | 432 | 2.22 | 5 | 0.50 | hoi_cao | – | Không | 20 Fermented Foods Our Grandparents Knew (But We Forgot) |
+| 2026-10-18 | 29 | EgXVbH8EgCU | 187 | 15 | 432 | 0.43 | 5 | 0.93 | chua_chin | – | Không | 20 Profitable Plants That Could Turn Your Backyard Into a Goldmine |
+| 2026-10-19 | 28 | 3omr6mmqvPU | 418 | 15 | 432 | 0.97 | 5 | 0.50 | chua_chin | – | Không | 20 Profitable Plants Most Gardeners Overlook (But Buyers Want) |
+| 2026-10-20 | 27 | 7qHPwaFTGdA | 82 | 15 | 432 | 0.19 | 5 | 0.93 | chua_chin | – | Không | 20 Biblical Drinks & Ancient Remedies Modern Life Forgot |
+| 2026-10-21 | 26 | VP9p-BYH0Rw | 217 | 15 | 418 | 0.52 | 5 | 0.96 | chua_chin | – | Không | 20 Biblical Foods We Should Never Have Forgotten |
+| 2026-10-22 | 25 | WhBzSDt44ao | 401 | 15 | 415 | 0.97 | 5 | 0.92 | chua_chin | – | Không | Illegal to Grow, Impossible to Kill: The Superfood They Turned Into a Weed |
+| 2026-10-23 | 24 | HpXdmF0Q0Ls | 503 | 15 | 401 | 1.25 | 5 | 0.62 | chua_chin | – | Không | The Superfood They Turned Into a Weed: Why Is It Illegal to Grow This? |
+| 2026-10-24 | 23 | OZE5SBLSIKQ | 45 | 15 | 401 | 0.11 | 5 | 0.62 | chua_chin | – | Không | Grow Unlimited Omega-3 in a Bucket. Plant just ONCE in 5 Mins. Why Don't You Know About It? |
+| 2026-10-25 | 22 | qyy11BOTdsk | 415 | 15 | 391 | 1.06 | 4 | – | chua_chin | – | Không | 20 Profitable Plants Most Gardeners Are Not Growing Yet |
+| 2026-10-26 | 21 | vdsSaH-_mQM | 248 | 15 | 391 | 0.63 | 3 | – | chua_chin | – | Không | 20 Spiritual Plants That Attract Money$ & Bring Fortune to Your Home |
+| 2026-10-27 | 20 | 9CwS_2LOPKg | 380 | 15 | 248 | 1.53 | 2 | – | chua_chin | – | Không | Billionaires Always Plant These 3 Lucky Trees in Front of Their Houses. Have You? |
+| 2026-10-28 | 19 | JWtjKKcXKkQ | 149 | 15 | 248 | 0.60 | 1 | – | chua_chin | – | Không | 20 Biblical Superfoods Modern Diets Quietly Replaced |
+| 2026-10-29 | 18 | wJVemtTKHQY | 152 | 15 | 248 | 0.61 | 0 | – | chua_chin | – | Không | 20 Backyard Weeds Your Grandparents Treated Like Medicine |

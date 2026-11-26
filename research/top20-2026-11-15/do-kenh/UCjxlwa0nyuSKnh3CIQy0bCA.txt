@@ -1,0 +1,83 @@
+# Đo kênh: UCjxlwa0nyuSKnh3CIQy0bCA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 41 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 41 |
+| n_trong_danh_sach | 41 |
+| n_dai | 41 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 6,300 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-02-19 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 398 |
+| cao_nhat | 20,006 |
+| thap_nhat | 99 |
+| phan_tan | 50.33 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.06 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.79 |
+| ngay_video_dau | 2026-02-19 |
+| tuoi_tu_video_dau | 270 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 23.33 |
+| sub_moi_video | 154 |
+| video_30_ngay | 6 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-02-19 | 270 | tjTATgodptY | 125,196 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 15 Forgotten Fruits That Require Almost ZERO Maintenance |
+| 2026-02-20 | 269 | K84-66YVlt0 | 811 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Rare Medicinal Plants With Healing Properties (Grow Before They Vanish) |
+| 2026-02-24 | 265 | ZC3TBY8hJKk | 77,796 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Don't Have a Yard? Here Are 15 Fruits That Grow Perfectly in Pots |
+| 2026-02-27 | 262 | 8zFA258k8nQ | 653 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 8 Lazy Crops That Grow Back Every Year (No Replanting) |
+| 2026-03-03 | 258 | urk4Y-HmOK8 | 6,402 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Never Plant Bell Peppers Until You Do This (Up to Double the Harvest) |
+| 2026-03-08 | 253 | z-ekFQqj3DY | 22,873 | 5 | 6,402 | 3.57 | 5 | 0.16 | dang_ghi | – | Không | 12 Low-Maintenance Fruit Trees You Plant Once and Harvest for Decades |
+| 2026-03-12 | 249 | TEUNPbqdXts | 1,126 | 6 | 14,638 | 0.08 | 5 | 0.07 | binh_thuong | – | Không | 12 Fruits to Grow in Containers (Plant Once, Keep Harvesting) |
+| 2026-03-17 | 244 | QJqur71wjx8 | 2,264 | 7 | 6,402 | 0.35 | 5 | 0.16 | binh_thuong | – | Không | 15 Forgotten Vegetables That Grow Like Weeds — The Lazy Gardener's Dream |
+| 2026-03-20 | 241 | JQFUV_3-7oQ | 636 | 8 | 4,333 | 0.15 | 5 | 0.23 | binh_thuong | – | Không | Grow These 10 Crops Now — Before Food Prices Rise Again |
+| 2026-03-25 | 236 | B2HRGizwWuQ | 1,010 | 9 | 2,264 | 0.45 | 5 | 0.28 | binh_thuong | – | Không | The Right Way to Plant Ginger in Containers (Most People Get This Wrong) |
+| 2026-03-29 | 232 | nE_aIOHQ5Mg | 630 | 10 | 1,695 | 0.37 | 5 | 0.16 | binh_thuong | – | Không | Stop Making These 10 Container Gardening Mistakes (They’re Killing Your Harvest) |
+| 2026-04-04 | 226 | Q14Xr1STwwA | 1,630 | 11 | 1,126 | 1.45 | 5 | 0.24 | binh_thuong | – | Không | 10 Companion Plants That Keep Garden Pests Away Naturally (Most Gardeners Don’t Know) |
+| 2026-04-15 | 215 | IE8luyke3mw | 1,971 | 12 | 1,378 | 1.43 | 5 | 0.20 | binh_thuong | – | Không | 10 Fruit Bushes MADE for Drought — Plant Once, Harvest for Years |
+| 2026-04-19 | 211 | DWRIUtiMVSY | 222 | 13 | 1,630 | 0.14 | 5 | 0.18 | binh_thuong | – | Không | 10 Kitchen Scraps You Can Regrow Forever in Containers (Endless Food Hack) |
+| 2026-04-23 | 207 | 7G0_t0JFmTc | 271 | 14 | 1,378 | 0.20 | 5 | 0.21 | binh_thuong | – | Không | ❄️ 12 Fruit Trees That Grow in Harsh Cold Climates (Most Gardeners Don’t Know) |
+| 2026-04-29 | 201 | xV1XK47sbj0 | 99 | 15 | 1,126 | 0.09 | 5 | 0.42 | binh_thuong | – | Không | 10 Crops i Grew That Cut My Grocery Bill (Lazy Gardener's Secret) |
+| 2026-05-06 | 194 | md3SAARcIOY | 294 | 15 | 1,010 | 0.29 | 5 | 0.47 | binh_thuong | – | Không | Better than Fertilizers: 6 Overlooked Weeds That Quietly Transform Your Soil |
+| 2026-05-16 | 184 | g282y-T4s34 | 1,172 | 15 | 1,010 | 1.16 | 5 | 0.33 | binh_thuong | – | Không | 13 Vegetables That Multiply Themselves Every Year — Plant Once, Never Buy Them Again |
+| 2026-05-22 | 178 | auiBvolkl1E | 472 | 15 | 1,010 | 0.47 | 5 | 0.24 | binh_thuong | – | Không | 11 Climbing Vegetables That Grow Like Crazy — Yet Most Gardeners Ignore Them |
+| 2026-05-26 | 174 | HrMNfivQAZ8 | 239 | 15 | 1,010 | 0.24 | 5 | 0.33 | binh_thuong | – | Không | Plant These 7 Vegetables NOW! or Lose Your Best Growing Window of the Year |
+| 2026-06-01 | 168 | 9IMSLeXt9jY | 1,537 | 15 | 636 | 2.42 | 5 | 0.52 | hoi_cao | – | Không | Plant Now! 11 Vegetables To Plant In June |
+| 2026-06-04 | 165 | enztOHSFdSI | 332 | 15 | 636 | 0.52 | 5 | 0.35 | binh_thuong | – | Không | 8 Fruit Trees That Keep Producing for 50+ Years |
+| 2026-06-08 | 161 | aN7FxpPYKls | 139 | 15 | 630 | 0.22 | 5 | 0.60 | binh_thuong | – | Không | 11 Backyard Plants Stronger Than Antibiotics — You've Been Killing Your Medicine |
+| 2026-06-18 | 151 | 2cXdNduUE-4 | 224 | 15 | 472 | 0.47 | 5 | 0.89 | binh_thuong | – | Không | 8 Container Vegetables You Wouldn’t Expect to Grow in Tiny Spaces |
+| 2026-06-28 | 141 | ywKs4mbRXzM | 375 | 15 | 332 | 1.13 | 5 | 1.30 | binh_thuong | – | Không | 10 Perennial Protein Crops You Only Plant Once For Lifetime Food Security. |
+| 2026-07-03 | 136 | ZnxCEACm8ro | 432 | 15 | 332 | 1.30 | 5 | 3.62 | binh_thuong | – | Không | 13 Vegetables You Must Plant in July ASAP! |
+| 2026-07-13 | 126 | 2fiOpqseEPw | 191 | 15 | 332 | 0.58 | 5 | 3.62 | binh_thuong | – | Không | 10 High-Yield Indoor Fruits Trees to Grow Now for Total Food Independence |
+| 2026-07-24 | 115 | XgJvfo2O3kc | 1,201 | 15 | 294 | 4.09 | 5 | 1.43 | dang_ghi | – | Không | ☘️ 11 Vegetables to Plant in August Before It's Too Late! |
+| 2026-09-17 | 60 | YFczyqtAyWE | 420 | 15 | 294 | 1.43 | 5 | 3.39 | binh_thuong | – | Không | 15 Vegetables That Survive Texas Heat |
+| 2026-09-23 | 54 | Zqzd7ljeHuA | 7,222 | 15 | 332 | 21.75 | 5 | 2.08 | can_kiem_ky | – | Không | Before You Give Up on Your Garden in October, Plant These 20 Vegetables |
+| 2026-09-27 | 50 | JtgEihyT4OM | 20,006 | 15 | 375 | 53.35 | 5 | 1.84 | can_kiem_ky | – | Không | Don’t Empty Your Containers Yet! These 15 Vegetables Love October Weather |
+| 2026-09-30 | 47 | g64hyuTapcs | 330 | 15 | 420 | 0.79 | 5 | 2.37 | binh_thuong | – | Không | 15 Indoor Plants That Actually Purify Your Home And Attract Positive Energy |
+| 2026-10-04 | 43 | XIkkGdzSQNo | 319 | 15 | 420 | 0.76 | 5 | 2.37 | binh_thuong | – | Không | October Vegetable Planting: 7 Soil Checks You Shouldn’t Skip |
+| 2026-10-08 | 39 | XYwIePhXwB8 | 996 | 15 | 375 | 2.66 | 5 | 1.95 | hoi_cao | – | Không | Since I Learned This, My Strawberry Is 100x Stronger — Strawberry Plant Care |
+| 2026-10-12 | 35 | OpJie8ambhM | 689 | 15 | 375 | 1.84 | 5 | 1.95 | binh_thuong | – | Không | Your Rosemary Needs This Before October Ends—Even If It Looks Dead \| Rosemary Care |
+| 2026-10-18 | 29 | 8lQLFO1cgyc | 1,170 | 15 | 420 | 2.79 | 5 | 0.74 | chua_chin | – | Không | October Last Chance! 15 Container Vegetables You Can Still Plant Now |
+| 2026-10-24 | 23 | v3870fSC5eE | 1,020 | 15 | 420 | 2.43 | 4 | – | chua_chin | – | Không | November Gardening: 15 Vegetables You Should Plant Before It's Too Late! |
+| 2026-11-01 | 15 | wPlQBalolUk | 731 | 15 | 432 | 1.69 | 3 | – | chua_chin | – | Không | 15 Vegetables That Grow BETTER in Containers Than in Garden Beds! |
+| 2026-11-04 | 12 | pEDv8Ei5Hxc | 309 | 15 | 689 | 0.45 | 2 | – | chua_chin | – | Không | The HOMEMADE Trick to Harvest Giant Onions at HOME |
+| 2026-11-06 | 10 | fAqqoT5myVs | 110 | 15 | 689 | 0.16 | 1 | – | chua_chin | – | Không | 15 Container Vegetables You Can STILL Plant in November (Don't Miss These!) |
+| 2026-11-12 | 4 | y-d0Zb24dJ8 | 73 | 15 | 689 | 0.11 | 0 | – | chua_chin | – | Không | 15 Container Dwarf Fruit Trees That Thrive In Extreme Winter Cold |

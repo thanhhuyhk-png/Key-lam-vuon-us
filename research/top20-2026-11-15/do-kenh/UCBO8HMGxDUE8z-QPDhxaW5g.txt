@@ -1,0 +1,150 @@
+# Đo kênh: UCBO8HMGxDUE8z-QPDhxaW5g.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 163 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 72,400 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-23 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,188 |
+| cao_nhat | 7,426 |
+| thap_nhat | 405 |
+| phan_tan | 6.25 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.77 |
+| ngay_video_dau | 2026-01-16 |
+| tuoi_tu_video_dau | 304 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 238 |
+| sub_moi_video | 444 |
+| video_30_ngay | 4 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-01-16 | 304 | uMWTOVnzEZ0 | 68,101 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 12 Tricks to Grow TONS of Lemons - How to Grow Lemon Tree in Pot! |
+| 2026-01-20 | 300 | 05poEFRl6Tg | 157,826 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Store Bought Vegetables and Herbs You Can Regrow! |
+| 2026-01-21 | 299 | cSncbJqlCDE | 509 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 5 Benefits of Using Hydrogen Peroxide on Plants and in the Garden |
+| 2026-01-22 | 298 | Scm5KRBfWv8 | 68,535 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Brilliant FREE Vegetable Gardening Hacks｜More Food for Less Effort! |
+| 2026-01-25 | 295 | cGhA4XBILEw | 2,648 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Fast Growing Veggies You Can Harvest in Under 1 Month |
+| 2026-01-26 | 294 | Hqy5ogmjOIU | 599 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 8 Powerful Homemade Rooting Hormone Recipes |
+| 2026-01-27 | 293 | i4luKot-IoY | 1,565 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 TOP Crops to Grow at Home to Save You From STARVING |
+| 2026-01-28 | 292 | RaI4C8QMHWU | 3,259 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 14 FATAL MISTAKES: Why Seeds Not Germinating or Sprouting? |
+| 2026-04-23 | 207 | i67z0zJCI94 | 2,098 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Supermarket Vegetables That Regrow Bigger the Second Time Around |
+| 2026-04-25 | 205 | pJ_RqJgD4Uc | 2,385 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Laziest Vegetables You Can Grow and Actually Harvest Every Week |
+| 2026-04-27 | 203 | SByPd3zFS4E | 1,881 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 12 FOOLPROOF Vegetables You Literally Cannot Kill Even as a Beginner |
+| 2026-04-29 | 201 | UDkW38KeXH8 | 1,182 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Turn a $3 Bag of Potatoes Into 100 Pounds of FREE Food This Year |
+| 2026-05-01 | 199 | HlChZd7RzYA | 609,347 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Tomato Watering Mistake SILENTLY Destroying Your Harvest Right Now |
+| 2026-05-03 | 197 | MIACX0Hd04Q | 2,291 | 5 | 2,098 | 1.09 | 5 | 0.80 | binh_thuong | – | Không | 20 Set-and-Forget Vegetables That EXPLODE Into Food With Zero Effort |
+| 2026-05-07 | 193 | s3w_k-QoZ3o | 7,072 | 6 | 2,194 | 3.22 | 5 | 0.43 | dang_ghi | – | Không | One Cup of This Pantry Staple DOUBLES Your Pepper Harvest Overnight |
+| 2026-05-09 | 191 | YEMlsapeMTQ | 2,551 | 7 | 2,291 | 1.11 | 5 | 0.41 | binh_thuong | – | Không | Tomatoes DOUBLE Forever From One Banana Peel — Why Fertilizer Giants Want This Banned |
+| 2026-05-11 | 189 | HOBV5B-D4pY | 811 | 8 | 2,338 | 0.35 | 5 | 0.53 | binh_thuong | – | Không | Turn $2 of Store Ginger Into 40 Pounds FOREVER — Spice Giants Buried This Container Trick |
+| 2026-05-13 | 187 | a4BrXLD1DKA | 949 | 9 | 2,291 | 0.41 | 5 | 0.74 | binh_thuong | – | Không | One Avocado Pit = a Lifetime Tree FOREVER — The Method Grocers Made 'Forbidden |
+| 2026-05-15 | 185 | k84fmXAR858 | 1,687 | 10 | 2,194 | 0.77 | 5 | 0.56 | binh_thuong | – | Không | One Crushed Eggshell Eliminates ALL Pests FOREVER — Why Pesticide Giants Buried This |
+| 2026-05-17 | 183 | ncmFXLYei0E | 645 | 11 | 2,098 | 0.31 | 5 | 1.14 | binh_thuong | – | Không | One Sweet Potato Feeds You 50 POUNDS Forever — Why the 1978 Farm Bill Erased It |
+| 2026-05-19 | 181 | a-dC2-LMjPk | 1,235 | 12 | 1,990 | 0.62 | 5 | 1.21 | binh_thuong | – | Không | The Ginger Watering Mistake KILLING Your Harvest (And You Don't Even Know It) |
+| 2026-05-21 | 179 | UiuWdYAMkfs | 2,964 | 13 | 1,881 | 1.58 | 5 | 0.39 | binh_thuong | – | Không | How This Tomato Pruning Mistake is SILENTLY Destroying Your Harvest Right Now! |
+| 2026-05-23 | 177 | ZJNkd2BLmH8 | 4,819 | 14 | 1,990 | 2.42 | 5 | 0.37 | hoi_cao | – | Không | This ONE Watering Mistake Is Destroying Your Bell Pepper Harvest Right Now |
+| 2026-05-25 | 175 | EvBROVQBuVg | 734 | 15 | 2,098 | 0.35 | 5 | 0.45 | binh_thuong | – | Không | 5 Things Big Agriculture Doesn't Want You to Know About Hydrogen Peroxide |
+| 2026-05-26 | 174 | E8PBpK6yYow | 2,399 | 15 | 1,881 | 1.28 | 5 | 0.50 | binh_thuong | – | Không | 5 Things You Should NEVER Put in Your Garden! |
+| 2026-05-27 | 173 | Dn46vTHapiU | 678 | 15 | 1,881 | 0.36 | 5 | 0.80 | binh_thuong | – | Không | In 45 Years of Gardening, I ve Never Had Pest Problems — Here s Exactly What I Do |
+| 2026-05-29 | 171 | Uq4Jd9qm_E8 | 595 | 15 | 1,687 | 0.35 | 5 | 0.96 | binh_thuong | – | Không | 7 Tomato Secrets Pros NEVER Tell Home Gardeners |
+| 2026-05-30 | 170 | sy2Aoci4N7w | 3,051 | 15 | 1,687 | 1.81 | 5 | 0.91 | binh_thuong | – | Không | 10 Natural Fertilizers That Work Instantly - Even Dead Fruit Trees Come Back to Life! |
+| 2026-06-03 | 166 | 4F3du9lzhi0 | 942 | 15 | 1,687 | 0.56 | 5 | 0.91 | binh_thuong | – | Không | Pour This on Dying Plants and Watch Them EXPLODE - Back to Life in 24 Hour |
+| 2026-06-04 | 165 | eMdCAEJDq7c | 1,513 | 15 | 1,235 | 1.23 | 5 | 1.24 | binh_thuong | – | Không | Tomato Plants CRAVE This Homemade Mix — Works Like Magic! |
+| 2026-06-07 | 162 | 3BWrQAXgSbI | 2,404 | 15 | 1,235 | 1.95 | 5 | 1.14 | binh_thuong | – | Không | The Cucumber Watering Mistake SILENTLY Destroying Your Harvest Right Now |
+| 2026-06-08 | 161 | LF_opMyMS4Y | 1,620 | 15 | 1,235 | 1.31 | 5 | 0.90 | binh_thuong | – | Không | The Carrot Watering Mistake SILENTLY Destroying Your Harvest Right Now |
+| 2026-06-09 | 160 | s5swD-osnS8 | 1,527 | 15 | 1,513 | 1.01 | 5 | 0.73 | binh_thuong | – | Không | 8 Fruit Trees That are Perfect to Grow in Pots,Containers & Small Spaces |
+| 2026-06-10 | 159 | rU1p9W93pxU | 1,409 | 15 | 1,527 | 0.92 | 5 | 0.68 | binh_thuong | – | Không | 17 Fruit Trees That EXPLODE with Produce in Containers & Pots! |
+| 2026-06-11 | 158 | aOo1eP1v0DA | 1,032 | 15 | 1,513 | 0.68 | 5 | 0.73 | binh_thuong | – | Không | The Tomato Fertilizer Mistake SILENTLY Destroying Your Harvest Right Now |
+| 2026-06-13 | 156 | pYSW0VrvUDk | 1,107 | 15 | 1,513 | 0.73 | 5 | 0.64 | binh_thuong | – | Không | Just 3 Drops on Tomatoes… and the Harvest Doubles Instantly. |
+| 2026-06-14 | 155 | r9nTONSKab8 | 583 | 15 | 1,513 | 0.39 | 5 | 0.70 | binh_thuong | – | Không | In 50 Year of Gardening, I've Never Had a Single Pest in My Garden - This is Exactly What I Do |
+| 2026-06-16 | 153 | mFfdQ-GwD1w | 2,008 | 15 | 1,409 | 1.43 | 5 | 0.75 | binh_thuong | – | Không | The Easiest Methods To Root Plants From Cuttings |
+| 2026-06-17 | 152 | qAZnJJ-eMNI | 965 | 15 | 1,409 | 0.68 | 5 | 0.75 | binh_thuong | – | Không | Prune Your Tomatoes THIS Way and Watch the Harvest DOUBLE! |
+| 2026-06-19 | 150 | 3_hW0pCv62c | 2,082 | 15 | 1,409 | 1.48 | 5 | 0.75 | binh_thuong | – | Không | Grow an Avocado Tree From ONE Seed — INSANE Growth in Just 5 Months! |
+| 2026-06-20 | 149 | DGMDAwr4xkk | 673 | 15 | 1,409 | 0.48 | 5 | 0.75 | binh_thuong | – | Không | Catching You Up On Backyard Buddy, Plus How I Prune Tomatoes Without Stressing The Plant |
+| 2026-06-21 | 148 | AgHhDCUMc7o | 1,060 | 15 | 1,409 | 0.75 | 5 | 0.79 | binh_thuong | – | Không | 6 Crops So Productive Your Family Will NEVER Go Hungry! |
+| 2026-06-22 | 147 | QzW-4awDmeY | 1,950 | 15 | 1,409 | 1.38 | 5 | 0.56 | binh_thuong | – | Không | Grow a MASSIVE Ginger Harvest in One Container — It's SO Easy! |
+| 2026-06-24 | 145 | e49SMv020ik | 667 | 15 | 1,409 | 0.47 | 5 | 0.60 | binh_thuong | – | Không | 10 Vegetables So Productive You'll NEVER Buy Them Again! |
+| 2026-06-25 | 144 | q1ZeJeUnlqE | 1,111 | 15 | 1,409 | 0.79 | 5 | 0.60 | binh_thuong | – | Không | Turn ONE Grocery-Store Fruit Into a Lifetime of FREE Trees |
+| 2026-06-25 | 144 | cKHF5OVxHEA | 795 | 15 | 1,111 | 0.72 | 5 | 2.45 | binh_thuong | – | Không | The Container Mistake SILENTLY Killing Your Potted Fruit Trees Right Now (16 Minute Fix) |
+| 2026-06-26 | 143 | Nj0Xucb-EEs | 3,094 | 15 | 1,107 | 2.79 | 5 | 1.06 | hoi_cao | – | Không | The "Magic Water" That Roots ANY Cutting in Days — It's Already in Your Kitchen |
+| 2026-06-27 | 142 | 5acS2m82QAc | 123 | 15 | 1,107 | 0.11 | 5 | 1.06 | binh_thuong | – | Không | Where The Channel's At Right Now And A Feeding Schedule That Actually Works |
+| 2026-06-28 | 141 | I_Ed1hopkvc | 841 | 15 | 1,060 | 0.79 | 5 | 1.10 | binh_thuong | – | Không | Grow an Entire Food Garden From a $15 Dollar Tree Haul — Here's Every Item |
+| 2026-06-29 | 140 | RnGlwRC8hTQ | 70,951 | 15 | 1,032 | 68.75 | 5 | 1.13 | can_kiem_ky | – | Không | Do THIS and Your Tomato Plants EXPLODE With Fruit, Not Leaves! |
+| 2026-06-30 | 139 | -fa3HDItolg | 2,719 | 15 | 1,060 | 2.57 | 5 | 0.87 | hoi_cao | – | Không | 21 Fruit Trees That EXPLODE With Fruit in Tiny Pots — No Yard Needed |
+| 2026-07-01 | 138 | d5a_Q0q_z_0 | 1,171 | 15 | 1,060 | 1.10 | 5 | 0.81 | binh_thuong | – | Không | 10 Fruit Trees So Easy They Practically Grow Themselves in a Pot — Even Beginners Win |
+| 2026-07-02 | 137 | dX-bvFALrb4 | 922 | 15 | 1,111 | 0.83 | 5 | 0.77 | binh_thuong | – | Không | 13 Dollar Tree Buys That Pro Gardeners Won't Tell You For Free |
+| 2026-07-04 | 135 | PrwKNWEai8s | 152 | 15 | 1,060 | 0.14 | 5 | 0.81 | binh_thuong | – | Không | Behind The Scenes On The Channel + 3 Composting Tips I Wish I'd Known Sooner |
+| 2026-07-07 | 132 | NA7LyiIrNRE | 4,251 | 15 | 1,060 | 4.01 | 5 | 0.61 | dang_ghi | – | Không | Do THIS and Your Bell Pepper Plants EXPLODE With Fruit, Not Leaves! |
+| 2026-07-08 | 131 | LjBgxJ4ZEHY | 861 | 15 | 1,060 | 0.81 | 5 | 0.61 | binh_thuong | – | Không | 8 Fruit Trees that Thrive in Summer Heat (Must Plant Now!) |
+| 2026-07-09 | 130 | tmdyda0rU6k | 646 | 15 | 1,060 | 0.61 | 5 | 1.01 | binh_thuong | – | Không | 10 Crops You Must Plant Now in July (Perfect For Heat!) |
+| 2026-07-10 | 129 | E2ToDUl_GUY | 1,070 | 15 | 922 | 1.16 | 5 | 0.60 | binh_thuong | – | Không | Do This Right Now in July With Your Kitchen Scraps For Mountains of FREE FOOD! |
+| 2026-07-12 | 127 | Jq1yd-444sY | 553 | 15 | 922 | 0.60 | 5 | 0.89 | binh_thuong | – | Không | How To Graft PEARS, KIWIS, GRAPES and FIGS The Proper Way! |
+| 2026-07-13 | 126 | 28dzPuFqMxw | 446 | 15 | 922 | 0.48 | 5 | 0.89 | binh_thuong | – | Không | Why Are a Farmer's Tomatoes So Much Better Than Homegrown Ones? |
+| 2026-07-14 | 125 | CMIXhYL9Frg | 1,101 | 15 | 861 | 1.28 | 5 | 0.58 | binh_thuong | – | Không | How to Grow Tomatoes in Containers And Get a Huge Harvest |
+| 2026-07-15 | 124 | CHdpoy0lYNg | 2,063 | 15 | 922 | 2.24 | 5 | 0.54 | hoi_cao | – | Không | Do THIS and Your Cucumber Plants EXPLODE With Cucumbers, Not Vines! |
+| 2026-07-16 | 123 | LYn7FKy2ZCc | 406 | 15 | 922 | 0.44 | 5 | 0.74 | binh_thuong | – | Không | You Must NEVER Grow These 10 Plants in Your Garden (You Will Get Fined $5,000) |
+| 2026-07-17 | 122 | 1kResJSWJYM | 821 | 15 | 922 | 0.89 | 5 | 0.74 | binh_thuong | – | Không | Do THIS and Your Green Bean Plants EXPLODE With Pods, Not Leaves! |
+| 2026-07-18 | 121 | j6T83K_WWZ8 | 189 | 15 | 922 | 0.20 | 5 | 0.74 | binh_thuong | – | Không | A Little Update From Me (And 2 Reasons Your Seedlings Keep Dying) |
+| 2026-07-19 | 120 | TaA-ElOJ8Wc | 500 | 15 | 861 | 0.58 | 5 | 1.60 | binh_thuong | – | Không | Plant These 7 Fruit Trees Once and Feed Your Family for 250 Years! |
+| 2026-07-21 | 118 | m7iALaX_fOM | 686 | 15 | 821 | 0.84 | 5 | 1.67 | binh_thuong | – | Không | The 65 Year Old Gardener Kept Quiet About It - Secret Chinese Fertilizer Trick |
+| 2026-07-21 | 118 | B7yY1Kb5AGE | 2,612 | 15 | 686 | 3.81 | 5 | 1.14 | dang_ghi | – | Không | Do THIS and Your Zucchini Plants EXPLODE With Squash, Not Leaves! |
+| 2026-07-23 | 116 | bLlMVspOL2o | 1,554 | 15 | 686 | 2.27 | 5 | 1.11 | hoi_cao | – | Không | 10 Beginner Raised Bed Garden Mistakes You Must Avoid! |
+| 2026-07-25 | 114 | V3QQDQqT2KY | 162 | 15 | 821 | 0.20 | 5 | 0.95 | binh_thuong | – | Không | Where Things Are At Right Now On The Channel |
+| 2026-07-28 | 111 | -NwWPE23uew | 1,375 | 15 | 686 | 2.00 | 5 | 1.11 | hoi_cao | – | Không | 10 Gardening Side Hustles That Can Make You $5,000 a Month |
+| 2026-07-30 | 109 | vy3-AEOAmsk | 782 | 15 | 686 | 1.14 | 5 | 1.11 | binh_thuong | – | Không | STOP These 5 Gardening Mistakes Before They Destroy Your Entire Garden |
+| 2026-07-31 | 108 | lD2TxYSLPJs | 761 | 15 | 782 | 0.97 | 5 | 1.38 | binh_thuong | – | Không | FREE Tomatoes Forever, Banned in 30 States, Why? |
+| 2026-08-01 | 107 | OHrMj6FC_LA | 148 | 15 | 761 | 0.19 | 5 | 1.60 | binh_thuong | – | Không | The Real Reason I Fell In Love With Growing My Own Fruit |
+| 2026-08-03 | 105 | srGoK1Amo4w | 1,216 | 15 | 761 | 1.60 | 5 | 1.42 | binh_thuong | – | Không | This Homemade Fertilizer Turns Kitchen Scraps Into FREE FOOD! |
+| 2026-08-05 | 103 | tSoRPXGVX2Y | 491 | 15 | 782 | 0.63 | 5 | 1.38 | binh_thuong | – | Không | Everyone THROWS AWAY Kitchen Scraps — Here's How I SELL It for Cash |
+| 2026-08-07 | 101 | FHl_wqQ59ao | 1,079 | 15 | 761 | 1.42 | 5 | 0.92 | binh_thuong | – | Không | 10 Vegetables That Love Shade (Perfect For Shady Garden) |
+| 2026-08-07 | 101 | HcdcnLonWJw | 1,765 | 15 | 761 | 2.32 | 5 | 0.68 | hoi_cao | – | Không | 17 Perennial Vegetables You Plant ONCE and Harvest for 20+ Years |
+| 2026-08-10 | 98 | kF0hVT-DBLU | 2,158 | 15 | 782 | 2.76 | 5 | 0.66 | hoi_cao | – | Không | 10 Things Big Agriculture Doesn’t Want You To Know About Hydrogen Peroxide! |
+| 2026-08-13 | 95 | Dd6NXJtGsvU | 333 | 15 | 782 | 0.43 | 5 | 0.90 | binh_thuong | – | Không | 8 Things I Do Every Day for a Healthy Garden! |
+| 2026-08-15 | 93 | hXAhwVrIqI8 | 125 | 15 | 782 | 0.16 | 5 | 0.90 | binh_thuong | – | Không | So, About That Soil Experiment... And Some Other News |
+| 2026-08-17 | 91 | aDZCJiQZdXE | 700 | 15 | 782 | 0.90 | 5 | 1.45 | binh_thuong | – | Không | 20 Vegetables Everyone Must Plant in August or Regret It Later! |
+| 2026-08-19 | 89 | nS-OYCeasvg | 517 | 15 | 782 | 0.66 | 5 | 2.12 | binh_thuong | – | Không | How To Water Your Crops Correctly (Bad Watering = Death) |
+| 2026-08-25 | 83 | qY525Xp__ao | 1,133 | 15 | 761 | 1.49 | 5 | 4.02 | binh_thuong | – | Không | This 2$ Liquid Is a Natural Plant Fertilizer - Even Dead Plants Come Back to Life! |
+| 2026-08-27 | 81 | jdq-dMMiagM | 1,660 | 15 | 761 | 2.18 | 5 | 4.02 | hoi_cao | – | Không | Why You Must Throw Salt Onto Your Garden Right Now! |
+| 2026-08-29 | 79 | AX27KbJ6qg0 | 700 | 15 | 782 | 0.90 | 5 | 3.91 | binh_thuong | – | Không | Why I Give Away Most Of What I Grow |
+| 2026-08-31 | 77 | iwWXSSR6YR4 | 3,056 | 15 | 761 | 4.02 | 5 | 1.26 | dang_ghi | – | Không | 20 Store-Bought Herbs You Should NEVER Throw Away (They Regrow on Your Windowsill!) |
+| 2026-09-09 | 68 | ty6DA1-fH-0 | 6,150 | 15 | 761 | 8.08 | 5 | 1.26 | manh | – | Không | 25 Grocery Store Scraps You Should NEVER Throw Away (They Regrow Into FREE Food!) |
+| 2026-09-11 | 66 | a08djy2LCyM | 5,599 | 15 | 1,079 | 5.19 | 5 | 0.89 | manh | – | Không | 20 Kitchen Scraps You Should NEVER Throw Away (They Regrow Into FREE Food Forever!) |
+| 2026-09-13 | 64 | tc3Xj2fJcn4 | 781 | 15 | 1,133 | 0.69 | 5 | 0.85 | binh_thuong | – | Không | 25 Garden "Weeds" You Should NEVER Pull Up (They're Actually FREE Food!) |
+| 2026-09-15 | 62 | O5PczFzyTHY | 961 | 15 | 1,079 | 0.89 | 5 | 1.15 | binh_thuong | – | Không | I Haven't Bought Vegetables in 12 Months - I Just Regrow the Scraps |
+| 2026-09-20 | 57 | sKhOcByu7wc | 928 | 15 | 1,079 | 0.86 | 5 | 1.17 | binh_thuong | – | Không | Americans Throw Away $1,500 of Food a Year That Regrows Itself for FREE |
+| 2026-09-21 | 56 | kij0AlrahFc | 1,245 | 15 | 961 | 1.30 | 5 | 1.31 | binh_thuong | – | Không | In 45 Years of Gardening, I've Never Had a Single Pest — Here's Exactly What I Do |
+| 2026-09-25 | 52 | 8nK-cjzZoqY | 3,710 | 15 | 961 | 3.86 | 5 | 1.18 | dang_ghi | – | Không | 25 "Illegal" Container Garden Tricks Our Grandparents Used (A Year of Food in Pots) |
+| 2026-09-26 | 51 | pUvlK6d2dFk | 405 | 15 | 961 | 0.42 | 5 | 1.31 | binh_thuong | – | Không | Big News About The Mystery Tree (And Everything Else) |
+| 2026-09-27 | 50 | Q-Fxf_SbEcY | 7,426 | 15 | 961 | 7.73 | 5 | 1.31 | manh | – | Không | 12 Dollar Tree Indoor Garden Hacks That Actually Work This Winter |
+| 2026-09-28 | 49 | 58gROmD4LjY | 1,261 | 15 | 1,133 | 1.11 | 5 | 1.00 | binh_thuong | – | Không | These 20 Vegetables Grow Like Fruit TREES - Plant Once, Harvest for 20 Years |
+| 2026-09-30 | 47 | BcwiPCEi8q4 | 1,130 | 15 | 1,245 | 0.91 | 5 | 0.89 | binh_thuong | – | Không | 40 Forgotten Vegetables That Grow Like Weeds (The Lazy Gardener's Goldmine) |
+| 2026-10-01 | 46 | TRZBmOepoA0 | 1,110 | 15 | 1,245 | 0.89 | 5 | 0.79 | binh_thuong | – | Không | Bury This Bucket in Your Garden and Never Buy Fertilizer Again (The 1 Mistake Everyone Makes) |
+| 2026-10-05 | 42 | oC8QVojt23Q | 1,408 | 15 | 1,245 | 1.13 | 5 | 0.79 | binh_thuong | – | Không | Do THIS Immediately If Your Tomatoes Are Still Green When Frost Hits - 5 Harvest-Saving Steps |
+| 2026-10-07 | 40 | 99Gr5mEe4io | 2,697 | 15 | 1,245 | 2.17 | 5 | 0.79 | hoi_cao | – | Không | Seniors, Stop Digging Your Garden - These 6 Methods Work Better (No Bending, No Tilling) |
+| 2026-10-13 | 34 | XFBH3XXA_18 | 638 | 15 | 1,261 | 0.51 | 5 | 0.78 | binh_thuong | – | Không | Every Tomato Leaf Problem Explained (Yellow, Curling, Spots, Brown) - And the 2-Minute Fix |
+| 2026-10-15 | 32 | U7znqWCdaL4 | 982 | 15 | 1,245 | 0.79 | 5 | 0.66 | binh_thuong | – | Không | 10 WORST Vegetables Seniors Should NEVER Grow or Eat (And 5 That Practically Grow Themselves) |
+| 2026-10-16 | 31 | p7qfaiZwjGc | 820 | 15 | 1,130 | 0.73 | 4 | – | binh_thuong | – | Không | 15 Vegetables You'll DEEPLY Regret Not Planting in September (Last Chance Before Frost) |
+| 2026-10-21 | 26 | VA8j3RDbU5c | 1,576 | 15 | 1,110 | 1.42 | 3 | – | chua_chin | – | Không | 100x STRONGER Than Compost and FREE! 1 Handful in Fall Turns Hard Clay SOFT! |
+| 2026-10-27 | 20 | -LJFVR9V5F4 | 1,395 | 15 | 1,130 | 1.23 | 2 | – | chua_chin | – | Không | 15 Vegetables You Can Still Plant in November (Most Gardeners QUIT Too Early) |
+| 2026-11-03 | 13 | qEfVoICkXFY | 740 | 15 | 1,245 | 0.59 | 1 | – | chua_chin | – | Không | 40x STRONGER Than Miracle-Gro and FREE! 1 Spoon in Fall Makes Tomatoes HUGE! |
+| 2026-11-12 | 4 | gPU9hgy1d5I | 339 | 15 | 1,245 | 0.27 | 0 | – | chua_chin | – | Không | The Fall Cleanup Mistake SILENTLY Destroying Next Year's Harvest Right Now |

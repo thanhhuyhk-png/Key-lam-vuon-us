@@ -1,0 +1,42 @@
+{
+  "allowed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    24,
+    26,
+    28,
+    30,
+    31,
+    32,
+    40,
+    50,
+    9,
+    7
+  ],
+  "notes": {
+    "1": "an inch or two (C14) · one job / one plant (không phải số đo)",
+    "2": "two vegetables bị loại (hook) · two minutes (ACTION_TIP) · two bins · an inch or two (C14) · two degrees vải mỏng (C18, C19)",
+    "3": "three bins (tender / half hardy / hardy — C01, C02)",
+    "4": "four pages xếp cải bắp hardy (C03, C05, C06, C08) · four to six degrees vải vừa (C18) · four inches sâu (C15) · bốn trang xếp cà rốt nhẹ (C02, C03, C06, C08)",
+    "5": "five vegetables (title) · five pages cho kale · five of six pages cho spinach",
+    "6": "six to eight inches (C15) · twenty-six (C04)",
+    "8": "eight degrees vải dày (C18, C19) · six to eight inches (C15)",
+    "10": "ten nights (ACTION_TIP) · ten lows",
+    "24": "twenty-four to twenty-eight (C06)",
+    "26": "twenty-six to thirty-one (C04)",
+    "28": "twenty-eight (title, C06, C11)",
+    "30": "thirty days at 32–50°F (C13)",
+    "31": "thirty-one (C04) · light freeze 28–32 (C06)",
+    "32": "thirty-two (C06 light freeze 28–32; C13 bulb 32–50°F)",
+    "40": "forty degrees soil (C07)",
+    "50": "fifty degrees (C13 range, C15 soil)",
+    "9": "nine at night (cảnh viewer-POV, không phải số liệu)",
+    "7": "seven different pages (kale: C01, C03, C04, C06, C08, C70, C72)"
+  }
+}

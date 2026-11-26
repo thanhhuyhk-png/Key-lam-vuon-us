@@ -1,0 +1,41 @@
+# TÍTULO: Convierta tres botellas viejas en un sistema de riego por goteo sin agacharse para sus tomates | Consejos de jardinería para mayores
+
+Tres botellas vacías. Cero dólares. Y pueden regar sus tomates por días sin que usted tenga que agacharse ni una sola vez. Pero hay un paso que casi todo el mundo hace al revés. Si lo hace mal, el agua nunca llega a las raíces.
+
+Imagínese esto. Es julio, usted salió el fin de semana y su cama de tomates lleva tres días sin agua. Frutos agrietados, hojas mustias y caídas — eso es lo que esto resuelve. Vamos a construirlo completo — perforar, colocar, con qué frecuencia rellenarlo. Traeremos investigación real de extensión universitaria, no solo otro video de meter una botella en la tierra.
+
+Una nota de seguridad rápida: es solo agua simple, así que los niños pueden ayudar. ¿Su perro es de los que les gusta escarbar? Una estaca cerca mantiene las patitas curiosas alejadas de la botella.
+
+Empecemos con la parte fácil: hacer los agujeros.
+
+Empiece con una botella de dos litros. Una más grande funciona todavía mejor para los tomates. ¿No tiene un taladro a mano? Un clavo calentado hace el trabajo perfectamente. Va a querer de dos a cuatro agujeros pequeños cerca de la tapa, del tamaño de la punta de un alfiler. Muy grandes, y el agua se va en segundos. Muy pequeños, y la tierra los tapa rápido. ¿Se tapan los agujeros? Un pedazo de nylon viejo o un calcetín delgado estirado sobre la tapa lo resuelve. Filtra la suciedad antes de que llegue a los agujeros. Una botella, unos dos minutos — eso es todo lo que requiere este paso. No hay nada más económico que la basura que estaba a punto de tirar. Paso uno, listo.
+
+Y aquí está el paso que casi todo el mundo hace al revés. La mayoría de las personas entierran la botella hasta el fondo, tapa incluida. Un blog de pruebas caseras hizo esta comparación durante semanas. El resultado fue el mismo cada vez — entierre la tapa completamente, y el sistema se detiene en menos de veinticuatro horas. Esto es lo que sucede. Si entierra la tapa por completo, la tierra sella esos pequeños agujeros. Al mismo tiempo, no hay forma de que el aire entre a la botella para reemplazar el agua que sale. Sin aire adentro, no sale agua. La solución es simple — casi sospechosamente fácil. La botella entra solo de tres a cuatro pulgadas, no más. La tapa queda justo al nivel del suelo, tocando la tierra, nunca enterrada debajo. Haga eso, y la gravedad lleva el agua hacia abajo despacio y de manera constante, día tras día. ¿Trabaja con una cama elevada? La botella se inclina para que la tapa quede cerca del borde superior. Rellenar ocurre de pie — sin arrodillarse.
+
+No se alarme si parece que se detiene después de un día o dos — eso es normal. Mirar dentro para ver si suben burbujas de aire le dice lo que está pasando. Sin burbujas, generalmente significa que la tapa está muy apretada contra la tierra. Un palillo de dientes puesto bajo el borde abre un pequeño paso de aire, y empieza a gotear de nuevo. Vale la pena revisar los agujeros una vez a la semana en busca de tierra acumulada. Vale la pena hacerlo cada semana, especialmente después de una lluvia fuerte.
+
+Pero, ¿no atraerá agua estancada como esta a los mosquitos? Buena pregunta — y no es lo que uno pensaría. Le mostraré por qué es todo lo contrario.
+
+Ahora, ¿con qué frecuencia se rellena? Eso depende de su suelo. La tierra arenosa drena rápido, así que rellene cada uno a dos días. La tierra franca, la más común, retiene agua de dos a cuatro días. La tierra arcillosa retiene más tiempo, de cuatro a siete días. Aquí están los números detrás de esto. La Extensión de la Universidad de Maryland estima de dos a tres galones de agua a la semana para una planta adulta. Las Extensiones de Iowa State y Penn State llegan al mismo rango. Tres botellas de dos litros contienen aproximadamente un galón y medio en total. Rellenar el conjunto unas dos veces a la semana cubre esa cantidad. Un seguidor mencionó una vez que usaba galones de leche vacíos en lugar de botellas de refresco. Según los números, eso funciona igual de bien. El agujero solo necesita ser un poco más grande para el mayor volumen. ¿No está seguro si es hora de rellenar? Un dedo a dos pulgadas dentro del suelo cerca de la botella le dirá. Seco, y es hora. ¿Todavía húmedo? Un día más es todo lo que necesita.
+
+Quizás usted ya tiene una manguera porosa o un sistema de goteo más elaborado por ahí. Esto no está aquí para reemplazarlo. Es para la cama junto a la cerca, esa que siempre tiene intención de regar y nunca termina de llegar. O las noches en que sus rodillas dicen que no a arrodillarse junto a esa manguera una vez más.
+
+Una pregunta rápida antes de continuar — ¿es seguro reutilizar una botella de refresco así? En general, sí. Usted no está guardando agua potable en ella durante semanas. Solo está goteando al suelo durante un día o dos, y luego está vacía y vuelve al bote de reciclaje.
+
+Entonces, volvamos a los mosquitos — esa pregunta merece una respuesta real. Esto es lo que ocurre. El Distrito de Control de Mosquitos de Turlock señala que los huevos de mosquito necesitan agua estancada para eclosionar. Eso toma entre uno y cinco días. Si usted rellena cada dos o tres días, esa agua nunca permanece quieta el tiempo suficiente para que nazca algo. Por lo general, nunca llega a tener esa oportunidad. El riesgo real no es la botella haciendo su trabajo. Es el agua que se acumula en otro lugar. Una bandeja de maceta, un balde viejo, incluso un juguete de niño dejado bajo la lluvia. Esos juntan mucha más agua estancada que una botella que realmente está funcionando. Esos lugares también vale la pena revisarlos y vaciarlos. Usado de esta manera, un sistema de goteo con botellas típicamente genera menos agua estancada en su jardín que un aspersor. ¿Todavía no está seguro? Su distrito local de control de mosquitos puede orientarle al respecto.
+
+Y aquí está la ventaja que nadie menciona. Los tomates no desarrollan podredumbre apical por falta de calcio en el suelo. La mayoría del suelo ya tiene suficiente. Lo desarrollan cuando el riego cambia de completamente seco a empapado y de vuelta a seco. Iowa State, Penn State y otras oficinas de extensión son directas sobre esto. La humedad constante y pareja es lo que mantiene el calcio fluyendo hacia el fruto. Y constante es exactamente lo que una botella de goteo lento hace mejor. Eso es todo — una sola configuración, y al mismo tiempo está protegiendo su cosecha en silencio.
+
+Esta noche, antes de que esa próxima botella vacía llegue al bote de reciclaje, un enjuague rápido la deja lista para mañana. Mantener este ritmo durante las semanas más calurosas de agosto vale la pena. Puede que sus vecinos le pregunten por qué sus tomates siguen firmes mientras los de ellos se marchitan al mediodía.
+
+Las personas han perseguido esta misma idea durante mucho tiempo. En los años treinta, un ingeniero que caminaba por el Desierto del Néguev en Israel notó un árbol que crecía espeso y verde en tierra completamente seca. Cavó y encontró una tubería vieja. Se había agrietado lo suficiente como para dejar escapar un pequeño hilo de agua hacia las raíces durante años. Ese accidente llevó al riego por goteo tal como lo conocemos hoy. Mucho antes, agricultores de toda África y el Medio Oriente enterraban vasijas de barro sin esmaltar llamadas ollas junto a sus cultivos. El agua se filtraba por las paredes de barro directamente a las raíces — un truco de más de cuatro mil años de antigüedad. Sus tres botellas de plástico están haciendo el mismo trabajo simple, solo que con lo que ya tiene en su bote de reciclaje.
+
+Para esta misma hora la próxima semana, podría estar revisando sus tomates en lugar de arrastrar una manguera por el jardín cada mañana.
+
+Quizás prefiere construir una solución de cinco minutos en lugar de pelear con la misma tarea todos los días. Si así es usted, este es su lugar.
+
+¿En qué estado vive, y para cuántas plantas de tomate está preparando esto?
+
+Si esto le ahorra aunque sea una tarde calurosa de arrastrar una manguera por el jardín, valió la pena. Diez minutos, eso fue todo lo que tomó construirlo.
+
+Cultive un poco más de alimento, ahorre un poco de dinero, y diviértase haciéndolo. Feliz jardinería.

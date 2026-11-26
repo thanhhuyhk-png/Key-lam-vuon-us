@@ -1,0 +1,150 @@
+# Đo kênh: UCbPLEvcxLTPaLg_FUW7wCwg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 122 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 439 |
+| n_trong_danh_sach | 110 |
+| n_dai | 100 |
+| n_short | 10 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 12,700 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-05-19 |
+| n_ngoai_cua_so | 12 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 4,910 |
+| cao_nhat | 28,505 |
+| thap_nhat | 1,608 |
+| phan_tan | 5.81 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.39 |
+| ty_le_like_trung_vi | 0.06 |
+| da_trung_vi | 1.97 |
+| ngay_video_dau | 2021-06-20 |
+| tuoi_tu_video_dau | 1,975 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 6.43 |
+| sub_moi_video | 28.93 |
+| video_30_ngay | 4 |
+| ty_trong_view_short | 0.04 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2021-06-20 | 1,975 | isqfcphSnDg | 632 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | From Heavy Clay to No Dig—Our First Spring Harvest |
+| 2021-06-27 | 1,968 | 6UKmOpGAcUw | 319 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Harvest Now, Plant Again—Keep Your Garden Producing Into Winter |
+| 2021-07-04 | 1,961 | n-d_w_bDkRM | 1,052 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Garlic Harvest + Compost: Preparing for Next Season |
+| 2021-07-11 | 1,954 | Yh4iljULOGQ | 1,797 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | We Lifted Our Best-Ever Potato Harvest From No-Dig Soil |
+| 2021-08-04 | 1,930 | 6dXFk8Nq3Mc | 457 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Harvesting Potatoes & Planting Cauliflowers in the No Dig Garden |
+| 2021-08-15 | 1,919 | 0FwwCYNVqgg | 304 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | No Dig Gardening: Harvesting Beans at the Perfect Size |
+| 2021-08-30 | 1,904 | kA8DDKY40S8 | 338 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | No Dig Gardening: Planting Cabbage and Harvesting Sweetcorn in Norfolk |
+| 2021-09-05 | 1,898 | Dr5IpqQdgM0 | 123 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Planting Spinach for a Six Month Harvest! |
+| 2025-05-19 | 546 | cvBNDnvTib4 | 4,033 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Melons, Corn & Squash – Planting for Big Summer Harvests |
+| 2025-05-22 | 543 | aN4sj5Il7jg | 4,324 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Leeks & Swede – What to Plant Now for Autumn Harvests |
+| 2025-05-26 | 539 | VHM8AV_SAnY | 3,387 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Container Gardening Made Easy – Tomatoes, Chillies, Aubergines And More |
+| 2025-05-29 | 536 | cwdJiaZMX2A | 16,835 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Don’t Miss These June Sowings – Year Round Crops! |
+| 2025-06-02 | 532 | st7e96UXans | 4,401 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | June Vegetable Garden Jobs – 13 Must Do Tasks for Big Harvests |
+| 2025-06-05 | 529 | 5ttwtBVECl4 | 4,468 | 5 | 4,324 | 1.03 | 5 | 1.06 | binh_thuong | – | Không | Why My Potatoes, Peas and Beans Are Thriving This Season |
+| 2025-06-09 | 525 | L-AJMfoSA7w | 5,251 | 6 | 4,362 | 1.20 | 5 | 0.87 | binh_thuong | – | Không | Think Ahead and Sow Now – Vegetables to Sow for Next Year’s Harvest |
+| 2025-06-12 | 522 | _LU11iqPyvI | 2,931 | 7 | 4,401 | 0.67 | 5 | 1.04 | binh_thuong | – | Không | Raised Bed & Container Garden Update – What We’re Harvesting & Planting Now! |
+| 2025-06-16 | 518 | LtdCcjHKSHU | 5,769 | 8 | 4,362 | 1.32 | 5 | 1.00 | binh_thuong | – | Không | Save Your Veg! Heatwave Watering Guide for No Dig Gardeners |
+| 2025-06-19 | 515 | NN0ekDWXllQ | 3,289 | 9 | 4,401 | 0.75 | 5 | 0.99 | binh_thuong | – | Không | My June Harvest – Proof That Healthy Soil Means Big Yields |
+| 2025-06-23 | 511 | YhKmWBSz2Jw | 4,599 | 10 | 4,362 | 1.05 | 5 | 1.00 | binh_thuong | – | Không | Sow Now for Non Stop Summer Veggies – Easy & Productive! |
+| 2025-06-26 | 508 | SOCNXw-w2Lg | 3,804 | 11 | 4,401 | 0.86 | 5 | 1.36 | binh_thuong | – | Không | Don’t Miss Out On Autumn Crops Plant These Now! |
+| 2025-06-30 | 504 | VSIc098tevU | 15,672 | 12 | 4,362 | 3.59 | 5 | 1.00 | dang_ghi | – | Không | It's NOT Too Late to Sow in July – Here's What to Plant Now |
+| 2025-07-03 | 501 | RghloSBmxqU | 4,343 | 13 | 4,401 | 0.99 | 5 | 0.70 | binh_thuong | – | Không | Bigger Autumn Harvests Start With These July Jobs |
+| 2025-07-07 | 497 | 5WG7_K55yyY | 2,479 | 14 | 4,372 | 0.57 | 5 | 0.73 | binh_thuong | – | Không | Save Your Harvest Before It's Too Late |
+| 2025-07-10 | 494 | glPEhXU8gQ4 | 5,978 | 15 | 4,343 | 1.38 | 5 | 0.73 | binh_thuong | – | Không | Tomato Troubles? Here's What You're Doing Wrong |
+| 2025-07-14 | 490 | CWvgnG4ugS4 | 6,442 | 15 | 4,401 | 1.46 | 5 | 0.72 | binh_thuong | – | Không | Keep Harvests Coming – Sow These Veg Now! |
+| 2025-07-18 | 486 | t0-7eFL0HCM | 2,949 | 15 | 4,468 | 0.66 | 5 | 0.73 | binh_thuong | – | Không | Your Vegetable Glut Survival Guide – Freeze, Pickle, Cure |
+| 2025-07-21 | 483 | gTW7RCPYfMs | 3,089 | 15 | 4,468 | 0.69 | 5 | 0.73 | binh_thuong | – | Không | Harvesting Onions & Shallots – Don’t Leave It Too Late! |
+| 2025-07-28 | 476 | 3dfNLIy9tRg | 3,189 | 15 | 4,401 | 0.72 | 5 | 0.89 | binh_thuong | – | Không | Harvesting Carrots, Tomatoes & More – No Dig Method |
+| 2025-07-31 | 473 | mIo4eV11Z6U | 9,257 | 15 | 4,343 | 2.13 | 5 | 0.75 | hoi_cao | – | Không | August Planting Strategy – Fill Your Garden with Autumn & Winter Crops |
+| 2025-08-04 | 469 | QPmHalw6i1k | 3,265 | 15 | 4,343 | 0.75 | 5 | 0.91 | binh_thuong | – | Không | Top 10 August Veg Plot Jobs – Maximise Your Harvests! |
+| 2025-08-07 | 466 | Z-nqciEFNn0 | 3,936 | 15 | 3,804 | 1.03 | 5 | 1.36 | binh_thuong | – | Không | I Grew 80 Leeks… and Got ZERO Harvest – Here’s What I learned |
+| 2025-08-11 | 462 | LOqQAb2I974 | 1,989 | 15 | 3,936 | 0.51 | 5 | 1.31 | binh_thuong | – | Không | What a Real Productive Garden Day Looks Like |
+| 2025-08-14 | 459 | a6iRNyCzkF4 | 5,385 | 15 | 3,804 | 1.42 | 5 | 1.36 | binh_thuong | – | Không | Winter Harvests Start Now With These 3 Seeds |
+| 2025-08-18 | 455 | Y3u0oC_xb4M | 1,871 | 15 | 3,936 | 0.48 | 5 | 1.31 | binh_thuong | – | Không | Perfect Onion Harvest Timing \| When & How to Pick |
+| 2025-08-21 | 452 | 1OjOpxA6zCY | 5,168 | 15 | 3,804 | 1.36 | 5 | 1.55 | binh_thuong | – | Không | Sow These 8 Veg in August for Fast Results! |
+| 2025-08-25 | 448 | iFpKIYInXWI | 5,884 | 15 | 3,936 | 1.49 | 5 | 1.56 | binh_thuong | – | Không | You Won’t Believe What You Can Grow in Winter! |
+| 2025-08-28 | 445 | 5DeGBiZ7kKw | 5,158 | 15 | 3,936 | 1.31 | 5 | 1.56 | binh_thuong | – | Không | Sow These Crops NOW! Don’t Miss Your September Window |
+| 2025-09-04 | 438 | 1FRiLm3FDys | 6,131 | 15 | 3,936 | 1.56 | 5 | 1.08 | binh_thuong | – | Không | Field Beans vs Mustard — Which Boosts Clay Soil Faster? |
+| 2025-09-11 | 431 | jhjyxVlue50 | 4,190 | 15 | 5,158 | 0.81 | 5 | 0.82 | binh_thuong | – | Không | Sow These 8 Seeds NOW And Feed Your Family For Years |
+| 2025-09-18 | 424 | P-R6YL2JQIw | 7,843 | 15 | 4,190 | 1.87 | 5 | 0.89 | binh_thuong | – | Không | How to Grow Vegetables Year Round Without a Greenhouse UK Guide |
+| 2025-09-25 | 417 | tk46hOHHYkA | 9,514 | 15 | 4,190 | 2.27 | 5 | 0.89 | hoi_cao | – | Không | Sow These 9 Crops NOW! Last Chance October Window for Winter Food |
+| 2025-10-02 | 410 | bZ1R-3Whkhs | 4,245 | 15 | 5,158 | 0.82 | 5 | 0.64 | binh_thuong | – | Không | 8 Autumn Veg Garden Jobs Every Smart Gardener Does Now Before Winter |
+| 2025-10-09 | 403 | gdHpS8CNjAM | 3,723 | 15 | 5,158 | 0.72 | 5 | 0.56 | binh_thuong | – | Không | Elephant Garlic vs Regular Garlic (Look at the Size!) |
+| 2025-10-16 | 396 | vXhDgtJeCoo | 3,293 | 15 | 5,158 | 0.64 | 5 | 0.56 | binh_thuong | – | Không | Plant These 9 Veg NOW for Non Stop Winter Harvests! (Polytunnel, Greenhouse or Cold Frame) |
+| 2025-10-23 | 389 | FSPWpP5EKb0 | 2,547 | 15 | 4,245 | 0.60 | 5 | 0.99 | binh_thuong | – | Không | They Said You Can’t Grow This in the UK… But Look What We Harvested! |
+| 2025-10-30 | 382 | ri6u8gj7fHE | 16,419 | 15 | 4,245 | 3.87 | 5 | 0.69 | dang_ghi | – | Không | 9 Seeds to Sow in November PLUS Our New Vegetable Sowing Calendar |
+| 2025-11-06 | 375 | qSEkU91bMBg | 2,316 | 15 | 5,158 | 0.45 | 5 | 0.56 | binh_thuong | – | Không | Massive Autumn Harvests You Can Grow Too |
+| 2025-11-13 | 368 | XcyCHI0YskQ | 2,914 | 15 | 5,158 | 0.56 | 5 | 0.73 | binh_thuong | – | Không | 9 Vegetables That Will Feed You All Year Long |
+| 2025-11-20 | 361 | pQxN8ZURnkc | 4,687 | 15 | 4,245 | 1.10 | 5 | 0.67 | binh_thuong | – | Không | Leeks From Tiny Seeds to Harvest - What You Need to Know |
+| 2025-11-27 | 354 | 2nsY9hZCqOY | 4,216 | 15 | 4,687 | 0.90 | 5 | 0.60 | binh_thuong | – | Không | The 5 Gardening Gifts We Genuinely Can't Live Without |
+| 2025-12-04 | 347 | 8ZDhWh9RTpM | 2,827 | 15 | 4,245 | 0.67 | 5 | 0.89 | binh_thuong | – | Không | Don't Sow Onions Yet! 5 Reasons to Wait Until January |
+| 2025-12-11 | 340 | JroaOYbrzqo | 1,834 | 15 | 4,216 | 0.44 | 5 | 1.11 | binh_thuong | – | Không | Prepare Your Garden NOW & Make the ULTIMATE Sausage Rolls |
+| 2025-12-18 | 333 | MA4spMuFKmA | 3,764 | 15 | 4,190 | 0.90 | 5 | 1.12 | binh_thuong | – | Không | STOP! Do NOT Cut Asparagus Down Until You See THIS |
+| 2025-12-23 | 328 | N0OfGxVym_U | 2,148 | 15 | 3,764 | 0.57 | 5 | 1.24 | binh_thuong | – | Không | The Reason Our Harvests Are So Abundant Now |
+| 2026-01-01 | 319 | eZaCXmc8bEg | 9,759 | 15 | 3,723 | 2.62 | 5 | 1.26 | hoi_cao | – | Không | January Gardening \| Skip the Tomatoes, Sow These Instead |
+| 2026-01-08 | 312 | ryUFjpBPVj0 | 4,831 | 15 | 3,723 | 1.30 | 5 | 1.26 | binh_thuong | – | Không | I Found The Perfect Seeds To Grow Food All Year |
+| 2026-01-15 | 305 | WpkMno7B0fQ | 4,685 | 15 | 3,723 | 1.26 | 5 | 1.30 | binh_thuong | – | Không | Stop Wasting Money on Bad Seeds! (5 Suppliers We Actually Trust) |
+| 2026-01-22 | 298 | mEKuSCaEyQ8 | 3,155 | 15 | 3,723 | 0.85 | 5 | 1.48 | binh_thuong | – | Không | The Engine Room: My Indoor Seed Setup That Saves £1,000 |
+| 2026-01-29 | 291 | G61S-gJ3mEE | 3,761 | 15 | 3,293 | 1.14 | 5 | 1.67 | binh_thuong | – | Không | February is a Liar! What I Sow NOW to Avoid Hunger in June |
+| 2026-02-05 | 284 | AyjFN-8l1SM | 14,643 | 15 | 3,761 | 3.89 | 5 | 1.28 | dang_ghi | – | Không | Stop Planting All At Once! The 4 Dates for Endless Potatoes |
+| 2026-02-12 | 277 | Qb0ncYXdPIQ | 5,507 | 15 | 3,764 | 1.46 | 5 | 0.78 | binh_thuong | – | Không | Don't Wait Until March! You Will Miss The June Harvest |
+| 2026-02-19 | 270 | xP6FVUj__V4 | 4,828 | 15 | 3,764 | 1.28 | 5 | 0.78 | binh_thuong | – | Không | Stop Buying Compost! The Cheap DIY Mix That Actually Works |
+| 2026-02-26 | 263 | ZZh164n818U | 7,133 | 15 | 4,216 | 1.69 | 5 | 0.70 | binh_thuong | – | Không | March Panic Stop! Use The 5 Window Sowing Rule Instead |
+| 2026-03-05 | 256 | N-k1zNF-WXE | 2,387 | 15 | 4,685 | 0.51 | 5 | 1.05 | binh_thuong | – | Không | Harvest These Vegetables NOW Before They're Ruined |
+| 2026-03-12 | 249 | xlzYmxb8o5M | 2,738 | 15 | 4,216 | 0.65 | 5 | 1.17 | binh_thuong | – | Không | Better Berries, Less Work — Switching to Autumn Bliss |
+| 2026-03-19 | 242 | F5MwOnAYCZM | 2,932 | 15 | 3,764 | 0.78 | 5 | 1.31 | binh_thuong | – | Không | No Dig Gardening for Beginners - New Bed to 400 Onions in Three Hours |
+| 2026-03-22 | 239 | z9n8Dspazgs | 4,924 | 15 | 3,764 | 1.31 | 5 | 0.96 | binh_thuong | – | Không | 3 Tips to Grow Perfect Carrots & Parsnips — Fix Every Common Problem |
+| 2026-03-26 | 235 | MUj3ph6-wsY | 5,994 | 15 | 4,685 | 1.28 | 5 | 0.69 | binh_thuong | – | Không | April Sowing Guide — Don't Miss These Vegetables! |
+| 2026-04-02 | 228 | wYyWgzsxJB4 | 6,453 | 15 | 4,828 | 1.34 | 5 | 0.67 | binh_thuong | – | Không | I'd Grow THESE 6 Vegetables If Food Bills Get Any Worse |
+| 2026-04-09 | 221 | Bu52zn4269Q | 3,236 | 15 | 4,831 | 0.67 | 5 | 0.62 | binh_thuong | – | Không | HUGE No Dig Garden Makeover (The Chickens Did the Hard Work)! |
+| 2026-04-12 | 218 | 0ShAFprZiQY | 3,595 | 15 | 4,828 | 0.74 | 5 | 0.62 | binh_thuong | – | Không | Grow Tomatoes from Seed — I Made £450 from Just 30 Plants |
+| 2026-04-16 | 214 | qCn1LwAJsWY | 2,845 | 15 | 4,685 | 0.61 | 5 | 0.64 | binh_thuong | – | Không | Never Run Out of Vegetables Again – Succession Plant Like This |
+| 2026-04-23 | 207 | G7mZJwoxZCY | 2,778 | 15 | 3,761 | 0.74 | 5 | 1.08 | binh_thuong | – | Không | No Dig Gardening for Beginners   Why You Need to Start in 2026 |
+| 2026-04-30 | 200 | edwLE3pdGhg | 6,661 | 15 | 3,761 | 1.77 | 5 | 0.84 | binh_thuong | – | Không | 13 Seeds to Sow in May (And What NOT to Plant Yet!) |
+| 2026-05-07 | 193 | CO9htRynD3M | 3,001 | 15 | 4,828 | 0.62 | 5 | 0.84 | binh_thuong | – | Không | Succession Planting for Beginners – 3 Pillars, No Hungry Gap, More Food All Year |
+| 2026-05-14 | 186 | iu2g61vNlkg | 9,098 | 15 | 3,595 | 2.53 | 5 | 1.13 | hoi_cao | – | Không | I Grew £450 of Tomatoes — This is What I Put in Every Hole |
+| 2026-05-17 | 183 | 5-BUScNNaDc | 2,349 | 15 | 3,595 | 0.65 | 5 | 1.13 | binh_thuong | – | Không | The Black Bag Trick That Makes Sweet Potatoes Grow in the UK |
+| 2026-05-21 | 179 | tnXhsIlKAF0 | 4,069 | 15 | 3,236 | 1.26 | 5 | 1.37 | binh_thuong | – | Không | I Cut the Top Off Every Pepper Plant — Here's Why |
+| 2026-05-24 | 176 | Z0INIwq2BY8 | 3,167 | 15 | 3,236 | 0.98 | 5 | 1.37 | binh_thuong | – | Không | I Put THIS in Every Planting Hole — £180 of Cucumbers! |
+| 2026-05-28 | 172 | VH0xkcmTFDI | 11,160 | 15 | 3,236 | 3.45 | 5 | 0.92 | dang_ghi | – | Không | The ONLY Seeds to Sow Before June 21st October to May Harvest |
+| 2026-05-31 | 169 | lnou2ThJvLU | 4,426 | 15 | 3,595 | 1.23 | 5 | 0.82 | binh_thuong | – | Không | Heat Is Destroying Your Garden — Do These 6 Things RIGHT NOW |
+| 2026-06-04 | 165 | ObsywK20xKU | 2,953 | 15 | 4,069 | 0.73 | 5 | 0.73 | binh_thuong | – | Không | This Mulch Trick Saves Container Plants — Stop Watering Every Day |
+| 2026-06-11 | 158 | Ar43QNZxM10 | 5,693 | 15 | 3,595 | 1.58 | 5 | 0.52 | binh_thuong | – | Không | The Tomato Pruning Rule Everyone Gets Wrong |
+| 2026-06-18 | 151 | 6uDPVnuModo | 2,986 | 15 | 3,595 | 0.83 | 5 | 0.52 | binh_thuong | – | Không | This Is What a No Dig Garden Looks Like in June — The Results Are In |
+| 2026-06-23 | 146 | HjhY2YEiTO8 | 1,608 | 15 | 3,236 | 0.50 | 5 | 0.80 | binh_thuong | – | Không | I Built The Gardening App I Always Wanted |
+| 2026-06-25 | 144 | xWOpBOVOooM | 1,643 | 15 | 3,167 | 0.52 | 5 | 1.00 | binh_thuong | – | Không | Don't Buy These Seeds Again \| I'll Show You Exactly Why |
+| 2026-07-02 | 137 | W7oeTqAEnSs | 14,337 | 15 | 3,001 | 4.78 | 5 | 1.06 | dang_ghi | – | Không | Most Gardeners Stop Sowing in July.....That's a Huge Mistake |
+| 2026-07-05 | 134 | 7o8MAIMIwaI | 1,884 | 15 | 3,167 | 0.59 | 5 | 1.02 | binh_thuong | – | Không | This One Change Got My Tomatoes Ready 3 Weeks Early |
+| 2026-07-09 | 130 | VW-uKXai5nw | 2,578 | 15 | 3,167 | 0.81 | 5 | 1.02 | binh_thuong | – | Không | Something Ruined My Onion Harvest… |
+| 2026-07-16 | 123 | dMAoqTHLDy4 | 3,236 | 15 | 3,001 | 1.08 | 5 | 2.02 | binh_thuong | – | Không | Pressure Canning Vegetables for Beginners UK  Preserve Your Harvest for 12 Months |
+| 2026-07-19 | 120 | 719ZlppnvY4 | 3,169 | 15 | 3,167 | 1.00 | 5 | 1.91 | binh_thuong | – | Không | Carrots Failed This Year Sow Again Now — It's Not Too Late |
+| 2026-07-23 | 116 | oKJ6gYCxR68 | 6,280 | 15 | 3,167 | 1.98 | 5 | 1.63 | binh_thuong | – | Không | The Heatwave Is Over — Do These 7 Things to Save Your Garden |
+| 2026-07-30 | 109 | 2CMKXCxriQM | 23,299 | 15 | 3,169 | 7.35 | 5 | 1.63 | manh | – | Không | Don't Waste Your August! 21 Vegetables to Sow Right Now |
+| 2026-08-06 | 102 | wThnwcfgTIo | 2,485 | 15 | 3,169 | 0.78 | 5 | 1.91 | binh_thuong | – | Không | Onion Harvest Disaster? 345 Alliums Say Otherwise \| Pest Damage? |
+| 2026-08-13 | 95 | WzaeIvgF5uw | 6,064 | 15 | 3,169 | 1.91 | 5 | 1.63 | binh_thuong | – | Không | Growing Potatoes in Containers Compost vs Mulch – Which Grew More |
+| 2026-08-20 | 88 | fjWGC_VB-ng | 5,153 | 15 | 3,169 | 1.63 | 5 | 1.47 | binh_thuong | – | Không | Don't Waste Your August! 9 No Dig Jobs Before Autumn Hits |
+| 2026-08-27 | 81 | k1fvWK9j6mY | 4,304 | 15 | 3,169 | 1.36 | 5 | 2.40 | binh_thuong | – | Không | Don't Waste Your August How We Preserve One Day's Harvest for Winter |
+| 2026-09-03 | 74 | E9yWltCQwU4 | 28,505 | 15 | 3,236 | 8.81 | 5 | 2.35 | manh | – | Không | Don't Waste Your September! 16 Vegetables to Plant Right Now |
+| 2026-09-10 | 67 | NXNXTe0fhZ8 | 7,600 | 15 | 3,236 | 2.35 | 5 | 1.63 | hoi_cao | – | Không | Don't Freeze Your Tomatoes! Water Bath Passata That Keeps 12 Months |
+| 2026-09-17 | 60 | 0_trZDFwIN0 | 4,666 | 15 | 4,304 | 1.08 | 5 | 1.23 | binh_thuong | – | Không | Don't Waste Your Onions! Red Onion Chutney That Keeps All Year |
+| 2026-09-24 | 53 | 29ao0TymT1I | 4,050 | 15 | 4,666 | 0.87 | 5 | 1.65 | binh_thuong | – | Không | How I Grew Huge Brassicas with Field Bean Green Manure |
+| 2026-10-01 | 46 | asqLkFOEeYs | 21,971 | 15 | 4,666 | 4.71 | 5 | 1.52 | dang_ghi | – | Không | Don't Waste Your October! 10 Vegetables to Plant Now UK |
+| 2026-10-08 | 39 | ZB3uVe8phqU | 7,689 | 15 | 4,666 | 1.65 | 5 | 1.13 | binh_thuong | – | Không | Why One Potato Variety Beat the Other in Our Shady Garden Test |
+| 2026-10-15 | 32 | v05ukLDei7w | 5,283 | 15 | 5,153 | 1.03 | 4 | – | binh_thuong | – | Không | I Tested 2 Ways to Plant Sweet Potato Slips   Which Yielded More |
+| 2026-10-22 | 25 | nDK5bClIj-Q | 3,434 | 15 | 5,283 | 0.65 | 3 | – | chua_chin | – | Không | How to Save Seeds for Free Vegetables Next Year UK |
+| 2026-10-29 | 18 | a08pXxoCqls | 11,468 | 15 | 5,283 | 2.17 | 2 | – | chua_chin | – | Không | Grow Your Own: 10 Vegetables to Plant This November |
+| 2026-11-05 | 11 | p678-RyxOm4 | 7,079 | 15 | 6,064 | 1.17 | 1 | – | chua_chin | – | Không | Winter Gardening Reset 13 Jobs You Can't Skip UK |
+| 2026-11-12 | 4 | UqDLXMCMS-I | 2,581 | 15 | 6,064 | 0.43 | 0 | – | chua_chin | – | Không | Planting Garlic From Our Saved Harvest (Greenhouse Beats Rust) |

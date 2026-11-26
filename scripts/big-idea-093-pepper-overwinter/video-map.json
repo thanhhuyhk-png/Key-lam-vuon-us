@@ -1,0 +1,1291 @@
+{
+ "video": "big-idea-093-pepper-overwinter",
+ "script": "script.md",
+ "wpm": 165,
+ "style": "Photorealistic home-garden video. When hands appear, use a first-person POV looking down at adult hands, both bare. Natural soft light, slow steady handheld camera, shallow depth of field. The plant is a bell pepper plant in a plain terracotta pot, American home setting. No face, no full body. Season, fruit and background are only what the prompt describes.",
+ "negative": "text, captions, watermark, logo, brand labels, readable labels, product packaging, bags, bottles, extra fingers, extra hands, deformed hands, face, cartoon, time-lapse, snow, fast motion",
+ "scenes": [
+  {
+   "id": "093-01",
+   "sec": "HOOK",
+   "t": "S",
+   "a": "Your pepper plant isn't finished just because the season is.",
+   "show": "cây ớt còn xanh, có quả, ngoài vườn cuối mùa",
+   "q": [
+    "pepper plant garden",
+    "bell pepper plant growing"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-02",
+   "sec": "HOOK",
+   "t": "S",
+   "a": "A pepper is a perennial.",
+   "show": "thẻ nguồn trên nền cây ớt",
+   "text": "PERENNIAL IN ZONES 9–11 · NC State Extension · UF/IFAS",
+   "q": [
+    "pepper plant leaves garden"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-03",
+   "sec": "HOOK",
+   "t": "S",
+   "a": "Everywhere else, what ends it isn't age.",
+   "show": "sương giá phủ lá trong vườn",
+   "q": [
+    "frost on leaves garden",
+    "frost on plants morning"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-04",
+   "sec": "HOOK",
+   "t": "S",
+   "a": "So before that first cold night, you can bring one inside",
+   "show": "tay bưng chậu ớt đi về phía cửa nhà lúc chạng vạng",
+   "q": [
+    "bringing plant indoors",
+    "walking with potted plant to house"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-05",
+   "sec": "HOOK",
+   "t": "S",
+   "a": "All it takes is a pair of pruners, a clean pot, and fresh potting mix.",
+   "show": "kéo cắt cành, chậu sạch, bao đất trên bàn",
+   "q": [
+    "pruning shears terracotta pot table",
+    "potting soil scoop hands"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-06",
+   "sec": "HOOK",
+   "t": "G",
+   "a": "And a spot that stays around fifty to sixty degrees.",
+   "show": "nhiệt kế dừng ở dải 50–60",
+   "text": "50–60°F",
+   "card": {
+    "kind": "thermo",
+    "big": "50–60°F",
+    "lo": "50°",
+    "hi": "60°"
+   },
+   "full": true
+  },
+  {
+   "id": "093-07",
+   "sec": "HOOK",
+   "t": "V",
+   "a": "But one step happens before the plant ever comes through your door.",
+   "show": "bàn tay dừng trước ngưỡng cửa, chậu ớt chưa vào nhà",
+   "dur": 5,
+   "p": "POV on a porch holding a potted pepper plant, an open house door ahead with warm light inside. The hands stop at the threshold and do not cross it.",
+   "file": "093-07.mp4"
+  },
+  {
+   "id": "093-08",
+   "sec": "HOOK",
+   "t": "S",
+   "a": "Skip it, and you could carry aphids or spider mites",
+   "show": "rệp hoặc nhện đỏ cận cảnh trên lá",
+   "q": [
+    "aphids on leaf macro",
+    "spider mites on plant leaf"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-09",
+   "sec": "HOOK",
+   "t": "S",
+   "a": "Do it, and next spring you could start with a plant",
+   "show": "rễ khỏe, cây có bộ rễ đầy",
+   "q": [
+    "plant roots in soil close up",
+    "repotting plant roots hands"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-10",
+   "sec": "M1",
+   "t": "S",
+   "a": "So yes, you can keep it.",
+   "show": "hai đường đi: cho ngủ và giữ xanh",
+   "text": "2 WAYS",
+   "q": [
+    "potted plants at home"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-11",
+   "sec": "M1",
+   "t": "S",
+   "a": "A lot of us treat peppers like tomatoes.",
+   "show": "nhổ hoặc dọn cây trong vườn cuối mùa",
+   "q": [
+    "pulling plants garden autumn",
+    "clearing vegetable garden fall"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-12",
+   "sec": "M1",
+   "t": "G",
+   "a": "Well, two extension guides don't see it that way.",
+   "show": "hai trang nguồn thật, quét dạ quang đúng dòng perennial",
+   "text": "PERENNIAL",
+   "card": {
+    "kind": "pages",
+    "pages": [
+     [
+      "D:\\0002-Team A Nam\\scripts\\big-idea-093-pepper-overwinter\\build\\sources\\ncsu.png",
+      "NC State Extension"
+     ],
+     [
+      "D:\\0002-Team A Nam\\scripts\\big-idea-093-pepper-overwinter\\build\\sources\\ifas.png",
+      "UF/IFAS Extension"
+     ]
+    ],
+    "at": [
+     0,
+     0.6
+    ]
+   }
+  },
+  {
+   "id": "093-13",
+   "sec": "M1",
+   "t": "S",
+   "a": "That word \"tender\"?",
+   "show": "cây ớt vùng nắng ấm",
+   "q": [
+    "chili pepper plant sunny tropical",
+    "pepper plants field sun"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-14",
+   "sec": "M1",
+   "t": "G",
+   "a": "In zones nine through eleven, a pepper can live outside as a perennial.",
+   "show": "bản đồ zone Mỹ tô sáng 9–11",
+   "text": "ZONES 9–11",
+   "card": {
+    "kind": "zones",
+    "hi": [
+     9,
+     10,
+     11
+    ],
+    "title": "ZONES 9–11",
+    "sub": "a pepper can live outside as a perennial"
+   },
+   "full": true
+  },
+  {
+   "id": "093-15",
+   "sec": "M1",
+   "t": "S",
+   "a": "Up north, there's nothing wrong with the plant in October.",
+   "show": "lá cây xanh trong trời lạnh, sắp có sương",
+   "q": [
+    "cold autumn morning vegetable garden",
+    "frost garden plants autumn"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-16",
+   "sec": "M1",
+   "t": "S",
+   "a": "Here's why this works. It's like a lamp",
+   "show": "bóng đèn rút phích: bóng vẫn tốt, mất điện",
+   "text": "UNPLUGGED, NOT BURNED OUT",
+   "q": [
+    "unplug cord wall socket",
+    "pulling plug from outlet"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-17",
+   "sec": "M1",
+   "t": "S",
+   "a": "And if you live where it never freezes?",
+   "show": "vườn ngập nắng mùa đông ấm",
+   "q": [
+    "sunny backyard garden warm climate",
+    "palm tree backyard vegetable garden"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-18",
+   "sec": "M1",
+   "t": "S",
+   "a": "For everybody else, here's what you get for the trouble.",
+   "show": "cây con nhỏ trong khay",
+   "q": [
+    "seedling tray small plants",
+    "tiny seedling hand"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-19",
+   "sec": "M1",
+   "t": "S",
+   "a": "And you'll skip the nursery bill for that plant, too.",
+   "show": "kệ cây giống ở vườn ươm",
+   "q": [
+    "plant nursery seedlings shelves",
+    "garden center plants"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-20",
+   "sec": "M1",
+   "t": "V",
+   "a": "Now, here's the first thing, and you can do it tonight.",
+   "show": "tay chạm chọn một cây khỏe nhất trong hàng ớt",
+   "p": "Two hands move along a row of pepper plants in a backyard bed and stop at the sturdiest one, gently touching its thick main stem.",
+   "dur": 6,
+   "file": "093-20.mp4"
+  },
+  {
+   "id": "093-21",
+   "sec": "M1",
+   "t": "S",
+   "a": "Why only one?",
+   "show": "một chậu cây đơn lẻ, dễ cầm",
+   "q": [
+    "hands holding potted plant",
+    "carrying plant pot"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-22",
+   "sec": "M1",
+   "t": "S",
+   "a": "If your plants are in pots already, you're ahead of the game.",
+   "show": "cây ớt trồng chậu",
+   "q": [
+    "pepper plant in pot",
+    "potted chili plant"
+   ],
+   "alt": "093-04"
+  },
+  {
+   "id": "093-23",
+   "sec": "M1",
+   "t": "S",
+   "a": "If they're in the ground, you'll dig one up",
+   "show": "xẻng tay đào quanh gốc ớt",
+   "q": [
+    "lifting plant root ball garden",
+    "hand trowel digging soil"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-24",
+   "sec": "M1",
+   "t": "G",
+   "a": "Now, before you pick a spot for it, here's the odd part.",
+   "show": "so hai ô: góc mát tối và cửa sổ nắng, dấu hỏi",
+   "text": "COLD SPOT vs SUNNY WINDOW?",
+   "card": {
+    "kind": "vs",
+    "left": "COLDEST SPOT",
+    "right": "SUNNIEST WINDOW",
+    "mid": "?"
+   }
+  },
+  {
+   "id": "093-25",
+   "sec": "M2",
+   "t": "S",
+   "a": "Here are the two ways.",
+   "show": "hai ô tên cách",
+   "text": "REST or GREEN",
+   "q": [
+    "potted pepper plant"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-26",
+   "sec": "M2",
+   "t": "V",
+   "a": "The first way? You let the plant rest.",
+   "show": "cây ớt đã cắt trơ đặt nơi mát, ít sáng",
+   "p": "A pepper plant cut back to three short bare stems in a terracotta pot, resting on a shelf in a cool dim room. Very slow push-in. Hands are not in frame.",
+   "dur": 6,
+   "file": "093-26.mp4",
+   "trim": [
+    0.0,
+    3.0
+   ]
+  },
+  {
+   "id": "093-27",
+   "sec": "M2",
+   "t": "S",
+   "a": "The second way? You keep it green.",
+   "show": "cây ớt xanh lá trong nhà",
+   "q": [
+    "pepper plant indoor window",
+    "chili plant indoors leaves"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-28",
+   "sec": "M2",
+   "t": "S",
+   "a": "And it'll need grow lights, since a window alone won't do it.",
+   "show": "đèn trồng cây chiếu lên cây",
+   "q": [
+    "LED grow light plant",
+    "plant under grow lamp"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-29",
+   "sec": "M2",
+   "t": "S",
+   "a": "There's a third choice, and it's a fair one.",
+   "show": "bỏ cây vào thùng ủ phân",
+   "q": [
+    "compost bin garden waste",
+    "putting plants in compost"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-30",
+   "sec": "M2",
+   "t": "S",
+   "a": "So how do you pick?",
+   "show": "câu hỏi trên nền căn phòng",
+   "text": "A SPOT AT 50–60°F?",
+   "q": [
+    "quiet empty room house",
+    "hallway home winter light"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-31",
+   "sec": "M2",
+   "t": "S",
+   "a": "If you've got that spot, the resting way's probably gonna fit you.",
+   "show": "góc nhà sáng có ổ điện hoặc đèn",
+   "q": [
+    "bright corner room houseplants",
+    "indoor plant corner sunlight"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-32",
+   "sec": "M2",
+   "t": "G",
+   "a": "Here's the side-by-side.",
+   "show": "bảng chọn cách theo chỗ trong nhà (giọng không đọc lại số)",
+   "text": "REST: cool · dim · almost no water | GREEN: warm · bright · regular care",
+   "card": {
+    "kind": "table",
+    "title": "SIDE BY SIDE",
+    "rows": [
+     [
+      "RESTING",
+      "cool · dim · almost no water"
+     ],
+     [
+      "GREEN",
+      "warm · bright · regular care"
+     ]
+    ],
+    "at": [
+     0,
+     0.18,
+     0.53
+    ]
+   },
+   "hold": 10.0
+  },
+  {
+   "id": "093-33",
+   "sec": "M2",
+   "t": "S",
+   "a": "And here's the thing worth knowing.",
+   "show": "ba thẻ trang nguồn xếp cạnh nhau, ba cụm sáng dần",
+   "text": "CUT BACK · KEEP COOL · WATER RARELY",
+   "q": [
+    "pruning plant shears close up"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-34",
+   "sec": "M2",
+   "t": "S",
+   "a": "That's good news.",
+   "show": "tay làm vườn bình thản, cảnh đời thường",
+   "q": [
+    "hands gardening calm",
+    "gardener hands pot soil"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-35",
+   "sec": "M2",
+   "t": "S",
+   "a": "And there's a bonus.",
+   "show": "một tay xách chậu nhỏ có cây cắt trơ",
+   "q": [
+    "hand carrying small plant pot",
+    "lifting small terracotta pot"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-36",
+   "sec": "M2",
+   "t": "S",
+   "a": "One more thing before we get to the how-to.",
+   "show": "lại ngưỡng cửa, chậu ớt",
+   "q": [
+    "front porch plants door",
+    "doorstep flower pot"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-37",
+   "sec": "M2",
+   "t": "S",
+   "a": "So let's start with the resting way.",
+   "show": "lưỡi kéo mở gần cành ớt",
+   "q": [
+    "pruning shears close up stem",
+    "secateurs cutting plant stem"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-38",
+   "sec": "M3",
+   "t": "S",
+   "a": "First, let's settle that odd claim from earlier.",
+   "show": "lại hai ô góc mát và cửa sổ nắng",
+   "text": "COLD SPOT vs SUNNY WINDOW",
+   "q": [
+    "sunny window houseplants"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-39",
+   "sec": "M3",
+   "t": "V",
+   "a": "Because a resting plant barely needs light.",
+   "show": "cây cắt trơ trong góc mát ít sáng, tưới vài giọt",
+   "p": "A short bare pepper plant in a terracotta pot in a dim cool corner. A hand pours a very small amount of water from a small can at the base.",
+   "dur": 6,
+   "file": "093-26.mp4"
+  },
+  {
+   "id": "093-40",
+   "sec": "M3",
+   "t": "S",
+   "a": "The green way's the one that needs light, and a lot of it.",
+   "show": "cửa sổ mùa đông, nắng yếu",
+   "q": [
+    "winter window weak sunlight plant",
+    "houseplant window winter"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-41",
+   "sec": "M3",
+   "t": "V",
+   "a": "Here's why this works. You aren't trying to grow the plant.",
+   "show": "cây trơ yên tĩnh, không có gì thay đổi",
+   "p": "Static close view of a short bare pepper plant in a terracotta pot in a cool quiet room, dust in a faint beam of light.",
+   "dur": 6,
+   "file": "093-26.mp4"
+  },
+  {
+   "id": "093-42",
+   "sec": "M3",
+   "t": "S",
+   "a": "Now, the steps.",
+   "show": "đồ nghề trên bàn làm vườn",
+   "q": [
+    "garden tools on table",
+    "pruning shears potting bench"
+   ],
+   "alt": "093-05"
+  },
+  {
+   "id": "093-43",
+   "sec": "M3",
+   "t": "S",
+   "a": "Step one: you'll pick every pepper that's left on the plant.",
+   "show": "tay hái ớt",
+   "q": [
+    "hands picking peppers",
+    "harvesting bell pepper"
+   ],
+   "alt": "G",
+   "text": "STEP 1"
+  },
+  {
+   "id": "093-44",
+   "sec": "M3",
+   "t": "V",
+   "a": "Step two happens after the harvest, but before your first frost.",
+   "show": "ngón tay chỉ 3 cành chính, cắt bỏ các cành còn lại",
+   "p": "Two hands point out three thick main branches of a pepper plant, then pruners remove a thin side branch at the base.",
+   "dur": 7,
+   "text": "STEP 2",
+   "file": "093-44.mp4",
+   "trim": [
+    3.0,
+    7.0
+   ]
+  },
+  {
+   "id": "093-45",
+   "sec": "M3",
+   "t": "V",
+   "a": "Step three: you'll strip the leaves off those three branches.",
+   "show": "tuốt lá, cắt ngay trên chạc đầu",
+   "p": "Close-up of a pepper plant with no fruit at all; every pepper has already been picked. Fingers pull the leaves off one branch until it is bare, then red-handled pruners cut that bare branch just above its first fork, leaving a short clean stub. Plain outdoor background.",
+   "dur": 7,
+   "text": "STEP 3",
+   "file": "093-45.mp4",
+   "crop_note": "từ 3 giây có chữ trên cán kéo: punch-in cắt bỏ góc dưới phải",
+   "crop": [
+    0.0,
+    0.0,
+    0.72,
+    0.72
+   ]
+  },
+  {
+   "id": "093-46",
+   "sec": "M3",
+   "t": "G",
+   "a": "What you've got now looks like a short, bare letter Y",
+   "show": "sơ đồ cây hình chữ Y, ba cành",
+   "text": "3 STEMS",
+   "card": {
+    "kind": "y",
+    "title": "3 STEMS",
+    "sub": "a short, bare letter Y"
+   }
+  },
+  {
+   "id": "093-47",
+   "sec": "M3",
+   "t": "G",
+   "a": "Now, if you go looking, you'll find the cut described two ways.",
+   "show": "bảng hai trang, hai cách cắt",
+   "text": "COLORADO: 3 main branches, above first fork | MARYLAND: 6–8 inches above lowest side branches",
+   "card": {
+    "kind": "table",
+    "title": "TWO PAGES, TWO CUTS",
+    "rows": [
+     [
+      "COLORADO",
+      "3 main branches, just above the first fork"
+     ],
+     [
+      "MARYLAND",
+      "main stem, 6–8 inches above the lowest side branches"
+     ]
+    ],
+    "at": [
+     0,
+     0.43,
+     0.69
+    ]
+   },
+   "full": true
+  },
+  {
+   "id": "093-48",
+   "sec": "M3",
+   "t": "S",
+   "a": "They're both sayin' the same big thing",
+   "show": "hai cột gộp thành một cụm",
+   "text": "CUT IT BACK HARD",
+   "q": [
+    "pruning shears cutting branch"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-49",
+   "sec": "M3",
+   "t": "V",
+   "a": "Step four: you'll move the pot to your cool spot.",
+   "show": "đặt chậu cây trơ lên kệ nơi mát",
+   "p": "Two hands set a terracotta pot onto a wooden shelf in a cool dim room. The plant in the pot has no leaves at all: only three short bare stems cut back like a letter Y. The shelf is otherwise empty.",
+   "dur": 5,
+   "text": "STEP 4",
+   "file": "093-49.mp4"
+  },
+  {
+   "id": "093-50",
+   "sec": "M3",
+   "t": "S",
+   "a": "Step five: you'll water rarely",
+   "show": "tưới rất ít",
+   "text": "STEP 5",
+   "q": [
+    "small watering can pot",
+    "watering potted plant slowly"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-51",
+   "sec": "M3",
+   "t": "S",
+   "a": "And that's mistake number one, right there.",
+   "show": "tưới dội mạnh như mùa hè",
+   "q": [
+    "watering plant heavily watering can",
+    "overwatering potted plant"
+   ],
+   "alt": "G",
+   "text": "MISTAKE #1"
+  },
+  {
+   "id": "093-52",
+   "sec": "M3",
+   "t": "S",
+   "a": "You'll see something odd, too.",
+   "show": "ngón tay ngắt lá non nhú trên cành trơ",
+   "q": [
+    "new leaf sprout stem macro",
+    "fingers plucking leaf"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-53",
+   "sec": "M3",
+   "t": "S",
+   "a": "So the resting plan's short.",
+   "show": "checklist 5 bước đánh dấu dần",
+   "text": "PICK · CUT · STRIP · COOL · WATER RARELY",
+   "q": [
+    "pruning plant hands"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-54",
+   "sec": "M3",
+   "t": "S",
+   "a": "Notice what's missing, though?",
+   "show": "chậu vẫn ở ngoài hiên, cửa mở",
+   "q": [
+    "plant pot outside door",
+    "porch pot plant"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-55",
+   "sec": "M3",
+   "t": "S",
+   "a": "That's the plant ready to rest.",
+   "show": "lá xanh trong nhà",
+   "q": [
+    "green houseplant leaves indoor",
+    "pepper plant leaves close up"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-56",
+   "sec": "M4",
+   "t": "S",
+   "a": "If you've only got one bright window and no cool room at all",
+   "show": "một ô cửa sổ sáng trong nhà",
+   "q": [
+    "bright window plants apartment",
+    "single window houseplant"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-57",
+   "sec": "M4",
+   "t": "S",
+   "a": "The green way keeps your pepper leafy all winter",
+   "show": "cây ớt xanh trong nhà, ngoài cửa trời đông",
+   "q": [
+    "pepper plant on windowsill",
+    "chili plant indoors window"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-58",
+   "sec": "M4",
+   "t": "G",
+   "a": "Warmth's first on the list.",
+   "show": "thẻ hai nhiệt độ",
+   "text": "NIGHTS 50°F+ · DAYS ~70°F",
+   "card": {
+    "kind": "two",
+    "items": [
+     [
+      "NIGHTS",
+      "50°F+"
+     ],
+     [
+      "DAYS",
+      "~70°F"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "093-59",
+   "sec": "M4",
+   "t": "S",
+   "a": "Then there's light, and here's the honest part.",
+   "show": "đèn trồng cây bật trên cây",
+   "q": [
+    "LED plant light indoor",
+    "finger pressing light switch"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-60",
+   "sec": "M4",
+   "t": "S",
+   "a": "Why so firm on the light?",
+   "show": "ngày đông ngắn nhìn qua kính",
+   "q": [
+    "winter day through window glass",
+    "short winter daylight window"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-61",
+   "sec": "M4",
+   "t": "S",
+   "a": "It's like cooking dinner over a birthday candle.",
+   "show": "ngọn nến sinh nhật cận cảnh",
+   "q": [
+    "birthday candle close up flame",
+    "small candle flame"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-62",
+   "sec": "M4",
+   "t": "V",
+   "a": "Now, the fun part! A green pepper plant might flower indoors.",
+   "show": "tay lắc nhẹ cây ớt có hoa trắng",
+   "p": "A hand gently shakes the main stem of a leafy pepper plant indoors beside a bright window. Several small white pepper flowers are clearly visible. There are no peppers on the plant. The windowsill and background are clean and empty.",
+   "dur": 6,
+   "file": "093-62.mp4"
+  },
+  {
+   "id": "093-63",
+   "sec": "M4",
+   "t": "S",
+   "a": "There aren't any bees in your living room",
+   "show": "ong trên hoa",
+   "q": [
+    "bee on flower close up",
+    "bee pollinating white flower"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-64",
+   "sec": "M4",
+   "t": "V",
+   "a": "Now, let's keep this honest.",
+   "show": "hoa ớt trắng, chưa có quả",
+   "p": "A hand gently shakes the main stem of a leafy pepper plant indoors beside a bright window. Several small white pepper flowers are clearly visible. There are no peppers on the plant. The windowsill and background are clean and empty.",
+   "file": "093-62.mp4"
+  },
+  {
+   "id": "093-65",
+   "sec": "M4",
+   "t": "S",
+   "a": "And if you change your mind halfway through the winter",
+   "show": "tay cắt bớt cây xanh, chuyển đi",
+   "q": [
+    "trimming houseplant shears",
+    "pruning indoor plant"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-66",
+   "sec": "M4",
+   "t": "S",
+   "a": "So, green or resting?",
+   "show": "hai cột ít việc và nhiều việc",
+   "text": "REST: LESS WORK | GREEN: MORE WORK, MORE LIGHT",
+   "q": [
+    "houseplant care hands"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-67",
+   "sec": "M5",
+   "t": "S",
+   "a": "That brings us to the job I promised at the very start.",
+   "show": "ngưỡng cửa lần nữa, tay giữ chậu",
+   "q": [
+    "holding potted plant porch",
+    "hands placing pot ground"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-68",
+   "sec": "M5",
+   "t": "V",
+   "a": "Here it is. Before your pepper comes inside",
+   "show": "nhấc cây ra khỏi chậu, rửa sạch đất ở rễ",
+   "p": "On a bare wooden bench outdoors, two hands lift a pepper plant out of its pot and crumble the old soil away from the roots, then a plain garden hose rinses the bare roots clean under a gentle stream. Nothing else is on the bench.",
+   "dur": 8,
+   "file": "093-68.mp4"
+  },
+  {
+   "id": "093-69",
+   "sec": "M5",
+   "t": "S",
+   "a": "Then it goes into a clean pot with fresh potting mix",
+   "show": "trồng lại chậu sạch, đất mới",
+   "q": [
+    "filling pot with potting soil",
+    "planting in new pot hands"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-70",
+   "sec": "M5",
+   "t": "S",
+   "a": "That's the step.",
+   "show": "tay ấn nhẹ đất trong chậu",
+   "q": [
+    "hands repotting plant press soil",
+    "repotting plant fresh soil"
+   ],
+   "alt": "093-69"
+  },
+  {
+   "id": "093-71",
+   "sec": "M5",
+   "t": "S",
+   "a": "Now, why bother?",
+   "show": "rệp, nhện đỏ, bọ phấn trắng",
+   "q": [
+    "aphids close up plant",
+    "whiteflies on leaves",
+    "spider mites webbing leaf"
+   ],
+   "alt": "G",
+   "text": "APHIDS · SPIDER MITES · WHITEFLIES"
+  },
+  {
+   "id": "093-72",
+   "sec": "M5",
+   "t": "S",
+   "a": "Nobody wants those roommates all winter.",
+   "show": "cây trong phòng khách ấm cúng",
+   "q": [
+    "cozy living room houseplants",
+    "houseplants living room winter"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-73",
+   "sec": "M5",
+   "t": "S",
+   "a": "Picture it for a second.",
+   "show": "góc nhìn ngoài hiên, chậu trong tay, cửa mở, nhà ấm phía sau",
+   "q": [
+    "warm light open door dusk",
+    "front door open evening"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-74",
+   "sec": "M5",
+   "t": "S",
+   "a": "While you're at it, it's worth a close look at the plant itself.",
+   "show": "ngón tay lật lá, soi ngọn non",
+   "q": [
+    "fingers turning leaf",
+    "examining leaf for pests"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-75",
+   "sec": "M5",
+   "t": "S",
+   "a": "And if you do spot aphids or spider mites?",
+   "show": "cận rệp trên lá",
+   "q": [
+    "aphids on plant stem macro",
+    "pest on leaf underside"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-76",
+   "sec": "M5",
+   "t": "S",
+   "a": "Before any spray, a word for homes with pets or kids.",
+   "show": "thẻ an toàn rõ ràng",
+   "text": "PETS & KIDS: KEEP SPRAYS OUT OF REACH",
+   "q": [
+    "cat near houseplant",
+    "dog sitting by plants"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-77",
+   "sec": "M5",
+   "t": "G",
+   "a": "If a pet chews on it, call your vet.",
+   "show": "thẻ số điện thoại ASPCA, đã kiểm trang 27/10",
+   "text": "ASPCA Animal Poison Control (888) 426-4435 · A consultation fee may apply",
+   "num_ok": true,
+   "card": {
+    "kind": "notice",
+    "title": "ASPCA Animal Poison Control",
+    "big": "(888) 426-4435",
+    "small": "A consultation fee may apply"
+   },
+   "full": true
+  },
+  {
+   "id": "093-78",
+   "sec": "M5",
+   "t": "S",
+   "a": "A store-bought insecticidal soap's one option.",
+   "show": "bình xịt không nhãn hiệu xịt lên lá",
+   "q": [
+    "spraying plant leaves spray bottle",
+    "spray bottle houseplant"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-79",
+   "sec": "M5",
+   "t": "S",
+   "a": "Here's the warning.",
+   "show": "xịt thử lên vài lá",
+   "q": [
+    "spray bottle spraying leaves close up",
+    "misting plant leaf"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-80",
+   "sec": "M5",
+   "t": "S",
+   "a": "And that's mistake number two.",
+   "show": "xà phòng rửa chén, che nhãn",
+   "q": [
+    "dish soap kitchen sink",
+    "pouring dish soap"
+   ],
+   "alt": "G",
+   "text": "MISTAKE #2"
+  },
+  {
+   "id": "093-81",
+   "sec": "M5",
+   "t": "V",
+   "a": "So the door step's simple",
+   "show": "checklist bước trước cửa",
+   "text": "WASH ROOTS · FRESH POT · CHECK LEAVES",
+   "p": "On a bare wooden bench outdoors, two hands lift a pepper plant out of its pot and crumble the old soil away from the roots, then a plain garden hose rinses the bare roots clean under a gentle stream. Nothing else is on the bench.",
+   "file": "093-68.mp4"
+  },
+  {
+   "id": "093-82",
+   "sec": "M5",
+   "t": "S",
+   "a": "Have you ever brought a plant inside and found bugs on it a month later?",
+   "show": "cây trong nhà, soi lá",
+   "q": [
+    "fingers turning leaf",
+    "examining leaf for pests"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-83",
+   "sec": "M6",
+   "t": "S",
+   "a": "Now, if you do all that, the plant has a good shot",
+   "show": "cảnh mùa đông ngoài cửa sổ",
+   "q": [
+    "snow outside window winter",
+    "winter view from window"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-84",
+   "sec": "M6",
+   "t": "S",
+   "a": "It's the first warm day of spring, and the sun's out.",
+   "show": "nắng xuân đầu mùa trong sân",
+   "q": [
+    "sunny spring backyard morning",
+    "early spring sunshine garden"
+   ],
+   "alt": "G",
+   "topic": "pepper"
+  },
+  {
+   "id": "093-85",
+   "sec": "M6",
+   "t": "S",
+   "a": "I know the feeling.",
+   "show": "thẻ sai lầm số 3",
+   "text": "MISTAKE #3",
+   "q": [
+    "carrying plant outside sunny"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-86",
+   "sec": "M6",
+   "t": "S",
+   "a": "A pepper's a warm-season crop.",
+   "show": "câu luật to, nền lịch trống không ghi ngày",
+   "text": "AFTER YOUR LAST FROST",
+   "q": [
+    "spring garden young vegetable plants"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-87",
+   "sec": "M6",
+   "t": "S",
+   "a": "One warm day doesn't mean the cold nights are done.",
+   "show": "sương đêm xuân trên cây non",
+   "q": [
+    "spring frost on young plants",
+    "frost on seedlings morning"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-88",
+   "sec": "M6",
+   "t": "G",
+   "a": "And when's your last frost?",
+   "show": "bản đồ Mỹ các vùng đổi màu, không ghi ngày",
+   "text": "LOOK UP YOUR ZONE",
+   "card": {
+    "kind": "zones",
+    "hi": [],
+    "title": "LOOK UP YOUR ZONE",
+    "sub": "your last frost depends on where you live"
+   }
+  },
+  {
+   "id": "093-89",
+   "sec": "M6",
+   "t": "S",
+   "a": "Then work backward from it.",
+   "show": "chậu ra nắng rồi vào lại, mỗi ngày lâu hơn",
+   "text": "HARDENING OFF",
+   "q": [
+    "potted plant outside sun",
+    "placing plant outside step"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-90",
+   "sec": "M6",
+   "t": "S",
+   "a": "And when should you wake it up inside?",
+   "show": "ba cặp đảo chiều: dim→bright, cool→warm, dry→water",
+   "text": "BRIGHTER · WARMER · A BIT MORE WATER",
+   "q": [
+    "new leaves sprouting plant macro"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-91",
+   "sec": "M6",
+   "t": "V",
+   "a": "Picture early May.",
+   "show": "cây ớt năm ngoái dày lá cạnh cây con trên hiên",
+   "p": "Bright spring morning, fresh green surroundings. On a clean sunny porch, a large leafy pepper plant with a thick stem and no fruit, in a terracotta pot, stands right next to a small seedling in a plastic cup. Slow side move. No hands in frame, no pumpkins, no fallen leaves.",
+   "dur": 7,
+   "file": "093-91.mp4",
+   "trim": [
+    0.0,
+    4.0
+   ]
+  },
+  {
+   "id": "093-92",
+   "sec": "M6",
+   "t": "S",
+   "a": "Now, let's be straight about what this does and doesn't do.",
+   "show": "câu giới hạn lời hứa",
+   "text": "ONE PLANT. ONE WINTER.",
+   "q": [
+    "pepper plant leaves sunlight"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-93",
+   "sec": "M6",
+   "t": "G",
+   "a": "So here's the whole plan, start to finish.",
+   "show": "dòng thời gian 4 mốc, không ghi ngày",
+   "text": "PICK ONE · CUT TO 3 · WASH ROOTS · COOL & DRY · AFTER LAST FROST",
+   "card": {
+    "kind": "timeline",
+    "title": "THE WHOLE PLAN",
+    "items": [
+     "PICK ONE|CUT TO 3",
+     "WASH ROOTS|CLEAN POT",
+     "COOL &|NEARLY DRY",
+     "OUTSIDE AFTER|LAST FROST"
+    ],
+    "at": [
+     0,
+     0.15,
+     0.39,
+     0.6,
+     0.76
+    ]
+   },
+   "full": true
+  },
+  {
+   "id": "093-94",
+   "sec": "KET",
+   "t": "S",
+   "a": "Think about next summer for a second.",
+   "show": "cây ớt lớn ngoài vườn mùa hè",
+   "q": [
+    "large pepper plant summer garden",
+    "pepper plant full of fruit"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-95",
+   "sec": "KET",
+   "t": "S",
+   "a": "You're the kind of gardener who doesn't start from zero every spring.",
+   "show": "tay chăm cây thư thả",
+   "q": [
+    "gardener hands tending plant",
+    "hands caring for plant sunlight"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-96",
+   "sec": "KET",
+   "t": "S",
+   "a": "So tonight, before the first frost gets here",
+   "show": "tay chạm cây khỏe nhất lúc hoàng hôn",
+   "q": [
+    "sunset vegetable garden pepper",
+    "hand touching plant stem evening"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-97",
+   "sec": "KET",
+   "t": "S",
+   "a": "And if you've got geraniums in the garden too",
+   "show": "chậu phong lữ đỏ",
+   "q": [
+    "red geraniums pot porch",
+    "geranium flowers"
+   ],
+   "alt": "G"
+  },
+  {
+   "id": "093-98",
+   "sec": "KET",
+   "t": "S",
+   "a": "Cut it back. Keep it cool. Bring it back.",
+   "show": "ba cụm chữ lần lượt",
+   "text": "CUT IT BACK · KEEP IT COOL · BRING IT BACK",
+   "q": [
+    "pepper plant sunlight garden"
+   ],
+   "alt": "G"
+  }
+ ],
+ "no_borrow": [
+  "4093107",
+  "1344345",
+  "4278136",
+  "8015074",
+  "5434733"
+ ],
+ "clip_trim": {
+  "pexels_4334052.mp4": [
+   0.0,
+   3.0
+  ]
+ }
+}

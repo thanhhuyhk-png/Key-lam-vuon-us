@@ -1,0 +1,79 @@
+{
+ "ngay_do": "2026-10-18",
+ "cach_sap": [
+  "relevance",
+  "date"
+ ],
+ "view_dien_hinh_toi_thieu": 500,
+ "kenh_minh": {
+  "sub": 62600,
+  "trung_vi_view": 285,
+  "view_dien_hinh_uoc": null
+ },
+ "moc_nganh_p50": null,
+ "he_so_kenh_moi": 1.0,
+ "nguong_thang_view": null,
+ "nguong_thang": 1.5,
+ "nguong_om": 2.0,
+ "he_so_khop": 1.0,
+ "chi_phi": 1,
+ "tuoi_toi_thieu_ngay": 14,
+ "videos": [
+  {
+   "id": "Fj8SK9JzHLc",
+   "title": "Growing Aloe Vera in Water",
+   "channel_id": "cvzcbKg",
+   "channel_sub": 204000,
+   "views": 7631,
+   "om": 4.4,
+   "vph": 1.08,
+   "published": "2026-01-20",
+   "dinh_dang": "test"
+  },
+  {
+   "id": "HplTMqD1C7w",
+   "title": "Aloe Rotting Though Barely Water",
+   "channel_id": "c4MTSxw",
+   "channel_sub": 388,
+   "views": 226,
+   "om": 7.1,
+   "vph": 0.19,
+   "published": "2026-09-20",
+   "dinh_dang": "fix"
+  },
+  {
+   "id": "_XGsx7pryyU",
+   "title": "Aloe Root Rot in Rain",
+   "channel_id": "c_ngSaA",
+   "channel_sub": 23400,
+   "views": 112,
+   "om": null,
+   "vph": null,
+   "published": "2026-06-20",
+   "dinh_dang": "fix"
+  },
+  {
+   "id": "XnJUVg7NKBc",
+   "title": "10 Plants You Can Grow in Just Water",
+   "channel_id": "c37zi2A",
+   "channel_sub": 15800,
+   "views": 267,
+   "om": null,
+   "vph": null,
+   "published": "2026-10-04",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "94-T_oZUtjM",
+   "title": "I Planted Snake Plants in Water",
+   "channel_id": "cFRAqEw",
+   "channel_sub": 308000,
+   "views": 13568,
+   "om": null,
+   "vph": 8.18,
+   "published": "2026-10-01",
+   "dinh_dang": "test"
+  }
+ ],
+ "nguon_mau": "vidiq_youtube_search 12 thang, aloe propagation/leaf/water, order relevance+date"
+}

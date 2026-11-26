@@ -1,0 +1,342 @@
+{
+ "ngay_do": "2026-11-16",
+ "nguon_mau": "vidiq_youtube_search (tk …di0) 12 tháng 2025-11-16..2026-11-16, 2 truy vấn: s_w1.json,s_w2.json; giữ long-form ≥4 phút, kênh ≤200K, ≥14 ngày; bỏ OM null",
+ "cach_sap": [
+  "relevance",
+  "date"
+ ],
+ "view_dien_hinh_toi_thieu": 500,
+ "kenh_minh": {
+  "sub": 59900,
+  "trung_vi_view": 597,
+  "view_dien_hinh_uoc": null
+ },
+ "moc_nganh_p50": null,
+ "he_so_kenh_moi": 0.5,
+ "nguong_thang": 1.5,
+ "nguong_om": 2.0,
+ "he_so_khop": 1.0,
+ "chi_phi": 2,
+ "tuoi_toi_thieu_ngay": 14,
+ "videos": [
+  {
+   "id": "-tp1xyhlLic",
+   "title": "Can a Greenhouse Really Grow Vegetables Through a Freezing Winter?",
+   "channel_id": "UCP4rGzRgJ-zH6osy8YgsDIQ",
+   "channel_sub": 8,
+   "views": 1453,
+   "om": 15.623655913978494,
+   "vph": 3.5242290748898677,
+   "published": "2026-10-12",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "rimWCVTagQ0",
+   "title": "How I Built a Cold Frame to Extend My Growing Season! 🥕 ",
+   "channel_id": "UCHL8vmWhZkXDs2UFdNxG7Sg",
+   "channel_sub": 90600,
+   "views": 752,
+   "om": 2.445462488269639,
+   "vph": 0.22244623655913978,
+   "published": "2026-09-06",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "1hQFJ23Thxw",
+   "title": "Grow Food in Winter Without a Greenhouse: The Simple Method",
+   "channel_id": "UCrDGp51I-EZLh3W4Z40Kvhw",
+   "channel_sub": 133,
+   "views": 94,
+   "om": 2.088888888888889,
+   "vph": null,
+   "published": "2026-01-14",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "TEouPKzTwz8",
+   "title": "Winter Gardening Without Electricity? Here's What the 1600s Knew",
+   "channel_id": "UCky7mQlpQC5xrqy0ggbEIdQ",
+   "channel_sub": 5280,
+   "views": 835,
+   "om": 1.3098563158212602,
+   "vph": null,
+   "published": "2026-01-24",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "NeAPlamYwUo",
+   "title": "How To Grow Fresh Vegetables All Winter Long In The Snow Without A Heated Greenhouse",
+   "channel_id": "UC5En1Y9wt7U2Cs7TmsXQLLA",
+   "channel_sub": 48,
+   "views": 26,
+   "om": 4.333333333333333,
+   "vph": null,
+   "published": "2026-06-08",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "h7Jw2N2sG5Y",
+   "title": "9 Vegetables You Can Actually Grow Indoors This Winter (No Greenhouse Needed!)",
+   "channel_id": "UCW3UPQBW90c4VSOzDVqcOWA",
+   "channel_sub": 60300,
+   "views": 659078,
+   "om": 47.01,
+   "vph": 25.36,
+   "published": "2025-12-21",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "ZNNYt3ukcGg",
+   "title": "Starting Seeds Outdoors Without a Greenhouse - Cold Climate Gardening",
+   "channel_id": "UChbGj4WkhcQ04B8bFwAG4PA",
+   "channel_sub": 11100,
+   "views": 2374,
+   "om": 3.4243839488723653,
+   "vph": 0.15664335664335666,
+   "published": "2026-03-17",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "0MWgn0HcVWk",
+   "title": "Winter Garden, Cold Frame or Hot Box",
+   "channel_id": "UCuaIf_TP0sk-DrqOsPFWKgg",
+   "channel_sub": 70600,
+   "views": 1096,
+   "om": 1.95,
+   "vph": 0.15,
+   "published": "2026-01-01",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "-l1-ClYti7I",
+   "title": "Build a $150 Cold Frame in January: Grow Fresh Food 365 Days Without a Greenhouse",
+   "channel_id": "UC685bkbKIutL-629i7pEdkg",
+   "channel_sub": 12,
+   "views": 44,
+   "om": 1.543859649122807,
+   "vph": null,
+   "published": "2026-01-28",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "BjzTUfAaILY",
+   "title": "One Swiss Alpine Trick Keeps Your Garden Producing Through Winter — No Greenhouse Required",
+   "channel_id": "UCsXV-O0JeTkzwTeCf4rAEUg",
+   "channel_sub": 13400,
+   "views": 2946,
+   "om": 2,
+   "vph": 0.2,
+   "published": "2026-03-12",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "KnfHhhqoHAI",
+   "title": "Sowing Vegetable Seeds in SEPTEMBER! Cold Frame Growing for Late Season Crops ",
+   "channel_id": "UCHL8vmWhZkXDs2UFdNxG7Sg",
+   "channel_sub": 90600,
+   "views": 629,
+   "om": 2.843023497704779,
+   "vph": null,
+   "published": "2026-09-08",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "fRxh2Bb5zGM",
+   "title": "Build a Simple Cold Frame for Winter Greens ❄️ 7 Easy Steps #viral #trending",
+   "channel_id": "UCidNm9bjEMgqpG9xz2JkreA",
+   "channel_sub": 371,
+   "views": 12,
+   "om": 1.0909090909090908,
+   "vph": null,
+   "published": "2026-10-31",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "0GREtpsxwvk",
+   "title": "“Grow Fresh Food ALL WINTER Even at -20°F ❄️ 7 Cold-Hardy Crops You’ll Harvest Now!",
+   "channel_id": "UCB7yYDxon8rD5Fzan1A_Wow",
+   "channel_sub": 333,
+   "views": 206,
+   "om": 4.5777777777777775,
+   "vph": null,
+   "published": "2025-11-26",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "94pZOa0iF_k",
+   "title": "15 Cold-Hardy Veggies You Should Grow Through the Winter (Grow at -30°F)",
+   "channel_id": "UCYPGZCWWMIMuh6L7UuZRLdA",
+   "channel_sub": 390,
+   "views": 370,
+   "om": 1.6228070175438596,
+   "vph": 0.03676975945017182,
+   "published": "2025-11-16",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "9_rs4e39k74",
+   "title": "The $0 Cold Frame That Never Stops Growing Salad",
+   "channel_id": "UCtm78QvpRgsz4fc5Q9r_7WQ",
+   "channel_sub": 29500,
+   "views": 4595,
+   "om": 1.2363701647255103,
+   "vph": 2.49010989010989,
+   "published": "2026-10-07",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "QIMCzYl38d8",
+   "title": "Why You Must Grow a Winter Garden ",
+   "channel_id": "UCr0oLarO8FeI5SU6O5c_9cg",
+   "channel_sub": 81300,
+   "views": 6907,
+   "om": 1.309106786369608,
+   "vph": 0.3632930513595166,
+   "published": "2026-09-15",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "Lx6m0yfHa00",
+   "title": "15 FORGOTTEN Vegetables Your Grandparents Grew During WINTER",
+   "channel_id": "UCYPGZCWWMIMuh6L7UuZRLdA",
+   "channel_sub": 390,
+   "views": 408,
+   "om": 1.7894736842105263,
+   "vph": null,
+   "published": "2025-11-26",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "SYQ_A2WoY8Q",
+   "title": "The Amish Underground Greenhouse That Grows Food All Winter",
+   "channel_id": "UCvuhDIF35no1OHdigfWL_dw",
+   "channel_sub": 105,
+   "views": 1632,
+   "om": 16.238805970149254,
+   "vph": null,
+   "published": "2026-09-02",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "VwMr8UO5DPY",
+   "title": "Late Fall Gardening Secrets: How to Grow HUGE November Harvests Even in Freezing Weather!",
+   "channel_id": "UCZZ_HKmfKUcX6d1VEw4R93Q",
+   "channel_sub": 109,
+   "views": 84,
+   "om": 4.9411764705882355,
+   "vph": null,
+   "published": "2025-11-18",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "26dQt1gepg4",
+   "title": "Build a $30 Underground Greenhouse That Grows Food All Winter Without Power",
+   "channel_id": "UCAg0X71KQajqgvW7HEmqIhA",
+   "channel_sub": 60200,
+   "views": 6530,
+   "om": 2.55,
+   "vph": 0.11,
+   "published": "2026-09-23",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "YBv2HOWi0wo",
+   "title": "13 Vegetables That Grow All Year Round (Even in Small Spaces)",
+   "channel_id": "UCyVFytZ7Pjx1j7aOuZLGBSw",
+   "channel_sub": 1120,
+   "views": 36669,
+   "om": 176.29,
+   "vph": 0.04,
+   "published": "2026-04-18",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "UF01QnRN3r0",
+   "title": "Winter Sowing 3 Ways: Cold Frame, Milk Jugs & Cloches - Episode 78",
+   "channel_id": "UCYZjDsfaPQlbQCq6vw4ye-g",
+   "channel_sub": 954,
+   "views": 317,
+   "om": 2.0191082802547773,
+   "vph": 0.010499576629974599,
+   "published": "2026-03-11",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "FeGBEpSDIL4",
+   "title": "What To Plant In November: 13 Vegetables That Grow BETTER In Winter ",
+   "channel_id": "UCgIj5Vy9RC6VqlPsv7sgmZA",
+   "channel_sub": 221,
+   "views": 402,
+   "om": 1.5826771653543308,
+   "vph": null,
+   "published": "2026-11-02",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "rDzqAy8dQdE",
+   "title": "20 VEGETABLES YOU SHOULD PLANT IN NOVEMBER ASAP (GET A FULL HARVEST BEFORE FIRST FROST!)",
+   "channel_id": "UCgNvDgsFBHow5x_AWP-rhTg",
+   "channel_sub": 7240,
+   "views": 1019,
+   "om": 1.77,
+   "vph": 0.39,
+   "published": "2026-11-01",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "urLH9plMCOs",
+   "title": "Frostschutz mit Vlies: Was hilft und was nicht",
+   "channel_id": "UCrJ4bd-Vu-h5o5yGuUipgKQ",
+   "channel_sub": 2110,
+   "views": 277,
+   "om": 1.4972861688190156,
+   "vph": null,
+   "published": "2026-10-30",
+   "dinh_dang": "khac"
+  },
+  {
+   "id": "D89ny8XDBZ0",
+   "title": "12 Vegetables That Survive Freezing Temperatures Some Actually Taste Better! #ColdHardyVegetables",
+   "channel_id": "UCUE3kNWNKe3t5kqavMf8W5A",
+   "channel_sub": 4090,
+   "views": 212,
+   "om": 1.026104886399004,
+   "vph": null,
+   "published": "2026-10-30",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "HtELKok_hnE",
+   "title": "15 Vegetables That Thrive In Cold Weather (Plant In November)",
+   "channel_id": "UCvRTqG9NSs_EWdfR410oDsA",
+   "channel_sub": 70,
+   "views": 158,
+   "om": 3.3978494623655915,
+   "vph": null,
+   "published": "2026-10-30",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "8XsP583uPi8",
+   "title": "7 Container Vegetables You Should Plant in November (Last Chance Before Winter)",
+   "channel_id": "UCP3SoOZwZR0egvcQD-nwA8Q",
+   "channel_sub": 2470,
+   "views": 339,
+   "om": 1.0683524298696168,
+   "vph": null,
+   "published": "2026-10-27",
+   "dinh_dang": "list"
+  },
+  {
+   "id": "yibZQzHuM34",
+   "title": "Frost Cloth vs. Plastic: Which Cover Could Save Your Plants Tonight—and Cook Them by Noon?",
+   "channel_id": "UCAX3KzYqPG-mvcLgMlnYatw",
+   "channel_sub": 96,
+   "views": 651,
+   "om": 16.90909090909091,
+   "vph": null,
+   "published": "2026-10-26",
+   "dinh_dang": "khac"
+  }
+ ]
+}

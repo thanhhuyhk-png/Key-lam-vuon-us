@@ -1,0 +1,150 @@
+# Đo kênh: UCfdNM3NAhaBOXCafH7krzrA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 4,246 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 15,500,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-09-10 |
+| n_ngoai_cua_so | 31 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 382,992 |
+| cao_nhat | 3,113,083 |
+| thap_nhat | 98,990 |
+| phan_tan | 8.13 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.64 |
+| ngay_video_dau | 2011-02-26 |
+| tuoi_tu_video_dau | 5,742 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 2,699 |
+| sub_moi_video | 3,650 |
+| video_30_ngay | 53 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2011-02-26 | 5,742 | NbtyPZhrETg | 323,640 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Crying - Why Do We Cry? |
+| 2011-03-20 | 5,720 | N_rEpjEBC60 | 163,321 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Sleep Facts and Statistics |
+| 2011-03-27 | 5,713 | PjSUg6JsLYw | 356,029 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Water Facts! Learn fun facts about the thing you drink every day! |
+| 2011-06-08 | 5,640 | -BU4z5q40Ao | 421,995 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Kissing Facts - You Think You Know Everything About Kissing? |
+| 2011-09-12 | 5,544 | KQlqfbmc8x4 | 163,650 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Interesting Facts You Didn’t Know About Your Brain |
+| 2011-10-04 | 5,522 | TRyOcLSJDzk | 798,533 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | What Is Puberty (Puberty Explained) |
+| 2012-02-07 | 5,396 | y1V21oU9qU0 | 120,413 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Valentine's Day Facts and Statistics |
+| 2012-04-01 | 5,342 | ArA_NzJBtAg | 39,322 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Common Cold - What is it? |
+| 2026-09-10 | 67 | IDZPvfsyzzA | 2,826,849 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | He started his new job at 7:30 AM. By 9:45 AM, he grounded America. |
+| 2026-09-11 | 66 | 7QquPaacViA | 1,527,868 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Sam Altman is panicking... |
+| 2026-09-12 | 65 | hL5NHqK1JQg | 291,202 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What the Universe's Final Day Will Look Like |
+| 2026-09-13 | 64 | k8pTfkA6sio | 968,677 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | AI Layoffs Are Finally Showing the Truth |
+| 2026-09-14 | 63 | 6FUlwzfeL6Y | 1,229,631 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | EA is panicking... |
+| 2026-09-15 | 62 | hbfHawxuzME | 486,469 | 5 | 1,229,631 | 0.40 | 5 | 0.60 | binh_thuong | – | Không | You NEED to STOP Smoking Weed Right NOW. |
+| 2026-09-16 | 61 | 3OCNhNEJcZk | 396,989 | 6 | 1,099,154 | 0.36 | 5 | 0.72 | binh_thuong | – | Không | Why the AI Safety Teams Are Gone |
+| 2026-09-17 | 60 | qHF6VrWO5ug | 805,710 | 7 | 968,677 | 0.83 | 5 | 0.76 | binh_thuong | – | Không | Housing Prices Don't Always Go Up |
+| 2026-09-18 | 59 | KrnX63esw_4 | 741,007 | 8 | 887,194 | 0.84 | 5 | 0.72 | binh_thuong | – | Không | Tech Billionaires Are FREAKING OUT.... |
+| 2026-09-19 | 58 | 5x-iSoWqIdc | 637,778 | 9 | 805,710 | 0.79 | 5 | 0.99 | binh_thuong | – | Không | How North Korea Cut Itself Off From the World |
+| 2026-09-19 | 58 | hGwV_a5zlTo | 794,043 | 10 | 773,358 | 1.03 | 5 | 1.18 | binh_thuong | – | Không | 50 Chilling Facts About The Lizzie Borden Murder Case |
+| 2026-09-20 | 57 | uNpHhPJzEEg | 916,289 | 11 | 794,043 | 1.15 | 5 | 0.97 | binh_thuong | – | Không | How Lizzie Borden Got Away With Murder |
+| 2026-09-21 | 56 | 6vfWtjq1u6w | 574,344 | 12 | 799,876 | 0.72 | 5 | 1.81 | binh_thuong | – | Không | It's NOT Just Chernobyl. The REAL Disaster Is 10,000 Blocks Deep. |
+| 2026-09-22 | 55 | lXWVGT7aZVo | 415,868 | 13 | 794,043 | 0.52 | 5 | 1.82 | binh_thuong | – | Không | The $14 Billion Deal Making Computers Worse |
+| 2026-09-23 | 54 | F91uY7QiZUs | 1,974,431 | 14 | 767,525 | 2.57 | 5 | 1.89 | hoi_cao | – | Không | AI Coding Is Starting to Collapse |
+| 2026-09-24 | 53 | UOUM1QT5GgU | 1,977,181 | 15 | 794,043 | 2.49 | 5 | 1.17 | hoi_cao | – | Không | Voyager 2 Found Something Impossible at the Edge of Space |
+| 2026-09-25 | 52 | Eh3xXKar2uM | 772,906 | 15 | 794,043 | 0.97 | 5 | 1.17 | binh_thuong | – | Không | Chernobyl's $2.5 Billion Shield Is Failing |
+| 2026-09-26 | 51 | 25l71qrDu7w | 1,447,526 | 15 | 772,906 | 1.87 | 5 | 1.20 | binh_thuong | – | Không | What Nicotine Pouches and Vapes Actually Do to Your Body |
+| 2026-09-27 | 50 | W1_RynEGVB4 | 928,010 | 15 | 794,043 | 1.17 | 5 | 1.25 | binh_thuong | – | Không | These Americans are Among Interpol's Most Wanted |
+| 2026-09-29 | 48 | OQSHHdcp9MM | 2,034,421 | 15 | 794,043 | 2.56 | 5 | 0.78 | hoi_cao | – | Không | Why Did Hitler Hate Jews |
+| 2026-09-29 | 48 | Fm5p1Wzfr4Q | 498,534 | 15 | 794,043 | 0.63 | 5 | 1.25 | binh_thuong | – | Không | The 60-Minute Collapse of the Xbox Empire |
+| 2026-09-30 | 47 | y_YtfHN7YpY | 621,467 | 15 | 794,043 | 0.78 | 5 | 1.25 | binh_thuong | – | Không | What Happens to America When the Last Baby Boomer Is Gone? |
+| 2026-10-01 | 46 | -ozxK77lwZE | 1,015,658 | 15 | 794,043 | 1.28 | 5 | 0.88 | binh_thuong | – | Không | How AI Ends Humanity in 10 Years (Most Likely Simulations) |
+| 2026-10-02 | 45 | 6SiV6B_2_DQ | 992,750 | 15 | 794,043 | 1.25 | 5 | 0.88 | binh_thuong | – | Không | Capitalism is in Crisis |
+| 2026-10-03 | 44 | 8vawlTkfkoc | 413,525 | 15 | 916,289 | 0.45 | 5 | 0.76 | binh_thuong | – | Không | What Happened After the Bombs Were Dropped on Hiroshima and Nagasaki Was WORSE |
+| 2026-10-03 | 44 | aIme4aIswaU | 999,378 | 15 | 916,289 | 1.09 | 5 | 0.60 | binh_thuong | – | Không | Wall Street is freaking out now... |
+| 2026-10-03 | 44 | groZE2q7daM | 695,323 | 15 | 928,010 | 0.75 | 5 | 0.56 | binh_thuong | – | Không | The Billion Dollar Aging Problem Solved? (GHK-Cu Peptide Explained) |
+| 2026-10-04 | 43 | lq5jC9R_bsY | 518,883 | 15 | 928,010 | 0.56 | 5 | 0.40 | binh_thuong | – | Không | What the Colorado River Crisis Means for the American West |
+| 2026-10-04 | 43 | O4yWBv2Nj68 | 3,113,083 | 15 | 928,010 | 3.35 | 5 | 0.40 | dang_ghi | – | Không | What Lethal Radiation Does to Your Body (Hour by Hour) |
+| 2026-10-05 | 42 | 1nDDzjwQWfs | 548,060 | 15 | 992,750 | 0.55 | 5 | 0.38 | binh_thuong | – | Không | The Brain Shuts Down. The True Cost of Ejaculation. |
+| 2026-10-06 | 41 | oA_j4Xq2TEA | 375,283 | 15 | 928,010 | 0.40 | 5 | 0.54 | binh_thuong | – | Không | Why Millionaire Athletes Go Broke: The Dark Side of Pro Sports Wealth |
+| 2026-10-07 | 40 | zeVq8Pt2JCc | 273,434 | 15 | 772,906 | 0.35 | 5 | 0.64 | binh_thuong | – | Không | Insane Pain Facts, From Phantom Limbs to Brain Freeze |
+| 2026-10-08 | 39 | DO_2lNje_bs | 290,636 | 15 | 695,323 | 0.42 | 5 | 0.71 | binh_thuong | – | Không | Why Its Illegal To Cut Off Mattress Tags and Other Insane Laws |
+| 2026-10-08 | 39 | dt5ocYfjths | 1,656,539 | 15 | 621,467 | 2.67 | 5 | 0.63 | hoi_cao | – | Không | An Ozempic Overdose Hour by Hour: The Biology of a 7-Day Gastric Freeze |
+| 2026-10-09 | 38 | Dd4GWmPSRAk | 496,814 | 15 | 621,467 | 0.80 | 5 | 0.63 | binh_thuong | – | Không | The Day The National Debt Actually Becomes a Problem |
+| 2026-10-10 | 37 | bD8ta7nsA8A | 571,300 | 15 | 548,060 | 1.04 | 5 | 0.71 | binh_thuong | – | Không | Meta's AI Layoff Gamble Backfired as Engineering Problems Mounted |
+| 2026-10-11 | 36 | jC9SVUBk6Fw | 98,990 | 15 | 571,300 | 0.17 | 5 | 0.68 | binh_thuong | – | Không | 1 Astronaut. 1 Lunar Lava Tube. A Survival Simulation. |
+| 2026-10-12 | 35 | dbcrn-0gY1w | 390,700 | 15 | 548,060 | 0.71 | 5 | 1.43 | binh_thuong | – | Không | You're Witnessing the Death of American Capitalism and More Insane Stories About the Economy |
+| 2026-10-12 | 35 | Bo4BEvbn1Z8 | 300,875 | 15 | 518,883 | 0.58 | 5 | 1.51 | binh_thuong | – | Không | Retatrutide GLP-1 Isn't Approved. MILLIONS Are Already Using It RIGHT NOW. |
+| 2026-10-13 | 34 | jbNtXEPs7a4 | 973,847 | 15 | 496,814 | 1.96 | 5 | 0.67 | binh_thuong | – | Không | How Nazi Regime Finally Collapsed |
+| 2026-10-13 | 34 | p5KvyYwaj4s | 791,838 | 15 | 518,883 | 1.53 | 5 | 0.61 | binh_thuong | – | Không | 65-Mile Strip Where World War 3 Begins |
+| 2026-10-14 | 33 | AVOt4CCwAB4 | 316,830 | 15 | 518,883 | 0.61 | 5 | 0.59 | binh_thuong | – | Không | How AI quietly rewrote daily life in under 3 years |
+| 2026-10-14 | 33 | ZV6pUX8kJwg | 785,146 | 15 | 496,814 | 1.58 | 5 | 0.62 | binh_thuong | – | Không | The US Treasury Is Trapped. A $1 Trillion Interest Collapse Begins NOW. |
+| 2026-10-15 | 32 | 8M8U9Tj15bI | 330,605 | 15 | 496,814 | 0.67 | 5 | 0.62 | binh_thuong | – | Không | Why Paying Off US Debt Would Crash the World Economy |
+| 2026-10-16 | 31 | JbJSWEJmI7A | 212,728 | 15 | 390,700 | 0.54 | 5 | 1.26 | binh_thuong | – | Không | The Steam Review Crisis |
+| 2026-10-17 | 30 | NrL10B3ZXDg | 213,626 | 15 | 375,283 | 0.57 | 5 | 1.31 | binh_thuong | – | Không | The AI slop situation is a mess |
+| 2026-10-17 | 30 | 8BcFZKbTgTg | 306,605 | 15 | 330,605 | 0.93 | 5 | 1.49 | binh_thuong | – | Không | OpenAI's Agents Went ROGUE. |
+| 2026-10-18 | 29 | DRP7tRXts0Q | 568,721 | 15 | 330,605 | 1.72 | 5 | 1.49 | chua_chin | – | Không | Renting vs Buying - Follow The Math! |
+| 2026-10-19 | 28 | qERTeNo8kNI | 1,086,850 | 15 | 390,700 | 2.78 | 5 | 1.23 | chua_chin | – | Không | World War 3 - Hour by Hour at 35,000 Feet |
+| 2026-10-20 | 27 | Mh3jD3aPojY | 493,156 | 15 | 390,700 | 1.26 | 5 | 1.18 | chua_chin | – | Không | It's not just your appetite that Ozempic changes |
+| 2026-10-20 | 27 | 5153vDFmwBs | 460,875 | 15 | 390,700 | 1.18 | 5 | 1.23 | chua_chin | – | Không | You Need to stop Using INCOGNITO Mode Right Now |
+| 2026-10-22 | 25 | Tms3kCQiwQo | 373,756 | 15 | 390,700 | 0.96 | 5 | 1.35 | chua_chin | – | Không | How a 25-Year-Old AI Boy Genius Lost $35 BILLION in 72 Hours |
+| 2026-10-22 | 25 | yv-xKJVXrLE | 1,064,750 | 15 | 390,700 | 2.73 | 5 | 1.35 | chua_chin | – | Không | How Are Americans Buying $80,000 Trucks on a $70,000 Salary? |
+| 2026-10-23 | 24 | wcZ7q219JS8 | 479,076 | 15 | 460,875 | 1.04 | 5 | 1.14 | chua_chin | – | Không | 50 Horrifying Auschwitz Facts You Were Never Taught |
+| 2026-10-23 | 24 | 8FgyNgIgVjw | 148,317 | 15 | 479,076 | 0.31 | 5 | 1.10 | chua_chin | – | Không | The Kessler Syndrome (When Humanity Gets Trapped on Earth Forever) - Year by Year |
+| 2026-10-24 | 23 | azsA-qGnZ2E | 525,847 | 15 | 460,875 | 1.14 | 5 | 1.06 | chua_chin | – | Không | The OPENAI Cyberattack on Hugging Face Was WAY BIGGER Than We Thought |
+| 2026-10-24 | 23 | KXHYz5W0sW0 | 727,470 | 15 | 460,875 | 1.58 | 5 | 1.06 | chua_chin | – | Không | Most Terrifying Financial Chart in the World Right Now |
+| 2026-10-24 | 23 | IpheDQ5v6oQ | 1,057,837 | 15 | 479,076 | 2.21 | 5 | 1.02 | chua_chin | – | Không | Karma Just Hit Roblox. Hard. |
+| 2026-10-25 | 22 | H7buemdxULY | 153,528 | 15 | 479,076 | 0.32 | 5 | 1.71 | chua_chin | – | Không | 120° Heat - Wear Black Robes! |
+| 2026-10-25 | 22 | 3pggYUPCK_A | 486,981 | 15 | 479,076 | 1.02 | 5 | 1.71 | chua_chin | – | Không | The Tirzepatide Boom Just Hit a Wall |
+| 2026-10-26 | 21 | ojxd4XN0m2o | 306,144 | 15 | 486,981 | 0.63 | 5 | 1.69 | chua_chin | – | Không | The Nuclear Football is BROKEN. It's JUST 4 Minutes to WW3. |
+| 2026-10-27 | 20 | MgngwkPAuqQ | 4,750,637 | 15 | 486,981 | 9.76 | 5 | 1.41 | chua_chin | – | Không | The AI bubble is about to pop... |
+| 2026-10-28 | 19 | WSAOK-saNAU | 849,232 | 15 | 493,156 | 1.72 | 5 | 1.22 | chua_chin | – | Không | Holy s**t.. 30-year-olds are getting stage 4 cancer... |
+| 2026-10-29 | 18 | pTMzflqBw8g | 820,857 | 15 | 493,156 | 1.66 | 5 | 1.22 | chua_chin | – | Không | Top 10 Insane Dark Web Conspiracies That Were Actually True All Along |
+| 2026-10-29 | 18 | sKfaPvntZuA | 600,437 | 15 | 493,156 | 1.22 | 5 | 1.40 | chua_chin | – | Không | Most Terrifying Financial Shift in the World Right Now |
+| 2026-10-30 | 17 | dg6bbyhFjhc | 104,679 | 15 | 525,847 | 0.20 | 5 | 1.31 | chua_chin | – | Không | YOU vs Horror Movie Killers \|\| Could You Defeat and Survive These Horror Villains |
+| 2026-10-30 | 17 | YVFA79OhlU0 | 688,868 | 15 | 525,847 | 1.31 | 5 | 1.24 | chua_chin | – | Không | The 11% Interest Trap Just Hit Wall Street. Elite Portfolios Are PANICKING Right NOW. |
+| 2026-10-31 | 16 | fDzCHPWkou4 | 413,749 | 15 | 600,437 | 0.69 | 5 | 1.28 | chua_chin | – | Không | World War 3 Protocol. Why Global Nuclear Annihilation Is Inevitable. |
+| 2026-10-31 | 16 | HTYIKPcPRRQ | 2,393,453 | 15 | 525,847 | 4.55 | 5 | 1.24 | chua_chin | – | Không | Holy sh*t spacetime is fake... |
+| 2026-10-31 | 16 | M3hvIUwAL7c | 1,517,203 | 15 | 600,437 | 2.53 | 5 | 1.06 | chua_chin | – | Không | Wall Street is freaking out over OpenAI now... |
+| 2026-11-01 | 15 | AvyHU0m8vdE | 653,153 | 15 | 688,868 | 0.95 | 5 | 0.93 | chua_chin | – | Không | How Are Americans Affording $500,000 Homes on Average Salaries? |
+| 2026-11-01 | 15 | JhuL2Yr-tvs | 639,086 | 15 | 688,868 | 0.93 | 5 | 1.00 | chua_chin | – | Không | UNPLUG Your Smart TV NOW! |
+| 2026-11-02 | 14 | dnmdZOEGXe8 | 770,900 | 15 | 653,153 | 1.18 | 5 | 0.72 | chua_chin | – | Không | Russia Closing 5 Hospital Due to PLAGUE OUTBREAK |
+| 2026-11-03 | 13 | eNzaPa9f0Ks | 398,624 | 15 | 653,153 | 0.61 | 5 | 1.05 | chua_chin | – | Không | $40 Trillion Debt Passed. The American ECONOMY Is Collapsing. |
+| 2026-11-03 | 13 | Ua_Q5VY0tDo | 294,997 | 15 | 653,153 | 0.45 | 5 | 1.35 | chua_chin | – | Không | 50 Geography Facts That Are Fake (But You Believed Them) |
+| 2026-11-04 | 12 | W8Dl-TS9H2c | 1,832,889 | 15 | 653,153 | 2.81 | 5 | 1.27 | chua_chin | – | Không | MIT looked at what AI actually killed and holy sh*t... |
+| 2026-11-04 | 12 | 4ye6BMbA3UU | 686,679 | 15 | 688,868 | 1.00 | 5 | 1.20 | chua_chin | – | Không | Ex-Google Executive: AI is Ending Capitalism |
+| 2026-11-05 | 11 | SOYJ41syEUA | 471,804 | 15 | 686,679 | 0.69 | 5 | 1.20 | chua_chin | – | Không | The AI Economy Is DEAD. Big Tech is TRAPPED Right NOW. |
+| 2026-11-05 | 11 | Qi5iRWzsQdc | 881,767 | 15 | 653,153 | 1.35 | 5 | 0.45 | chua_chin | – | Không | CHINA IS OVER |
+| 2026-11-06 | 10 | Awf9D7vIgvE | 2,438,003 | 15 | 653,153 | 3.73 | 5 | 0.45 | chua_chin | – | Không | VLC Took 33 Seconds To Load, So Developers Investigated Windows. |
+| 2026-11-06 | 10 | SSVG6rJM8Cw | 826,328 | 15 | 686,679 | 1.20 | 5 | 0.31 | chua_chin | – | Không | Why the 2022 Car Bubble is Bursting Now |
+| 2026-11-07 | 9 | c8dlJJuqcOQ | 211,215 | 15 | 688,868 | 0.31 | 5 | 0.42 | chua_chin | – | Không | Scientists Are Freaking Out Over Space Time (It's Not Real) |
+| 2026-11-07 | 9 | mEP1xCHdfyI | 209,495 | 15 | 686,679 | 0.31 | 5 | 0.50 | chua_chin | – | Không | China's Robot Army Situation is Terrifying |
+| 2026-11-07 | 9 | TPiiTEK8OPE | 291,619 | 15 | 686,679 | 0.42 | 5 | 0.76 | chua_chin | – | Không | Holy f***ing sh*t your gym routine is useless... |
+| 2026-11-08 | 8 | f1MGkmM28wA | 983,393 | 15 | 653,153 | 1.51 | 5 | 0.53 | chua_chin | – | Không | Foreign Nations JUST Left the US Bond Market. Wall Street Panics RIGHT NOW. |
+| 2026-11-08 | 8 | 0oV87yfN59g | 100,717 | 15 | 653,153 | 0.15 | 5 | 0.53 | chua_chin | – | Không | The End of the World Scenarios. Humanity is FINISHED. |
+| 2026-11-09 | 7 | tehBa2ZjG-I | 344,498 | 15 | 639,086 | 0.54 | 5 | 0.46 | chua_chin | – | Không | Why You Don't Want to Earn $150,000 to $250,000 |
+| 2026-11-10 | 6 | 0DYYdcGrbMM | 2,022,728 | 15 | 471,804 | 4.29 | 5 | 0.62 | chua_chin | – | Không | History Is Repeating. This Is Where It Goes Wrong. |
+| 2026-11-10 | 6 | _KCvoOhUqHA | 521,133 | 15 | 471,804 | 1.10 | 5 | 0.50 | chua_chin | – | Không | The Man Who Smoked Weed for 10 Years |
+| 2026-11-11 | 5 | OOxp8bShXaQ | 168,443 | 15 | 521,133 | 0.32 | 5 | 0.56 | chua_chin | – | Không | The Collapse of the Dollar (And Why You're Already Poorer) |
+| 2026-11-11 | 5 | rMMejoeZYQ0 | 292,262 | 15 | 521,133 | 0.56 | 5 | 0.46 | chua_chin | – | Không | Wall Street Is Hiding Something... |
+| 2026-11-12 | 4 | L4Bobswuv8k | 237,447 | 15 | 471,804 | 0.50 | 5 | 0.66 | chua_chin | – | Không | The Fat-Cure Hype Faces COLLAPSE. Tesamorelin Peptide Has a Cancer Warning. |
+| 2026-11-12 | 4 | nniss6cDLAE | 310,932 | 15 | 344,498 | 0.90 | 5 | 0.98 | chua_chin | – | Không | 70 Cents of Every Dollar Is Over: The Collapse of American Defense Dominance |
+| 2026-11-13 | 3 | NATQAFAFZ6I | 92,433 | 15 | 310,932 | 0.30 | 5 | 1.08 | chua_chin | – | Không | United States Starts to Crack. Economy and Military Collapse Coming |
+| 2026-11-13 | 3 | Jq-aPTb4gb4 | 363,680 | 15 | 292,262 | 1.24 | 5 | 0.30 | chua_chin | – | Không | Windows users are freaking out now... |
+| 2026-11-14 | 2 | L-gAoGQrvp0 | 86,829 | 15 | 292,262 | 0.30 | 4 | – | chua_chin | – | Không | California Ran Out of Water, So They Re-Engineered the Entire State. |
+| 2026-11-14 | 2 | eOZblHcqkvo | 553,220 | 15 | 291,619 | 1.90 | 3 | – | chua_chin | – | Không | The Big Bang Theory Is Wrong, This New Theory Is Even Stranger |
+| 2026-11-14 | 2 | of8B3F59iFs | 336,623 | 15 | 292,262 | 1.15 | 2 | – | chua_chin | – | Không | Bond markets are falling apart now... |
+| 2026-11-15 | 1 | Y2JYWeB2w50 | 54,965 | 15 | 310,932 | 0.18 | 1 | – | chua_chin | – | Không | Worst Military Secrets Ever Revealed |
+| 2026-11-15 | 1 | _huy9jU9UAA | 2,750 | 15 | 310,932 | 0.01 | 0 | – | chua_chin | – | Không | Survive the First 90 Days After the Collapse (Day by Day) |

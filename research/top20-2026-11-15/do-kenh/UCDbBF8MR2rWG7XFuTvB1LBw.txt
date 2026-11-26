@@ -1,0 +1,67 @@
+# Đo kênh: UCDbBF8MR2rWG7XFuTvB1LBw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 27 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 27 |
+| n_trong_danh_sach | 27 |
+| n_dai | 25 |
+| n_short | 2 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 9,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-05-18 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 9,262 |
+| cao_nhat | 125,229 |
+| thap_nhat | 1,060 |
+| phan_tan | 13.52 |
+| so_video_tren_2x | 7 |
+| ty_le_tren_2x | 0.35 |
+| trung_vi_chia_sub | 1.03 |
+| ty_le_like_trung_vi | 0.04 |
+| da_trung_vi | 0.11 |
+| ngay_video_dau | 2026-05-18 |
+| tuoi_tu_video_dau | 182 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 49.45 |
+| sub_moi_video | 333 |
+| video_30_ngay | 3 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-05-18 | 182 | exwh9XWuFTk | 10,970 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | No Bunker? The 72-Hour Survival Protocol for a Nuclear Catastrophe (Step-by-Step Guide) |
+| 2026-05-19 | 181 | 88pDsIhRlG8 | 209,821 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Types of People Who Will Hunt Survivors After the Collapse — “The Golden Horde” |
+| 2026-05-21 | 179 | 3tDvA9-cUtY | 68,576 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Neighbors Who Will Kill You When SHTF (Avoid Them) |
+| 2026-05-22 | 178 | MOLsCfuVghw | 125,229 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Frequencies You Must Monitor When SHTF (Do Not Transmit) |
+| 2026-05-24 | 176 | UuB43AuT6Ys | 28,645 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 13 Free Survival Items Every Prepper Overlooks In Abandoned Buildings |
+| 2026-05-25 | 175 | gji5tuomiuc | 6,560 | 5 | 68,576 | 0.10 | 5 | 0.37 | binh_thuong | – | Không | Staying Connected After the Grid Collapses: 2 Devices |
+| 2026-06-02 | 167 | C6FSbxzeMb8 | 45,525 | 6 | 48,610 | 0.94 | 5 | 0.32 | binh_thuong | – | Không | The 9 States That Survive EVERY Disaster — Nukes, EMP, Collapse, All of It |
+| 2026-06-09 | 160 | OsVt1A17Oro | 26,707 | 7 | 45,525 | 0.59 | 5 | 0.26 | binh_thuong | – | Không | 3 Underrated Technologies Every Prepper Should Know About |
+| 2026-06-10 | 159 | bPDPOqnaG1o | 7,382 | 8 | 37,085 | 0.20 | 5 | 0.42 | binh_thuong | – | Không | Build a WW2 Survival Shelter in 10 Minutes (NO Tools Required)! |
+| 2026-06-11 | 158 | EtkRwJjauhg | 12,035 | 9 | 28,645 | 0.42 | 5 | 0.54 | binh_thuong | – | Không | No Bunker, No Problem - Your Bedroom Can Save Your Life from a Nuclear Explosion! |
+| 2026-06-12 | 157 | xP38Gc9qjKw | 25,384 | 10 | 27,676 | 0.92 | 5 | 0.35 | binh_thuong | – | Không | The Best Survival Store in America Isn’t a Survival Store |
+| 2026-06-14 | 155 | nGNOd7YJlmU | 15,520 | 11 | 26,707 | 0.58 | 5 | 0.33 | binh_thuong | – | Không | 5 Essentials That Run Out First in a Crisis (And How to Prepare) |
+| 2026-06-16 | 153 | glOAwMFc7i4 | 9,741 | 12 | 26,046 | 0.37 | 5 | 0.20 | binh_thuong | – | Không | The 7 Cheap Items That Will Be Worth More Than Gold After the Collapse |
+| 2026-06-18 | 151 | tLBKcVHcd3M | 41,792 | 13 | 25,384 | 1.65 | 5 | 0.08 | binh_thuong | – | Không | How to Sleep Safely When the Grid Goes Down and You're Alone |
+| 2026-06-22 | 147 | 1794cXB2yI4 | 8,783 | 14 | 26,046 | 0.34 | 5 | 0.08 | binh_thuong | – | Không | They Lied About Survival Gear — The 7 Tools You Actually Need When the World Burns |
+| 2026-07-03 | 136 | _5CINeByCnk | 1,443 | 15 | 25,384 | 0.06 | 5 | 0.08 | binh_thuong | – | Không | 5 Survival Myths Your Training Got Wrong (The Truth Could Save Your Life Tomorrow) |
+| 2026-07-06 | 133 | syqePhwkLHk | 2,001 | 15 | 25,384 | 0.08 | 5 | 0.08 | binh_thuong | – | Không | The One Rule That Keeps You Alive When Sleeping Alone |
+| 2026-07-15 | 124 | tL8rJAYWs6s | 5,079 | 15 | 15,520 | 0.33 | 5 | 0.07 | binh_thuong | – | Không | The 5 Groups That Form in Every Collapse (Which One Survives) |
+| 2026-10-12 | 35 | P-5JyQQPzdw | 1,060 | 15 | 12,035 | 0.09 | 5 | 0.14 | binh_thuong | – | Không | How to Travel 10 Miles on Foot Safely After a Disaster |
+| 2026-10-13 | 34 | rJk5K4U8YmM | 3,736 | 15 | 9,741 | 0.38 | 5 | 0.12 | binh_thuong | – | Không | The Best Zombie Apocalypse Vehicle Is Boring |
+| 2026-10-15 | 32 | AR5Yzf7SpGU | 2,010 | 15 | 8,783 | 0.23 | 4 | – | binh_thuong | – | Không | The Best Zombie Base Is Not What You Think |
+| 2026-10-17 | 30 | t_N72kd5h7Q | 1,164 | 15 | 8,783 | 0.13 | 3 | – | binh_thuong | – | Không | Can You Survive a Blackout With Stuff From an Abandoned Building? |
+| 2026-10-19 | 28 | yMQqlGhy9Fk | 663 | 15 | 7,382 | 0.09 | 2 | – | chua_chin | – | Không | 4 Surprising Uses for an Old Fire Extinguisher |
+| 2026-10-23 | 24 | 59h7jU0wVKg | 1,625 | 15 | 5,079 | 0.32 | 1 | – | chua_chin | – | Không | Zombie Outbreak Survival: Day 1 To Day 30 |
+| 2026-11-06 | 10 | h5nljdRAakg | 250 | 15 | 3,736 | 0.07 | 0 | – | chua_chin | – | Không | The Coldest Battle in US History — and What It Teaches About Survival |

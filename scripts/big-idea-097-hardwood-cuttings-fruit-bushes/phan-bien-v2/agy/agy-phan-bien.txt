@@ -1,0 +1,53 @@
+PHẢN BIỆN VÒNG 2 — big-idea-097 (người phản biện độc lập, chỉ soi vung-da-sua.md ± 1 câu)
+Mốc thời gian ước tính @165 wpm (hook ~0:36 · ACTION_TIP ~2:01 · loop #1 đóng ~7:55 · hết ~10:25).
+Phần hook 0–0:35 chưa sửa theo vòng 1: KHÔNG báo lại "nothing to buy" / "push it into the ground".
+
+== 1. DỮ KIỆN / TRÌNH TỰ ==
+[NÊN SỬA] M1 · "Let's start with the one rule all six share." … "And grapes, currants, elderberries, figs and pomegranates all follow the same pattern." @0:36–0:58 · nói "all six" nhưng kể có 5, thiếu gooseberries (người nghe đếm được) · thêm "gooseberries" vào danh sách hoặc bỏ danh sách: "All six follow the same pattern."
+[NÊN SỬA] M1 · "All you need is a pair of pruning shears." @1:12 · câu mới, mâu thuẫn với M4 (bầu + "clean potting mix"), M5 (lựu "a dip in rooting powder", chậu gallon) và KẾT "it didn't cost you a thing" · đổi thành "For the cut itself, a pair of pruning shears is all it takes."
+[NÊN SỬA] M2 · "Set each one in the ground with just the top bud above the soil." @2:45 · trình tự: câu trước bảo cắt "in February", câu này cắm luôn xuống đất. Ở vùng lạnh tháng 2 đất còn đóng băng; luật "plant it when the soil softens" mãi tới 5:05 mới nói · thêm 1 vế: "Once the soil can be worked, set each one…" (C04: giữ lạnh trong túi có lỗ trong lúc chờ).
+[NÊN SỬA] M3 · "And an older reference warns that the European types don't root well. [C09]" @4:10 · "the European types" mơ hồ, câu trước nói về fridge/peat chung, nghe có thể hiểu là lý chua châu Âu; C09 chỉ nói lý gai châu Âu · "…that European gooseberries are the stubborn ones."
+[NÊN SỬA] M3 · "The federal ban ended in nineteen sixty-six. [C12]" @4:35 · chưa nói cấm cái gì, người nghe bị hụt ý · "A federal ban on growing them ended in nineteen sixty-six."
+[NÊN SỬA] M3 CITE_ZONE + KẾT · "So here's the rule. Cut it asleep. Keep it cold. Plant it when the soil softens. [C25]" @5:05 và @9:50 · luật bị nói rộng hơn nguồn: 30 giây sau M4 bảo elderberry tháng 2–3 "pot them in clean potting mix, and keep them moist and warm" (C16); M5 bảo vùng ấm "pot them up right away" (C20); C25 là luật cho cây sợ lạnh (sung, lựu). Hai câu tự đá nhau · giữ nhịp 3 vế nhưng nới vế cuối: "Cut it asleep. Keep it cool until you're ready. Then pot it up, or plant it when the soil softens."
+[NÊN SỬA] M5 · "Once they start growing, move them into gallon pots for about a month, before they go in the ground. [C26]" @7:00 · (a) C26+ chỉ nói về lựu, câu đang áp cho cả sung; (b) nguồn là 4–6 tuần, "about a month" cắt mất cận trên; (c) "before they go in the ground" đi trước đoạn "where winters are hard, treat both as pot plants", nên người ở vùng lạnh nghe câu này trước và có thể trồng ra đất, làm chết cây · "Once the pomegranates start growing, give them four to six weeks in gallon pots. Where winters are mild, they can go in the ground after that." (4, 6 có trong allowed-numbers).
+[NÊN SỬA] M7 · "Plants you grow from seed are usually a different story. [C46]" @9:37 · "a different story" không nói rõ tốt hay xấu hơn, mà video lại nói về cành giâm, không nói về hạt · nói thẳng "Plants grown from seed usually aren't covered by a plant patent." hoặc bỏ câu.
+[GỢI Ý] M3 · "If you wait, store the cuttings cold…" @3:40 · chưa rõ "wait" là chờ cái gì · "Until you plant, store them cold, and don't let them freeze or dry out."
+[GỢI Ý] M5 · "Many figs aren't that tough. [C22]" @7:18 · C22 không nói về "many figs", chỉ nói từ 20°F trở xuống cây có thể chết sát đất · "Below about twenty degrees, a fig can die back to the ground." (20 có trong allowed-numbers)
+[GỢI Ý] M6 · "Pears and plums are usually grafted, too. [C34]" @8:13 · đúng C34, nhưng câu này đứng ngay sau "hard to root", nghe như mận cũng khó ra rễ; C35 nói gốc ghép mận đôi khi nhân bằng cành, và brief dặn không xếp mận vào nhóm hiếm ra rễ · "Pears are usually grafted, too." (bỏ plums)
+[GỢI Ý] M4 · "So don't toss a cutting because it's leafy and weak." @5:52 · logic hụt: câu trước nói lá ra làm ta tưởng là đã thành, thì sao lại vứt? Hành động đúng là đừng nhổ lên xem rễ hay đừng chuyển chậu sớm · "So don't pull it up to check, and don't give up on it. Give it time."
+[GỢI Ý] M7 · "No tag? Think about age." @9:25 · không có nhãn không có nghĩa là không có bằng sáng chế · "No tag doesn't mean no patent. So think about age…"
+
+== 2. AN TOÀN ==
+[GỢI Ý] M1 · "A few of these plants aren't pet-safe" @1:40 · C40 chỉ nói về quả nho/nho khô, không nói về cây nho; M2 nói đúng ("keep the fruit out of reach"). Chấp nhận được, nhưng chính xác hơn là "A couple of these have fruit or leaves that aren't pet-safe."
+OK: cảnh báo chó với quả nho (M2), elderberry cho người ăn (M4), nhựa sung và sung độc với thú cưng (M5) đều đúng mã, đặt đúng chỗ, không bị chôn vùi. Đã khoanh vùng lạnh cho sung và lựu.
+
+== 3. CHÍNH SÁCH / INAUTHENTIC ==
+Không thấy nhân chứng bịa, narrator không tự trồng, không X1–X4. Câu "neighbors may be asking" ở KẾT là giả định, không phải nhân chứng, nên đạt.
+[NÊN SỬA] L19 · "One grape guide suggests a full year in a nursery bed before moving them." @2:57 · cite chung chung không thuộc 5 chỗ được phép; cùng khuôn "one ___" lặp với "One extension expert" (8:03) và "one university plant database" (7:40) · nói thẳng: "Give them a full year in a nursery bed before you move them."
+
+== 4. GIỮ CHÂN ==
+[NÊN SỬA] M1 · đoạn 1:26–2:18 · "One quick safety note first… we'll flag each one as we go." / "We'll get to that." / "We'll sort that out as we go." · ba lần hứa để sau liên tiếp, chưa trả cái nào; "safety note first" nhưng không có note nào; ~50 giây chỉ có meta · bỏ câu "These are bushes and vines…" (PROMISE_OK có thể dựa vào M5), gộp safety và tag thành 1 câu, rồi vào ACTION_TIP sớm hơn.
+[GỢI Ý] ACTION_TIP · "Here's what to do this week. Walk your yard this week…" @2:01 · lặp "this week" · "Here's your job this week. Walk your yard and tie a ribbon…"
+[GỢI Ý] M1→M3 · "Plant one is one of the simplest" → "Plant one: grapes" (2 lần "Plant one" sát nhau) · "Next is another forgiving plant" → "Plant two is the easy one" (nghe như nho thì không dễ) · đổi thành "Plant two: currants. The easiest of the bunch."
+[GỢI Ý] Loop #1 nhắc 2 lần y khuôn: "And that fruit tree from the start? It's still coming." (3:12) / "…Still coming." (5:13) · lần 2 đổi chữ, vd "Hold onto that apple question… I mean, that fruit tree question." (đừng lộ tên).
+Bản đồ loop: #1 gieo 0:33 · nhắc 3:12, 5:13, 7:50 · đóng 7:55. #2 gieo 5:17 · đóng 5:40 (ngắn, ổn). #3 gieo 1:45 ("one small tag") + ACTION_TIP 2:15 · gieo lại 8:52 · đóng 8:56–9:40. Loop #3 im ~6,5 phút, chấp nhận được vì có gieo lại. Mọi loop đều đóng.
+Phút 4–6: blister rust 4:26 · CITE_ZONE 4:47 · loop #2 5:17 · "part that fools people" 5:37, mỗi ≤60 giây có tension: ĐẠT. L18: cụm zone ở 7:18–7:30 (6B–10, 8–10, 7B) là số mới, không đọc lại, nhưng dày → nên để thẻ đồ hoạ mang số.
+
+== 5. CHẤM PHẦN MỞ (0–60 s) ==
+① loop trong 10 s: 3 (câu hỏi nằm ở ~0:30, 10 giây đầu chỉ có claim) · ② số/bằng chứng trước 20 s: 4 (three buds, no hormone, có thẻ OSU) · ③ trả lời lời hứa trong 60 s: 5 · ④ dựng được: 4 · ⑤ đúng Ledger: 3 (bị trừ vì lỗi vòng 1 đã biết; lỗi mới nhỏ: "a neighbor who prunes" không nói cần xin phép, trong khi M1 nói "and says yes") · ⑥ giọng: 4 · ⑦ khác góc: 3 (gần "pruning scraps → fruit trees"; góc riêng là cây ăn quả thất bại + nhãn PP, nhưng chưa nêu trong 30 giây đầu)
+Hook: 26/35 → dưới 28, viết lại theo luật brief (≤120 từ, chỉ dùng mã C; đã gộp sửa vòng 1):
+"A bare stick. No leaves, no roots. Cut it from a grape vine in February, and it can grow into a whole new vine. [C01, C06] It needs three buds. And no rooting hormone. [C02, C03] Grapes. Currants. Gooseberries. Elderberries. Figs. Pomegranates. Six fruit plants you can start from winter cuttings, for free, if the parent plant is yours, or a neighbor's who says yes. But one fruit tree gardeners love to try this on hardly ever roots. One extension expert saw it happen just once. [C33] Which tree? Stay with me."
+
+== 6. CẢNH BÁO NGƯỜI DỰNG ==
+- M5 thẻ "FIG SAP · WEAR GLOVES": thêm "TOXIC TO CATS, DOGS, HORSES (NC State)" vì lời đọc có nói. Ảnh sung phải là Ficus carica, KHÔNG dùng Ficus benjamina (cây sung cảnh).
+- M2: không quay cảnh chó đang ăn nho hay đứng cạnh chùm nho.
+- M3: lý chua và lý gai dễ lẫn nhau (lý gai có gai, quả có sọc); thẻ "CHECK YOUR STATE" đừng vẽ bản đồ tô bang nào ngoài NC, NH.
+- M4: quả elderberry phải là Sambucus đã chín, tránh cụm quả trông giống pokeweed.
+- M7: nhãn PP hay PPAF phải là đồ hoạ trung tính, không chụp nhãn thật của một hãng hay một giống.
+- M5 "windowsill in March, fig shoot": cành sung trong chậu, không để quả hay cây trưởng thành.
+
+== KẾT ==
+Hook: 26/35 (phần mở chưa sửa vòng 1)
+3 điểm mạnh nhất: (1) an toàn thú cưng và YMYL đúng mã, đặt đúng chỗ, có khoanh vùng lạnh; (2) loop #1 và #3 đóng thật, có nhắc giữa chừng; (3) CITE_ZONE "lúc cắt ≠ lúc cắm" là chữ ký biên tập rõ.
+Số lỗi: CHẶN 0 · NÊN SỬA 11 · GỢI Ý 10
+Kết luận: ĐẠT CÓ SỬA (vùng đã sửa sạch nguồn và số; còn mâu thuẫn trình tự hoặc phạm vi: mantra "keep it cold" với elderberry, chậu gallon áp cho cả sung, cắm nho tháng 2 khi đất còn đóng băng, "all you need is shears").

@@ -1,0 +1,150 @@
+# Đo kênh: UCmNd9YwJEGzc0CQZSVe2oWg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 152 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 119,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-07-04 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 9,126 |
+| cao_nhat | 197,549 |
+| thap_nhat | 2,192 |
+| phan_tan | 21.65 |
+| so_video_tren_2x | 7 |
+| ty_le_tren_2x | 0.35 |
+| trung_vi_chia_sub | 0.08 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 2.09 |
+| ngay_video_dau | 2026-03-23 |
+| tuoi_tu_video_dau | 238 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 500 |
+| sub_moi_video | 783 |
+| video_30_ngay | 23 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-03-23 | 238 | 2iD9dIoY_wM | 356,355 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Survival Skills Frontier Families Used That Nobody Teaches Anymore |
+| 2026-03-26 | 235 | _0BpJXtYfko | 1,137,759 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 "Illegal" Off-Grid Living Tricks Our Grandparents Used That Still Work Today |
+| 2026-03-29 | 232 | glsREPJRsAs | 14,828 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Things WWII Soldiers Taught Their Families Before They Left for War |
+| 2026-04-02 | 228 | yT2jjEoNuh0 | 31,249 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Rugged Pioneer Habits That Would Save Your Life If Society Collapsed Tomorrow |
+| 2026-04-05 | 225 | tZX0vzBkU0I | 190,481 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Depression-Era Tricks That Helped Families Survive |
+| 2026-04-08 | 222 | N6KwYsJvPxc | 58,139 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Lost Appalachian Survival Secrets Passed Down Only by Word of Mouth |
+| 2026-04-11 | 219 | RWdRSNnbYqg | 321,864 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Depression-Era Tricks the Government Doesn't Want You Remembering |
+| 2026-04-14 | 216 | LZPEiVbKHhA | 113,292 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Homestead Skills Your Great-Grandmother Knew by Age 12 (That Adults Can't Do Today) |
+| 2026-07-04 | 135 | b0cym9h5YYo | 16,722 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Ways Our Grandparents Preserved Food Without a Refrigerator |
+| 2026-07-06 | 133 | QbalkAdLtMU | 2,819 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Home Security Tricks Our Grandparents Used to Know a Stranger Was Coming |
+| 2026-07-08 | 131 | Eo6cKe2QWFY | 42,914 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Off-Grid Survival Tricks Our Grandparents Used to Live Without the Power Grid |
+| 2026-07-10 | 129 | eHMjHU7jdQI | 18,644 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Ways Our Grandparents Hid Food and Valuables From Looters and Thieves |
+| 2026-07-12 | 127 | G1sOsQ4Qtwc | 19,972 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Wilderness Tricks Our Grandparents Used to Stay Alive When They Got Lost in the Woods |
+| 2026-07-14 | 125 | 9jAJf2vzgHI | 12,249 | 5 | 18,644 | 0.66 | 5 | 0.71 | binh_thuong | – | Không | 25 Forgotten Blackout Defense Tricks Our Grandparents Used When Strangers Came After Dark |
+| 2026-07-15 | 124 | pAuRusB4SEY | 291,711 | 6 | 17,683 | 16.50 | 5 | 0.19 | can_kiem_ky | – | Không | 25 Forgotten Safe-Room Tricks That Protected Families Before Police Could Arrive |
+| 2026-07-16 | 123 | Vlm-Q6GInjs | 13,247 | 7 | 18,644 | 0.71 | 5 | 0.18 | binh_thuong | – | Không | 25 Survival Myths That Could Get Your Family Killed When the Grid Goes Down |
+| 2026-07-17 | 122 | Z591JckhHAI | 141,106 | 8 | 17,683 | 7.98 | 5 | 0.19 | manh | – | Không | 25 Silent Rules of Survival Our Grandparents Followed Without Ever Writing Them Down |
+| 2026-07-18 | 121 | X7LYhsdGLtg | 788 | 9 | 18,644 | 0.04 | 5 | 0.72 | binh_thuong | – | Không | 15 Flood-Escape Rules Every American Driver Should Know Before the Water Rises |
+| 2026-07-20 | 119 | m8AbRjrPh5I | 3,325 | 10 | 17,683 | 0.19 | 5 | 0.75 | binh_thuong | – | Không | 20 Forgotten Tornado Survival Rules Every American Family Knew Before Weather Radar |
+| 2026-07-22 | 117 | dmBQHlsW-zE | 2,998 | 11 | 16,722 | 0.18 | 5 | 0.80 | binh_thuong | – | Không | 25 Cold War Survival Tricks Every American Family Was Taught Before a Nuclear Attack |
+| 2026-07-23 | 116 | Nk-iz4Up5k0 | 13,345 | 12 | 14,984 | 0.89 | 5 | 13.00 | binh_thuong | – | Không | 25 Forgotten Door-Barricade Tricks That Kept Intruders Out Until Help Arrived |
+| 2026-07-24 | 115 | v4adiMg2wJQ | 2,314,821 | 13 | 13,345 | 173 | 5 | 14.59 | can_kiem_ky | – | Không | 20 “Poor Man” Blackout Tricks That Make High-Tech Prepper Gear Look Ridiculous |
+| 2026-07-25 | 114 | K8I1BbARQMc | 194,731 | 14 | 15,034 | 12.95 | 5 | 0.84 | can_kiem_ky | – | Không | 20 “Primitive” Home-Defense Tricks That Make Modern Security Systems Look Useless |
+| 2026-07-27 | 112 | gIAuGjY95mE | 12,372 | 15 | 16,722 | 0.74 | 5 | 0.76 | binh_thuong | – | Không | 25 Forgotten Survival Rules That Matter Most in the First 90 Days After the Grid Goes Down |
+| 2026-07-29 | 110 | K_JTnmsNIso | 12,670 | 15 | 13,345 | 0.95 | 5 | 22.01 | binh_thuong | – | Không | 20 "Poor Man" Food-Stockpile Tricks That Make Freeze-Dried Prepper Buckets Look Like a Rip-Off |
+| 2026-07-30 | 109 | 23Kkxy4J2_M | 652,378 | 15 | 13,345 | 48.89 | 5 | 0.73 | can_kiem_ky | – | Không | 20 "Poor Man" Home-Defense Tricks That Make $5,000 Security Systems Look Like a Scam |
+| 2026-07-31 | 108 | T3ctmEFS8Zo | 293,686 | 15 | 13,345 | 22.01 | 5 | 0.73 | can_kiem_ky | – | Không | 25 Forgotten Hidden-Room Tricks Families Used to Disappear Inside Their Own Homes |
+| 2026-08-01 | 107 | offGhUR6nS4 | 2,884 | 15 | 13,345 | 0.22 | 5 | 0.73 | binh_thuong | – | Không | 20 “Poor Man” Fire-Starting Tricks That Don’t Need Expensive Survival Gear |
+| 2026-08-03 | 105 | VuG9gpTI50k | 9,804 | 15 | 13,247 | 0.74 | 5 | 0.65 | binh_thuong | – | Không | 20 Great Depression “Poor Man” Survival Tricks That Make Modern Preppers Look Wasteful |
+| 2026-08-05 | 103 | voc8BBoELoE | 624,967 | 15 | 13,247 | 47.18 | 5 | 0.65 | can_kiem_ky | – | Không | 20 “Poor Man” Safe-Room Tricks That Make $20,000 Panic Rooms Look Ridiculous |
+| 2026-08-06 | 102 | CoOuG-Nr4FE | 8,061 | 15 | 13,247 | 0.61 | 5 | 0.65 | binh_thuong | – | Không | 20 “Poor Man” Blackout Home-Defense Tricks That Make Backup Security Systems Look Useless |
+| 2026-08-07 | 101 | SiVWxlnN9zk | 29,832 | 15 | 12,670 | 2.35 | 5 | 0.51 | hoi_cao | – | Không | 20 “Primitive” Intruder-Warning Tricks That Make Smart Doorbells Look Like a Scam |
+| 2026-08-09 | 99 | mLEatbyp29M | 8,671 | 15 | 12,670 | 0.68 | 5 | 0.51 | binh_thuong | – | Không | 20 “Poor Man” Home-Defense Tricks Burglars Fear More Than $5,000 Security Systems |
+| 2026-08-11 | 97 | U6x2XSR5Xg8 | 3,042 | 15 | 12,670 | 0.24 | 5 | 0.51 | binh_thuong | – | Không | 20 “Poor Man” Tricks That Turn a Basement Into a Hidden Safe Room |
+| 2026-08-13 | 95 | _5hJ26tgC00 | 20,882 | 15 | 12,670 | 1.65 | 5 | 0.29 | binh_thuong | – | Không | 20 “Poor Man” Safe-Room Features That Make Expensive Panic Rooms Look Overbuilt |
+| 2026-08-14 | 94 | _q2duHjcIes | 1,772 | 15 | 13,345 | 0.13 | 5 | 0.40 | binh_thuong | – | Không | 20 Safe-Room Mistakes That Could Leave Your Family Trapped Inside |
+| 2026-08-15 | 93 | 6Zf6c2wrvts | 6,448 | 15 | 12,670 | 0.51 | 5 | 0.29 | binh_thuong | – | Không | 25 Forgotten Survival Features Modern Homes Should Never Have Lost |
+| 2026-08-17 | 91 | 31r3ANrzGBE | 8,823 | 15 | 12,372 | 0.71 | 5 | 0.30 | binh_thuong | – | Không | 20 “Poor Man” Ways to Keep Your Home Safe When the Entire Neighborhood Goes Dark |
+| 2026-08-19 | 89 | MYcNQfOg2pQ | 3,530 | 15 | 9,804 | 0.36 | 5 | 0.38 | binh_thuong | – | Không | 20 “Poor Man” Door-Security Fixes That Make Forced Entry Harder |
+| 2026-08-20 | 88 | R7OWErTtPvQ | 3,679 | 15 | 8,823 | 0.42 | 5 | 0.53 | binh_thuong | – | Không | 20 “Poor Man” Bedroom-Security Tricks That Buy You Time in a Break-In |
+| 2026-08-21 | 87 | ygyexFsO8Tc | 5,361 | 15 | 8,671 | 0.62 | 5 | 0.54 | binh_thuong | – | Không | 25 Forgotten Home Features That Gave Families a Second Way Out |
+| 2026-08-22 | 86 | k-GhOVwGprw | 1,456 | 15 | 8,061 | 0.18 | 5 | 0.58 | binh_thuong | – | Không | 25 Places That Look Safe During a Disaster — But Can Trap You There |
+| 2026-08-26 | 82 | Qn6MjL03iyQ | 187,505 | 15 | 6,448 | 29.08 | 5 | 0.73 | can_kiem_ky | – | Không | 20 “Poor Man” Decoy Tricks That Make Burglars Skip Your House Without Touching a Lock |
+| 2026-08-27 | 81 | R83N7gBz6AI | 2,664 | 15 | 8,061 | 0.33 | 5 | 1.42 | binh_thuong | – | Không | 25 Forgotten Decoy Tricks Families Used to Protect an Empty House |
+| 2026-08-28 | 80 | 2_zBXP0F81c | 4,688 | 15 | 6,448 | 0.73 | 5 | 1.78 | binh_thuong | – | Không | 20 “Poor Man” Roadside Tricks for When You’re Stranded Without a Kit |
+| 2026-08-29 | 79 | bqGQc80ptnE | 20,362 | 15 | 5,361 | 3.80 | 5 | 0.99 | dang_ghi | – | Không | 20 "Poor Man" Survival Tools You Build From Garage Scraps Making $3,000 Prepper Kits Look Ridiculous |
+| 2026-08-31 | 77 | RRAWgHiEWbA | 2,325 | 15 | 5,361 | 0.43 | 5 | 2.14 | binh_thuong | – | Không | 25 Forgotten Navigation Tricks That Still Work When Your Phone Dies |
+| 2026-09-01 | 76 | vfOtK2kaRxo | 11,449 | 15 | 4,688 | 2.44 | 5 | 2.18 | hoi_cao | – | Không | 50 Things That Stop Working First in a Blackout — And the Forgotten Fix for Each One |
+| 2026-09-03 | 74 | adK0RC6gG78 | 512,513 | 15 | 4,688 | 109 | 5 | 1.13 | can_kiem_ky | – | Không | 15 Cheap Tractor Supply Items Every American Should Stockpile Before the Next Blackout |
+| 2026-09-04 | 73 | d6glCZn6SbU | 5,315 | 15 | 5,361 | 0.99 | 5 | 1.46 | binh_thuong | – | Không | 20 “Poor Man” Hiding Spots That Don’t Look Like Hiding Spots |
+| 2026-09-05 | 72 | zMgc3N4SHlI | 5,006 | 15 | 5,315 | 0.94 | 5 | 1.47 | binh_thuong | – | Không | 20 Forgotten Home-Defense Habits Our Grandparents Got Right |
+| 2026-09-07 | 70 | 5HdUdruOwqA | 19,064 | 15 | 5,315 | 3.59 | 5 | 1.27 | dang_ghi | – | Không | 15 Cheap Harbor Freight Items That Become Priceless When the Power Goes Out |
+| 2026-09-09 | 68 | _6c1fN4eLs0 | 10,214 | 15 | 5,315 | 1.92 | 5 | 1.27 | binh_thuong | – | Không | 20 “Poor Man” Blackout Tools You Can Build From Garage Scraps That Make Prepper Gear Look Overpriced |
+| 2026-09-10 | 67 | DIHsk8P6sSg | 2,553 | 15 | 5,315 | 0.48 | 5 | 1.27 | binh_thuong | – | Không | 20 “Poor Man” Property Tricks That Make Burglars Think Twice |
+| 2026-09-11 | 66 | 07pytR_Lt1Q | 7,837 | 15 | 5,315 | 1.47 | 5 | 1.27 | binh_thuong | – | Không | 15 Cheap Home Depot Basics You’ll Wish You Bought Before a Blackout |
+| 2026-09-12 | 65 | yzsTlZ8FsYc | 6,755 | 15 | 5,361 | 1.26 | 5 | 0.89 | binh_thuong | – | Không | 20 “Poor Man” Home-Security Tricks That Still Work When Someone Cuts Your Power |
+| 2026-09-14 | 63 | pBr-vCzeWz8 | 1,892 | 15 | 6,755 | 0.28 | 5 | 0.70 | binh_thuong | – | Không | 20 “Poor Man” Perimeter Tricks That Make Burglars Look Elsewhere |
+| 2026-09-15 | 62 | M_6bBUcB6Do | 615,000 | 15 | 6,755 | 91.04 | 5 | 0.70 | can_kiem_ky | – | Không | 30 Costco Items Everyone Will Wish They Bought BEFORE the Power Goes Out |
+| 2026-09-16 | 61 | TpODj_ezECc | 4,756 | 15 | 6,755 | 0.70 | 5 | 0.58 | binh_thuong | – | Không | 25 Overlooked Home Depot Items That Become Essential in a Blackout |
+| 2026-09-17 | 60 | FJ_8d_b2JIA | 8,515 | 15 | 6,755 | 1.26 | 5 | 0.58 | binh_thuong | – | Không | 15 Cheap Dollar General Items That Become Priceless When the Power Goes Out |
+| 2026-09-18 | 59 | iByMgCYyiDI | 3,896 | 15 | 7,837 | 0.50 | 5 | 1.46 | binh_thuong | – | Không | 15 Cheap Ace Hardware Items People Forget Until the Power Goes Out |
+| 2026-09-19 | 58 | x0x5aaQrNcQ | 2,164 | 15 | 6,755 | 0.32 | 5 | 1.69 | binh_thuong | – | Không | 20 “Poor Man” Home-Deterrent Tricks That Make Burglars Keep Walking |
+| 2026-09-20 | 57 | KcgDY4pEi-4 | 20,551 | 15 | 6,755 | 3.04 | 5 | 1.69 | dang_ghi | – | Không | 20 Sam’s Club Items Everyone Will Wish They Bought BEFORE the Power Goes Out |
+| 2026-09-21 | 56 | aCgdpXJiRPA | 2,088 | 15 | 6,755 | 0.31 | 5 | 3.02 | binh_thuong | – | Không | 20 Things Retired Cops Check Before Bed — That Most Homeowners Miss |
+| 2026-09-23 | 54 | -CLpPHASy2I | 35,846 | 15 | 5,315 | 6.74 | 5 | 2.15 | manh | – | Không | 25 Blackout Items That Sell Out First — And the Cheap Alternatives People Forget |
+| 2026-09-24 | 53 | TKTIMTrEXzw | 11,419 | 15 | 6,755 | 1.69 | 5 | 1.03 | binh_thuong | – | Không | 20 “Poor Man” Backup-Power Tricks That Keep the Essentials Running Without a Generator |
+| 2026-09-25 | 52 | O5zZEIviPX8 | 3,527 | 15 | 7,837 | 0.45 | 5 | 0.98 | binh_thuong | – | Không | 20 Blackout Supplies That Can Fail in Storage — Check Yours Before the Lights Go Out |
+| 2026-09-26 | 51 | uiDR3FX-IeE | 20,394 | 15 | 6,755 | 3.02 | 5 | 1.03 | dang_ghi | – | Không | 20 “Poor Man” Bathroom Supplies for a Blackout With No Running Water |
+| 2026-09-28 | 49 | sQ-vlXzInLg | 64,453 | 15 | 6,755 | 9.54 | 5 | 1.03 | manh | – | Không | 25 No-Cook Blackout Meals Using Food Already in Your Pantry |
+| 2026-09-30 | 47 | BFp3tX6Rct8 | 6,931 | 15 | 7,837 | 0.88 | 5 | 0.50 | binh_thuong | – | Không | 15 Cheap Extras People Forget When Buying Blackout Gear — Until They Try to Use It |
+| 2026-10-02 | 45 | HJEoj707clc | 2,192 | 15 | 6,931 | 0.32 | 5 | 1.11 | binh_thuong | – | Không | 15 Costly Mistakes People Make the Moment the Power Comes Back On |
+| 2026-10-03 | 44 | Krh4JzdoSpI | 7,699 | 15 | 6,931 | 1.11 | 5 | 1.85 | binh_thuong | – | Không | 20 Winter Blackout Supplies a Summer Emergency Kit Leaves Out |
+| 2026-10-05 | 42 | jyfpZOxqPDU | 3,904 | 15 | 7,699 | 0.51 | 5 | 2.60 | binh_thuong | – | Không | 15 Ways to Keep Bulk Emergency Food Usable After You Open the Package |
+| 2026-10-06 | 41 | o-BU-qeFaL0 | 12,811 | 15 | 6,931 | 1.85 | 5 | 2.89 | binh_thuong | – | Không | 15 Cheap Walmart Items With Survival Uses Most Shoppers Never Notice |
+| 2026-10-07 | 40 | OX7IbQbjwVY | 3,242 | 15 | 7,699 | 0.42 | 5 | 2.60 | binh_thuong | – | Không | 20 Forgotten Winter Survival Tricks Americans Used When Snow Cut Them Off for a Week |
+| 2026-10-08 | 39 | 9oF08pgotBo | 197,549 | 15 | 6,931 | 28.50 | 5 | 2.89 | can_kiem_ky | – | Không | 20 Cheap Blackout Meals That Need No Stove, No Fridge & No Boiling Water |
+| 2026-10-09 | 38 | 7zYNhqWg-3A | 26,660 | 15 | 7,699 | 3.46 | 5 | 1.37 | dang_ghi | – | Không | 20 Cheap Supplies for Keeping Pets Fed, Warm and Contained During a Blackout |
+| 2026-10-10 | 37 | nU-MkxuKgvg | 20,022 | 15 | 11,419 | 1.75 | 5 | 0.92 | binh_thuong | – | Không | 20 Dollar Tree Items That Keep You Warm When the Furnace Dies This Winter |
+| 2026-10-11 | 36 | E4XMt5iTNWc | 3,425 | 15 | 11,419 | 0.30 | 5 | 0.92 | binh_thuong | – | Không | 25 Forgotten Ways Americans Survived Freezing Winters Before Central Heating |
+| 2026-10-12 | 35 | CwUc7NSFkF4 | 10,553 | 15 | 11,419 | 0.92 | 5 | 0.63 | binh_thuong | – | Không | 20 Cheap Blackout Dinners That Feed a Family of 4 — No Stove, No Fridge & No Boiling Water |
+| 2026-10-13 | 34 | ItOgqcd14wU | 51,622 | 15 | 10,553 | 4.89 | 5 | 0.68 | dang_ghi | – | Không | 25 Costco Items You’ll Wish You Had by Day 3 of a Blackout |
+| 2026-10-14 | 33 | 1tVK1xbdbcE | 7,215 | 15 | 10,553 | 0.68 | 5 | 0.61 | binh_thuong | – | Không | 20 Things You’ll Run Out of BEFORE Food in a 7-Day Blackout |
+| 2026-10-15 | 32 | Fey3DJI7m1w | 46,187 | 15 | 10,553 | 4.38 | 5 | 0.58 | dang_ghi | – | Không | 20 “Poor Man” Blackout Setups That Keep Your Home Livable for 7 Days — No Generator Needed |
+| 2026-10-16 | 31 | 0O4c-goGT5E | 6,151 | 15 | 10,553 | 0.58 | 5 | 0.61 | binh_thuong | – | Không | 20 “Poor Man” Ways to Heat One Room All Winter That Make $1,500 Heating Bills Look Ridiculous |
+| 2026-10-17 | 30 | x6dOeUWYZXQ | 6,470 | 15 | 7,699 | 0.84 | 5 | 1.10 | binh_thuong | – | Không | 25 Cheap Foods That Never Need a Fridge — Stock Your Pantry BEFORE the Next Blackout |
+| 2026-10-18 | 29 | NeLVf3vUqWk | 23,564 | 15 | 7,699 | 3.06 | 5 | 1.10 | chua_chin | – | Không | 25 Cheap Walmart Pantry Foods That Feed a Family for 7 Days — No Stove or Fridge Needed |
+| 2026-10-19 | 28 | 4JU0TlLUSco | 4,005 | 15 | 10,553 | 0.38 | 5 | 0.81 | chua_chin | – | Không | 20 “Poor Man” Drinking-Water Setups That Work When the Power AND Tap Water Go Out |
+| 2026-10-20 | 27 | mVhjLgOODgg | 1,488 | 15 | 10,553 | 0.14 | 5 | 1.07 | chua_chin | – | Không | 20 Foods a 48-Hour Blackout Can Ruin — Even When They Look and Smell Fine |
+| 2026-10-21 | 26 | 6mjerR-u6pQ | 18,576 | 15 | 10,553 | 1.76 | 5 | 1.07 | chua_chin | – | Không | 20 Cheap Tractor Supply Items You’ll Wish You Had by Day 3 of a Blackout |
+| 2026-10-22 | 25 | T0hOFBDahYA | 8,496 | 15 | 10,553 | 0.81 | 5 | 1.15 | chua_chin | – | Không | 20 Dollar Tree Blackout Supplies That Replace Expensive Prepper Gear |
+| 2026-10-23 | 24 | 7_eoGPCeT2g | 12,148 | 15 | 10,553 | 1.15 | 5 | 1.07 | chua_chin | – | Không | 20 Cheap Meals That Become WORTH GOLD in a Blackout — Just Add Boiling Water |
+| 2026-10-24 | 23 | EJO7y-k-Hzs | 6,829 | 15 | 10,553 | 0.65 | 5 | 1.07 | chua_chin | – | Không | 20 Cheap Foods That Become WORTH GOLD When the Power Goes Out — No Cooking, No Dishes |
+| 2026-10-25 | 22 | nDI7tTWT5ME | 11,285 | 15 | 8,496 | 1.33 | 5 | 0.76 | chua_chin | – | Không | 20 “Poor Man” Ways to Keep Your Home Livable When the Power AND Water Go Out |
+| 2026-10-26 | 21 | P2txkA-Shys | 238,507 | 15 | 8,496 | 28.07 | 5 | 0.76 | chua_chin | – | Không | 20 Cheap Blackout Foods That Last for Years — No Stove, No Fridge & No Cooking Needed |
+| 2026-10-27 | 20 | vTNfnkipyBA | 252,325 | 15 | 10,553 | 23.91 | 5 | 0.61 | chua_chin | – | Không | 25 Cheap Walmart Items You’ll Wish You Had by Day 3 of a Blackout |
+| 2026-10-28 | 19 | _DJ0yVi2KnI | 6,427 | 15 | 11,285 | 0.57 | 5 | 0.56 | chua_chin | – | Không | 20 Cheap Walmart Items That Keep One Room Warm When Your Furnace Dies — No Generator Needed |
+| 2026-10-29 | 18 | qHO0y7d_nC0 | 2,068 | 15 | 8,496 | 0.24 | 5 | 0.75 | chua_chin | – | Không | 15 Cheap Lowe’s Items That Become WORTH GOLD When Your Pipes Freeze |
+| 2026-10-30 | 17 | 4LoCAfizqvs | 6,348 | 15 | 8,496 | 0.75 | 5 | 0.59 | chua_chin | – | Không | 20 “Poor Man” Blackout Tricks That Still Work After the Batteries Die |
+| 2026-10-31 | 16 | sg6ah2M1C8k | 89,149 | 15 | 6,829 | 13.05 | 5 | 0.74 | chua_chin | – | Không | 20 Cheap 3-Ingredient Blackout Meals — No Stove, No Fridge & No Boiling Water |
+| 2026-11-01 | 15 | b7cO68fOB9A | 71,504 | 15 | 8,496 | 8.42 | 5 | 0.39 | chua_chin | – | Không | 100 Cheap Survival Items You’ll Wish You Had by Day 3 of a Blackout (3 HOURS) |
+| 2026-11-02 | 14 | hw7xUUDgI5k | 2,986 | 15 | 11,285 | 0.26 | 5 | 0.44 | chua_chin | – | Không | 25 Cheap Walmart Items to Pack in One Tote BEFORE the Next Blackout |
+| 2026-11-03 | 13 | iN1ijCfeuEo | 3,299 | 15 | 8,496 | 0.39 | 5 | 0.59 | chua_chin | – | Không | 20 “Poor Man” Safe-Room Supplies You’ll Wish You Had Before You Lock the Door |
+| 2026-11-05 | 11 | P3QcHjaTOvQ | 5,042 | 15 | 8,496 | 0.59 | 5 | 0.59 | chua_chin | – | Không | 75 Cheap Walmart Foods You’ll Wish You Had by Day 3 of a Winter Blackout |
+| 2026-11-07 | 9 | senVrA6FmD8 | 19,024 | 15 | 8,496 | 2.24 | 4 | – | chua_chin | – | Không | 100 Forgotten Off-Grid Tricks That Kept Our Grandparents Fed and Warm Without Power |
+| 2026-11-09 | 7 | juwk7k-egsI | 2,945 | 15 | 8,496 | 0.35 | 3 | – | chua_chin | – | Không | 50 Things You Throw Away That Become WORTH GOLD in a Winter Blackout |
+| 2026-11-11 | 5 | WeVghTGxzY0 | 4,995 | 15 | 6,829 | 0.73 | 2 | – | chua_chin | – | Không | 20 Cheap Canned Food Meals for a Blackout — No Stove, No Fridge & No Boiling Water |
+| 2026-11-13 | 3 | 4qPCIN9Exn8 | 6,119 | 15 | 6,427 | 0.95 | 1 | – | chua_chin | – | Không | 25 Cheap Walmart Items That Keep Your Home Livable for 7 Days — No Generator Needed |
+| 2026-11-15 | 1 | Phre1wqxuR4 | 426 | 15 | 6,348 | 0.07 | 0 | – | chua_chin | – | Không | 15 Cheap Tractor Supply Items That Make Expensive Prepper Gear Look Ridiculous |

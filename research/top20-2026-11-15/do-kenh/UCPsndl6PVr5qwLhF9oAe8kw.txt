@@ -1,0 +1,150 @@
+# Đo kênh: UCPsndl6PVr5qwLhF9oAe8kw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 172 |
+| n_trong_danh_sach | 123 |
+| n_dai | 100 |
+| n_short | 23 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 1,330 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-11-26 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 385 |
+| cao_nhat | 2,443 |
+| thap_nhat | 67 |
+| phan_tan | 6.35 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.29 |
+| ty_le_like_trung_vi | 0.00 |
+| da_trung_vi | 2.07 |
+| ngay_video_dau | 2025-10-20 |
+| tuoi_tu_video_dau | 392 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 3.39 |
+| sub_moi_video | 7.73 |
+| video_30_ngay | 4 |
+| ty_trong_view_short | 0.18 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-10-20 | 392 | 4T6YFXmN90I | 2,512 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Thousands of Tons of Fruits and Vegetables Are Harvested \| Agriculture Technology Documentary |
+| 2025-10-21 | 391 | d0DrcGK5SNE | 432 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Billions of Cider Apples Are Harvested in America \| Amazing Apple Agriculture Documentary |
+| 2025-10-22 | 390 | HdsqCmx_OaY | 1,231 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Farmers Harvest 386 Million Tons of Sweet Corn \| Amazing Agriculture Documentary |
+| 2025-10-23 | 389 | Dfi_D7sUH_g | 3,768 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How 136 Million Tons of Bananas Are Harvested and Processed \|Amazing Agriculture Documentary |
+| 2025-10-24 | 388 | 7rYdTQVrkA0 | 3,298 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How 5.9 Million Tons of Grapes Are Harvested \| U.S Agriculture Technology Documentary |
+| 2025-10-25 | 387 | Nlhku8jbfDY | 1,513 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How 2.8 Billion Pounds of Almonds Are Harvested and Processed \| Agriculture Technology Documentary |
+| 2025-10-26 | 386 | frQb1l8_fyg | 259 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Millions of Premium White Asparagus Are Grown and Harvested \| Amazing Agriculture Documentary |
+| 2025-10-27 | 385 | Wuu_ttHRH7g | 898 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How American Farmers Produce 1.1 Billion Pounds of Pumpkins for Halloween \| Agriculture Documentary |
+| 2025-11-26 | 355 | SwEWcZL78zA | 166 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How US Farmers Produce 1.1 Billion Pounds of Pumpkins for Thanksgiving \| US Agriculture Documentary |
+| 2025-11-27 | 354 | MDv0aIw4HaI | 299 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How US Farmers Harvest 791 Million Pounds of Cranberries for Thanksgiving \| Agriculture Documentary |
+| 2025-11-28 | 353 | W9B2bD_ggTk | 389 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How American Farmers Harvest and Process Millions of Cucumbers \| Agricultural Technology Documentary |
+| 2025-11-29 | 352 | 67wpXyfWDTo | 342 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How American Farmers Harvest and Process 6.9 Million Tons of Citrus \| Agricultural Documentary |
+| 2025-11-30 | 351 | X4k0G5KbAOs | 13,348 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Brazil Farms Harvest and Process Millions of Pounds of Coffee \| Agriculture Documentary |
+| 2025-12-01 | 350 | xRVJs3gLfZ8 | 555 | 5 | 342 | 1.62 | 5 | 1.16 | binh_thuong | – | Không | How American Farmers Harvest Millions of Pineapples \| Amazing Agriculture Technology Documentary |
+| 2025-12-02 | 349 | nWE4kIdk1xk | 398 | 6 | 366 | 1.09 | 5 | 0.57 | binh_thuong | – | Không | How American Farmers Harvest 8.9 Billion Pounds of Onions \| Agriculture Technology Documentary |
+| 2025-12-03 | 348 | 1XNOwOwn0sk | 557 | 7 | 389 | 1.43 | 5 | 0.54 | binh_thuong | – | Không | How American Farmers Harvest and Process Green Beans for Thanksgiving \| US Agricultural Documentary |
+| 2025-12-04 | 347 | sDpdmLgzawI | 210 | 8 | 394 | 0.53 | 5 | 0.73 | binh_thuong | – | Không | How American Farmers Produce 135 Tons of Soybeans \| Amazing American Agricultural Documentary |
+| 2025-12-04 | 347 | WU-hPbORJH0 | 104 | 9 | 389 | 0.27 | 5 | 0.74 | binh_thuong | – | Không | How to Grow, Harvest and Process Cocoa for Chocolate \| Modern Farming & Agriculture Documentary |
+| 2025-12-05 | 346 | A9t10IkBp8k | 701 | 10 | 366 | 1.92 | 5 | 0.78 | binh_thuong | – | Không | How Japanese Farmers Harvest Tons of Expensive Grapes \| Amazing Japanese Agricultural Documentary |
+| 2025-12-05 | 346 | GeYMabx9lac | 114 | 11 | 389 | 0.29 | 5 | 1.18 | binh_thuong | – | Không | How Farmers Grow, Care for, and Harvest Roses \| Amazing Agriculture Documentary |
+| 2025-12-06 | 345 | NjxCJMRbaDE | 286 | 12 | 366 | 0.78 | 5 | 1.37 | binh_thuong | – | Không | How American Farmers Harvest Billions of Pounds of Fruits and Vegetables \| Agriculture Documentary |
+| 2025-12-06 | 345 | Lj0Yi_ecq2E | 849 | 13 | 342 | 2.48 | 5 | 1.34 | hoi_cao | – | Không | How American Farmers Harvest 68.3 Million Tons of Potatoes \| Agriculture Technology Documentary |
+| 2025-12-07 | 344 | ZJeQ-xpLZPY | 145 | 14 | 366 | 0.40 | 5 | 1.36 | binh_thuong | – | Không | How Chinese Farmers Harvest 1,000 kg of Bamboo Shoots and Process Them \| Agricultural Documentary |
+| 2025-12-07 | 344 | yO7Qzod12RM | 458 | 15 | 342 | 1.34 | 5 | 1.46 | binh_thuong | – | Không | How to plant and harvest 1.9 billion tons of sugarcane by machine \| Amazing Agricultural Documentary |
+| 2025-12-08 | 343 | cWUN5Vd3Mls | 502 | 15 | 389 | 1.29 | 5 | 1.28 | binh_thuong | – | Không | How Japanese Farmers Harvest Millions of Tons of Expensive Crops \| Agricultural Tech Documentary |
+| 2025-12-08 | 343 | e3JIetBAtHk | 638 | 15 | 398 | 1.60 | 5 | 1.01 | binh_thuong | – | Không | How Farmers Grow and Harvest Millions of Tons of Olives for Olive Oil \| Agriculture Tech Documentary |
+| 2025-12-09 | 342 | rWru1euq_UY | 373 | 15 | 458 | 0.81 | 5 | 1.09 | binh_thuong | – | Không | How American Farmers Grow and Harvest Tons of Broccoli \| Agricultural Technology Documentary |
+| 2025-12-09 | 342 | H4QalwBG-Zk | 498 | 15 | 458 | 1.09 | 5 | 1.13 | binh_thuong | – | Không | How Farmers Grow, Harvest, and Process Taiwanese Guava \| Amazing Agriculture Technology Documentary |
+| 2025-12-10 | 341 | L1zt_IlFDPA | 403 | 15 | 458 | 0.88 | 5 | 1.62 | binh_thuong | – | Không | How to Harvest the World’s Most Expensive Pears in Japan \| Agriculture Technology Documentary |
+| 2025-12-10 | 341 | 0INX2FguHPY | 742 | 15 | 403 | 1.84 | 5 | 1.29 | binh_thuong | – | Không | How Mexican Farmers Harvest Prickly Pear Cactus and Pitaya \| Agriculture Documentary |
+| 2025-12-11 | 340 | Xk44ueBGm0A | 345 | 15 | 458 | 0.75 | 5 | 1.13 | binh_thuong | – | Không | How American Farmers Harvest, and Produce Billions of Tons of Food \| Agricultural Tech Documentary |
+| 2025-12-11 | 340 | QmWuqkHQW8w | 783 | 15 | 403 | 1.94 | 5 | 0.73 | binh_thuong | – | Không | How Farmers Harvest 3.9 Million Tons of Cashew Nuts and Process Them \| Agriculture Tech Documentary |
+| 2025-12-12 | 339 | gGc5TfAyA-0 | 519 | 15 | 458 | 1.13 | 5 | 0.65 | binh_thuong | – | Không | How America Will Harvest Millions of Tons of Food in 2025 \| Agricultural Technology Documentary |
+| 2025-12-12 | 339 | oEuDRMscw9U | 740 | 15 | 498 | 1.49 | 5 | 0.59 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Chayote \| Agricultural Technology Documentary |
+| 2025-12-13 | 338 | QVXbgFJ016M | 273 | 15 | 498 | 0.55 | 5 | 0.61 | binh_thuong | – | Không | How Kiwis Are Harvested And Juiced In A Factory \| Amazing Agriculture Tech Documentary |
+| 2025-12-14 | 337 | 5X6clE5PnUI | 146 | 15 | 498 | 0.29 | 5 | 0.72 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetables? \| Agriculture Documentary |
+| 2025-12-15 | 336 | rCyl3IXw1F8 | 296 | 15 | 498 | 0.59 | 5 | 1.39 | binh_thuong | – | Không | How to Produce & Harvest 2 Billion Tulip Bulbs \| Agriculture Technology Documentary |
+| 2025-12-16 | 335 | zCjY355xKoY | 304 | 15 | 458 | 0.66 | 5 | 1.51 | binh_thuong | – | Không | How Farmers Grow and Harvest Hydroponic Strawberries \| Modern Agricultural Technology Documentary |
+| 2025-12-17 | 334 | YOlZrKj3BGY | 357 | 15 | 458 | 0.78 | 5 | 1.70 | binh_thuong | – | Không | How Japan’s Farmers Grow the World’s Most Expensive Black Watermelons \| Agriculture Documentary |
+| 2025-12-18 | 333 | a-9kH-FEU4k | 690 | 15 | 403 | 1.71 | 5 | 1.93 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetables Every Year \| Agricultural Documentary |
+| 2025-12-19 | 332 | Lbrmonb8hUQ | 779 | 15 | 403 | 1.93 | 5 | 1.15 | binh_thuong | – | Không | How Modern Agriculture Harvests Fruits and Vegetables in 2025 \| Agriculture Documentary |
+| 2025-12-20 | 331 | ZwSvgFDcb7I | 2,136 | 15 | 403 | 5.30 | 5 | 0.85 | manh | – | Không | How American Farmers Harvest 9.8 Million Tons of Rice in 2025 \| Agricultural Documentary |
+| 2025-12-21 | 330 | 7YdR-UPX8cM | 464 | 15 | 498 | 0.93 | 5 | 0.67 | binh_thuong | – | Không | How American Farmers Harvest and Extract Sunflower Oil in 2025 \| Agriculture Documentary |
+| 2025-12-22 | 329 | NQkS4Lhqx7M | 2,266 | 15 | 464 | 4.88 | 5 | 0.72 | dang_ghi | – | Không | Relaxing Countryside ASMR \| Harvesting Fruits & Vegetables and Caring for Farm Animals |
+| 2025-12-23 | 328 | oNByH_dehpE | 341 | 15 | 519 | 0.66 | 5 | 0.55 | binh_thuong | – | Không | Relaxing Countryside ASMR \| Calm Harvest Day & Natural Farm Sounds |
+| 2025-12-24 | 327 | OdnaklbGDZM | 336 | 15 | 464 | 0.72 | 5 | 0.61 | binh_thuong | – | Không | Relaxing in the Vermont Countryside with ASMR Apple Harvesting |
+| 2025-12-25 | 326 | Ilwo08vz_Og | 285 | 15 | 464 | 0.61 | 5 | 0.92 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits & Vegetables in 2025 \| Agriculture Documentary |
+| 2025-12-26 | 325 | vAIomAT0dF0 | 201 | 15 | 357 | 0.56 | 5 | 1.39 | binh_thuong | – | Không | How Hundreds of Tons of Papaya Are Harvested and Processed \| Farming Documentary |
+| 2025-12-27 | 324 | jsxAUy1afZ0 | 426 | 15 | 341 | 1.25 | 5 | 1.46 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetables in 2025 #2 \| Agriculture Documentary |
+| 2025-12-28 | 323 | Q06PBEgAoQA | 281 | 15 | 341 | 0.82 | 5 | 1.68 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetables in 2025 #3 \| Agriculture Documentary |
+| 2025-12-30 | 321 | NagnRpAQgBU | 497 | 15 | 341 | 1.46 | 5 | 2.41 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetables in 2025 #4 \| Agriculture Documentary |
+| 2025-12-30 | 321 | e7Tw-EV1t5A | 572 | 15 | 357 | 1.60 | 5 | 2.99 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetables in 2025 #5 \| Agriculture Documentary |
+| 2025-12-31 | 320 | hCJAkQy5bH0 | 1,360 | 15 | 426 | 3.19 | 5 | 2.30 | dang_ghi | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetables in 2025 #6 \| Agriculture Documentary |
+| 2026-01-01 | 319 | ZBvfidvXfdk | 204 | 15 | 464 | 0.44 | 5 | 2.11 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetables in 2025 #7 \| Agriculture Documentary |
+| 2026-01-02 | 318 | oBjjnsF_t2I | 822 | 15 | 464 | 1.77 | 5 | 2.11 | binh_thuong | – | Không | How To Harvest and Process Millions of Strawberries \| Agriculture Documentary |
+| 2026-01-04 | 316 | wSpsa2-NnrM | 1,152 | 15 | 464 | 2.48 | 5 | 0.58 | hoi_cao | – | Không | How Farmers Harvest and Process Millions of Pomegranates \| Agriculture Documentary |
+| 2026-01-04 | 316 | ZN9J4AZPuG4 | 1,066 | 15 | 464 | 2.30 | 5 | 0.50 | hoi_cao | – | Không | How To Harvest and Process Millions of Oranges \| Agriculture Documentary |
+| 2026-01-05 | 315 | C2oNlcu5BhQ | 979 | 15 | 464 | 2.11 | 5 | 0.36 | hoi_cao | – | Không | How American Farmers Harvest and Process Millions of Carrots \| Agriculture Documentary |
+| 2026-01-06 | 314 | s7j3-FNU9Fg | 271 | 15 | 497 | 0.55 | 5 | 0.34 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Potatoes \| Agriculture Documentary |
+| 2026-01-07 | 313 | 8-vkBhTzt8U | 84 | 15 | 426 | 0.20 | 5 | 0.44 | binh_thuong | – | Không | How Americans Farmers  Harvest and Process Millions of Avocados \| Agriculture Documentary |
+| 2026-01-08 | 312 | lWeLg8Tl71k | 231 | 15 | 426 | 0.54 | 5 | 0.39 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Bananas \| Agriculture Documentary |
+| 2026-01-09 | 311 | PX4OolVggXc | 168 | 15 | 426 | 0.39 | 5 | 0.44 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Watermelons \| Agricultural Documentary |
+| 2026-01-10 | 310 | 4k4Mio0eca8 | 142 | 15 | 426 | 0.33 | 5 | 0.54 | binh_thuong | – | Không | How Asian Farmers Harvest and Process Millions of Jackfruit \| Agricultural Documentary |
+| 2026-01-11 | 309 | -TR0E_Tcpqg | 189 | 15 | 426 | 0.44 | 5 | 0.58 | binh_thuong | – | Không | How Farmers Harvest And Process Millions Of Onions \| Agriculture Documentary |
+| 2026-01-13 | 307 | flqyoF2r3d4 | 345 | 15 | 281 | 1.23 | 5 | 0.87 | binh_thuong | – | Không | How Farmers Harvest and Process Millions of Sugarcane \| Agriculture Documentary |
+| 2026-01-14 | 306 | H_-pFdScTBc | 90 | 15 | 345 | 0.26 | 5 | 0.71 | binh_thuong | – | Không | How Americans Farmers Harvest Millions of Tons of Fruits and Vegetables \| Agricultural Documentary |
+| 2026-01-14 | 306 | Hwi6JnBe5_k | 232 | 15 | 271 | 0.86 | 5 | 1.20 | binh_thuong | – | Không | How Farmers Harvest And Process 400,000 Tons Of Button Mushrooms \| Agriculture Documentary |
+| 2026-01-15 | 305 | pRHXl-JupO0 | 339 | 15 | 232 | 1.46 | 5 | 1.40 | binh_thuong | – | Không | How Is Natural Rubber Harvested And Processed \| Agriculture Documentary |
+| 2026-01-16 | 304 | PNxNek0xuUM | 245 | 15 | 232 | 1.06 | 5 | 1.40 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agricultural Documentary |
+| 2026-01-17 | 303 | Kjijb_TTv4w | 324 | 15 | 245 | 1.32 | 5 | 0.87 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agricultural Documentary #2 |
+| 2026-01-18 | 302 | 2GhSQW0rHWw | 108 | 15 | 245 | 0.44 | 5 | 0.87 | binh_thuong | – | Không | How Americans Farmers Harvest Millions of Tons of Fruits and Vegetables \| Agriculture Documentary #3 |
+| 2026-01-19 | 301 | 5N5Nd5-OHSc | 420 | 15 | 232 | 1.81 | 5 | 0.92 | binh_thuong | – | Không | How Americans Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #4 |
+| 2026-01-20 | 300 | E14gCdahZoA | 760 | 15 | 232 | 3.28 | 5 | 0.83 | dang_ghi | – | Không | How Americans Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #5 |
+| 2026-01-21 | 299 | _fz-KHQLdkM | 145 | 15 | 232 | 0.62 | 5 | 0.92 | binh_thuong | – | Không | How Asians Farmers Harvest And Process Millions Of Ducks \| Agriculture Documentary |
+| 2026-01-23 | 297 | vtGqEl4cPyg | 214 | 15 | 231 | 0.93 | 5 | 1.24 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #6 |
+| 2026-01-24 | 296 | nJMvdj-tdic | 157 | 15 | 231 | 0.68 | 5 | 2.06 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #7 |
+| 2026-01-25 | 295 | lB86q0Jexzc | 476 | 15 | 214 | 2.22 | 5 | 1.34 | hoi_cao | – | Không | How Turkish Farmers Grow and Harvest Millions of Figs \| Agriculture Documentary |
+| 2026-01-26 | 294 | Jt6S1Zcz360 | 192 | 15 | 232 | 0.83 | 5 | 1.24 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #8 |
+| 2026-01-27 | 293 | letrwHknoWM | 287 | 15 | 232 | 1.24 | 5 | 0.77 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #9 |
+| 2026-01-28 | 292 | RGXgLKz7xUo | 533 | 15 | 245 | 2.18 | 5 | 0.71 | hoi_cao | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #10 |
+| 2026-01-29 | 291 | kXIaQvLGDuk | 2,316 | 15 | 245 | 9.45 | 5 | 0.71 | manh | – | Không | ASMR Relaxing Countryside \| Harvesting Fruits & Vegetables and Caring for Farm Animals |
+| 2026-01-30 | 290 | Cj5cx_czx1g | 178 | 15 | 287 | 0.62 | 5 | 0.60 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #11 |
+| 2026-01-31 | 289 | 0mDNIKpEvgc | 173 | 15 | 287 | 0.60 | 5 | 0.89 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #12 |
+| 2026-02-01 | 288 | sKwXqOga2FU | 159 | 15 | 245 | 0.65 | 5 | 1.04 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #13 |
+| 2026-02-02 | 287 | yGrEKSW7fyo | 126 | 15 | 214 | 0.59 | 5 | 1.26 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #14 |
+| 2026-02-03 | 286 | 1zMYUZxOgkw | 255 | 15 | 192 | 1.33 | 5 | 1.55 | binh_thuong | – | Không | How Farmers Harvest Millions of Tons of Fruits and Vegetable \| Agriculture Documentary #15 |
+| 2026-02-04 | 285 | tgap8yWW2Q0 | 297 | 15 | 214 | 1.39 | 5 | 1.26 | binh_thuong | – | Không | ASMR Relaxing Countryside \| How Farmers Iranian Farmers Plant And Harvest Cabbage By Hand |
+| 2026-02-05 | 284 | huIQl22oVT4 | 978 | 15 | 214 | 4.57 | 5 | 1.08 | dang_ghi | – | Không | ASMR Relaxing Countryside \| How Iranian Farmers Grow And Harvest Cauliflower By Hand |
+| 2026-02-06 | 283 | hppeKF5pGLs | 210 | 15 | 214 | 0.98 | 5 | 1.26 | binh_thuong | – | Không | ASMR Relaxing Countryside \| How Iranian Farmers Grow and Harvest Lettuce By Hand |
+| 2026-02-07 | 282 | 3hABgnB_MRk | 270 | 15 | 214 | 1.26 | 5 | 1.08 | binh_thuong | – | Không | ASMR Relaxing Countryside \| How Greenlandic Farmers Grow And Harvest Garlic |
+| 2026-02-08 | 281 | aiMyB16eD_Q | 764 | 15 | 255 | 3.00 | 5 | 0.74 | hoi_cao | – | Không | ASMR Relaxing Countryside \| How Iranian Farmers Grow and Harvest Spinach |
+| 2026-02-10 | 279 | Zlm8gbPyLBw | 188 | 15 | 270 | 0.70 | 5 | 0.86 | binh_thuong | – | Không | ASMR Relaxing Countryside \| How Greenland Farmers Grow and Harvest Carrots |
+| 2026-02-11 | 278 | 01x4hFZeseo | 231 | 15 | 255 | 0.91 | 5 | 1.28 | binh_thuong | – | Không | ASMR Relaxing Countryside \| How Greenland Farmers Grow And Harvest White Radishes |
+| 2026-02-12 | 277 | KnrwF-tMIYo | 327 | 15 | 255 | 1.28 | 5 | 1.74 | binh_thuong | – | Không | ASMR Relaxing Countryside \| How Greenland Farmers Grow And Harvest Alfalfa |
+| 2026-02-16 | 273 | iasw-xUwVFI | 145 | 15 | 255 | 0.57 | 5 | 2.31 | binh_thuong | – | Không | The Surprising Truth About Farm Sounds Nobody Tells You |
+| 2026-02-17 | 272 | xzf9Y7-2MyA | 67 | 15 | 231 | 0.29 | 5 | 2.55 | binh_thuong | – | Không | A peaceful morning \| Harvesting eggs at the duck farm |
+| 2026-02-23 | 266 | gDO3wWbVEoo | 693 | 15 | 210 | 3.30 | 5 | 2.81 | dang_ghi | – | Không | Feeding 1000 Free Range Ducks – Inside Our Duck Farm Routine |
+| 2026-02-25 | 264 | mOZ0NThRxdE | 2,443 | 15 | 231 | 10.58 | 5 | 2.55 | can_kiem_ky | – | Không | Harvesting Duck Eggs In The Morning – Collect fresh eggs at dawn. |
+| 2026-03-28 | 233 | Do2tQUfpL6s | 443 | 15 | 255 | 1.74 | 5 | 2.31 | binh_thuong | – | Không | Harvesting Duck Eggs In The Afternoon - A peaceful farm |
+| 2026-03-31 | 230 | j2V9D2foQf4 | 590 | 15 | 270 | 2.19 | 5 | 1.83 | hoi_cao | – | Không | Harvesting Duck Eggs Morning – Still Warm from the Nest |
+| 2026-04-01 | 229 | sc_0GNc01EI | 457 | 15 | 297 | 1.54 | 5 | 1.67 | binh_thuong | – | Không | Harvesting Duck Eggs At Dawn – Small farm life |
+| 2026-04-04 | 226 | WzH2UecGO5Q | 1,115 | 15 | 327 | 3.41 | 5 | 0.47 | dang_ghi | – | Không | Morning Harvesting Duck Eggs - Bank CEO returns to his hometown to raise ducks. |
+| 2026-04-10 | 220 | tdJ6mCRNGRY | 2,338 | 15 | 443 | 5.28 | 5 | 0.35 | manh | – | Không | Harvesting Duck Eggs from Hidden Nests : What I Found This Morning |
+| 2026-04-19 | 211 | FvsJG68M0hY | 495 | 15 | 443 | 1.12 | 4 | – | binh_thuong | – | Không | Morning Harvesting Duck Eggs —My Ducks Eat Before I Do,Every Single Morning |
+| 2026-10-28 | 19 | aTJZVV4d4_w | 8 | 15 | 457 | 0.02 | 3 | – | chua_chin | – | Không | CEO Trang clears 30 years of weeds from her grandmother's overgrown yard by hand |
+| 2026-10-30 | 17 | Nev3C1PDgns | 19 | 15 | 457 | 0.04 | 2 | – | chua_chin | – | Không | CEO Trang prunes fruit trees and harvests turmeric and aloe in grandmother's garden |
+| 2026-11-02 | 14 | vLEsVYPMC80 | 153 | 15 | 443 | 0.35 | 1 | – | chua_chin | – | Không | CEO Trang renovates her grandmother's house: new kitchen and bathroom |
+| 2026-11-06 | 10 | xPNigCdyrBI | 317 | 15 | 443 | 0.72 | 0 | – | chua_chin | – | Không | CEO Trang drains grandma's 10 year abandoned pond for crispy fried fish |

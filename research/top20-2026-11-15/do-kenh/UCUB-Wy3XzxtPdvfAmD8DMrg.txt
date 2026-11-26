@@ -1,0 +1,150 @@
+# Đo kênh: UCUB-Wy3XzxtPdvfAmD8DMrg.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 204 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 118,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-07-04 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 13,433 |
+| cao_nhat | 351,035 |
+| thap_nhat | 1,473 |
+| phan_tan | 26.13 |
+| so_video_tren_2x | 9 |
+| ty_le_tren_2x | 0.45 |
+| trung_vi_chia_sub | 0.11 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.15 |
+| ngay_video_dau | 2026-02-06 |
+| tuoi_tu_video_dau | 283 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 417 |
+| sub_moi_video | 578 |
+| video_30_ngay | 20 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-02-06 | 283 | Q5_jUQjXpa4 | 6,018 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Immigrant Recipes from 1920s New York That Have Disappeared |
+| 2026-02-09 | 280 | dcps0_v7xDo | 16,708 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Survival Recipes from the Civil War That Have Disappeared! |
+| 2026-02-13 | 276 | LkW6b8Zp1v8 | 808,406 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Forgotten Meals Cowboys ACTUALLY Ate in the Wild West |
+| 2026-02-16 | 273 | kg-VvJq6hg0 | 60,191 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Lost African American Recipes Your Grandma Knew |
+| 2026-02-19 | 270 | wOJSljzCaZI | 553,011 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 30  Poor Man Sandwiches From the Great Depression That America Forgot |
+| 2026-02-23 | 266 | yej2_fZ61h4 | 17,879 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 Survival Meals That Got Prisoners of War Through WWII |
+| 2026-02-26 | 263 | VQ7p5pQF1S8 | 160,102 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 25 FORGOTTEN Meals Italian Immigrants Cooked During the Great Depression |
+| 2026-03-02 | 259 | 0DouQaqtQ1s | 12,095 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Victorian Street Foods That Would Be Illegal Today |
+| 2026-07-04 | 135 | rOL9pW_Gz6w | 128,459 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 FORGOTTEN Kmart Cafeteria Meals Everyone Grabbed Before the Blue Light Faded |
+| 2026-07-05 | 134 | zMhLX3f0y00 | 2,032 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 FORGOTTEN Poor Man Meatloaf Recipes From the 1970s No One Makes Anymore |
+| 2026-07-06 | 133 | Uid5PlaAH2k | 1,438 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 FORGOTTEN 1950s TV Dinners Every Family Ate on Friday Night |
+| 2026-07-08 | 131 | up6a_lUtNdk | 3,658 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 FORGOTTEN Burger Chef Meals Kids Begged For Before McDonald's Took Over |
+| 2026-07-09 | 130 | TKX3MUuXcJw | 100,519 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 FORGOTTEN Poor Man Potato Dinners Our Grandmas Swore By |
+| 2026-07-11 | 128 | zemdAgFo4pg | 94,795 | 5 | 3,658 | 25.91 | 5 | 2.63 | can_kiem_ky | – | Không | 25 FORGOTTEN Cast-Iron Skillet Meals Grandma Made Every Sunday No One Cooks Anymore |
+| 2026-07-12 | 127 | hKDli3IiD50 | 12,350 | 6 | 49,226 | 0.25 | 5 | 0.16 | binh_thuong | – | Không | 25 FORGOTTEN Colonial Tavern Meals Americans Ate Before Restaurants Existed |
+| 2026-07-14 | 125 | flW5EHaBPyI | 7,901 | 7 | 12,350 | 0.64 | 5 | 0.78 | binh_thuong | – | Không | 25 FORGOTTEN Southern Cafeteria Meals Everyone Grabbed Before the Tray Lines Vanished |
+| 2026-07-15 | 124 | JGpI7mDdc-U | 9,637 | 8 | 10,126 | 0.95 | 5 | 1.39 | binh_thuong | – | Không | 25 FORGOTTEN Boarding House Breakfasts That Fed Working Men for Pennies |
+| 2026-07-16 | 123 | z0pYpNQ3Je0 | 2,041 | 9 | 9,637 | 0.21 | 5 | 1.46 | binh_thuong | – | Không | 25 FORGOTTEN A&P Grocery Store Foods Every Family Bought Before the Stores Disappeared |
+| 2026-07-17 | 122 | DdjV2aPcmHc | 147,256 | 10 | 8,769 | 16.79 | 5 | 1.61 | can_kiem_ky | – | Không | 50 FORGOTTEN Foods Americans Grew Up Eating — One From Every State |
+| 2026-07-18 | 121 | L4YXEcb12q0 | 2,527 | 11 | 9,637 | 0.26 | 5 | 1.46 | binh_thuong | – | Không | 25 FORGOTTEN Airline Meals Passengers Ate During the Golden Age of Flying |
+| 2026-07-19 | 120 | zKf3yVo_Vic | 14,081 | 12 | 8,769 | 1.61 | 5 | 0.51 | binh_thuong | – | Không | 25 FORGOTTEN School Cafeteria Lunches From the 1960s That Vanished From American Schools |
+| 2026-07-21 | 118 | IBxldQCEmn0 | 14,854 | 13 | 9,637 | 1.54 | 5 | 0.46 | binh_thuong | – | Không | 25 FORGOTTEN Army Mess Hall Meals Every American Veteran Still Remembers |
+| 2026-07-23 | 116 | VWfj7w_VsSc | 3,047 | 14 | 10,994 | 0.28 | 5 | 1.04 | binh_thuong | – | Không | 25 FORGOTTEN Brown-Bag Lunches American Kids Took to School From 1930 to 1980 |
+| 2026-07-24 | 115 | Kcmx1ztWzbE | 42,072 | 15 | 9,637 | 4.37 | 5 | 1.19 | dang_ghi | – | Không | 25 FORGOTTEN Poor Man Cabbage Dinners Our Grandmas Swore By |
+| 2026-07-25 | 114 | FXe7XK8ZSe4 | 4,429 | 15 | 9,637 | 0.46 | 5 | 1.19 | binh_thuong | – | Không | 25 FORGOTTEN Poor Man Desserts From the Great Depression No One Makes Anymore |
+| 2026-07-26 | 113 | -ip1xucFuAo | 2,295 | 15 | 9,637 | 0.24 | 5 | 2.00 | binh_thuong | – | Không | 25 FORGOTTEN Soup Kitchen Meals That Fed America During the Great Depression |
+| 2026-07-29 | 110 | nz6q6n2DevE | 11,456 | 15 | 9,637 | 1.19 | 5 | 2.00 | binh_thuong | – | Không | Friday Night Meant Fish — 25 Forgotten Suppers From the 1950s |
+| 2026-07-30 | 109 | cxLpsfeL8WU | 74,969 | 15 | 11,456 | 6.54 | 5 | 1.68 | manh | – | Không | 25 FORGOTTEN Back-of-the-Box Dinners From the 1960s Every Mother Knew |
+| 2026-07-31 | 108 | DfQ4Q5_Fd6c | 141,599 | 15 | 11,456 | 12.36 | 5 | 1.61 | can_kiem_ky | – | Không | 25 FORGOTTEN Electric Skillet Dinners Every 1960s Mom Made on Busy Nights |
+| 2026-08-01 | 107 | dEzFVZcYNSQ | 11,067 | 15 | 11,456 | 0.97 | 5 | 1.61 | binh_thuong | – | Không | 25 Forgotten Bologna Dinners Mom Made When Ham Cost Too Much |
+| 2026-08-02 | 106 | r1ERJ5w3MGU | 19,281 | 15 | 11,067 | 1.74 | 5 | 1.66 | binh_thuong | – | Không | 100 FORGOTTEN Foods Americans Grew Up Eating — Two From Every State |
+| 2026-08-05 | 103 | lzGnZVbsF9o | 2,823 | 15 | 11,456 | 0.25 | 5 | 1.61 | binh_thuong | – | Không | 25 Forgotten Cornmeal Dinners Grandma Made When the Cupboard Was Nearly Bare |
+| 2026-08-06 | 102 | OHcfQGr6l0g | 47,019 | 15 | 11,456 | 4.10 | 5 | 1.61 | dang_ghi | – | Không | 25 FORGOTTEN Ground Beef Dinners That Stretched One Pound to Feed a Family |
+| 2026-08-07 | 101 | 53lk6sXRwVY | 18,404 | 15 | 14,081 | 1.31 | 5 | 0.39 | binh_thuong | – | Không | 25 Forgotten Pyrex Dinners Mom Saved for When Company Came Over |
+| 2026-08-08 | 100 | J4p1OrjYWuU | 5,520 | 15 | 14,081 | 0.39 | 5 | 0.53 | binh_thuong | – | Không | Inside Mom’s Old Recipe Box — 25 Forgotten Dinners We Grew Up With |
+| 2026-08-09 | 99 | 4XcvN7sxHPg | 40,950 | 15 | 14,081 | 2.91 | 5 | 0.53 | hoi_cao | – | Không | 100 FORGOTTEN Family Dinners Americans Ate From the 1930s to the 1980s |
+| 2026-08-11 | 97 | fBGysQgTYIc | 1,653 | 15 | 14,854 | 0.11 | 5 | 2.52 | binh_thuong | – | Không | 25 Forgotten Pressure-Cooker Dinners Mom Made With Cheap Cuts and Pantry Staples |
+| 2026-08-12 | 96 | hdfBwWGBhrY | 37,373 | 15 | 11,456 | 3.26 | 5 | 0.65 | dang_ghi | – | Không | 25 FORGOTTEN Cream-of-Soup Dinners Every 1960s Mom Made From a Can |
+| 2026-08-13 | 95 | MpOtTznJG7w | 1,598 | 15 | 18,404 | 0.09 | 5 | 1.52 | binh_thuong | – | Không | 25 Forgotten Cooking Tricks Mom Used to Make the Groceries Last |
+| 2026-08-14 | 94 | fIqzcaam7ZM | 7,402 | 15 | 11,456 | 0.65 | 5 | 2.44 | binh_thuong | – | Không | 25 Forgotten Dinners Mom Made to Get Us Through the Last Days Before Payday |
+| 2026-08-15 | 93 | M5RVfTkQM2Y | 110,420 | 15 | 11,456 | 9.64 | 5 | 2.44 | manh | – | Không | 50 FORGOTTEN Sandwiches That Fed America — One From Every State |
+| 2026-08-16 | 92 | AChgg2pu4As | 347,156 | 15 | 18,404 | 18.86 | 5 | 1.52 | can_kiem_ky | – | Không | 25 FORGOTTEN Crock-Pot Dinners Every 1970s Mom Started Before Leaving the House |
+| 2026-08-19 | 89 | vCGHZefPckQ | 6,415 | 15 | 19,281 | 0.33 | 5 | 1.45 | binh_thuong | – | Không | 50 Forgotten Poor Man Meals Our Families Lived On — One From Every State |
+| 2026-08-20 | 88 | a4dwPbWirFY | 27,965 | 15 | 18,404 | 1.52 | 5 | 9.68 | binh_thuong | – | Không | 40 Foods Every American Family Packed for a 1970s Road Trip |
+| 2026-08-21 | 87 | XwOj6FJGeJs | 4,004 | 15 | 18,404 | 0.22 | 5 | 9.68 | binh_thuong | – | Không | 50 Forgotten Hometown Desserts We Grew Up With — One From Every State |
+| 2026-08-22 | 86 | ysKjJPSPfrQ | 178,196 | 15 | 18,404 | 9.68 | 5 | 0.83 | manh | – | Không | 40 Forgotten Crock-Pot Dinners Every 1970s Mom Started Before Work |
+| 2026-08-23 | 85 | 5woeR3r0LjI | 292,181 | 15 | 18,404 | 15.88 | 5 | 0.83 | can_kiem_ky | – | Không | 25 FORGOTTEN Aluminum-Foil Dinners Every 1960s Mom Made When She Wanted No Cleanup |
+| 2026-08-25 | 83 | wJqTJqMQe5M | 6,866 | 15 | 27,965 | 0.25 | 5 | 0.54 | binh_thuong | – | Không | 25 Forgotten Freezer Dinners Mom Had Waiting When Nobody Had Time to Cook |
+| 2026-08-27 | 81 | L0JqxVHSjeo | 446,457 | 15 | 18,404 | 24.26 | 5 | 0.83 | can_kiem_ky | – | Không | 40 FORGOTTEN 9×13 Pan Dinners Every 1960s Mom Made When She Had a Family to Feed |
+| 2026-08-28 | 80 | zgYTZm4FjU0 | 15,231 | 15 | 27,965 | 0.54 | 5 | 0.46 | binh_thuong | – | Không | 25 FORGOTTEN Pantry Dinners Every 1960s Mom Made When There Was “Nothing in the House” |
+| 2026-08-29 | 79 | lXSdiDUbVJM | 7,671 | 15 | 27,965 | 0.27 | 5 | 0.46 | binh_thuong | – | Không | 25 Forgotten School-Night Dinners Mom Made When Everyone Was Hungry at Once |
+| 2026-08-30 | 78 | VTGSP3Xk9Qc | 15,443 | 15 | 15,231 | 1.01 | 5 | 0.79 | binh_thuong | – | Không | 40 FORGOTTEN Stove-Top Dinners Every 1960s Mom Made Without Turning On the Oven |
+| 2026-08-31 | 77 | mW0NTnh2MF8 | 7,552 | 15 | 15,443 | 0.49 | 5 | 0.84 | binh_thuong | – | Không | 25 Forgotten One-Dish Dinners Mom Relied On After a Long Day |
+| 2026-09-02 | 75 | xTqciJe_Rs8 | 586,625 | 15 | 15,231 | 38.52 | 5 | 0.82 | can_kiem_ky | – | Không | 40 FORGOTTEN One-Pan Dinners Every 1960s Mom Made Before Takeout Took Over |
+| 2026-09-04 | 73 | d7AAfBIhmwE | 12,961 | 15 | 15,443 | 0.84 | 5 | 0.78 | binh_thuong | – | Không | 40 FORGOTTEN Broiler Dinners Every 1960s Mom Made Before Air Fryers Existed |
+| 2026-09-05 | 72 | RKOJmVM5DV8 | 10,622 | 15 | 15,443 | 0.69 | 5 | 0.78 | binh_thuong | – | Không | Mom Learned These 40 Forgotten Dinners From the Back of a Can |
+| 2026-09-06 | 71 | D9LncAarFA8 | 12,103 | 15 | 15,231 | 0.79 | 5 | 0.37 | binh_thuong | – | Không | 40 FORGOTTEN Roasting-Pan Dinners Every 1960s Mom Made When the Whole Family Came Over |
+| 2026-09-09 | 68 | KdSODGNLqnk | 13,729 | 15 | 12,961 | 1.06 | 5 | 0.34 | binh_thuong | – | Không | 40 FORGOTTEN Cookie-Sheet Dinners Every 1960s Mom Made Before “Sheet-Pan Meals” Had a Name |
+| 2026-09-10 | 67 | htVbjPZUVFU | 12,448 | 15 | 13,729 | 0.91 | 5 | 0.32 | binh_thuong | – | Không | 40 FORGOTTEN Hamburger Casseroles Every 1960s Mom Made Before Hamburger Helper Existed |
+| 2026-09-11 | 66 | HBZSLEwixsI | 1,999 | 15 | 12,961 | 0.15 | 5 | 0.44 | binh_thuong | – | Không | 40 Forgotten Toaster-Oven Dinners Mom Made in That Little Countertop Box |
+| 2026-09-12 | 65 | Zgqi11U6dcY | 4,449 | 15 | 12,961 | 0.34 | 5 | 0.67 | binh_thuong | – | Không | 40 Forgotten Dinners Mom Made for Surprise Guests Without a Trip to the Store |
+| 2026-09-13 | 64 | guNGN-cUmD4 | 5,699 | 15 | 12,448 | 0.46 | 5 | 0.70 | binh_thuong | – | Không | When Sunday Meant Dinner at Mom’s — 40 Forgotten Family Meals |
+| 2026-09-14 | 63 | nV2-XzFOhn8 | 4,453 | 15 | 12,103 | 0.37 | 5 | 1.76 | binh_thuong | – | Không | 40 Forgotten Low-Cleanup Dinners Mom Made Before Takeout Became the Easy Answer |
+| 2026-09-15 | 62 | CT_iFi2P4xc | 8,652 | 15 | 12,103 | 0.71 | 5 | 2.71 | binh_thuong | – | Không | 40 Forgotten Oven Dinners Mom Covered and Left Alone Until Suppertime |
+| 2026-09-17 | 60 | 9zKO1NMiKK4 | 94,827 | 15 | 10,622 | 8.93 | 5 | 2.01 | manh | – | Không | 40 FORGOTTEN Bisquick Dinners Every 1970s Mom Made From That One Yellow Box |
+| 2026-09-18 | 59 | 15kbw20-va4 | 32,776 | 15 | 10,622 | 3.09 | 5 | 2.01 | dang_ghi | – | Không | FORGOTTEN Dinners Mom Made Before Takeout Took Over \| 2-Hour Collection |
+| 2026-09-19 | 58 | 7myxI6iPmXs | 6,695 | 15 | 12,103 | 0.55 | 5 | 2.48 | binh_thuong | – | Không | 40 Forgotten CorningWare Dinners Mom Served in That White Dish With Blue Flowers |
+| 2026-09-20 | 57 | 8pqBS_ASOg0 | 21,354 | 15 | 10,622 | 2.01 | 5 | 9.23 | hoi_cao | – | Không | 40 FORGOTTEN Dutch-Oven Dinners Every 1960s Mom Made When One Pot Had to Feed Everyone |
+| 2026-09-23 | 54 | rtxEF_ZizJA | 351,035 | 15 | 12,103 | 29.00 | 5 | 3.37 | can_kiem_ky | – | Không | 40 FORGOTTEN Jiffy Mix Dinners Every 1970s Mom Made From That Little Blue Box |
+| 2026-09-24 | 53 | G2X_EM_HPMs | 6,116 | 15 | 12,103 | 0.51 | 5 | 3.37 | binh_thuong | – | Không | 40 Forgotten Stuffed Dinners Mom Made When a Little Meat Had to Feed Everyone |
+| 2026-09-25 | 52 | Zm4aJoGwECc | 29,958 | 15 | 10,622 | 2.82 | 5 | 6.55 | hoi_cao | – | Không | 40 Forgotten “Breakfast for Supper” Meals Every 1960s Mom Made When Money Was Tight |
+| 2026-09-26 | 51 | WogSRCFwWi8 | 98,005 | 15 | 12,103 | 8.10 | 5 | 3.37 | manh | – | Không | 40 Forgotten “Cook Once, Eat Twice” Dinners Every 1960s Mom Knew by Heart |
+| 2026-09-27 | 50 | IEY18cU3afo | 197,757 | 15 | 12,448 | 15.89 | 5 | 3.28 | can_kiem_ky | – | Không | 40 FORGOTTEN Dinners Mom Made With a Packet of Lipton Onion Soup Mix |
+| 2026-09-30 | 47 | 5XUSxAmO1CE | 40,823 | 15 | 12,448 | 3.28 | 5 | 2.88 | dang_ghi | – | Không | 40 FORGOTTEN Ways Mom Turned Frozen Bread Dough Into a Full Family Dinner |
+| 2026-10-01 | 46 | 637oC6fMwc8 | 30,733 | 15 | 21,354 | 1.44 | 5 | 1.68 | binh_thuong | – | Không | 40 FORGOTTEN Bake-Sale Treats Mom Made With a Box of Cake Mix |
+| 2026-10-02 | 45 | Z9-zK0p607Q | 69,573 | 15 | 29,958 | 2.32 | 5 | 0.24 | hoi_cao | – | Không | 30 FORGOTTEN Stove Top Stuffing Dinners Mom Made Long Before Thanksgiving |
+| 2026-10-03 | 44 | lVx4A-QMSOE | 35,828 | 15 | 30,733 | 1.17 | 5 | 0.24 | binh_thuong | – | Không | 30 FORGOTTEN Rice-A-Roni Suppers Mom Made When One Box Had to Feed the Whole Family |
+| 2026-10-04 | 43 | -zkWfQokgDQ | 41,842 | 15 | 32,776 | 1.28 | 5 | 0.21 | binh_thuong | – | Không | 40 FORGOTTEN Dinners Mom Made With a Tube of Pillsbury Biscuits |
+| 2026-10-07 | 40 | GB4nGd1mOGs | 7,247 | 15 | 35,828 | 0.20 | 5 | 0.19 | binh_thuong | – | Không | One Box of Stove Top, a Whole Family Fed — 40 Forgotten Dinners Mom Made |
+| 2026-10-08 | 39 | TFAZcRg62CM | 5,803 | 15 | 35,828 | 0.16 | 5 | 0.24 | binh_thuong | – | Không | 40 FORGOTTEN Velveeta Suppers Mom Served When Plain Macaroni Wasn’t Enough |
+| 2026-10-09 | 38 | Yk-gPJrZ7fc | 6,778 | 15 | 32,776 | 0.21 | 5 | 0.26 | binh_thuong | – | Không | 40 FORGOTTEN Dinners Mom Made With a Can of Campbell’s Cream of Mushroom Soup |
+| 2026-10-10 | 37 | LKKjxIxGEa4 | 17,237 | 15 | 30,733 | 0.56 | 5 | 0.12 | binh_thuong | – | Không | 40 FORGOTTEN Dinners Mom Made With a Sleeve of Ritz Crackers |
+| 2026-10-11 | 36 | rgvFz0tDfXU | 3,708 | 15 | 30,733 | 0.12 | 5 | 0.13 | binh_thuong | – | Không | 40 FORGOTTEN Kraft Mac & Cheese Dinners Mom Made in the 1970s |
+| 2026-10-13 | 34 | Nths7LhHvD8 | 9,629 | 15 | 30,733 | 0.31 | 5 | 0.13 | binh_thuong | – | Không | 40 FORGOTTEN Meat-and-Potatoes Dinners Every 1960s American Family Grew Up Eating |
+| 2026-10-14 | 33 | uGrcMQx_hbY | 8,654 | 15 | 29,958 | 0.29 | 5 | 0.13 | binh_thuong | – | Không | 40 FORGOTTEN 5-Ingredient Dinners Every 1970s Mom Made When She Had a Family to Feed |
+| 2026-10-15 | 32 | iurki42_VKY | 2,258 | 15 | 29,958 | 0.08 | 5 | 0.13 | binh_thuong | – | Không | 40 FORGOTTEN Hamburger Helper Dinners Mom Made When One Box Had to Feed Everyone |
+| 2026-10-16 | 31 | eENfbJh-T60 | 1,473 | 15 | 17,237 | 0.09 | 5 | 0.23 | binh_thuong | – | Không | 40 FORGOTTEN Halloween Party Treats Every 1970s Mom Made for the School Party |
+| 2026-10-17 | 30 | 4MrbN3HgpYE | 3,893 | 15 | 9,629 | 0.40 | 5 | 0.53 | binh_thuong | – | Không | 25 FORGOTTEN Skillet Breakfasts Every 1960s Mom Made Before the School Bus Arrived |
+| 2026-10-18 | 29 | dVNzBzFyVVc | 5,150 | 15 | 8,654 | 0.60 | 5 | 0.29 | chua_chin | – | Không | 40 FORGOTTEN One-Skillet Dinners Every 1960s Mom Made When One Pound of Meat Had to Feed Everyone |
+| 2026-10-19 | 28 | e91xnLUUB8M | 6,926 | 15 | 7,247 | 0.96 | 5 | 0.34 | chua_chin | – | Không | 40 FORGOTTEN Pillsbury Crescent Roll Dinners Every 1970s Mom Made From That Little Blue Tube |
+| 2026-10-21 | 26 | g956aArLDDk | 2,335 | 15 | 6,926 | 0.34 | 5 | 0.93 | chua_chin | – | Không | 25 FORGOTTEN Dinners Mom Made From Sunday's Leftover Roast — Nothing Went to Waste |
+| 2026-10-22 | 25 | pkeFCerMyp0 | 2,488 | 15 | 6,778 | 0.37 | 5 | 1.08 | chua_chin | – | Không | 40 FORGOTTEN Dinners Mom Made With a Box of Minute Rice |
+| 2026-10-23 | 24 | 4P_lOMcmxCA | 6,413 | 15 | 5,803 | 1.11 | 5 | 1.26 | chua_chin | – | Không | 40 FORGOTTEN Dinners Mom Made With a Bag of Tater Tots |
+| 2026-10-24 | 23 | V1OrVgRtQ6w | 1,351 | 15 | 5,803 | 0.23 | 5 | 3.23 | chua_chin | – | Không | 40 FORGOTTEN Ways Mom Turned Sunday’s Roast Into Monday’s Dinner |
+| 2026-10-25 | 22 | 2Ar9_pugfVM | 24,582 | 15 | 5,150 | 4.77 | 5 | 2.43 | chua_chin | – | Không | 40 FORGOTTEN Dinners Mom Made With a Can of Carnation Evaporated Milk |
+| 2026-10-27 | 20 | PQ8pPlcJVvs | 77,684 | 15 | 5,150 | 15.08 | 5 | 2.43 | chua_chin | – | Không | 40 FORGOTTEN Diner Breakfasts From the 1950s That Kept America Full Until Lunch |
+| 2026-10-28 | 19 | nPSWw1P3gFg | 7,307 | 15 | 5,150 | 1.42 | 5 | 2.43 | chua_chin | – | Không | 40 FORGOTTEN Dinners From Mom’s Big Red Betty Crocker Cookbook |
+| 2026-10-29 | 18 | q149NZgluHc | 5,514 | 15 | 5,150 | 1.07 | 5 | 2.43 | chua_chin | – | Không | 40 FORGOTTEN Oven-Bag Dinners Every 1970s Mom Made When She Wanted No Cleanup |
+| 2026-10-30 | 17 | bm4hhC7xWnA | 18,742 | 15 | 5,514 | 3.40 | 5 | 2.27 | chua_chin | – | Không | 25 FORGOTTEN Hot Sandwiches American Diners Served Before Fast Food Took Over |
+| 2026-10-31 | 16 | ZdC8mllY42Q | 12,508 | 15 | 5,514 | 2.27 | 5 | 1.15 | chua_chin | – | Không | 100 FORGOTTEN Dinners Mom Made From a Box, a Can, or a Packet (3 HOURS) |
+| 2026-11-01 | 15 | FtigAC4jHIg | 104,108 | 15 | 5,514 | 18.88 | 5 | 1.02 | chua_chin | – | Không | 25 Poor Man’s Muffin-Tin Meals for Seniors Living Alone |
+| 2026-11-03 | 13 | l9CY-VAuYEI | 4,917 | 15 | 6,413 | 0.77 | 5 | 0.99 | chua_chin | – | Không | 25 FORGOTTEN Creamy Dinners Mom Served Over Toast, Biscuits & Potatoes |
+| 2026-11-05 | 11 | aIM5HBL25UE | 6,366 | 15 | 6,413 | 0.99 | 5 | 0.87 | chua_chin | – | Không | 25 FORGOTTEN Bisquick Breakfasts Mom Made From That One Yellow Box |
+| 2026-11-07 | 9 | njnxB41rZMM | 14,297 | 15 | 6,413 | 2.23 | 4 | – | chua_chin | – | Không | 100 FORGOTTEN Diner Meals Americans Loved Before Fast Food Took Over (3 HOURS) |
+| 2026-11-09 | 7 | 4wvhAYkw1Vs | 5,600 | 15 | 6,926 | 0.81 | 3 | – | chua_chin | – | Không | 25 FORGOTTEN Diner Pies Americans Always Saved Room For |
+| 2026-11-11 | 5 | HR8hiSOzDlc | 4,908 | 15 | 6,413 | 0.77 | 2 | – | chua_chin | – | Không | 100 FORGOTTEN Desserts Mom Made From a Box, a Can, or a Packet (3 HOURS) |
+| 2026-11-13 | 3 | g7NP0SnCVi4 | 6,829 | 15 | 6,413 | 1.06 | 1 | – | chua_chin | – | Không | 25 Poor Man’s Foil-Packet Dinners for Seniors Living Alone |
+| 2026-11-15 | 1 | Qhkanu8xLPw | 129 | 15 | 6,829 | 0.02 | 0 | – | chua_chin | – | Không | 25 FORGOTTEN Blue-Plate Specials American Diners Served Before Fast Food Took Over |

@@ -1,0 +1,81 @@
+# Đo kênh: UCMs_Co6R508manBQeSmMPLA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 45 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 45 |
+| n_trong_danh_sach | 45 |
+| n_dai | 39 |
+| n_short | 6 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 2,610 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-01-16 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,644 |
+| cao_nhat | 10,986 |
+| thap_nhat | 77 |
+| phan_tan | 6.68 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.63 |
+| ty_le_like_trung_vi | 0.06 |
+| da_trung_vi | 0.14 |
+| ngay_video_dau | 2026-01-16 |
+| tuoi_tu_video_dau | 304 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 8.59 |
+| sub_moi_video | 58.00 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.05 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-01-16 | 304 | 44ewB53c-xw | 1,807 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 15 Forgotten Meals From The 1970s That Are Too Good to Forget! - Forgotten Foods |
+| 2026-01-30 | 290 | 69kdtm9pFiI | 1,446 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Forgotten Appetizers From The 1970s That Nobody Makes Anymore - Forgotten Foods |
+| 2026-02-03 | 286 | 77lB0BhAg9c | 3,314 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Forgotten Easy Meals From 1970s Housewives Made Without a Recipe! - Forgotten Foods |
+| 2026-02-05 | 284 | kfpUjpfFA4c | 1,241 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Forgotten Ground Beef Recipes From 1970s Nobody Makes Anymore - Forgotten Foods |
+| 2026-02-06 | 283 | lbu4ezSt7mI | 2,164 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Forgotten Ground Beef Recipes People Really Ate in the Early 1970s! |
+| 2026-02-08 | 281 | 17xhtE_ezvw | 2,665 | 5 | 1,807 | 1.47 | 5 | 2.10 | binh_thuong | – | Không | 20 CHEAP Soul Food Dishes for Seniors Living Alone! - Forgotten Foods |
+| 2026-02-09 | 280 | Jq5Al6LfHfQ | 65,231 | 6 | 1,986 | 32.85 | 5 | 1.91 | can_kiem_ky | – | Không | 20 Cheap Vintage 10 Minute Dinners From 70s for Seniors Living Alone! - Forgotten Foods |
+| 2026-02-11 | 278 | zZP53t8LioM | 2,201 | 7 | 2,164 | 1.02 | 5 | 1.76 | binh_thuong | – | Không | 25 Forgotten Hillbilly Suppers From 1970s That Deserve to Be Remembered – Forgotten Foods |
+| 2026-02-12 | 277 | 0C7WTLx6oPY | 3,798 | 8 | 2,182 | 1.74 | 5 | 1.53 | binh_thuong | – | Không | 25 Forgotten Ground Beef Recipes From The 1970s That have Disappeared – Forgotten Foods |
+| 2026-02-20 | 269 | 4R2gfm1-kMU | 17,593 | 9 | 2,201 | 7.99 | 5 | 1.32 | manh | – | Không | 25 Forgotten Meals From The 1970s That Are Too Good to Forget! – Forgotten Foods |
+| 2026-02-22 | 267 | y3SdDokNNko | 1,498 | 10 | 2,433 | 0.62 | 5 | 1.20 | binh_thuong | – | Không | 25 Forgotten Sandwiches From 1970s That Have Faded Into History! - Forgotten Foods |
+| 2026-02-27 | 262 | T3pjx9abvuI | 16,963 | 11 | 2,201 | 7.71 | 5 | 1.32 | manh | – | Không | 25 Forgotten Cheap Vintage 10 Minute Dinners From the 70s for Seniors Living Alone! |
+| 2026-02-28 | 261 | wvsoO3kNM_Q | 2,910 | 12 | 2,433 | 1.20 | 5 | 1.37 | binh_thuong | – | Không | 25 Forgotten Hillbilly Candies From the 1970s No One Eats Anymore! |
+| 2026-03-03 | 258 | JiSt7z18Egc | 3,332 | 13 | 2,665 | 1.25 | 5 | 0.69 | binh_thuong | – | Không | 25 Forgotten Budget Recipes That Poor Families Ate in the 1970s! |
+| 2026-03-08 | 253 | 71tr5G3eA0s | 1,245 | 14 | 2,788 | 0.45 | 5 | 1.44 | binh_thuong | – | Không | 30 Forgotten Easy Homemade Snacks From the 1970s No One Makes Anymore |
+| 2026-03-09 | 252 | SYTGIQaP0qo | 1,516 | 15 | 2,665 | 0.57 | 5 | 1.50 | binh_thuong | – | Không | 25 Forgotten Pub Foods That Disappeared After The 1970s! - Forgotten Meals |
+| 2026-03-10 | 251 | qAxQgS84z9A | 4,005 | 15 | 2,665 | 1.50 | 5 | 0.91 | binh_thuong | – | Không | 25 Forgotten Dinners From The 1950s No One Makes Anymore! - Forgotten Meals |
+| 2026-03-14 | 247 | rr8b4cW2vXA | 86,897 | 15 | 2,910 | 29.86 | 5 | 0.83 | can_kiem_ky | – | Không | 30 Easy 10-Minute Dinners from the 1950s for Seniors Living Alone – Forgotten Meals |
+| 2026-03-16 | 245 | 8yDBDkHAftc | 1,837 | 15 | 2,910 | 0.63 | 5 | 0.83 | binh_thuong | – | Không | 25 Easy Homemade Dinner Recipes That Disappeared After the 1950s!  - Forgotten Meals |
+| 2026-03-17 | 244 | mVmeDZJma6k | 4,787 | 15 | 2,910 | 1.65 | 5 | 0.68 | binh_thuong | – | Không | 20 Easy 10-Minute Hillbilly Suppers from the 1950s That Stretch Every Dollar  - Forgotten Meals |
+| 2026-03-19 | 242 | 8qrBSBpKIHA | 2,418 | 15 | 3,332 | 0.73 | 5 | 0.59 | binh_thuong | – | Không | 25 Easy Poor Man Sandwiches from the 1950s You Won’t Believe People Ate – Forgotten Meals |
+| 2026-03-20 | 241 | so2kAJDUXeQ | 1,966 | 15 | 3,332 | 0.59 | 5 | 0.63 | binh_thuong | – | Không | 25 Easy Poor Man Snacks From the 1950s No One Makes Anymore – Forgotten Meals |
+| 2026-03-21 | 240 | t3kslgPosrI | 5,102 | 15 | 2,910 | 1.75 | 5 | 0.65 | binh_thuong | – | Không | 20 Easy 15-Minute Dinners from the 1950s for Seniors Living Alone – Forgotten Meals |
+| 2026-03-22 | 239 | _0vKdbaYIT4 | 1,891 | 15 | 3,332 | 0.57 | 5 | 0.63 | binh_thuong | – | Không | 30 Easy Budget Recipes From The 1950s That Have Disappeared! – Forgotten Meals |
+| 2026-03-25 | 236 | yZ-5unEV494 | 1,273 | 15 | 2,910 | 0.44 | 5 | 0.72 | binh_thuong | – | Không | 30 Easy Poor Man Dinners from the 1950s You Won’t Believe People Ate –Forgotten Meals |
+| 2026-03-26 | 235 | 3Z2FBDfzO-o | 9,953 | 15 | 2,418 | 4.12 | 5 | 0.85 | dang_ghi | – | Không | 25 Easy Dinner Recipes from the 1950s for Seniors Living Alone \| Forgotten Meals |
+| 2026-03-27 | 234 | TYOGXo39o3o | 2,093 | 15 | 2,910 | 0.72 | 5 | 0.57 | binh_thuong | – | Không | 25 Forgotten Cheap Dinner Recipes From The 1950s For Seniors Living Alone! |
+| 2026-04-01 | 229 | azCVT7h4shw | 1,647 | 15 | 2,418 | 0.68 | 5 | 0.68 | binh_thuong | – | Không | 25 Easy Homestead Dinners From The 1950s That Have Disappeared! \| Forgotten Meals |
+| 2026-04-05 | 225 | fU3z1iHG7W8 | 10,986 | 15 | 2,093 | 5.25 | 5 | 0.59 | manh | – | Không | 25 Forgotten Cheap Dinner Recipes From The 1950s We Need to Bring Back \| Forgotten Meals |
+| 2026-04-06 | 224 | GBOvfdgl52Q | 1,229 | 15 | 2,093 | 0.59 | 5 | 0.56 | binh_thuong | – | Không | 25 Forgotten Cheap 'Dump & Bake' Meals for Seniors Living Alone! |
+| 2026-04-07 | 223 | p9T2SQgR1Vo | 2,051 | 15 | 2,093 | 0.98 | 5 | 0.18 | binh_thuong | – | Không | 30 Forgotten 10-Minute Breakfasts  from the 1950s That Have Disappeared! |
+| 2026-04-10 | 220 | 7-LLnmP0FlA | 1,641 | 15 | 2,093 | 0.78 | 5 | 0.12 | binh_thuong | – | Không | 30 Forgotten Recipes Soups From the 1950s You Can Make in Just 10 Minutes |
+| 2026-04-11 | 219 | pjrd7hPVzNo | 1,173 | 15 | 2,051 | 0.57 | 5 | 0.11 | binh_thuong | – | Không | 25 Forgotten Sunday Dinners No One Makes Anymore! \| Forgotten Meals |
+| 2026-04-21 | 209 | BhB5cglJweQ | 246 | 15 | 1,966 | 0.13 | 5 | 0.09 | binh_thuong | – | Không | 25 Forgotten Easy Dinners You Won’t Believe Are This Fast! |
+| 2026-04-25 | 205 | 50oPWj7h7uc | 232 | 15 | 1,966 | 0.12 | 4 | – | binh_thuong | – | Không | 20 Cheap Meals from the Great Depression We Had to Eat to Survive! |
+| 2026-04-29 | 201 | mrHPXtDf7xY | 377 | 15 | 1,891 | 0.20 | 3 | – | binh_thuong | – | Không | 25 Easy Meals Poor Man’s Ate to Get Through the Great Depression! |
+| 2026-05-01 | 199 | PZ-hYhykJyM | 77 | 15 | 1,647 | 0.05 | 2 | – | binh_thuong | – | Không | 25 Bean and Bread Dishes that People Ate to Get Through the Great Depression! |
+| 2026-05-03 | 197 | 9GaUa2aoKNI | 104 | 15 | 1,641 | 0.06 | 1 | – | binh_thuong | – | Không | 25 Weird Foods People Ate to Get Through the Great Depression |
+| 2026-05-07 | 193 | rh6nEg5--t8 | 185 | 15 | 1,273 | 0.15 | 0 | – | binh_thuong | – | Không | 25 Forgotten Budget Meals Used to Get Through the Great Depression! |

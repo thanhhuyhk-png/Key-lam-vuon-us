@@ -1,0 +1,30 @@
+{
+ "allowed": [
+  0.5,
+  1,
+  1.5,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "notes": {
+  "0.5": "C15 UNR Extension FS-98-92: 'about ½ inch long' — CHỈ cho leaf cuttings (African violet context). KHÔNG dùng cho stem cuttings. Nếu dùng trong script phải khai rõ ngữ cảnh lá.",
+  "1": "C10 Iowa State Ext leaf-petiole page: 'Transplant cuttings when roots are about 1 inch long.' — áp cho cả stem lẫn leaf cuttings trong nước. C18 Walter Reeves (impatiens): 'roots about an inch long'. C07 UMD Ext: 'one to two weeks' (after roots appear, let grow before transplanting) — số 1 cũng xuất hiện trong cụm 'one to two weeks'.",
+  "1.5": "C13 Iowa State Ext: 'Leave 1 to 1½ inches of the petiole (leaf stem) attached to the leaf blade.' — chỉ áp cho LEAF PETIOLE cuttings (African violet, peperomia). KHÔNG dùng cho stem cuttings.",
+  "2": "C06 UMD Ext: 'at least twice a week' (thay nước); C07 UMD Ext: 'one to two weeks' sau khi rễ xuất hiện; C09 Clemson HGIC: 'two to three weeks' trồng được; C14 RHS: 'two or three weeks' Hoya. Khi dùng '2 lần/tuần' trong script: cite C06. Khi dùng '2–3 tuần': cite C09 hoặc C14.",
+  "3": "C05 UMD Ext: '3- to 5-inch stem' (arrowhead vine/coleus trong nước); C09 Clemson: 'two to three weeks'; C18 Walter Reeves: 'three inches of water' (impatiens). CẨN THẬN: 3 inch nước (C18) là cho impatiens cụ thể, không phải universal rule.",
+  "4": "Số lượng cây Group B (cây cảnh tỉa): Arrowhead vine + Hoya + Peperomia + African violet = 4 cây — số cấu trúc video, không phải claim nguồn.",
+  "5": "C01 UVM Ext: 'about five inches long' (coleus cutting length); C05 UMD Ext: '3- to 5-inch' (arrowhead vine + các cây trong nước). CẨN THẬN: UF IFAS (C22) nói '2 inches' là mức tối thiểu — 5 inch là tiêu chuẩn an toàn hơn. Số lượng cây Group A cũng = 5.",
+  "6": "C18 Walter Reeves: '6 inch long cuttings' — chỉ áp cho IMPATIENS cụ thể. Không dùng '6 inch' như rule chung cho các cây khác.",
+  "9": "9 cây trong video (tiêu đề + promise decomposition) — số cấu trúc video. Dùng bình thường.",
+  "10": "C08 Clemson HGIC: 'Roots will develop within 10 days' — CHỈ áp cho ornamental sweet potato vine (Ipomoea batatas). Đây là cây ra rễ nhanh nhất nhóm. Không generalize con số này cho các cây khác.",
+  "7": "số thứ tự mục ('Number seven/eight'), không phải số liệu — orchestrator 08/11",
+  "8": "số thứ tự mục ('Number seven/eight'), không phải số liệu — orchestrator 08/11"
+ }
+}

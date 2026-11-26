@@ -1,0 +1,132 @@
+# Đo kênh: UCJZTjBlrnDHYmf0F-eYXA3Q.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 113 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 929 |
+| n_trong_danh_sach | 97 |
+| n_dai | 82 |
+| n_short | 15 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 2,510,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2024-08-18 |
+| n_ngoai_cua_so | 16 |
+| so_hoi_vien | 18 |
+| trung_vi_20_dai | 85,453 |
+| cao_nhat | 442,517 |
+| thap_nhat | 13,823 |
+| phan_tan | 5.18 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.03 |
+| ty_le_like_trung_vi | 0.05 |
+| da_trung_vi | 2.15 |
+| ngay_video_dau | 2011-08-16 |
+| tuoi_tu_video_dau | 5,571 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 451 |
+| sub_moi_video | 2,702 |
+| video_30_ngay | 12 |
+| ty_trong_view_short | 0.06 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** HOI_VIEN, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2011-08-16 | 5,571 | iqn2zutc1O4 | 14,950 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | A Goanna in the Chicken Tractor.mp4 |
+| 2011-08-23 | 5,564 | MD4gKFwxlwU | 6,240 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Man Vs Tomato.mp4 |
+| 2011-08-31 | 5,556 | 2tVTWOyAak8 | 128,667 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Baby Quail Chicks storage box brooder.mp4 |
+| 2011-09-07 | 5,549 | 6BS1QlrRCN4 | 7,771 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to get your hens back in the pen |
+| 2011-10-11 | 5,515 | Qd0dEc_08r8 | 48,844 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Piri Piri Quail on Weber Q 220.mp4 |
+| 2011-12-25 | 5,440 | X-7dd8f6UpU | 5,262 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Wild Ducks Using Grandpas Chicken Feeder.mp4 |
+| 2011-12-28 | 5,437 | JEoR2Q_oxIY | 21,540 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Making Biltong in an Excalibur Food Dehydrator.mp4 |
+| 2012-01-02 | 5,432 | yUV6kBQX5fo | 167,058 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How to build a Quail or Chicken Run.mp4 |
+| 2024-08-18 | 820 | 7rgfWOV6rgA | 51,988 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The EASIEST Pumpkin to Grow for ALL Climates |
+| 2024-08-25 | 813 | bntsbTBDC6c | 54,071 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How BIG Trees Keep Your HENS SAFE! |
+| 2024-09-01 | 806 | f7Mt4DhlAJU | 58,728 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | EASY to Grow GOOD for You & the WHOLE Fruit is Edible! |
+| 2024-09-08 | 799 | b11M2Cmja1Q | 34,946 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Taste Testing Raw Ginger Does It Really Help Nausea? |
+| 2024-09-15 | 792 | VKIh5yT3bNs | 33,147 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Good & Bad of Home Grown Orange Juice |
+| 2024-09-22 | 785 | jc0-VUXqV2Y | 78,410 | 5 | 51,988 | 1.51 | 5 | 1.33 | binh_thuong | – | Không | What Happened to our Food Garden After 4 WEEKS on Vacation? |
+| 2024-10-07 | 770 | 2Krg0_NzVR0 | 101,232 | 6 | 53,030 | 1.91 | 5 | 1.30 | binh_thuong | – | Không | This Time I BURIED the Potatoes Instead of SURFACE Laying Them |
+| 2024-10-13 | 764 | vZVFeHYP0YY | 69,100 | 7 | 54,071 | 1.28 | 5 | 1.56 | binh_thuong | – | Không | 4 Acre UK Food Garden TOUR + TIPS: A Self-Sufficient INSPIRATION! |
+| 2024-10-20 | 757 | mbWz4IwNtUg | 26,083 | 8 | 56,400 | 0.46 | 5 | 1.59 | binh_thuong | – | Không | EVERYONE Should Do This ONCE in Their Lifetime: TOMATINA |
+| 2024-11-02 | 744 | w1phhzeBwgc | 117,260 | 9 | 54,071 | 2.17 | 5 | 1.56 | hoi_cao | – | Không | Don't Make This ONE Mistake When Growing Garlic |
+| 2024-11-07 | 739 | aqTZkoy_uQU | 42,685 | 10 | 56,400 | 0.76 | 5 | 1.58 | binh_thuong | – | Không | Digging Purple Yam & a FINAL Farewell to the PRONG Garden Tools |
+| 2024-11-11 | 735 | ivEo5DvwR7E | 89,565 | 11 | 54,071 | 1.66 | 5 | 1.65 | binh_thuong | – | Không | Growing Potatoes from OLD Supermarket Potatoes |
+| 2024-11-14 | 732 | WyHUZCGhgZY | 84,592 | 12 | 56,400 | 1.50 | 5 | 1.58 | binh_thuong | – | Không | Setting Up an ELECTROCULTURE Experiment to Grow VEGETABLES |
+| 2024-11-24 | 722 | vKZSVPV24QY | 104,035 | 13 | 58,728 | 1.77 | 5 | 1.52 | binh_thuong | – | Không | What Happens When You BURY OYSTER Shells in the Garden? |
+| 2024-12-03 | 713 | BzIzsHAJq-w | 76,609 | 14 | 63,914 | 1.20 | 5 | 2.07 | binh_thuong | – | Không | What Are POTATO ONIONS? And, Why You SHOULD Grow Them! |
+| 2024-12-11 | 705 | to9sFdRc0CY | 89,386 | 15 | 69,100 | 1.29 | 5 | 1.91 | binh_thuong | – | Không | How to TOP UP Your Raised Garden Bed WITHOUT Using Soil |
+| 2024-12-24 | 692 | -PhNNVsnP5o | 160,715 | 15 | 76,609 | 2.10 | 5 | 1.58 | hoi_cao | – | Không | What I'm Growing in The Vegetable Garden Over Christmas |
+| 2024-12-31 | 685 | LaOhVv3ZLVE | 59,717 | 15 | 78,410 | 0.76 | 5 | 1.68 | binh_thuong | – | Không | 5 REASONS Why a FOOD Garden Should Be Your NEW YEAR'S Resolution |
+| 2025-01-12 | 673 | LySmyli_s-4 | 132,100 | 15 | 78,410 | 1.68 | 5 | 2.13 | binh_thuong | – | Không | NO FUSS Onion Growing for BIG Harvests in Just ONE Raised Bed |
+| 2025-02-05 | 649 | b8pTtE_vmHc | 167,241 | 15 | 84,592 | 1.98 | 5 | 1.43 | binh_thuong | – | Không | Start a Veggie Garden CHEAP — 5 Easy Methods Ranked |
+| 2025-03-06 | 620 | isu828CpcYU | 121,252 | 15 | 89,386 | 1.36 | 5 | 1.89 | binh_thuong | – | Không | What I’m Doing to PREPARE for a CYCLONE \| Cyclone Alfred |
+| 2025-03-16 | 610 | 2a0D2RSPN8g | 59,969 | 15 | 89,565 | 0.67 | 5 | 1.89 | binh_thuong | – | Không | How to Direct Sow Tomato Seeds for Maximum Success |
+| 2025-03-27 | 599 | PKgVUHzXOko | 169,017 | 15 | 89,386 | 1.89 | 5 | 0.71 | binh_thuong | – | Không | Never Go HUNGRY 50 Raised Beds Veggie Garden Tour |
+| 2025-04-05 | 590 | GjJgHBPbbHo | 553,365 | 15 | 89,565 | 6.18 | 5 | 0.71 | manh | – | Không | Does ELECTRICITY from the SKY Grow Bigger Vegetables? |
+| 2025-04-12 | 583 | fmE3HoP7KrE | 63,211 | 15 | 104,035 | 0.61 | 5 | 0.61 | binh_thuong | – | Không | Growing Better Plants with ORANGE PEEL Kitchen Waste! |
+| 2025-04-20 | 575 | y6PQCbRyvUo | 196,498 | 15 | 89,565 | 2.19 | 5 | 0.71 | hoi_cao | – | Không | Easiest Way to Make Compost — No Turning Needed! |
+| 2025-04-27 | 568 | 6NkvtWTHE00 | 51,880 | 15 | 104,035 | 0.50 | 5 | 0.75 | binh_thuong | – | Không | I Grew a FRUIT TREE from KITCHEN SCRAPS! |
+| 2025-05-03 | 562 | xkQDaXxSs1o | 48,551 | 15 | 104,035 | 0.47 | 5 | 1.81 | binh_thuong | – | Không | What Veggies to Plant ANY Month, ANYWHERE – Instantly! |
+| 2025-05-14 | 551 | Mh6mWsSMyjI | 188,669 | 15 | 104,035 | 1.81 | 5 | 0.75 | binh_thuong | – | Không | How I Grew 150+ Fruit Trees in CLAY Soil (Yes, It Works!) |
+| 2025-05-26 | 539 | ys4AA0_khdw | 63,630 | 15 | 121,252 | 0.52 | 5 | 0.65 | binh_thuong | – | Không | From PTSD to Peace: How Gardening Helped Me Heal |
+| 2025-05-29 | 536 | pqlYTdxLskg | 78,095 | 15 | 121,252 | 0.64 | 5 | 0.65 | binh_thuong | – | Không | Stop WASTING Your Home-Grown Veggies DO THIS Instead |
+| 2025-05-31 | 534 | KKEdVUVg5Z0 | 326,649 | 15 | 121,252 | 2.69 | 5 | 0.65 | hoi_cao | – | Không | 20 TEMU Garden Products TESTED Hidden Gems or Total Junk? |
+| 2025-06-07 | 527 | bIeghOmwmHc | 298,397 | 15 | 121,252 | 2.46 | 5 | 0.65 | hoi_cao | – | Không | This GENIOUS Trellis Trick Grows MORE Cucumbers with LESS Effort |
+| 2025-06-15 | 519 | 82ETw4kdP4I | 47,906 | 15 | 132,100 | 0.36 | 5 | 0.59 | binh_thuong | – | Không | DON'T Do This Popular Tomato Hack |
+| 2025-06-24 | 510 | IK0P_ECSb0U | 78,530 | 15 | 121,252 | 0.65 | 5 | 0.57 | binh_thuong | – | Không | A BIG Lizard Ate Our Chickens :( |
+| 2025-06-28 | 506 | N37obW9GEvo | 59,308 | 15 | 78,530 | 0.76 | 5 | 0.88 | binh_thuong | – | Không | Grow Potatoes From STEM Cuttings? YES – Here’s Proof! |
+| 2025-07-02 | 502 | 24TBA5pvcGs | 200,756 | 15 | 78,095 | 2.57 | 5 | 0.88 | hoi_cao | – | Không | 100 TOP Crops You Can Grow! |
+| 2025-07-06 | 498 | 3OUc6Sh9_eM | 102,589 | 15 | 78,530 | 1.31 | 5 | 0.75 | binh_thuong | – | Không | Planting RARE Sweet Potato, Pruning Super Dwarf Bananas & Homemade Fertiliser |
+| 2025-07-13 | 491 | hLcgyb4lu9M | 68,840 | 15 | 78,530 | 0.88 | 5 | 0.75 | binh_thuong | – | Không | This Chicken Tractor Hack Saves Me HOURS in the Garden |
+| 2025-07-22 | 482 | 6QOJwd0-2OU | 48,701 | 15 | 78,095 | 0.62 | 5 | 0.85 | binh_thuong | – | Không | I Turned This Beach Towel into Garden Soil - How Long Did it Take? |
+| 2025-07-26 | 478 | BBXwTVlwvQ8 | 35,032 | 15 | 78,095 | 0.45 | 5 | 0.85 | binh_thuong | – | Không | The History of Tomatoes & Why Eating Them was Considered Dangerous |
+| 2025-08-03 | 470 | zTrHohG-p3o | 170,538 | 15 | 68,840 | 2.48 | 5 | 0.96 | hoi_cao | – | Không | I Cut Down All My Bananas… Here’s Why! |
+| 2025-08-10 | 463 | cM3pigR77-A | 59,172 | 15 | 78,095 | 0.76 | 5 | 1.72 | binh_thuong | – | Không | A Nappy for the Chicken Tractor to Collect the Manure |
+| 2025-08-26 | 447 | ayv_oOqYfqI | 66,192 | 15 | 78,095 | 0.85 | 5 | 1.72 | binh_thuong | – | Không | I Quit My Job at 38 to Be a Stay-at-Home Dad… Best Decision Ever! |
+| 2025-09-13 | 429 | IW7dnRjmrsc | 139,704 | 15 | 68,840 | 2.03 | 5 | 0.82 | hoi_cao | – | Không | Don't Throw Away Potato Peels - Plant Them Instead! |
+| 2025-09-28 | 414 | DMNHCPanSOk | 43,546 | 15 | 78,095 | 0.56 | 5 | 1.72 | binh_thuong | – | Không | School Didn’t Work — Gardening Did |
+| 2025-10-06 | 406 | cmb0OsYI8WQ | 173,975 | 15 | 68,840 | 2.53 | 5 | 1.14 | hoi_cao | – | Không | I Cut 40 Fruit Trees to Head Height — Did I Go Too Far? |
+| 2025-10-17 | 395 | TP1IbL6doUY | 134,511 | 15 | 68,840 | 1.95 | 5 | 1.14 | binh_thuong | – | Không | If I Could Only Grow 5 Vegetables I’d Pick These |
+| 2025-10-30 | 382 | UsqLUkD6WwM | 39,240 | 15 | 68,840 | 0.57 | 5 | 1.14 | binh_thuong | – | Không | TEENS Turn a BARREN Paddock Into a FARM That Feeds Their Community! |
+| 2025-11-15 | 366 | 0eAkUXrnwrM | 56,220 | 15 | 68,840 | 0.82 | 5 | 1.14 | binh_thuong | – | Không | 5 BEST Herbs to Grow at Home |
+| 2025-11-25 | 356 | SGxSRVlZ-Mg | 831,057 | 15 | 66,192 | 12.56 | 5 | 1.19 | can_kiem_ky | – | Không | I Grew Potatoes in Supermarket Paper Bags — Here’s What Happened |
+| 2025-12-21 | 330 | H5pV1ESEI_c | 78,502 | 15 | 68,840 | 1.14 | 5 | 1.14 | binh_thuong | – | Không | Can the Hansa C21 Chip Our Whole Orchard? (4 Days of Real-World Testing) |
+| 2025-12-31 | 320 | 6PqINbWMJ80 | 78,454 | 15 | 68,840 | 1.14 | 5 | 0.94 | binh_thuong | – | Không | My BIG Self Sufficient Projects for 2026! |
+| 2026-01-13 | 307 | zcO7TLmC4do | 64,068 | 15 | 68,840 | 0.93 | 5 | 1.75 | binh_thuong | – | Không | Don't Make this Wine Barrel MISTAKE in Your Garden! |
+| 2026-01-19 | 301 | 7GeG-2aPjHU | 386,986 | 15 | 66,192 | 5.85 | 5 | 1.82 | manh | – | Không | Why Avocado Trees Die Even in GOOD Soil |
+| 2026-01-30 | 290 | au6MyFDWEaA | 64,369 | 15 | 78,454 | 0.82 | 5 | 1.53 | binh_thuong | – | Không | I Tested 13 TEMU Self-Sufficiency Products - Are They Any Good? |
+| 2026-02-10 | 279 | p9dFIYbZGvU | 120,345 | 15 | 78,454 | 1.53 | 5 | 0.82 | binh_thuong | – | Không | Growing Your Own Food is Not What You Think |
+| 2026-02-24 | 265 | QBPiXhn2XZo | 38,565 | 15 | 78,454 | 0.49 | 5 | 1.65 | binh_thuong | – | Không | Can These TWO Things SAVE My Avocado Tree? |
+| 2026-03-04 | 257 | KYrsZ844HrA | 154,627 | 15 | 78,454 | 1.97 | 5 | 1.65 | binh_thuong | – | Không | From $600 Power Bills to Self-Sufficient POWER - My MEGA Solar & Battery System! |
+| 2026-03-11 | 250 | 5JZFN9Qn5LI | 166,611 | 15 | 78,502 | 2.12 | 5 | 0.82 | hoi_cao | – | Không | Now Its Time to PANIC - 8 Ways to Better Prepare for a CRISIS |
+| 2026-03-20 | 241 | KuNpMeVGdaU | 64,720 | 15 | 78,502 | 0.82 | 5 | 0.77 | binh_thuong | – | Không | Potting Mix Trick: Save Money NOW! |
+| 2026-03-25 | 236 | kLlOhN1XESI | 16,675 | 15 | 78,502 | 0.21 | 5 | 0.77 | binh_thuong | – | Không | I’m Coming to the USA! Houston & Miami Meetup? |
+| 2026-03-27 | 234 | dywn0IpIpos | 129,628 | 15 | 78,454 | 1.65 | 5 | 0.74 | binh_thuong | – | Không | My Garden Has Never Been This BAD... |
+| 2026-04-26 | 204 | Kp8tIgkW4jM | 259,842 | 15 | 78,454 | 3.31 | 5 | 0.74 | dang_ghi | – | Không | The Future of Home Gardening? I Found It in Texas! |
+| 2026-05-06 | 194 | D_efLNhX_uE | 60,728 | 15 | 78,502 | 0.77 | 5 | 0.74 | binh_thuong | – | Không | Should I Replace My Wooden Garden Beds with Metal Instead? |
+| 2026-05-09 | 191 | OZeGcq-yInc | 57,937 | 15 | 78,502 | 0.74 | 5 | 1.07 | binh_thuong | – | Không | I Used a Mower to Harvest My Pumpkins |
+| 2026-05-20 | 180 | IxaILCnCIEQ | 43,427 | 15 | 78,454 | 0.55 | 5 | 1.23 | binh_thuong | – | Không | EASIEST Raised Garden Bed Planter I've EVER Built |
+| 2026-05-26 | 174 | eht0ISENHbc | 51,031 | 15 | 64,720 | 0.79 | 5 | 1.64 | binh_thuong | – | Không | Why Buying Seedlings Is Smarter Than You Think |
+| 2026-05-31 | 169 | TT2RkwF7cY4 | 96,210 | 15 | 64,369 | 1.49 | 5 | 1.65 | binh_thuong | – | Không | Food Prices Are About to Surge… Start Growing NOW |
+| 2026-06-11 | 158 | 2M9kYGqU9ZE | 84,336 | 15 | 64,720 | 1.30 | 5 | 1.64 | binh_thuong | – | Không | THIS Crop Took OVER My Garden - Here's What I'm Planting Next |
+| 2026-06-30 | 139 | rHPamfbWT2I | 105,976 | 15 | 64,720 | 1.64 | 5 | 2.69 | binh_thuong | – | Không | 5 Expensive Crops I’m Growing EASILY & for Free Right Now |
+| 2026-07-12 | 127 | P_wAKXXTSCo | 177,971 | 15 | 84,336 | 2.11 | 5 | 1.94 | hoi_cao | – | Không | I Filled This Raised Garden Bed With NO SOIL… 2 Years Later |
+| 2026-07-23 | 116 | 7gOUx_3OREk | 177,710 | 15 | 84,336 | 2.11 | 5 | 0.86 | hoi_cao | – | Không | This Garden Was Saved By Woodchips (No Compost Needed) |
+| 2026-08-01 | 107 | zUc0_d-K8Es | 13,823 | 15 | 96,210 | 0.14 | 5 | 1.70 | binh_thuong | – | Không | I Put Everything I Know About Growing Food Into This App |
+| 2026-08-02 | 106 | vy-cr9y5ImU | 62,477 | 15 | 84,336 | 0.74 | 5 | 1.94 | binh_thuong | – | Không | Why Winter is the BEST Time to Grow Vegetables |
+| 2026-08-16 | 92 | aM3MpldxpWo | 173,854 | 15 | 64,720 | 2.69 | 5 | 1.34 | hoi_cao | – | Không | How to Grow and Make Your Own Black & Green Pepper |
+| 2026-09-07 | 70 | IcSYi10Ddu8 | 163,418 | 15 | 84,336 | 1.94 | 5 | 0.99 | binh_thuong | – | Không | I Grew a Vegetable Garden in USED Takeaway Bags! |
+| 2026-09-15 | 62 | fHgPA7RhxCE | 72,580 | 15 | 96,210 | 0.75 | 4 | – | binh_thuong | – | Không | How to grow a ton of broccoli at Home |
+| 2026-09-30 | 47 | M2yDP0x5Lp8 | 442,517 | 15 | 84,336 | 5.25 | 3 | – | manh | – | Không | They Had Solar… But a Blackout Still Stopped Their Water |
+| 2026-10-15 | 32 | RLJZ-ISQQWM | 86,570 | 15 | 84,336 | 1.03 | 2 | – | binh_thuong | – | Không | STOP Tomatoes SPLITTING! Grow Them This Way |
+| 2026-10-31 | 16 | QsirWee4pnE | 71,645 | 15 | 86,570 | 0.83 | 1 | – | chua_chin | – | Không | Is It FINALLY Time to Buy a Robot Mower? \| GOKO M6 & X5 |
+| 2026-11-12 | 4 | qo8yGYRbQB4 | 83,525 | 15 | 86,570 | 0.96 | 0 | – | chua_chin | – | Không | Cheapest Way to Grow Food at Home in a Cost of Living Crisis |

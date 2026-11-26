@@ -1,0 +1,150 @@
+# Đo kênh: UCp6OPVlTAEKKWidNcaVDsRA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 415 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 43,500 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-04 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 8,081 |
+| cao_nhat | 866,176 |
+| thap_nhat | 1,482 |
+| phan_tan | 107 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.19 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 0.49 |
+| ngay_video_dau | 2025-09-08 |
+| tuoi_tu_video_dau | 434 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 100 |
+| sub_moi_video | 105 |
+| video_30_ngay | 27 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-09-08 | 434 | Bvp7PPBQ51w | 349 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Top 10 California Cities Where Home Prices Will Crash in 2025 \| Housing Market Warning |
+| 2025-09-09 | 433 | YsO3g1s5bU0 | 828 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 California Cities Turning into Ghost Towns \| 2025 Housing Crash |
+| 2025-09-10 | 432 | zZTRC8zc32o | 341 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 California Cities Where Home Prices Are Falling Like a Rock (2025 Crash) \| Housing Market Warning |
+| 2025-09-11 | 431 | hyZRZtspG5M | 250 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Top 10 Cities in Florida Where Home Price will Crash in 2025 \| Housing Market Warning |
+| 2025-09-12 | 430 | 8ZjGvQEk98c | 231 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Florida Cities Turning into Ghost Towns \| 2025 Housing Crash |
+| 2025-09-13 | 429 | 5WEuQsx7I4U | 73 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Florida Towns Where Home Prices Are So Low... You'll Think It's a Scam \| Housing Market Warning |
+| 2025-09-14 | 428 | RYOBNLF3zWI | 376 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Housing Market 2025: 10 California Cities Where Home Prices Will Drop \| Housing Market Warning |
+| 2025-09-15 | 427 | b4yDu2WYTbk | 607 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Top 10 Worst Cities to Buy a Home in California in 2025 \| Housing Market Warning |
+| 2026-08-04 | 104 | sG-LcQxVdus | 2,359 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Stockpile ONLY These 6 FOODS Before August 8, 2026 — Everything Else Is Useless! |
+| 2026-08-05 | 103 | PHXEldwCvFg | 1,168 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The 12 Canned Foods Everyone Will Be Looking for After August 15th |
+| 2026-08-06 | 102 | 5g9oLmAGWg8 | 925 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 18 Normal Household Items You Should Stockpile Immediately |
+| 2026-08-07 | 101 | clNDxdELM1c | 1,468 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | When the Grid Goes Down, These 12 Items Become Priceless |
+| 2026-08-08 | 100 | mvIbjQ9ycQs | 9,634 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | These 6 Survival Foods You MUST Get Before August 15th, 2026 |
+| 2026-08-10 | 98 | KzlO-SBinnQ | 1,167 | 5 | 1,468 | 0.79 | 5 | 1.44 | binh_thuong | – | Không | 12 HOUSEHOLD ESSENTIALS DISAPPEARING FAST \| Smart Preppers Are Hoarding These For 2026 |
+| 2026-08-11 | 97 | XYLZxOw4cTo | 2,914 | 6 | 1,318 | 2.21 | 5 | 1.60 | hoi_cao | – | Không | These 12 Foods You'll Wish You Stockpiled When Crisis Hits |
+| 2026-08-12 | 96 | fRUowvE33vo | 2,110 | 7 | 1,468 | 1.44 | 5 | 1.98 | binh_thuong | – | Không | 11 FOODS QUIETLY DISAPPEARING FROM SHELVES - STOCK UP |
+| 2026-08-13 | 95 | hWnZ5ckoddo | 649 | 8 | 1,789 | 0.36 | 5 | 1.63 | binh_thuong | – | Không | 30 Grocery Products to STOCKPILE before the END of August |
+| 2026-08-14 | 94 | rZ6uqoEUSSw | 424 | 9 | 1,468 | 0.29 | 5 | 2.58 | binh_thuong | – | Không | 6 Survival Foods Preppers Never Share Online |
+| 2026-08-15 | 93 | jIxB-0tIQfI | 4,313 | 10 | 1,318 | 3.27 | 5 | 2.21 | dang_ghi | – | Không | These 12 Survival Drinks That Keep You Alive When Water Is Limited |
+| 2026-08-16 | 92 | -6i5k7w9s7Q | 3,783 | 11 | 1,468 | 2.58 | 5 | 1.54 | hoi_cao | – | Không | 15 Canned Meats You Won’t Be Able to Find After September 1st, 2026 |
+| 2026-08-17 | 91 | gGiZLJRRyvg | 2,910 | 12 | 1,789 | 1.63 | 5 | 1.26 | binh_thuong | – | Không | You’ll Go Hungry Without These 12 No-Cook Emergency Foods |
+| 2026-08-18 | 90 | AXifaZeIvvc | 2,106 | 13 | 2,110 | 1.00 | 5 | 1.07 | binh_thuong | – | Không | These 12 Foods You MUST Secretly Stockpile in 2026 Before the Next Panic |
+| 2026-08-19 | 89 | Bum-wukbWHM | 5,218 | 14 | 2,108 | 2.48 | 5 | 1.07 | hoi_cao | – | Không | If The Grid Fails Tomorrow, Do You Have These 5 Items? |
+| 2026-08-20 | 88 | 3-5PlKzhK4E | 2,203 | 15 | 2,110 | 1.04 | 5 | 1.07 | binh_thuong | – | Không | 12 Grocery Items to Buy Before September 1st, 2026 |
+| 2026-08-21 | 87 | s1bKC96SXdI | 2,260 | 15 | 2,110 | 1.07 | 5 | 1.37 | binh_thuong | – | Không | These 12 Canned Foods Getting Harder to Find on Store Shelves |
+| 2026-08-22 | 86 | eVZp0QQJsWA | 11,557 | 15 | 2,203 | 5.25 | 5 | 0.72 | manh | – | Không | Soon, You Won't Even Be Able to Get These 12 Items, Except at Insane Prices... |
+| 2026-08-23 | 85 | XMJtm43aBnM | 1,018 | 15 | 2,260 | 0.45 | 5 | 1.28 | binh_thuong | – | Không | 30 Fake Foods You're Probably Buying Every Week in the U.S. |
+| 2026-08-24 | 84 | YVh0kazPY9g | 2,897 | 15 | 2,260 | 1.28 | 5 | 1.51 | binh_thuong | – | Không | These 12 Groceries You SHOULD Stock Up On Before August Ends |
+| 2026-08-25 | 83 | nK66RRdHb7o | 1,011 | 15 | 2,260 | 0.45 | 5 | 1.51 | binh_thuong | – | Không | These 12 Items That Will Soon Disappear From Your Shopping Cart |
+| 2026-08-26 | 82 | Ugp4vX2WVCA | 3,415 | 15 | 2,260 | 1.51 | 5 | 2.20 | binh_thuong | – | Không | These 12 Items to Get Before September 1st, 2026 |
+| 2026-08-27 | 81 | bLQ4Qh6yL5s | 1,595 | 15 | 2,260 | 0.71 | 5 | 2.43 | binh_thuong | – | Không | FEMA's 10 MUST-HAVE Items for Fall 2026 (Most People Miss #3) — Emergency Preparedness Checklist |
+| 2026-08-28 | 80 | TTs7tRfkHwY | 4,961 | 15 | 2,260 | 2.20 | 5 | 2.43 | hoi_cao | – | Không | 11 Canned Foods You Won't Be Able to Find at Walmart After September 1st |
+| 2026-08-29 | 79 | XIzJn4lC3CU | 5,494 | 15 | 2,897 | 1.90 | 5 | 1.39 | binh_thuong | – | Không | 10 Items the Red Cross Actually Tells You to Stockpile (Most Families Own Only 3) |
+| 2026-08-30 | 78 | BU73CsNq7oo | 976 | 15 | 2,910 | 0.34 | 5 | 2.68 | binh_thuong | – | Không | These 12 Morning Foods You Should Eat Every Day! |
+| 2026-08-31 | 77 | d-UyWRCNkt0 | 8,302 | 15 | 2,897 | 2.87 | 5 | 1.94 | hoi_cao | – | Không | These 12 Survival Foods You MUST Get Before September 9th, 2026 |
+| 2026-09-01 | 76 | T0_kLICx62Q | 46,508 | 15 | 2,897 | 16.05 | 5 | 1.94 | can_kiem_ky | – | Không | These 12 Dollar Tree Items to Buy Before Winter Arrives |
+| 2026-09-02 | 75 | 3mtiTSCfVpY | 4,038 | 15 | 2,897 | 1.39 | 5 | 1.94 | binh_thuong | – | Không | You Only Need These 6 Canned Foods to Survive Hard Times! |
+| 2026-09-03 | 74 | _Fxfu6yQX5I | 1,840 | 15 | 3,415 | 0.54 | 5 | 1.64 | binh_thuong | – | Không | If The Grid Fails Tomorrow And You Don't Have These 10 Items, You'll Die Within Days |
+| 2026-09-05 | 72 | 3tsPriionOI | 7,786 | 15 | 2,897 | 2.69 | 5 | 1.84 | hoi_cao | – | Không | These 10 Survival Foods You MUST Get Before September 15th, 2026 |
+| 2026-09-06 | 71 | 94_QDpkeLIk | 5,612 | 15 | 3,415 | 1.64 | 5 | 1.56 | binh_thuong | – | Không | These 12 No-Cook Foods You'll Need When the Power Goes Out |
+| 2026-09-07 | 70 | jqPHDxFN1yo | 7,311 | 15 | 4,038 | 1.81 | 5 | 0.76 | binh_thuong | – | Không | These 12 Groceries You SHOULD Stock Up On Before September Ends |
+| 2026-09-08 | 69 | cGQbDREMovQ | 2,703 | 15 | 4,038 | 0.67 | 5 | 1.32 | binh_thuong | – | Không | I’ve Already Stockpiled These 12 Foods This Month (One Is Only $1) |
+| 2026-09-09 | 68 | 4PWNCNMdv2Y | 589 | 15 | 4,038 | 0.15 | 5 | 1.37 | binh_thuong | – | Không | These 12 Foods To STOCKPILE That NEVER EXPIRE! |
+| 2026-09-10 | 67 | ImUT3AhjFN0 | 5,321 | 15 | 4,038 | 1.32 | 5 | 1.37 | binh_thuong | – | Không | These 12 FEMA Approved Items to Prepare for This Year’s Harshest Nights |
+| 2026-09-11 | 66 | jvLSKma2_jk | 7,606 | 15 | 4,961 | 1.53 | 5 | 1.12 | binh_thuong | – | Không | These 12 MUST-HAVE Prepping Items to Survive a Winter Power Outage! |
+| 2026-09-12 | 65 | UjoTB20rVko | 3,082 | 15 | 5,321 | 0.58 | 5 | 1.12 | binh_thuong | – | Không | These 12 Grocery Items to Buy Before Prices Skyrocket |
+| 2026-09-13 | 64 | uE1QCJvjoAE | 5,983 | 15 | 5,321 | 1.12 | 5 | 1.04 | binh_thuong | – | Không | These 6 Essential Foods Families Will Stockpile in 2026 (Buy Now or Regret It) |
+| 2026-09-14 | 63 | ciYH9jubqdo | 5,546 | 15 | 5,494 | 1.01 | 5 | 1.13 | binh_thuong | – | Không | These 12 Grocery Items to Buy Before October 1st (Prices Are Moving) |
+| 2026-09-15 | 62 | oXxCvMYCZNk | 2,792 | 15 | 5,546 | 0.50 | 5 | 1.12 | binh_thuong | – | Không | Get Your Freezer Ready for Winter — 12 Things to Buy RIGHT NOW |
+| 2026-09-16 | 61 | QpXWttF_nIA | 6,218 | 15 | 5,546 | 1.12 | 5 | 0.79 | binh_thuong | – | Không | 13 Walmart Items Preppers Are Quietly Buying Before September 25 (All Under $2!) |
+| 2026-09-17 | 60 | Jl9p0ihXBFY | 9,849 | 15 | 5,546 | 1.78 | 5 | 0.39 | binh_thuong | – | Không | These 12 Foods I Secretly Keep Stocking — While Everyone in Stores Panics, I Prep Smart! |
+| 2026-09-18 | 59 | 2zn04rAFalU | 2,180 | 15 | 5,546 | 0.39 | 5 | 0.26 | binh_thuong | – | Không | The Winter is Looking Very EXTREME! 12 FEMA Approved Items to Prepare for This Year’s Coldest Nights |
+| 2026-09-19 | 58 | eLa_4_BMK8w | 26,200 | 15 | 5,546 | 4.72 | 5 | 0.26 | dang_ghi | – | Không | These 12 Heating Sources That Don't Need Electricity (Stockpile NOW) |
+| 2026-09-20 | 57 | gPQm7Nb5m6E | 4,393 | 15 | 5,612 | 0.78 | 5 | 0.26 | binh_thuong | – | Không | These 12 Grocery Products to Stockpile Before End of September |
+| 2026-09-21 | 56 | 29RkyYJliKw | 1,069 | 15 | 5,546 | 0.19 | 5 | 0.57 | binh_thuong | – | Không | These 12 No-Cook Foods You MUST Have the Moment the Power Goes Out to Stay Alive |
+| 2026-09-22 | 55 | z5u_aKDwRdU | 1,407 | 15 | 5,321 | 0.26 | 5 | 0.84 | binh_thuong | – | Không | These 12 Walmart Items That Become Priceless When The Grid Goes Down! |
+| 2026-09-23 | 54 | fSCzT_oUXdg | 1,445 | 15 | 4,393 | 0.33 | 5 | 1.02 | binh_thuong | – | Không | These 12 Must Have Survival Tools To STOCKPILE Before Anyone Else Does Tools |
+| 2026-09-24 | 53 | LHmwRjvCLgU | 19,079 | 15 | 4,393 | 4.34 | 5 | 1.02 | dang_ghi | – | Không | 11 Foods Quietly DISAPPEARING From Stores — STOCK UP NOW |
+| 2026-09-25 | 52 | 8gBypQ_dxsU | 3,169 | 15 | 5,321 | 0.60 | 5 | 1.72 | binh_thuong | – | Không | Stockpile These 12 MUST-HAVE Foods to Survive 90 Days Without Power This Winter |
+| 2026-09-26 | 51 | vLRfJpd7uXI | 4,462 | 15 | 4,393 | 1.02 | 5 | 3.11 | binh_thuong | – | Không | You Only Need These 6 Canned Foods to Survive Hard Times! |
+| 2026-09-27 | 50 | -VLoN7DxOpQ | 61,950 | 15 | 4,393 | 14.10 | 5 | 2.75 | can_kiem_ky | – | Không | These 12 Cheap Items That Can Keep Any Room Warm Without Electricity |
+| 2026-09-28 | 49 | phdoCR5IPUQ | 2,810 | 15 | 4,462 | 0.63 | 5 | 3.06 | binh_thuong | – | Không | These 12 Canned Foods You Wont Be Able to Find After October 1st, 2026 |
+| 2026-09-29 | 48 | 3OzucKitS8w | 15,116 | 15 | 4,393 | 3.44 | 5 | 3.11 | dang_ghi | – | Không | These 12 Cheap Household Items That Still Cook Food After an EMP |
+| 2026-09-30 | 47 | XZxbS0xaG0c | 9,152 | 15 | 4,393 | 2.08 | 5 | 3.11 | hoi_cao | – | Không | 12 Heating Items You’ll Wish You Had When the Power Goes Out |
+| 2026-10-01 | 46 | bSF-XbFxblM | 13,674 | 15 | 4,462 | 3.06 | 5 | 2.70 | dang_ghi | – | Không | These 6 Canned Foods You’ll Wish You Stocked Up On Before Prices Explode |
+| 2026-10-02 | 45 | FYNHisG-Yy8 | 12,068 | 15 | 4,462 | 2.70 | 5 | 3.18 | hoi_cao | – | Không | These 12 Items That Will Face Shortages This Winter |
+| 2026-10-03 | 44 | NFmbPXmMwn8 | 866,176 | 15 | 4,462 | 194 | 5 | 1.08 | can_kiem_ky | – | Không | STOCKPILE THESE 6 CANNED MEATS (AND STOP WASTING MONEY ON THE REST) |
+| 2026-10-04 | 43 | DI8vLN8HSGQ | 16,478 | 15 | 9,152 | 1.80 | 5 | 0.53 | binh_thuong | – | Không | These 12 Canned Foods That Will Be PRICELESS This Winter |
+| 2026-10-05 | 42 | 4dgE4OW_edg | 4,835 | 15 | 9,152 | 0.53 | 5 | 1.55 | binh_thuong | – | Không | These 12 Dollar Tree Items That Keep You WARM When the Power Goes Out |
+| 2026-10-06 | 41 | V6BXtLS7e84 | 3,496 | 15 | 9,152 | 0.38 | 5 | 1.55 | binh_thuong | – | Không | These 12 Canned Beef Products Experienced Preppers Stockpile First (Most Cost Under $3) |
+| 2026-10-07 | 40 | J0sQ79crx3c | 14,203 | 15 | 9,152 | 1.55 | 5 | 1.07 | binh_thuong | – | Không | These 10 Grocery Items Will Be IMPOSSIBLE to Find Before October 10th, 2026 |
+| 2026-10-08 | 39 | 4JfOvouIWPk | 1,482 | 15 | 12,068 | 0.12 | 5 | 0.81 | binh_thuong | – | Không | You Only Need These 6 Canned Meats to Survive Hard Times! |
+| 2026-10-09 | 38 | aUjuqfE17Vk | 26,951 | 15 | 12,068 | 2.23 | 5 | 0.58 | hoi_cao | – | Không | If The Grid Fails Tomorrow, Do You Have These 5 Items? |
+| 2026-10-10 | 37 | lDbf40_9g5c | 22,343 | 15 | 12,068 | 1.85 | 5 | 0.48 | binh_thuong | – | Không | STOCKPILE THESE 6 CANNED FOODS (AND STOP WASTING MONEY ON THE REST) |
+| 2026-10-11 | 36 | gHZsnEhalds | 9,818 | 15 | 13,674 | 0.72 | 5 | 0.35 | binh_thuong | – | Không | 12 Canned Foods You Wont Be Able to Find After November 1st, 2026 |
+| 2026-10-12 | 35 | d2Oh2WdqWFQ | 7,010 | 15 | 13,674 | 0.51 | 5 | 0.35 | binh_thuong | – | Không | STOCKPILE THESE 12 Canned Meats Before November 1st — Time Is Running Out!\| |
+| 2026-10-13 | 34 | aTtKDMZ7O4g | 1,804 | 15 | 12,068 | 0.15 | 5 | 0.48 | binh_thuong | – | Không | These 12 Cheap Items to Stockpile, Hoard & Barter With in Weird Winter 2026 (Most Under $5!) |
+| 2026-10-14 | 33 | Ui7qkNmXyyk | 5,819 | 15 | 12,068 | 0.48 | 5 | 0.39 | binh_thuong | – | Không | These 12 Surprising Grocery Items That Will Disappear Before Start of November 2026 |
+| 2026-10-15 | 32 | MdV40YvH3v8 | 2,423 | 15 | 9,818 | 0.25 | 5 | 0.48 | binh_thuong | – | Không | These 12 MUST-HAVE Foods to Survive a Winter Power Outage! |
+| 2026-10-16 | 31 | Y-mkXOoprAI | 4,749 | 15 | 9,818 | 0.48 | 5 | 0.60 | binh_thuong | – | Không | 15 CANNED MEATS YOU WON'T BE ABLE TO FIND AFTER NOVEMBER 1ST, 2026 |
+| 2026-10-17 | 30 | Xe9wtPbQhVo | 6,760 | 15 | 7,010 | 0.96 | 5 | 0.57 | binh_thuong | – | Không | These 12 Cheap Walmart Items That Become WORTH GOLD When Your Furnace Stops Working |
+| 2026-10-18 | 29 | fnLYj0r44YA | 5,937 | 15 | 6,760 | 0.88 | 5 | 0.59 | chua_chin | – | Không | These 12 Items to Get Before November 1st, 2026 |
+| 2026-10-19 | 28 | W9F0_83hmGo | 3,998 | 15 | 5,937 | 0.67 | 5 | 0.38 | chua_chin | – | Không | STOCKPILE ONLY 6 FOODS TO SURVIVE — EVERYTHING ELSE IS USELESS! |
+| 2026-10-20 | 27 | s4GD_GUppA0 | 856 | 15 | 5,819 | 0.15 | 5 | 0.86 | chua_chin | – | Không | 9 FOODS QUIETLY DISAPPEARING FROM SHELVES (PREPPERS ARE BUYING THEM FAST) |
+| 2026-10-22 | 25 | XHPFfzYgNLM | 6,905 | 15 | 5,819 | 1.19 | 5 | 0.86 | chua_chin | – | Không | These 12 Foods You'll Regret Not Buying in October 2026! |
+| 2026-10-23 | 24 | r5_lNRDDM7M | 2,228 | 15 | 5,937 | 0.38 | 5 | 0.86 | chua_chin | – | Không | THESE 12 CANNED FOODS WILL BE GONE FROM SHELVES IN THE FIRST 6 HOURS OF A GRID COLLAPSE |
+| 2026-10-24 | 23 | I-TbXSk5FMU | 7,259 | 15 | 5,819 | 1.25 | 5 | 0.86 | chua_chin | – | Không | 9 Foods You'll Wish You Stockpiled When Crisis Hits |
+| 2026-10-25 | 22 | staFIe7CCU8 | 1,370 | 15 | 5,937 | 0.23 | 5 | 0.86 | chua_chin | – | Không | WHEN WATER STOPS THESE 12 ITEMS BECOME PRICELESS |
+| 2026-10-26 | 21 | R8DG_Skkx5A | 4,993 | 15 | 5,819 | 0.86 | 5 | 0.88 | chua_chin | – | Không | THESE 6 GROCERIES YOU MUST STOCK UP ON BEFORE OCTOBER ENDS |
+| 2026-10-27 | 20 | QI8r4rGtWwo | 7,578 | 15 | 4,993 | 1.52 | 5 | 1.03 | chua_chin | – | Không | 7 Essential Foods Families Will Stockpile in 2026 (Buy Now or Regret It) |
+| 2026-10-28 | 19 | 9fDDLY6i7pU | 5,118 | 15 | 4,993 | 1.03 | 5 | 0.46 | chua_chin | – | Không | These 12 Best Canned Foods To STOCKPILE Before SHTF |
+| 2026-10-29 | 18 | HrQQfP3O2WM | 2,272 | 15 | 4,993 | 0.46 | 5 | 0.53 | chua_chin | – | Không | These 6 Canned Meats Smart Families Are SILENTLY Buying in Bulk |
+| 2026-10-30 | 17 | N3htVElg2kI | 5,163 | 15 | 4,993 | 1.03 | 5 | 0.53 | chua_chin | – | Không | These 12 Items to Get Before November 11th, 2026 |
+| 2026-10-31 | 16 | H7hvs7pRKIE | 1,590 | 15 | 4,993 | 0.32 | 5 | 0.53 | chua_chin | – | Không | STOCKPILE THESE 6 CANNED MEATS (AND STOP WASTING MONEY ON THE REST) \| PART 2 |
+| 2026-11-01 | 15 | MEBwbXiCiq0 | 24,207 | 15 | 4,993 | 4.85 | 5 | 0.46 | chua_chin | – | Không | 11 MUST-HAVE PREPS to Survive 90 Days When The POWER IS OUT! |
+| 2026-11-02 | 14 | Le9nfrPkET0 | 2,305 | 15 | 5,118 | 0.45 | 5 | 0.52 | chua_chin | – | Không | If You Only Have $100, Buy These 12 Things FIRST |
+| 2026-11-03 | 13 | -_laFAysTys | 2,651 | 15 | 4,993 | 0.53 | 5 | 0.28 | chua_chin | – | Không | These 6 No-Cook Foods You’ll Need When the Power Goes Out This Winter |
+| 2026-11-04 | 12 | 4LZIj7pbDos | 2,818 | 15 | 3,998 | 0.70 | 5 | 0.28 | chua_chin | – | Không | 15 Products You MUST Buy Before November 15th (and 3 You SHOULDN’T) |
+| 2026-11-05 | 11 | 6Zi1gVk4kLk | 868 | 15 | 2,818 | 0.31 | 5 | 0.39 | chua_chin | – | Không | These 12 Cheap Old-Time Household Items That Will Still Work After a Winter Blackout |
+| 2026-11-06 | 10 | cHdfbXw5oXI | 1,401 | 15 | 2,818 | 0.50 | 5 | 0.32 | chua_chin | – | Không | Stockpile These 12 FOODS If WW3 STARTS (They NEVER EXPIRE) |
+| 2026-11-07 | 9 | vhmLiZPM8-k | 8,689 | 15 | 2,651 | 3.28 | 5 | 0.34 | chua_chin | – | Không | 6 Foods Why Smart Preppers Are Quietly Stockpiling This Month of November 2026 |
+| 2026-11-08 | 8 | BT4yqvFATDY | 1,112 | 15 | 2,818 | 0.39 | 5 | 0.32 | chua_chin | – | Không | 72-Hour Emergency Survival Kit — 12 Items You MUST Have RIGHT NOW! |
+| 2026-11-09 | 7 | n4toUGVwI_g | 908 | 15 | 2,651 | 0.34 | 5 | 0.28 | chua_chin | – | Không | 15 Canned Foods You Wont Be Able to Find After November 15th, 2026 |
+| 2026-11-10 | 6 | -TT7mKTM-uY | 736 | 15 | 2,651 | 0.28 | 4 | – | chua_chin | – | Không | 90 Days Without Power: Start Stocking These 12 Foods Now! |
+| 2026-11-11 | 5 | piz_3lF4XMc | 609 | 15 | 2,305 | 0.26 | 3 | – | chua_chin | – | Không | STOCKPILE ONLY THESE 5 NO-COOK FOODS FOR A BLACKOUT — SKIP THE COMPLICATED STUFF! |
+| 2026-11-12 | 4 | s23BIil_9Ao | 1,859 | 15 | 2,272 | 0.82 | 2 | – | chua_chin | – | Không | These 12 Must-Have Foods To STOCKPILE Before Winter! |
+| 2026-11-13 | 3 | ZVNhUiu3kUY | 5,590 | 15 | 1,859 | 3.01 | 1 | – | chua_chin | – | Không | These 12 Foods You'll Wish You Stockpiled When Winter Hits |
+| 2026-11-14 | 2 | zFEcxCIRkBk | 590 | 15 | 1,859 | 0.32 | 0 | – | chua_chin | – | Không | 10 US Canned Meat Brands to AVOID (ONLY 3 brands are Actually real Meat) |

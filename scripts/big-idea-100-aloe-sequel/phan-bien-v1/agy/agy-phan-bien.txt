@@ -1,0 +1,64 @@
+Phản biện vòng 1 cho [script.md](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-100-aloe-sequel/phan-bien-v1/agy/script.md) (đối chiếu [research-brief.md](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-100-aloe-sequel/phan-bien-v1/agy/research-brief.md) & [allowed-numbers.json](file:///D:/0002-Team%20A%20Nam/scripts/big-idea-100-aloe-sequel/phan-bien-v1/agy/allowed-numbers.json); mọi số đếm 1, 2, 3, 4, 5, 7 đều nằm trong `allowed-numbers.json`).
+
+### 1. Dữ kiện theo Claim Ledger & Trình tự làm
+- **[CHẶN] 1 · @0:15 & @0:56 · Trình tự làm sai:** Hook và Bước 1 bảo nhìn gốc / nghiêng chậu để kiểm rễ, nhưng rễ nằm dưới đất — tới Bước 2 (`@2:25–2:39`) mới bảo nhấc bầu và gạt đất; mẹo "làm tối nay" không kiểm được rễ nếu thiếu bước gạt đất.
+  Before: `"Look at the base of the plant and check two things on each pup. Is it a couple of inches tall? Does it have roots of its own?"` *(và `@0:56`: `"Tip the pot toward the light and look where each pup meets the soil."`)*
+  After: `"Brush back a little soil at the base, and you'll check two things on each pup. Is it a couple of inches tall, and does it have roots of its own? [C01, C24, C29, C17]"` *(và `@0:56`: `"Tip the pot toward the light, and brush back a pinch of soil so you're seeing where each pup meets the base. [C01, C24]"`)*
+- **[CHẶN] 1 · @4:16 · Mâu thuẫn nội tại + sai phạm vi C03/C24:** Bước 1 (`@1:34`) và Bước 2 (`@3:06`) đã bỏ lại mọi pup không rễ, sang Bước 3 lại ra luật cho `"A cut pup with no fresh roots"`. C03 nói về **mọi pup có vết cắt** (`wounded area`), không nói `"no fresh roots"`; `"came free with roots"` lén dùng quy tắc blog «không vết hở» đã loại ở Brief §C.
+  Before: `"Here's your rule of thumb. A cut pup with no fresh roots gets about a week. A pup that came free with roots can go straight in."`
+  After: `"Here's your rule of thumb. When there's a fresh knife cut, let it dry about a week. If a pup's already got healthy roots of its own, potting it right away works too. [C03, C24, C17]"`
+- **[CHẶN] 1 · @8:09 · Mâu thuẫn với Bước 3 & sai C24:** Khẳng định `"Across the extension guides, three things line up: ... a dry cut before planting"` trái ngược C24 (Illinois trồng ngay) và C16–C18 (Iowa không nhắc phơi).
+  Before: `"Across the extension guides, three things line up: roots on every pup, a dry cut before planting, and soil that drains."`
+  After: `(xoá — nối thẳng vào câu gọi lại mẹo hành động đã rút gọn ở mục 4)`
+- **[NÊN SỬA] 1 · @2:10 · Nói quá nguồn về mùa đông (CR4 / NEED DATA):** Brief §D4/§NEED DATA ghi chưa có nguồn .edu kiểm chứng tách pup cuối tháng 11 có chậm rễ không; `"That's about the only change"` bỏ mất giới hạn này.
+  Before: `"That's about the only change. So pups that pass both checks can come off now, even with snow outside."`
+  After: `"So if your aloe's indoors and a pup passes both checks, you can still take it off in winter—just keep in mind it's resting, so you'll water less. [C13, C16, C31]"`
+- **[NÊN SỬA] 1 · @3:45 · Tuyệt đối hóa ngoài phạm vi nguồn đã đọc (CR4/L19):** Kênh chỉ đọc một số trang extension, không đủ cơ sở nói `"the longest wait you'll hear"`.
+  Before: `"That's the longest wait you'll hear, and it's the one written for aloe pups."`
+  After: `"That's the longest wait in these extension tips, and it's the one written for aloe pups. [C03]"`
+- **[NÊN SỬA] 1 · @5:49 · Lệch phạm vi C14 (CR4 / NEED DATA):** C14 là quy tắc cho **aloe trưởng thành**; độ sâu riêng cho pup là `[NEED DATA]`, cần nói rõ là mượn quy tắc cây lớn.
+  Before: `"Now, how deep does the pup go? Set it so the leaves sit just above the soil line. That's the same rule for repotting a grown aloe, so it's easy to remember."`
+  After: `"Now, how deep does the pup go? There's no separate depth rule for pups, so go by the grown-aloe rule: set it so the leaves sit right above the soil line. [C14]"`
+- **[GỢI Ý] 1 · @7:02 · Dễ gây hiểu nhầm chữ `"Soak it"`:** Ngay sau khi dặn `"never leave it soaked"` (`@6:40`), nên đổi sang `"water it thoroughly"` cho khớp C13.
+
+### 2. An toàn
+- **[NÊN SỬA] 2 · @3:20 · Thiếu disclaimer YMYL (ASPCA/thú y) & quên pup phơi khô 1 tuần:** Vị trí cảnh báo ASPCA ở Bước 2 (`@3:11`) đúng chỗ, nhưng thiếu lời khuyên gọi bác sĩ thú y / xem trang ASPCA (Brief §YMYL) và chỉ nhắc `"new pots"`, bỏ quên pup cắt để trần ~1 tuần trên bàn ở Bước 3 (`@4:51`).
+  Before: `"So set the new pots where curious noses can't reach."`
+  After: `"So keep drying pups and new pots where curious noses can't reach, and check the ASPCA list or call your vet if a pet ever chews one. [C33, C34]"`
+- **[GỢI Ý] 2 · @7:06 · Nhắc phân bón (C18) chưa kèm nhắc đọc nhãn sản phẩm (Brief §YMYL):** Có thể thêm ngắn `"and follow the label when you do"` (không dùng nhựa/gel lên người nên không cần disclaimer C06; vùng lạnh đã khoanh vùng mang chậu vào nhà ở `@1:58` theo C31).
+
+### 3. Chính sách YouTube & nội dung "inauthentic"
+- Đã soi: title/thumbnail không nhãn tuổi (L9) và không từ meta (L21); không nhân chứng/người thân bịa hay nhận uy tín cá nhân (L11); không tự nhận đã trồng/thử (X5); không conspiracy, health-fear hay claim tuyệt đối (X1–X4) — không thấy lỗi.
+
+### 4. Giữ chân
+- **Bản đồ loop:** Loop A «khô bao lâu» gieo `@0:32` → mốc khai `@3:24` *(chưa trả gì)* → mảnh trả thật đầu `@3:38` (186 s) → đóng `@4:16` (224 s) · Loop B «chưa rễ» `@1:22 → @1:34` (12 s) · Loop C «nghe ngược» `@5:01 → @6:16` (75 s) · Loop D «chậu mẹ» `@7:47 → @7:55` (8 s). *(Đạt L6/L3/L24 `@0:18`, L4/L15 38–60 s sạch, L5 phút 4–6 có tension mỗi 50–77 s, L17 PROMISE_OK đủ, L22 hỏi bình luận `@2:45`, L26 rút gọn 44,3 %, không đoạn chết > 60 s.)*
+- **[CHẶN] 4 · @3:24 · Loop A vi phạm L27 (treo > 180 s vì mốc giữa không trả đáp án):** Câu `@3:24` chỉ lặp lại việc vết cắt cần khô và kết `"The only question left is how long"`, không trả mảnh đáp án nào nên khoảng treo thực tế tới `@3:38` là **186 giây**.
+  Before: `"Now, here's the first half of that drying answer. A pup that's been cut needs that wound to seal over before it sits in damp soil. The only question left is how long."`
+  After: `"Now, here's the first half of that drying answer. If a pup's already got healthy roots of its own, you can pot it right away—no waiting at all. It's a fresh knife wound that needs time to dry and scab over, and that's where the numbers split. [C24, C03, C17]"`
+- **[CHẶN] 4 · @7:14–7:33 · Đọc dồn chuỗi số (L18):** Dồn 5 cụm số+đơn vị trong ~50 từ (`a month`, `three to four weeks`, `a week`, lặp `three to four weeks`, `four to five weeks`), kéo lên 8 cụm trong 150 từ tới `@8:03`.
+  Before: `"Roots usually show up in about a month. Another extension guide puts it at three to four weeks. So add it up. About a week to dry, then three to four weeks for roots. That's roughly four to five weeks from the cut to a pup that stands on its own."`
+  After: `"New roots usually show up in three to four weeks. Add the drying week on top, and you're looking at roughly four to five weeks from the cut until your pup's standing on its own. [C03, C26, C19]"`
+- **[CHẶN] 4 · @8:09–8:58 · Phần kết sau payoff cuối dài 48 s / 132 từ (vi phạm L23 & L16):** Đẩy câu recap (`@8:09`), 3 câu gọi lại mẹo hành động (L23 chỉ cho 1 câu) và 43 từ tả cảnh/râu ria lên `Before the end` để lách `ENDING_FROM` (37 từ).
+  Before: `"So tonight, check two things on each pup. A couple of inches tall, and roots of its own. The ones that pass are ready, and the rest can wait for later. Got more pups than windowsill? That's the fun part. Pot a few up for friends. Come spring, you could have a whole row of them. And when the neighbors ask where all that aloe came from, you'll know exactly what to tell them."`
+  After: `"So tonight, brush back a pinch of soil and check your pups for a couple of inches of height and roots of their own, and you'll even have extras to pot for friends. [C01, C24, C15]"`
+- **[NÊN SỬA] 4 · @5:38 · Dính mẫu cite cấm L19 (`guides we read`):** `script_lint` L19 bắt trực tiếp cụm `"we read"`.
+  Before: `"None of the guides we read gives a set pot size for a pup."`
+  After: `"There's no set pot size out there for an aloe pup. [NEED DATA — Brief §D/§E]"`
+
+### 5. Chấm phần mở (0–60 s)
+- ① **2/5** — 0–10 s (`"Right now your aloe's one crowded pot... pots and a bag of mix"`) có đối lập tốt nhưng chưa có câu hỏi hay loop cụ thể (câu hỏi tới `@0:20`, loop tới `@0:32`).
+- ② **4/5** — Có `"A month from now"` (`@0:02`, C04) và `"check two things"` (`@0:18`), dù `"A month"` hơi sát so với ~4–5 tuần ở Bước 5.
+- ③ **5/5** — Trả lời đủ lời hứa title (miễn phí trừ chậu/mix ở `@0:08`, giao Bước 1 ở `@0:12–0:18`, 5 bước ở `@0:28`), 38–60 s sạch lộ trình/nguồn.
+- ④ **5/5** — Mọi chi tiết (`crowded pot`, `pots and a bag of mix`, `base of the plant`) dựng tốt bằng clip thật cận cảnh.
+- ⑤ **3/5** — Đúng mã C01/C04/C17/C21/C24/C29/C31 nhưng vướng lỗi trình tự kiểm rễ dưới đất ở `@0:15` và `@0:56` (đã có `Before → After` ở mục 1).
+- ⑥ **5/5** — Giọng educator ấm, dân dã, nói rút gọn tự nhiên (`aloe's`, `You'll`, `Here's`, `aren't`), không gắn tuổi.
+- ⑦ **4/5** — Khác rõ góc video trước của kênh («STOP planting aloe pups immediately») nhờ mở thẳng vào bài kiểm tra 2 bước + điểm bất đồng thời gian phơi.
+
+### 6. Cảnh báo cho người dựng
+- **`@0:15` & `@0:56`:** Phải dùng clip tay gạt đất lộ rễ hoặc đồ họa mặt cắt — không dùng cảnh chậu phủ kín đất khi lời đọc nói kiểm tra rễ.
+- **`@3:11–3:23` & `@4:51`:** Không chèn cảnh chó/mèo ngửi sát hay gặm aloe; đoạn phơi pup đặt trên kệ cao ngoài tầm thú cưng.
+- **`@3:50–4:08`:** Gắn nhãn chữ lớn (`ALOE PUP` / `LEAF CUTTING` / `STEM CUTTING`) khi tách 3 mốc ngày; tránh stock ảnh cây giống aloe (agave, haworthia).
+- **`@6:16–7:04` & Thẻ nguồn:** Cảnh tưới Bước 5 chỉ phun nhẹ/tưới ít (không dội ngập khi đọc `"never leave it soaked"`); chèn đủ thẻ nguồn trên màn hình theo ghi chú header và **chỉ dùng ảnh/clip thật** (không dùng hình AI).
+
+**Hook: 28/35** · **3 điểm mạnh nhất:** (1) Editorial Signature Bước 3 & Bước 5 tách bạch bất đồng giữa các trường đại học (Arizona/Illinois/UC/Iowa) rất sắc và trung thực; (2) Giọng kể dân dã đạt chuẩn L26 (44,3 % câu rút gọn), ấm áp, không vi phạm L9/L11/X1–X5; (3) Nhịp mở đầu giao Bước 1 ngay `@0:18` (L24), đặt cảnh báo ASPCA đúng lúc (`@3:11`) và hỏi bình luận đúng cửa sổ (`@2:45`, L22).
+**Kết luận: ĐẠT CÓ SỬA** (bắt buộc sửa 5 lỗi CHẶN và các lỗi NÊN SỬA trước GATE).

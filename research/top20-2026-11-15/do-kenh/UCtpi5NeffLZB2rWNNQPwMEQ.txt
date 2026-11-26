@@ -1,0 +1,150 @@
+# Đo kênh: UCtpi5NeffLZB2rWNNQPwMEQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 230 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 16,400 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-02-26 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 398 |
+| cao_nhat | 4,042 |
+| thap_nhat | 78 |
+| phan_tan | 10.14 |
+| so_video_tren_2x | 2 |
+| ty_le_tren_2x | 0.10 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 0.96 |
+| ngay_video_dau | 2024-06-13 |
+| tuoi_tu_video_dau | 886 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 18.51 |
+| sub_moi_video | 71.30 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2024-06-13 | 886 | 5esnywjMy50 | 3,374 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Forgotten Lunches from the 1970s We Wish Would Make a Comeback |
+| 2024-06-16 | 883 | 6106HrKvQ7U | 8,405 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Iconic Dinners That Have Vanished from Our Tables |
+| 2024-06-19 | 880 | BcjeWtzzPEM | 94,628 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Forgotten 1970s Desserts We Wish Would Return! |
+| 2024-06-26 | 873 | LIzvkoBpwcw | 28,090 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Famous Appetizers From The 1970s \| That Have FADED Into History |
+| 2024-06-29 | 870 | Zp9zV9kSu9M | 1,856 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Big Stores Out Of Business \| That Have FADED Into History |
+| 2024-07-03 | 866 | HSzaN-iKmRI | 32,128 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Forgotten Breakfasts \| That Have Faded Into History |
+| 2024-07-06 | 863 | duc0i4NC85k | 205,317 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Old Kitchen Features \| We Wish Would Make a Comeback |
+| 2024-07-10 | 859 | clKZV1rq78k | 9,261 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Car Innovations \| That DID NOT Stand the Test of Time |
+| 2025-02-26 | 628 | rQ87Qkd3uN4 | 1,364 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 STRANGEST 1970s Toys \| You'll NEVER SEE AGAIN |
+| 2025-02-28 | 626 | DdxhQZ0jcjw | 3,546 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 30 Forgotten Sodas \| That We Grew Up Drinking |
+| 2025-03-01 | 625 | PVMI5rk83RQ | 548 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 30 Gadgets from the 1970s \| That Were AHEAD of Their Time |
+| 2025-03-03 | 623 | tDMTPbxQZQM | 8,890 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 FORGOTTEN Vegetables Your Grandparents Grew |
+| 2025-03-05 | 621 | qf2UJyF9NPU | 781 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 25 Everyday Items From The 19th Century \| Gen Z Has Never Seen! |
+| 2025-03-07 | 619 | 95Dt9dxSYzg | 699 | 5 | 1,364 | 0.51 | 5 | 1.03 | binh_thuong | – | Không | What It Was Like During The Golden Age Of Flying \| look at the 1950s and 60s |
+| 2025-03-08 | 618 | OOWuUGAzTlU | 900 | 6 | 1,072 | 0.84 | 5 | 1.31 | binh_thuong | – | Không | 25 Old House Styles No Longer Built Today |
+| 2025-03-10 | 616 | JngvZlAst4o | 1,621 | 7 | 900 | 1.80 | 5 | 1.56 | binh_thuong | – | Không | You Might Be Old...If You Remember This! 1970s |
+| 2025-03-12 | 614 | U0x6CZKzacw | 1,401 | 8 | 1,132 | 1.24 | 5 | 0.84 | binh_thuong | – | Không | 24 Vintage Garage Features \| That Have Faded Into History |
+| 2025-03-14 | 612 | 14k0eXVHOGI | 1,488 | 9 | 1,364 | 1.09 | 5 | 0.62 | binh_thuong | – | Không | 25 Forgotten Work Lunches \| No One Makes Anymore |
+| 2025-03-15 | 611 | -JkWRWaqlno | 847 | 10 | 1,382 | 0.61 | 5 | 0.52 | binh_thuong | – | Không | 25 Household Hacks \| You'll Wish You Knew Sooner |
+| 2025-03-17 | 609 | FbKjAu38j0M | 948 | 11 | 1,364 | 0.70 | 5 | 0.53 | binh_thuong | – | Không | The Golden Age of Cruising \| look at the 19th century |
+| 2025-03-19 | 607 | vV9Im_9_5Tg | 105,110 | 12 | 1,156 | 90.93 | 5 | 0.62 | can_kiem_ky | – | Không | 22 Forgotten American Roadside Attractions \| That No Longer Exist |
+| 2025-03-21 | 605 | XRqoUbcy3-Q | 716 | 13 | 1,364 | 0.52 | 5 | 0.80 | binh_thuong | – | Không | 25 Iconic 1950s & 60s School Features \| That Kids Today Will Never Know |
+| 2025-03-22 | 604 | 1ebC-jij-bE | 718 | 14 | 1,156 | 0.62 | 5 | 0.99 | binh_thuong | – | Không | 25 Classic American Family Traditions \| That Are Gone Forever! |
+| 2025-03-24 | 602 | kpNkPYsmpuU | 441 | 15 | 948 | 0.47 | 5 | 1.50 | binh_thuong | – | Không | 23 Lost Drive-In Theater Experiences \| That Defined an Era |
+| 2025-03-26 | 600 | 4hRK1RcK7dw | 2,003 | 15 | 900 | 2.23 | 5 | 1.58 | hoi_cao | – | Không | 30 Forgotten Dinners From The 1970s \| We Wish Would Return! |
+| 2025-03-28 | 598 | Jcs4rRwbm5o | 1,424 | 15 | 900 | 1.58 | 5 | 1.27 | binh_thuong | – | Không | Teen Life Before the Internet \| How It Was in the 70s & 80s. |
+| 2025-03-31 | 595 | XdzpLBPrJEk | 1,098 | 15 | 948 | 1.16 | 5 | 2.24 | binh_thuong | – | Không | 60 Forgotten Sunday Supper Recipes \| We Want Back! |
+| 2025-04-02 | 593 | oW2nUt6Jb5M | 1,139 | 15 | 948 | 1.20 | 5 | 2.24 | binh_thuong | – | Không | 28 Old Bathroom Hacks \| We Wish Would Make a Comeback |
+| 2025-04-04 | 591 | qCAhdgCMLLA | 16,343 | 15 | 1,098 | 14.88 | 5 | 1.93 | can_kiem_ky | – | Không | 25 Illegal Now \| But Normal to Eat in the 1980s! |
+| 2025-04-07 | 588 | GxcLBPeTSJY | 2,121 | 15 | 1,139 | 1.86 | 5 | 2.59 | binh_thuong | – | Không | 22 Airline Food During the Golden Age of Air Travel |
+| 2025-04-09 | 586 | 7hsG1944Zrc | 902 | 15 | 1,401 | 0.64 | 5 | 2.68 | binh_thuong | – | Không | 25 Old-Fashioned Church Recipes \| from the Great Depression You Should Try |
+| 2025-04-12 | 583 | LMebmUcNbBk | 23,778 | 15 | 1,139 | 20.88 | 5 | 2.59 | can_kiem_ky | – | Không | 25 Easter Traditions We Abandoned \| That Made the Holiday Special |
+| 2025-04-14 | 581 | FEWQMK0kwXw | 1,556 | 15 | 1,139 | 1.37 | 5 | 2.59 | binh_thuong | – | Không | 30 Forgotten Sodas That We Grew Up Drinking |
+| 2025-04-16 | 579 | 0ZAYm_nBqiY | 2,949 | 15 | 1,139 | 2.59 | 5 | 1.23 | hoi_cao | – | Không | 20 Forgotten Easter Desserts \| We Wish Would Return! |
+| 2025-04-18 | 577 | DIhXJxagkf4 | 3,757 | 15 | 1,424 | 2.64 | 5 | 0.98 | hoi_cao | – | Không | 20 Forgotten Poor Man Meals \| Your Grandparents Ate to Survive! |
+| 2025-04-19 | 576 | gQ6P9Yl-cmI | 63,142 | 15 | 1,556 | 40.58 | 5 | 0.45 | can_kiem_ky | – | Không | What Families Ate During Easter In The 1970s |
+| 2025-04-21 | 574 | pBe92845398 | 1,397 | 15 | 1,556 | 0.90 | 5 | 0.45 | binh_thuong | – | Không | 25 Forgotten Eco Tips From GRANDMA \| That Actually Worked! |
+| 2025-04-23 | 572 | p3_UtptPOt0 | 440 | 15 | 1,556 | 0.28 | 5 | 0.45 | binh_thuong | – | Không | 55 Old Kitchen Features \| We Wish Would Make a Comeback |
+| 2025-04-25 | 570 | 2V7IGZocWuQ | 637 | 15 | 1,556 | 0.41 | 5 | 0.63 | binh_thuong | – | Không | 25 Retro Home Appliances from the 1970s  That Were Ahead of Their Time |
+| 2025-04-26 | 569 | -vYGKcpLZYc | 146,722 | 15 | 1,556 | 94.29 | 5 | 0.63 | can_kiem_ky | – | Không | Every Pope’s Favorite Food During His Papacy \| Don’t Miss This |
+| 2025-04-28 | 567 | 56g7QQInynE | 705 | 15 | 1,556 | 0.45 | 5 | 0.63 | binh_thuong | – | Không | 20 Healthy Eating Habits from Old American Family Traditions |
+| 2025-04-30 | 565 | b1utEUB7YlI | 2,920 | 15 | 1,556 | 1.88 | 5 | 0.48 | binh_thuong | – | Không | 35 FORGOTTEN Vegetables Your Grandparents Grew |
+| 2025-05-02 | 563 | -HPl7LfnmJ8 | 381 | 15 | 2,121 | 0.18 | 5 | 0.41 | binh_thuong | – | Không | 80 Old Bathroom Features \| That Have Vanished Over Time |
+| 2025-05-03 | 562 | YBtTdrekzmo | 975 | 15 | 2,121 | 0.46 | 5 | 0.41 | binh_thuong | – | Không | 25 Mother’s Day Traditions We Abandoned But Moms Loved |
+| 2025-05-05 | 560 | a7aeEl-HEAk | 1,241 | 15 | 1,556 | 0.80 | 5 | 0.56 | binh_thuong | – | Không | 87 Old Fascinating Home Features \| That Have Faded Into History |
+| 2025-05-07 | 558 | _JR9V1QpTv8 | 235 | 15 | 1,397 | 0.17 | 5 | 0.63 | binh_thuong | – | Không | Mother’s Day TV Specials That Completely Disappeared |
+| 2025-05-09 | 556 | zHCHZu3ksxs | 740 | 15 | 1,397 | 0.53 | 5 | 0.63 | binh_thuong | – | Không | 25 Mother’s Day Gifts From the 60s–80s Kids Forget |
+| 2025-05-10 | 555 | UbpUsho-iG8 | 879 | 15 | 1,241 | 0.71 | 5 | 0.74 | binh_thuong | – | Không | 20 Forgotten Mother’s Day Desserts No One Makes Anymore |
+| 2025-05-11 | 554 | c_Q91hhs0e8 | 31,399 | 15 | 975 | 32.20 | 5 | 0.94 | can_kiem_ky | – | Không | Every Pope’s Favorite Desserts During His Papacy \| Don’t Miss This |
+| 2025-05-12 | 553 | SqT2m94ZyuE | 77,848 | 15 | 975 | 79.84 | 5 | 0.84 | can_kiem_ky | – | Không | Every Pope’s Favorite Breakfast During His Papacy \| Don’t Miss This |
+| 2025-05-16 | 549 | -PsStfxX3Bo | 508 | 15 | 975 | 0.52 | 5 | 0.84 | binh_thuong | – | Không | 20 Bizarre 1970s Car Features That Disappeared Forever |
+| 2025-05-17 | 548 | 1mdCHthWsr4 | 822 | 15 | 879 | 0.94 | 5 | 1.04 | binh_thuong | – | Không | FAVOURITE POPE FOOD \| What Does the Pope Really Eat? |
+| 2025-05-19 | 546 | UqbU8jL-Se0 | 916 | 15 | 822 | 1.11 | 5 | 1.32 | binh_thuong | – | Không | 25 Funny Household Inventions From The 1970s |
+| 2025-05-21 | 544 | DxmcAnBydug | 101,744 | 15 | 879 | 116 | 5 | 0.77 | can_kiem_ky | – | Không | 35 Forgotten Grandma’s Kitchen Hacks That Still Work Today |
+| 2025-05-23 | 542 | MQAF61eeBkE | 288 | 15 | 916 | 0.31 | 5 | 1.19 | binh_thuong | – | Không | 35 Vintage Theme Park Foods You Forgot Existed – What People Ate Before Epic Universe! |
+| 2025-05-24 | 541 | cdRLroy3Hf8 | 608 | 15 | 879 | 0.69 | 5 | 1.24 | binh_thuong | – | Không | 25 Traditional or Nostalgic Foods That Were Commonly Eaten on Fleet Week New York |
+| 2025-05-25 | 540 | WATVhIy5ab4 | 9,132 | 15 | 879 | 10.39 | 5 | 0.77 | can_kiem_ky | – | Không | 35 Poor Man Sandwiches Your Grandparents Ate to Survive |
+| 2025-05-28 | 537 | TWRRIVpIICc | 1,086 | 15 | 879 | 1.24 | 5 | 0.61 | binh_thuong | – | Không | 25 Forgotten Recipes You Could Only Find In Old Cookbooks! |
+| 2025-05-31 | 534 | b5gVUIipuA8 | 678 | 15 | 916 | 0.74 | 5 | 0.43 | binh_thuong | – | Không | 25 Traditional or Nostalgic Foods That Were Commonly Eaten on Memorial Day Back in the Day |
+| 2025-06-04 | 530 | EFhxDEocPjM | 1,636 | 15 | 879 | 1.86 | 5 | 0.45 | binh_thuong | – | Không | 25 Forgotten Snacks From The 1970s That Are Too Good to Forget |
+| 2025-06-05 | 529 | vvyMR2NDU4Q | 286 | 15 | 879 | 0.33 | 5 | 0.59 | binh_thuong | – | Không | 25 Forgotten Lunches from the 1970s No One Makes Anymore |
+| 2025-06-08 | 526 | kGeGv93GoBk | 398 | 15 | 879 | 0.45 | 5 | 0.61 | binh_thuong | – | Không | 25 Sandwiches from Your Dad’s Lunchbox No One Makes Anymore! |
+| 2025-06-08 | 526 | C98sts5jT_Q | 538 | 15 | 879 | 0.61 | 5 | 0.83 | binh_thuong | – | Không | 25 Forgotten Homemade Pasta You Need To Eat In Your Lifetime! |
+| 2025-06-11 | 523 | 5pYLUyRRGWo | 326 | 15 | 822 | 0.40 | 5 | 1.65 | binh_thuong | – | Không | Things Grandpa Never Forgot on Father’s Day – Tools, Traditions & Gadgets from the Past |
+| 2025-06-12 | 522 | Lo-BzB13--g | 1,357 | 15 | 678 | 2.00 | 5 | 1.18 | hoi_cao | – | Không | Early Amusement Parks Were Terrifying — The Dark Side of Vintage Thrill Rides Revealed! |
+| 2025-06-13 | 521 | Vp35JJ_bACU | 518 | 15 | 678 | 0.76 | 5 | 1.45 | binh_thuong | – | Không | 25 Forgotten Dinners Dad Used to Make That You Need to Eat in Your Lifetime! |
+| 2025-06-15 | 519 | GurJZh35uA8 | 1,997 | 15 | 678 | 2.95 | 5 | 1.18 | hoi_cao | – | Không | 30 Forgotten 10 Min Recipes You Need To Eat In Your Lifetime! |
+| 2025-06-15 | 519 | Mq0meYu97xY | 733 | 15 | 678 | 1.08 | 5 | 1.18 | binh_thuong | – | Không | 30 Poor Man Meals You Could Only Find In Old Cookbooks |
+| 2025-06-18 | 516 | hELEmXfW2O0 | 1,578 | 15 | 678 | 2.33 | 5 | 1.05 | hoi_cao | – | Không | 25 Forgotten Dinners Every Family In 1950s Ate Weekly! |
+| 2025-06-22 | 512 | lStu2D_YJfY | 803 | 15 | 678 | 1.18 | 5 | 0.99 | binh_thuong | – | Không | 25 Long-Forgotten Sandwiches That America Forgot! |
+| 2025-06-25 | 509 | Qtx5r-fV1ZE | 986 | 15 | 733 | 1.35 | 5 | 0.92 | binh_thuong | – | Không | 25 Forgotten Summer Dinners That Have Faded Into History! |
+| 2025-06-26 | 508 | PYcPOFh4rW8 | 556 | 15 | 803 | 0.69 | 5 | 0.84 | binh_thuong | – | Không | 25 Forgotten Ground Beef Recipes Your Grandparents Ate To Survive! |
+| 2025-06-29 | 505 | cYmE1gTydx0 | 715 | 15 | 733 | 0.98 | 5 | 0.82 | binh_thuong | – | Không | 25 Forgotten Wild West Dinners No One Makes Anymore! |
+| 2025-07-03 | 501 | IwvDo7g9wcs | 672 | 15 | 715 | 0.94 | 5 | 0.84 | binh_thuong | – | Không | I Cooked 25 WWII Era Recipes and Here's What Happened |
+| 2025-07-05 | 499 | LkM89tM-reo | 223 | 15 | 715 | 0.31 | 5 | 0.84 | binh_thuong | – | Không | 30 Tasty 4th of July Recipes That Have Faded Into History |
+| 2025-07-09 | 495 | aHkUJudSz-0 | 787 | 15 | 672 | 1.17 | 5 | 0.57 | binh_thuong | – | Không | 25 Retro Hot Dog Recipes From Old Cookbooks |
+| 2025-07-10 | 494 | r0Jv9CESDkc | 386 | 15 | 715 | 0.54 | 5 | 0.84 | binh_thuong | – | Không | 25 Forgotten Summer Camp Foods Kids Ate in the 1970s |
+| 2025-07-13 | 491 | R5iB7bobKQA | 603 | 15 | 715 | 0.84 | 5 | 0.89 | binh_thuong | – | Không | 30 Forgotten Cooking Tricks You Could Only Find In Old Cookbooks |
+| 2025-07-16 | 488 | lsStrG_UIJc | 868 | 15 | 715 | 1.21 | 5 | 0.54 | binh_thuong | – | Không | 30 Forgotten 10-Minute Recipes You Could Only Find In Old Cookbooks! |
+| 2025-07-17 | 487 | Uqa3jxQWaC4 | 383 | 15 | 733 | 0.52 | 5 | 0.45 | binh_thuong | – | Không | 30 Grandma Desserts You Could Only Find In Old Cookbooks |
+| 2025-07-20 | 484 | nMqAcic6GgY | 295 | 15 | 715 | 0.41 | 5 | 0.57 | binh_thuong | – | Không | 30 CHEAP Desserts We Are to Get Through the Great Depression! |
+| 2025-07-23 | 481 | IYk-BXqt9go | 658 | 15 | 715 | 0.92 | 5 | 0.46 | binh_thuong | – | Không | 25 Forgotten Recipes Your Southern Grandma Made That Need to Come Back! |
+| 2025-07-27 | 477 | EeTAvpr6BLI | 636 | 15 | 672 | 0.95 | 5 | 0.49 | binh_thuong | – | Không | 25 Forgotten Side Dishes Your Southern Mama Made (That Deserve a Comeback) |
+| 2025-07-31 | 473 | lPMPk_dlq8Y | 253 | 15 | 658 | 0.38 | 5 | 0.62 | binh_thuong | – | Không | 20 Old Jobs That Sound Fake (But Were Totally Real) |
+| 2025-08-10 | 463 | lP9LAquks4o | 330 | 15 | 636 | 0.52 | 5 | 0.64 | binh_thuong | – | Không | 30 Iconic Dishes Famous People Couldn’t Live Without (And How to Make Them) |
+| 2025-08-10 | 463 | 5Qvh4hargAY | 406 | 15 | 603 | 0.67 | 5 | 0.80 | binh_thuong | – | Không | 30 Forgotten Recipes Hollywood Legends Loved (That Still Taste Amazing) |
+| 2025-08-12 | 461 | B589DfMx-zk | 235 | 15 | 556 | 0.42 | 5 | 0.87 | binh_thuong | – | Không | 30 Vintage Household Tricks From the 1970s You’ll Want to Try Today |
+| 2025-08-14 | 459 | zGY70foYQhw | 660 | 15 | 406 | 1.63 | 5 | 1.19 | binh_thuong | – | Không | 30 Forgotten Lunches You Could Only Find in Grandma’s Cookbook! |
+| 2025-08-17 | 456 | FfnQMe4UnbA | 4,042 | 15 | 406 | 9.96 | 5 | 1.00 | manh | – | Không | 30 Old-School Kitchen Tricks From Grandma You’ll Wish You Knew Sooner |
+| 2025-08-17 | 456 | x-uhW9f5ATs | 356 | 15 | 406 | 0.88 | 5 | 1.19 | binh_thuong | – | Không | 25 Favorite Dishes Of Iconic Stars That Faded Into History! |
+| 2025-08-21 | 452 | tpfHyQUr0HU | 485 | 15 | 406 | 1.19 | 5 | 1.00 | binh_thuong | – | Không | 30 Forgotten Lunch Recipes You Could Only Find in Old Cookbooks! |
+| 2025-08-24 | 449 | rnpfhugYx7I | 406 | 15 | 406 | 1.00 | 5 | 1.00 | binh_thuong | – | Không | 25 Famous Desserts From History That Have Completely Vanished! |
+| 2025-08-24 | 449 | SB1n4rqNxSE | 981 | 15 | 406 | 2.42 | 5 | 0.91 | hoi_cao | – | Không | 25 Famous Lunches From History That Have Completely Disappeared! |
+| 2025-08-27 | 446 | P1OCpZgXD5c | 408 | 15 | 406 | 1.00 | 5 | 0.88 | binh_thuong | – | Không | 30 Forgotten Recipes You Could Only Find in Old Hollywood Cookbooks! |
+| 2025-08-28 | 445 | qxxHygwRXFs | 583 | 15 | 406 | 1.44 | 5 | 0.88 | binh_thuong | – | Không | 25 Iconic Lunches We Wish Would Make a Comeback! |
+| 2025-10-18 | 394 | -_AMBhYt0cw | 359 | 15 | 408 | 0.88 | 5 | 0.64 | binh_thuong | – | Không | 25 Halloween Traditions From the 1960s That We Desperately Wish Would Return |
+| 2025-10-22 | 390 | khySvIy_Q4k | 369 | 15 | 408 | 0.90 | 5 | 0.64 | binh_thuong | – | Không | 30 Iconic Vintage Halloween Traditions That VANISHED Forever! |
+| 2025-10-24 | 388 | hCLh2s6Umr4 | 263 | 15 | 406 | 0.65 | 5 | 0.73 | binh_thuong | – | Không | 30 Survival Foods of Slaves on Plantations |
+| 2025-10-25 | 387 | uVtteKnn1Ro | 78 | 15 | 406 | 0.19 | 5 | 0.82 | binh_thuong | – | Không | From the Mona Lisa to the Louvre Robbery – 100 Years of Daring Museum Heists |
+| 2025-10-26 | 386 | yIXwwQylzSM | 656 | 15 | 406 | 1.62 | 5 | 0.82 | binh_thuong | – | Không | 25 Forgotten Soul Foods From the Civil Rights Era That Fed a Movement |
+| 2025-12-08 | 343 | gzVumLYkXOM | 243 | 15 | 406 | 0.60 | 5 | 0.96 | binh_thuong | – | Không | 25 Christmas Candies From The 1970s That Will NEVER Be Forgotten |
+| 2025-12-12 | 339 | CAIEq9pueMM | 334 | 15 | 406 | 0.82 | 5 | 0.97 | binh_thuong | – | Không | Christmas Decorations From the 1960s and 70s That have Disappeared! |
+| 2025-12-13 | 338 | wO-rU-BHp8o | 296 | 15 | 406 | 0.73 | 5 | 1.00 | binh_thuong | – | Không | Christmas Appetizers from the 1960s and 70s That Have Disappeared! |
+| 2025-12-15 | 336 | 4BUkgoZ8wZI | 390 | 15 | 369 | 1.06 | 4 | – | binh_thuong | – | Không | 25 Forgotten Ground Beef Recipes from the 1970s That have Disappeared! |
+| 2025-12-17 | 334 | sNbxSNeF6Is | 404 | 15 | 369 | 1.09 | 3 | – | binh_thuong | – | Không | 25 Christmas Desserts from the 1960s and 70s That Have Disappeared! |
+| 2025-12-20 | 331 | u-GnIQ7F2ok | 452 | 15 | 390 | 1.16 | 2 | – | binh_thuong | – | Không | 30 Cheap 1930s Christmas Dishes Our Black Ancestors Made To Survive the Holidays |
+| 2025-12-22 | 329 | _iWUTkK6p70 | 393 | 15 | 390 | 1.01 | 1 | – | binh_thuong | – | Không | 25 Forgotten Christmas Cookie Recipes From Betty Crocker’s Vintage Cooky Book |
+| 2025-12-24 | 327 | WINI6WR11js | 423 | 15 | 390 | 1.08 | 0 | – | binh_thuong | – | Không | 25 Forgotten Christmas Side Dishes Grandma Made (That We Want Back) |

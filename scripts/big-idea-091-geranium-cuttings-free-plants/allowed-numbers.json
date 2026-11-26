@@ -1,0 +1,28 @@
+{
+ "allowed": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  8,
+  45,
+  55,
+  95,
+  700
+ ],
+ "notes": {
+  "1": "dùng như từ đếm/đại từ ('one guide', 'one cutting'), không phải số liệu — đã đọc từng câu 24/10",
+  "2": "'two stems' (lựa chọn của người xem), không phải số liệu",
+  "3": "C01 3–4 inch; 'three things'/'three ways' = danh sách của chính script (UW/Illinois nêu 3 cách)",
+  "4": "C01 3–4 inch",
+  "6": "Số của VIDEO ĐỐI THỦ (transcript ctekV9aqKj4 0:46 'about six inches') — không phải claim extension; chỉ dùng để bác nhẹ, M3",
+  "700": "'more than seven hundred thousand views' = 709.474 view đo vidIQ 23/10/2026 (cận dưới, an toàn khi số tăng)",
+  "5": "'five out of five rooted' = kết quả 5/5 của VIDEO ĐỐI THỦ (transcript 4:11) — dùng để scoping, không phải claim extension",
+  "8": "C09/C11: cận trên 8 tuần (ISU 6–8, Illinois blog 4–8)",
+  "95": "'ninety-five percent' = bình luận thật dưới video đối thủ (link trong header), nói rõ CHƯA KIỂM ĐƯỢC",
+  "45": "C14 UW/ISU: rễ trần 45–55°F (Illinois blog 45–50°F)",
+  "55": "C14"
+ }
+}

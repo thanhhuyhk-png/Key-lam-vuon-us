@@ -1,0 +1,102 @@
+# Đo kênh: UCp6MfWNRR0CtHzsBsaFd-4Q.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 60 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 60 |
+| n_trong_danh_sach | 60 |
+| n_dai | 60 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 12,600 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-05-05 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 789 |
+| cao_nhat | 64,170 |
+| thap_nhat | 496 |
+| phan_tan | 81.33 |
+| so_video_tren_2x | 7 |
+| ty_le_tren_2x | 0.35 |
+| trung_vi_chia_sub | 0.06 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 1.37 |
+| ngay_video_dau | 2026-05-05 |
+| tuoi_tu_video_dau | 195 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 64.62 |
+| sub_moi_video | 210 |
+| video_30_ngay | 14 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-05-05 | 195 | suTY2hUC9gs | 493 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Reasons Why You Need a Snake Plant in Your Bedroom (Best Indoor Plants) |
+| 2026-05-07 | 193 | ZYV-02g134E | 24,111 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | THIS Made My Zamioculcas Grow Like Crazy 😱 |
+| 2026-05-08 | 192 | 0Wro954gzoo | 2,754 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Just 1 Slice of Lemon and Your Anthurium Will Explode with Flowers! |
+| 2026-05-16 | 184 | UzoURr1AedM | 1,267 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Indoor Plants That Thrive in the Dark and Are Impossible to Kill |
+| 2026-05-25 | 175 | MVZlMhv1HTA | 36,253 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 🌿 1 Spoon and Your Monstera Will Explode With New Leaves |
+| 2026-05-27 | 173 | G1NKXLpcdyo | 8,011 | 5 | 2,754 | 2.91 | 5 | 17.46 | hoi_cao | – | Không | 🌺 Orchid Without Flowers? Apply THIS Secret Ingredient to Make Them Bloom Today! |
+| 2026-05-29 | 171 | ypN2k_uAF6c | 48,089 | 6 | 5,382 | 8.93 | 5 | 1.54 | manh | – | Không | The Secret to Giant Pothos Leaves Nobody Talks About |
+| 2026-06-03 | 166 | 7KVE0mVwAfY | 3,413 | 7 | 8,011 | 0.43 | 5 | 1.21 | binh_thuong | – | Không | STOP! Do This 1 Thing to Make Your Monstera Adansonii Double in Size |
+| 2026-06-06 | 163 | KY1GSw9Wy9M | 88,180 | 8 | 5,712 | 15.44 | 5 | 1.69 | can_kiem_ky | – | Không | Is Your Snake Plant NOT Growing? Add THIS and Watch It Burst with New Shoots! |
+| 2026-06-08 | 161 | J2rbjoEj06s | 2,105 | 9 | 8,011 | 0.26 | 5 | 1.30 | binh_thuong | – | Không | 🌵🌸 GUARANTEED BLOOMING! The Trick to Make Your Desert Rose Bloom in 30 DAYS |
+| 2026-06-11 | 158 | HT8OjjuLYiE | 253,241 | 10 | 5,712 | 44.33 | 5 | 1.83 | can_kiem_ky | – | Không | 🌿The SECRET to GIANT Aloe Vera: Just 1 Ingredient to Make It EXPLODE with Pups |
+| 2026-06-14 | 155 | 3Y868Os6c2c | 8,284 | 11 | 8,011 | 1.03 | 5 | 2.13 | binh_thuong | – | Không | 🌺Your Amaryllis Won't Bloom! The Hidden Mistake No One Told You |
+| 2026-06-18 | 151 | VM-2lL_rLJs | 9,666 | 12 | 8,148 | 1.19 | 5 | 2.10 | binh_thuong | – | Không | 🌿 DON'T THROW IT AWAY! This 1 Kitchen Ingredient Can Save a Dying Peace Lily 🌿 |
+| 2026-06-24 | 145 | PwAmO8Ztzu4 | 17,072 | 13 | 8,284 | 2.06 | 5 | 1.26 | hoi_cao | – | Không | 🌿 Stunted Pothos? Add THIS kitchen secret and watch the change in 7 days |
+| 2026-06-27 | 142 | i5HUaEu-CQw | 10,431 | 14 | 8,975 | 1.16 | 5 | 0.14 | binh_thuong | – | Không | Snake Plant Stunted? The 2-Ingredient Secret for Infinite Shoots in 7 Days 🌿 |
+| 2026-07-01 | 138 | r8jntFfxOfY | 19,484 | 15 | 9,666 | 2.02 | 5 | 0.05 | hoi_cao | – | Không | 🌿 Is Your Aloe Vera Not Growing? Do This and It Will Blast With Giant Pups! |
+| 2026-07-05 | 134 | Vn3uEuECgtY | 174,454 | 15 | 10,431 | 16.72 | 5 | 0.04 | can_kiem_ky | – | Không | 🌿 BOMBSHELL! Just 1 Teaspoon FORCES New Shoots on Any Stuck Zamioculcas! |
+| 2026-07-12 | 127 | nlgZd5OCmIA | 455 | 15 | 10,431 | 0.04 | 5 | 0.03 | binh_thuong | – | Không | 🍋 The Ingredient That Makes Any Lemon Tree Explode With Fruit Fast |
+| 2026-07-17 | 122 | nQ2avb02haw | 1,247 | 15 | 10,431 | 0.12 | 5 | 0.03 | binh_thuong | – | Không | 🌿Add THIS and watch your plant EXPLODE with new growth in 7 days! |
+| 2026-07-19 | 120 | QNtC7eIixxw | 405 | 15 | 10,431 | 0.04 | 5 | 0.03 | binh_thuong | – | Không | 🌿 NEW METHOD: Clone Any Tree for FREE and Fast! |
+| 2026-07-23 | 116 | MKfCMCq79BA | 218 | 15 | 9,666 | 0.02 | 5 | 0.05 | binh_thuong | – | Không | 🌺 Bougainvillea not blooming? Add THIS and watch it explode in 7 days! |
+| 2026-07-26 | 113 | aZ-lhxFG7bY | 256 | 15 | 9,666 | 0.03 | 5 | 0.08 | binh_thuong | – | Không | 🌸1 Cup a Week! Hundreds of Flowers Bloom All Year Round Without Wilting! |
+| 2026-07-30 | 109 | kJ7UJNmG-ck | 342 | 15 | 8,284 | 0.04 | 5 | 0.09 | binh_thuong | – | Không | 🌹 Add THIS and Your Roses Will Explode With Flowers! |
+| 2026-08-01 | 107 | KI0VWw-NZD8 | 24,337 | 15 | 8,284 | 2.94 | 5 | 0.09 | hoi_cao | – | Không | 🌿 The SECRET to GIANT Aloe Vera: Eggshell Powder Makes It EXPLODE with New Pups! 🌿 |
+| 2026-08-04 | 104 | 6grQr4115pI | 727 | 15 | 8,284 | 0.09 | 5 | 0.09 | binh_thuong | – | Không | 🌿 Do NOT Do This to Your Spider Plant! (Full Care & Propagation Guide)🌿 |
+| 2026-08-09 | 99 | mkj63V5UXBI | 483 | 15 | 8,284 | 0.06 | 5 | 0.71 | binh_thuong | – | Không | 🌳No Yard? Grow These 7 Fruit Trees in Pots! |
+| 2026-08-13 | 95 | qIvHmQrgyLs | 64,170 | 15 | 1,247 | 51.46 | 5 | 0.59 | can_kiem_ky | – | Không | 🌿 Snake Plant Not Growing? 1 Teaspoon of THIS Triggers Fast New Growth! |
+| 2026-08-16 | 92 | 4hp2n-m6hIk | 496 | 15 | 1,247 | 0.40 | 5 | 0.63 | binh_thuong | – | Không | 🌿 Fern Not Growing? The 2-Ingredient Secret for Endless New Growth in 7 Days! |
+| 2026-08-21 | 87 | JbbHkANtI_c | 5,899 | 15 | 727 | 8.11 | 5 | 1.01 | manh | – | Không | 🌿 10 PLANTS THAT GROW IN WATER (NO SOIL NEEDED!) 💧 |
+| 2026-08-24 | 84 | OBx89oX0rYs | 734 | 15 | 727 | 1.01 | 5 | 0.94 | binh_thuong | – | Không | 🌿 The ERROR Killing Your Pothos: The SECRET Trick for a Jungle Look! 🌿 |
+| 2026-08-27 | 81 | 3rKJ9eOQ5pg | 20,451 | 15 | 727 | 28.13 | 5 | 0.92 | can_kiem_ky | – | Không | 🌿 Is Your Rosemary Drying Out? Add 1 Teaspoon of THIS and Watch It Revive! |
+| 2026-08-30 | 78 | L8zWar-fG5E | 666 | 15 | 727 | 0.92 | 5 | 0.94 | binh_thuong | – | Không | 🌿The Truth About ZZ Plants: Why Yours Isn't Growing (And How to Fix It!) |
+| 2026-09-02 | 75 | 4H7b_c7SWvI | 787 | 15 | 666 | 1.18 | 5 | 0.90 | binh_thuong | – | Không | 🌸 IS YOUR ORCHID STUCK? PUT 1 TEASPOON OF THIS AND WATCH GIANT FLOWERS GROW! |
+| 2026-09-04 | 73 | yzo3mai6Pbo | 680 | 15 | 727 | 0.94 | 5 | 0.83 | binh_thuong | – | Không | Why Your Christmas Cactus Isn’t Blooming Fix It NOW! |
+| 2026-09-06 | 71 | zrzRhV8dDwU | 499 | 15 | 680 | 0.73 | 5 | 1.02 | binh_thuong | – | Không | How to Prune Basil for Bigger, Bushier Growth! 🌿✂️ |
+| 2026-09-08 | 69 | 8HI3jS3L0mk | 602 | 15 | 680 | 0.89 | 5 | 5.10 | binh_thuong | – | Không | 🌿 THE 1-GLASS SECRET: Make Stunted Houseplants EXPLODE With New Leaves & Blooms! 🌸 |
+| 2026-09-11 | 66 | 5w1v7XzygZU | 693 | 15 | 680 | 1.02 | 5 | 5.10 | binh_thuong | – | Không | 🌸 STUNTED AMARYLLIS? The Secret Bloom Trick Nobody Tells You! 🌸 |
+| 2026-09-14 | 63 | y-SYh_P2xvQ | 561 | 15 | 693 | 0.81 | 5 | 5.00 | binh_thuong | – | Không | 🚨 STOP! This Watering Mistake Is KILLING Your Succulents |
+| 2026-09-17 | 60 | 7_f8bO6ovd4 | 4,147 | 15 | 693 | 5.98 | 5 | 2.33 | manh | – | Không | 🌿 The SECRET to GIANT Aloe Vera: Do This Once a Week! 🌿 |
+| 2026-09-21 | 56 | bPQpYjsIy_4 | 4,679 | 15 | 693 | 6.75 | 5 | 1.56 | manh | – | Không | 🌱The SECRET to TONS of Snake Plant Pups! |
+| 2026-09-26 | 51 | nv8yL7-c-8Y | 3,468 | 15 | 693 | 5.00 | 5 | 1.23 | manh | – | Không | 🌸 ZZ Plant Not Growing? Try This Simple Trick! |
+| 2026-09-30 | 47 | Kd_PxgGPZ4g | 1,612 | 15 | 734 | 2.20 | 5 | 1.08 | hoi_cao | – | Không | 🌿 Anthurium Not Blooming? The SECRET to Make It EXPLODE with Flowers Using 1 Kitchen Ingredient |
+| 2026-10-03 | 44 | aZTzPe1rtwg | 791 | 15 | 734 | 1.08 | 5 | 1.16 | binh_thuong | – | Không | 🌿 The SECRET to Propagating Snake Plants with ZERO Rot! |
+| 2026-10-06 | 41 | -wqbvVghtDE | 1,079 | 15 | 787 | 1.37 | 5 | 1.08 | binh_thuong | – | Không | Pour 1 Cup of THIS on Your Monstera and Watch Giant Split Leaves Explode! 🌿 |
+| 2026-10-10 | 37 | Zeqf9RC3Y7A | 732 | 15 | 787 | 0.93 | 5 | 1.59 | binh_thuong | – | Không | 🌺 The SECRET to Making Geraniums Bloom NONSTOP! |
+| 2026-10-14 | 33 | 71o-XAhLZ5o | 852 | 15 | 787 | 1.08 | 5 | 1.59 | binh_thuong | – | Không | 🌿Is your rosemary drying out? 1 cup of this homemade fertilizer can revitalize it instantly! |
+| 2026-10-18 | 29 | 9DjK7Z--7fM | 718 | 15 | 787 | 0.91 | 5 | 1.59 | chua_chin | – | Không | 🌿 The SECRET Homemade Trick to Fill Out a Leggy Pothos in Days! |
+| 2026-10-20 | 27 | YWElPbDZe-s | 1,249 | 15 | 787 | 1.59 | 5 | 1.45 | chua_chin | – | Không | 🌿 The SECRET to GIANT Aloe Vera: Just 1 Ingredient to Make It EXPLODE with Pups 🌿 |
+| 2026-10-22 | 25 | BhyeY498-cM | 12,442 | 15 | 791 | 15.73 | 5 | 1.45 | chua_chin | – | Không | 🌿How to Turn a Skinny Jade Plant into a Thick, Woody Tree Fast! |
+| 2026-10-24 | 23 | y3YhU9pXChs | 1,326 | 15 | 852 | 1.56 | 5 | 0.87 | chua_chin | – | Không | 🌺 Orchids Not Blooming? Just 1 Spoon of This Kitchen Secret! |
+| 2026-10-26 | 21 | FSdxxRIz0jI | 738 | 15 | 1,079 | 0.68 | 5 | 0.58 | chua_chin | – | Không | 🌿 Just 1 Spoon Unlocks Any Stagnant Plant (Any Plant!) |
+| 2026-10-28 | 19 | YuaPoSiLzxA | 609 | 15 | 1,079 | 0.56 | 5 | 0.81 | chua_chin | – | Không | 🌺 Drooping Peace Lily with NO Flowers Add THIS and Watch It Revive in Hours! |
+| 2026-10-30 | 17 | kIi9RtkGDVc | 1,145 | 15 | 1,079 | 1.06 | 5 | 0.58 | chua_chin | – | Không | 🌿 The SECRET to Giant Aloe Vera Add THIS for Endless New Pups! 🌿 |
+| 2026-11-01 | 15 | FJ33Xb-FChA | 1,574 | 15 | 1,145 | 1.37 | 5 | 0.39 | chua_chin | – | Không | You Only Need ONE Onion! Sansevieria Blooms ALL Year Round! |
+| 2026-11-03 | 13 | Q1X8o5wXP3Q | 624 | 15 | 1,145 | 0.54 | 5 | 0.17 | chua_chin | – | Không | 🌿 Is Your Lavender Drying Out? Add THIS to Revive It Fast! |
+| 2026-11-05 | 11 | oESEGYiAa7I | 447 | 15 | 1,079 | 0.41 | 4 | – | chua_chin | – | Không | 🌺 Amaryllis Not Blooming? Do THIS Now for Christmas Flowers! |
+| 2026-11-07 | 9 | Sj_m48TS8qU | 874 | 15 | 852 | 1.03 | 3 | – | chua_chin | – | Không | Snake Plant Not Growing 1 Teaspoon Trick, 30 Days Later (Part 2) |
+| 2026-11-09 | 7 | J_1yE0g7P20 | 194 | 15 | 852 | 0.23 | 2 | – | chua_chin | – | Không | 🌺 Peace Lily Not Blooming? Add THIS and Watch Giant Flowers Explode! 🌿 |
+| 2026-11-11 | 5 | 3-FZaAyBUkQ | 192 | 15 | 852 | 0.23 | 1 | – | chua_chin | – | Không | 🌿 Jade Plant Dropping Leaves? 1 Spoon of THIS Revives It Fast! |
+| 2026-11-13 | 3 | 7RjHBoIa9Jo | 131 | 15 | 738 | 0.18 | 0 | – | chua_chin | – | Không | My Basil Was Freezing to Death (Until I Did This) |

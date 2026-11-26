@@ -1,0 +1,42 @@
+01|lettuce tray sunny windowsill
+01|leaf lettuce window
+02|kitchen window winter gray light
+02|frost window kitchen
+02|overcast window sill
+03|leggy seedlings
+05|seedling leaning toward light
+08|winter sunlight windowsill
+16|microgreens tray
+16|radish microgreens
+16|sunflower shoots
+17|cutting microgreens scissors
+17|harvest microgreens
+19|seed tray potting mix
+20|arugula leaves
+20|mustard greens
+20|baby greens harvest
+23|leaf lettuce growing indoors
+23|lettuce seedlings tray
+25|cool room window plants
+25|butterhead lettuce
+27|chives pot windowsill
+27|parsley pot kitchen window
+27|snipping herbs scissors
+29|radishes in pot
+29|radish seedlings
+29|small radishes harvest
+31|small tomato plant pot indoors
+31|cherry tomato seedling window
+33|seedlings under grow light
+35|outlet timer
+37|small chili pepper plant pot
+37|pepper plant indoors
+43|shop light over seedlings
+43|LED grow light plants
+43|fluorescent tube light
+45|small desk fan plants
+45|yellow sticky trap plant
+45|cat near houseplants
+45|whitefly on leaf
+45|aphids on plant
+47|microgreens windowsill

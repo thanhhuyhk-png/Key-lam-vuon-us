@@ -1,0 +1,150 @@
+# Đo kênh: UCWF1hNtftACDyggoxwBVyew.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 116 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 182 |
+| n_trong_danh_sach | 108 |
+| n_dai | 100 |
+| n_short | 8 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 26,300 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-04-03 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 432 |
+| cao_nhat | 872 |
+| thap_nhat | 149 |
+| phan_tan | 2.02 |
+| so_video_tren_2x | 1 |
+| ty_le_tren_2x | 0.05 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.60 |
+| ngay_video_dau | 2025-12-18 |
+| tuoi_tu_video_dau | 333 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 78.98 |
+| sub_moi_video | 145 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.02 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** NGHI_LOI_DON_VI
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-12-18 | 333 | rmBM-IlGvp4 | 5,631 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | More Protein Than Beef, Thrives Where Corn Dies — Why This Survival Seed Was Erased |
+| 2025-12-20 | 331 | 6ipYkUY3GCU | 2,299 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Plant Once, Harvest Forever — Why Was This Forgotten? |
+| 2025-12-23 | 328 | -e3eQx0L0B0 | 395 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Better Than Beef, Spinach & Milk Combined. Why Do They Hate This Plant? |
+| 2025-12-25 | 326 | NL197uwwJzw | 178 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | More Omega-3 Than Salmon Per Leaf. Why Is the World's Most Nutritious Plant Classified as a Weed? |
+| 2025-12-27 | 324 | RKv_-m6NCTc | 216 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Superfood They Turned Into a Weed: Why Is It Illegal to Grow This? |
+| 2025-12-29 | 322 | rACyO97-_xQ | 743 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Sugar That Heals: Why Did We Erase This Ancient Superfood? |
+| 2025-12-31 | 320 | -Q7L9c_Enx0 | 36,687 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | One Copper Wire Triples Your Harvest — Why Is This Science Forbidden? |
+| 2026-01-04 | 316 | jWNoBF5wpeA | 464 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 450 Lbs of Free Food Per Year — The Plant They Turned Into a Weapon |
+| 2026-04-03 | 227 | B4lLmpPEYiE | 1,285 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 3 Kitchen Powders Remove 96% of What Water Can't — Your Grandmother Already Knew |
+| 2026-04-04 | 226 | pbmFWhcoJt4 | 2,736 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Snake Plant Not Blooming? These 4 Mistakes Are Why |
+| 2026-04-04 | 226 | zcZVaACix6o | 1,634 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Clay Was Never the Problem — We Just Forgot How to Use It |
+| 2026-04-06 | 224 | E0naZwCGPbY | 3,516 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Soil Generates Electricity — We Just Forgot How to Use It |
+| 2026-04-07 | 223 | q-iyD-1Wk3Q | 23,403 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | I Installed a $2 Pipe in My Garden — It Makes Free Fertilizer Every Day |
+| 2026-04-08 | 222 | bWbBP9m4yZk | 1,067 | 5 | 2,736 | 0.39 | 5 | 0.70 | binh_thuong | – | Không | The Oldest Heating System on Earth — And Why We Stopped Using It |
+| 2026-04-09 | 221 | T7a4__vzb9o | 1,907 | 6 | 2,185 | 0.87 | 5 | 0.71 | binh_thuong | – | Không | This Simple Herb Does More Than You Think |
+| 2026-04-10 | 220 | oFcflKLGV6o | 11,680 | 7 | 1,907 | 6.12 | 5 | 0.56 | manh | – | Không | 3 Kitchen Ingredients Remove Garden Pests — No Chemicals Needed |
+| 2026-04-11 | 219 | vpw4wHg76GQ | 1,541 | 8 | 2,322 | 0.66 | 5 | 0.33 | binh_thuong | – | Không | You’ve Been Pulling This Out — But It’s More Nutritious Than Spinach |
+| 2026-04-12 | 218 | XQIBPgynDlk | 15,731 | 9 | 1,907 | 8.25 | 5 | 0.40 | manh | – | Không | Stop Throwing This Away — It’s the Best Free Fertilizer You Have |
+| 2026-04-13 | 217 | iZrXl__Vm94 | 1,065 | 10 | 2,322 | 0.46 | 5 | 0.33 | binh_thuong | – | Không | Your Lemon Tree Isn’t Blooming — Here’s What’s Blocking It |
+| 2026-04-14 | 216 | wKijoBYZ59c | 437 | 11 | 1,907 | 0.23 | 5 | 0.40 | binh_thuong | – | Không | The Amish Skipped Gas Stations for Decades — It Started with One Plant in 1937 |
+| 2026-04-15 | 215 | jZ54hzZQAlw | 757 | 12 | 1,770 | 0.43 | 5 | 0.35 | binh_thuong | – | Không | No More Orchid Soil! — Grow Strong Roots Faster & More Blooms with This Method |
+| 2026-04-16 | 214 | _hB0Os263Bg | 328 | 13 | 1,634 | 0.20 | 5 | 0.58 | binh_thuong | – | Không | 9 Perennial Plants That Spread and Return on Their Own |
+| 2026-04-17 | 213 | Wp-m4hMItwo | 973 | 14 | 1,588 | 0.61 | 5 | 0.39 | binh_thuong | – | Không | This Free Plant Has More Magnesium Than Any Supplement. Nobody Sells It. |
+| 2026-04-18 | 212 | 58f2y4JqT60 | 1,919 | 15 | 1,541 | 1.25 | 5 | 0.40 | binh_thuong | – | Không | Tastes Like Apple and Honey, Grows Wild Without Care—So Why Doesn’t Anyone Cultivate It? |
+| 2026-04-19 | 211 | qZup6Mon_fY | 619 | 15 | 1,634 | 0.38 | 5 | 0.33 | binh_thuong | – | Không | The Forgotten $4 Mineral That Removes Moisture from the Air |
+| 2026-04-20 | 210 | HJ92Vu5syRM | 493 | 15 | 1,541 | 0.32 | 5 | 0.62 | binh_thuong | – | Không | These 6 Weeds Could Be the Most Valuable Plants in Your Yard |
+| 2026-04-21 | 209 | Mzaargk8Gu4 | 952 | 15 | 1,067 | 0.89 | 5 | 0.89 | binh_thuong | – | Không | 3 Ingredients. 7 Days. Endless Nutrition From One Ferment. Your Cabinet Is Obsolete. |
+| 2026-04-22 | 208 | jq2Kj4dkDP4 | 546 | 15 | 1,065 | 0.51 | 5 | 1.40 | binh_thuong | – | Không | Garden Pests Don't Stand a Chance Against This Forgotten Fossil |
+| 2026-04-23 | 207 | XzjA182ydUo | 954 | 15 | 973 | 0.98 | 5 | 1.53 | binh_thuong | – | Không | Before Bread, Before Wine — The Food We Forgot |
+| 2026-04-24 | 206 | -7vhZSaTY8g | 239 | 15 | 954 | 0.25 | 5 | 1.56 | binh_thuong | – | Không | Eat These Daily — Support a Longer, Healthier Life |
+| 2026-04-25 | 205 | Lu3hflPlwTQ | 7,833 | 15 | 952 | 8.23 | 5 | 1.53 | manh | – | Không | We Broke This 4,000-Year Food System… And Started Paying for It |
+| 2026-04-26 | 204 | B24euoMXjyI | 1,488 | 15 | 952 | 1.56 | 5 | 1.51 | binh_thuong | – | Không | 90% of Cuttings Fail Because of This One Step — Here’s the 3-Second Fix |
+| 2026-04-27 | 203 | RK9J2RP7enc | 8,013 | 15 | 952 | 8.42 | 5 | 1.49 | manh | – | Không | Revive Any Dying Plant With This 10-Cent Kitchen Trick |
+| 2026-04-28 | 202 | 6vQvmBEy7XE | 827 | 15 | 952 | 0.87 | 5 | 1.49 | binh_thuong | – | Không | Stop Mosquitoes With This $3 Rain Barrel Trick |
+| 2026-04-29 | 201 | _mm_X167qe8 | 1,461 | 15 | 827 | 1.77 | 5 | 1.61 | binh_thuong | – | Không | This Tree Feeds You, Heals You, and Cleans Your Water |
+| 2026-04-30 | 200 | bUxgnlMM0HI | 1,415 | 15 | 952 | 1.49 | 5 | 0.62 | binh_thuong | – | Không | This “Garnish” Was Medicine for 5,000 Years |
+| 2026-05-01 | 199 | Ntcft_4etWg | 1,442 | 15 | 954 | 1.51 | 5 | 0.61 | binh_thuong | – | Không | This 7,000-Year-Old “Weapon” Kills Garden Pests Fast |
+| 2026-05-02 | 198 | OIGSSVnWGwQ | 271 | 15 | 973 | 0.28 | 5 | 1.36 | binh_thuong | – | Không | These 5 Fruits Support Muscle Better Than You Think |
+| 2026-05-03 | 197 | MIvzHOHmxwU | 586 | 15 | 954 | 0.61 | 5 | 1.41 | binh_thuong | – | Không | $2 Seeds vs $400 Supplements — You Already Know the Answer |
+| 2026-05-06 | 194 | fgvjrJRXdBc | 1,328 | 15 | 952 | 1.39 | 5 | 1.42 | binh_thuong | – | Không | Every Woman Should Know This Easy Container Gardening Trick (So Easy!) |
+| 2026-05-07 | 193 | 9BaCnOQl-0A | 416 | 15 | 954 | 0.44 | 5 | 1.41 | binh_thuong | – | Không | You’re Paying to Kill This Free Superfood |
+| 2026-05-08 | 192 | BqAPHvGqLXk | 1,349 | 15 | 954 | 1.41 | 5 | 1.09 | binh_thuong | – | Không | Coffee Grounds Are Killing Your Plants? |
+| 2026-05-09 | 191 | L-pc8Bn_v8E | 2,954 | 15 | 1,328 | 2.22 | 5 | 0.78 | hoi_cao | – | Không | Cloves Kill Garden Pests But Protect Bees — Here’s Why |
+| 2026-05-10 | 190 | FHXgJpA7XS0 | 2,034 | 15 | 1,349 | 1.51 | 5 | 0.46 | binh_thuong | – | Không | Your Daily Watering Routine Is Destroying Tomato Roots |
+| 2026-05-11 | 189 | GUnu4PUnZBg | 1,037 | 15 | 1,415 | 0.73 | 5 | 0.38 | binh_thuong | – | Không | Stop Buying Prebiotics — Grow These 6 “Weeds” Instead |
+| 2026-05-13 | 187 | p2B1m-Rb1lM | 355 | 15 | 1,415 | 0.25 | 5 | 0.44 | binh_thuong | – | Không | A Wild Plant Makes Real Foam — So Why Did Shampoo Replace It? |
+| 2026-05-14 | 186 | T3v3V8uVb2o | 625 | 15 | 1,349 | 0.46 | 5 | 0.40 | binh_thuong | – | Không | Stop Planting Tomatoes Upright — Do This for 2X More Fruit |
+| 2026-05-15 | 185 | 6x2Gg0S7pwY | 34,940 | 15 | 1,328 | 26.31 | 5 | 0.36 | can_kiem_ky | – | Không | The $4 Lawn Tonic Golf Courses Didn’t Want Shared |
+| 2026-05-16 | 184 | I_bXAMjJlpY | 474 | 15 | 1,328 | 0.36 | 5 | 0.33 | binh_thuong | – | Không | Pour This on Tomato Roots Every 2 Weeks (Crazy Results) |
+| 2026-05-17 | 183 | Dy0KLZfuuJM | 538 | 15 | 1,328 | 0.41 | 5 | 0.25 | binh_thuong | – | Không | One Herb That “Fixes” Everything? Varicose Veins, Arthritis, Joints Like New |
+| 2026-05-18 | 182 | hvVqq7s0kHk | 1,730 | 15 | 1,037 | 1.67 | 5 | 0.23 | binh_thuong | – | Không | Plant This Natural Rat Barrier Around Your House |
+| 2026-05-19 | 181 | JyW8s_Gl_Ec | 335 | 15 | 1,037 | 0.32 | 5 | 0.23 | binh_thuong | – | Không | Raisins Heal Everything? We Checked 6 Claims |
+| 2026-05-20 | 180 | mfj-jAaY0m8 | 443 | 15 | 625 | 0.71 | 5 | 0.38 | binh_thuong | – | Không | The Viral “Collagen Plant” Was Wrong — Here’s the Real One |
+| 2026-05-21 | 179 | bEkYJkunNG0 | 197 | 15 | 625 | 0.32 | 5 | 0.46 | binh_thuong | – | Không | They Threw Away the Most Powerful Part of the Pumpkin |
+| 2026-05-22 | 178 | H_ZtU7A--3s | 94 | 15 | 625 | 0.15 | 5 | 0.46 | binh_thuong | – | Không | This Folk Remedy Can Damage Your Skin |
+| 2026-05-23 | 177 | 2KucNX2h0Io | 235 | 15 | 538 | 0.44 | 5 | 0.59 | binh_thuong | – | Không | Hydrogen Peroxide Works — But Only If You Use It Here |
+| 2026-05-24 | 176 | 7iYPlkbPFWQ | 286 | 15 | 538 | 0.53 | 5 | 0.59 | binh_thuong | – | Không | 15 Crops in Pots? Don’t Make This Mistake |
+| 2026-05-25 | 175 | SUASBrDWIyw | 502 | 15 | 474 | 1.06 | 5 | 0.67 | binh_thuong | – | Không | Don’t Spray Everything — Use This Aphid Trick Instead |
+| 2026-05-26 | 174 | PBVTLYFJsxo | 426 | 15 | 474 | 0.90 | 5 | 0.67 | binh_thuong | – | Không | The Weed Everyone Pulls Out Has a Secret |
+| 2026-05-30 | 170 | 8YHuCtdL3qk | 134 | 15 | 443 | 0.30 | 5 | 0.72 | binh_thuong | – | Không | This “Muscle Fruit” Claim Is Fooling Seniors |
+| 2026-05-31 | 169 | 6MC2ARP2ov4 | 319 | 15 | 426 | 0.75 | 5 | 1.44 | binh_thuong | – | Không | Stop Letting Rain Hit Your Tomato Plants |
+| 2026-06-01 | 168 | BsUbfcSDlPg | 286 | 15 | 426 | 0.67 | 5 | 1.62 | binh_thuong | – | Không | Stop Spraying Your Lawn for Ticks |
+| 2026-06-02 | 167 | WLrpH5BBRd4 | 1,020 | 15 | 335 | 3.04 | 5 | 1.84 | dang_ghi | – | Không | Fruit Tree Full of Leaves, No Fruit? |
+| 2026-06-03 | 166 | tlMgWQrNq_4 | 692 | 15 | 335 | 2.07 | 5 | 0.89 | hoi_cao | – | Không | 1 Cup a Week! Your Flowers Never Stop Blooming |
+| 2026-06-04 | 165 | b4bXG8Y1kdQ | 297 | 15 | 335 | 0.89 | 5 | 0.85 | binh_thuong | – | Không | Stop Killing These 12 Weeds |
+| 2026-06-05 | 164 | kyJBlGHPvD8 | 615 | 15 | 319 | 1.93 | 5 | 0.89 | binh_thuong | – | Không | JUST 1 LEAF OF THIS PLANT IS WORTH GOLD! |
+| 2026-06-06 | 163 | V30flzXL2aU | 1,027 | 15 | 319 | 3.22 | 5 | 0.89 | dang_ghi | – | Không | This Plant Feeds 2 Billion People — But It's Illegal To Grow In Parts Of America |
+| 2026-06-07 | 162 | mzrMV5bEz8Q | 285 | 15 | 319 | 0.89 | 5 | 1.71 | binh_thuong | – | Không | They Tried To Patent Turmeric — Then India Fought Back |
+| 2026-06-08 | 161 | HeJYTqdbkQ8 | 253 | 15 | 297 | 0.85 | 5 | 1.84 | binh_thuong | – | Không | Don’t Throw Away Old Seeds Until You Try This |
+| 2026-06-09 | 160 | Vhfp7tPXlYg | 282 | 15 | 297 | 0.95 | 5 | 1.84 | binh_thuong | – | Không | The Tomato Trick Most Gardeners Get Wrong |
+| 2026-06-10 | 159 | wyCbWDDL8X4 | 854 | 15 | 297 | 2.88 | 5 | 1.29 | hoi_cao | – | Không | Don’t Throw Away Cherry Pits Until You Try This |
+| 2026-06-11 | 158 | Oml_-x8JrhM | 686 | 15 | 319 | 2.15 | 5 | 0.97 | hoi_cao | – | Không | Don’t Plant Chia Seeds Until You Know This |
+| 2026-06-12 | 157 | T8TL7g-PvfA | 547 | 15 | 426 | 1.28 | 5 | 0.73 | binh_thuong | – | Không | Don’t Put Flowers in a Vase Until You Know This |
+| 2026-06-13 | 156 | MpW7Ksm3Sps | 191 | 15 | 426 | 0.45 | 5 | 0.81 | binh_thuong | – | Không | Before You Drink Milk for Calcium, Watch This |
+| 2026-06-14 | 155 | UrND67NTjcY | 383 | 15 | 319 | 1.20 | 5 | 1.08 | binh_thuong | – | Không | Big Tomato Plant, No Fruit? Do This |
+| 2026-06-15 | 154 | ZMo_Y5n8a3E | 169 | 15 | 383 | 0.44 | 5 | 0.90 | binh_thuong | – | Không | It Grows in Your Lawn. It Worked Against Resistant Viruses in the Lab. Why Was It Forgotten? |
+| 2026-06-16 | 153 | pPi5p-MEJro | 311 | 15 | 383 | 0.81 | 5 | 0.90 | binh_thuong | – | Không | Two Spoons of Borax Changed How Old Farmers Fought Garden Pests. Why Did We Stop Using It? |
+| 2026-06-18 | 151 | wEbzPOKi4qQ | 344 | 15 | 383 | 0.90 | 5 | 1.35 | binh_thuong | – | Không | The Painkiller You Can Grow for Free. Sold in 1890, Forgotten by 1939. Why? |
+| 2026-06-20 | 149 | 2vljijoAFQ4 | 823 | 15 | 344 | 2.39 | 5 | 1.24 | hoi_cao | – | Không | Grow Mint All Year Long with One Plastic Bottle 🌿 |
+| 2026-06-22 | 147 | 1QrK2ZmMnz8 | 517 | 15 | 344 | 1.50 | 5 | 0.88 | binh_thuong | – | Không | Do This NOW for Endless Cucumbers — The Harvest Never Stops! |
+| 2026-06-24 | 145 | 6jwFpe7xic0 | 240 | 15 | 383 | 0.63 | 5 | 0.79 | binh_thuong | – | Không | One Plant. Six Traditional Uses. Almost Nobody Talks About It Anymore. |
+| 2026-06-25 | 144 | K6y2rFo5zz8 | 303 | 15 | 344 | 0.88 | 5 | 1.24 | binh_thuong | – | Không | The Old Farmer's Secret for Picking Sweet Watermelons 🍉 |
+| 2026-06-28 | 141 | xCN6j6HI1XM | 522 | 15 | 311 | 1.68 | 5 | 1.37 | binh_thuong | – | Không | America’s Most Hated Native Wildflower Isn’t a Weed |
+| 2026-06-30 | 139 | 1IydtT5djXc | 425 | 15 | 344 | 1.24 | 5 | 1.13 | binh_thuong | – | Không | No Fertilizer. No Sprinklers. Just This Japanese Lawn Method |
+| 2026-07-03 | 136 | d2Jxx7lO-Tk | 205 | 15 | 383 | 0.54 | 5 | 1.01 | binh_thuong | – | Không | Try This for 24 Hours: The Simple Habit That May Support Fat Burning and Cellular Repair |
+| 2026-07-06 | 133 | fN-lVbtEcKY | 227 | 15 | 383 | 0.59 | 5 | 1.07 | binh_thuong | – | Không | They Laughed at Her No-Plow Farm — Then the Flood Came |
+| 2026-07-09 | 130 | 3kiYZY5Z31E | 2,291 | 15 | 344 | 6.66 | 5 | 1.13 | manh | – | Không | Better Than Vinegar and Salt? 1 Spoon Makes Weeds Wilt Fast |
+| 2026-07-12 | 127 | UVgSPyYUIfc | 459 | 15 | 344 | 1.33 | 5 | 0.90 | binh_thuong | – | Không | This Wild Plant Tastes Like Lemonade… But People Think It’s Poison |
+| 2026-07-14 | 125 | VFghHYHS6xE | 388 | 15 | 344 | 1.13 | 5 | 0.90 | binh_thuong | – | Không | Lentil Water Rooting Hack: Make It Once, Freeze It for Later |
+| 2026-07-17 | 122 | N5O3ePHJlF0 | 310 | 15 | 383 | 0.81 | 5 | 0.86 | binh_thuong | – | Không | Tomato Plants Love This — Do It Before It’s Too Late |
+| 2026-07-19 | 120 | A3gLVSx_wiY | 408 | 15 | 344 | 1.19 | 5 | 0.96 | binh_thuong | – | Không | Never Buy a Bland Cantaloupe Again — Look for These 5 Signs |
+| 2026-07-21 | 118 | bebyesbt4_Q | 149 | 15 | 388 | 0.38 | 5 | 0.92 | binh_thuong | – | Không | Grow Eggplant Like a Pro: Planting and Pest Control Tips |
+| 2026-07-23 | 116 | FoMpuvhTQEA | 212 | 15 | 388 | 0.55 | 5 | 0.92 | binh_thuong | – | Không | Just 1 Glass... and Your Plants Won't Stop Blooming |
+| 2026-07-26 | 113 | Elhe4nbpWkA | 431 | 15 | 388 | 1.11 | 5 | 0.92 | binh_thuong | – | Không | My Neighbor Never Pulls Weeds Anymore—Here's Why |
+| 2026-07-29 | 110 | nUvCEiJLx4c | 331 | 15 | 388 | 0.85 | 5 | 1.12 | binh_thuong | – | Không | Nobody Tells You This About Lemon Trees! Do This in July for New Growth in Just 7 Days 🍋 |
+| 2026-07-30 | 109 | pJL4i2hMmF4 | 357 | 15 | 331 | 1.08 | 5 | 1.61 | binh_thuong | – | Không | What Happens When You Start Drinking Rosemary Tea Regularly? |
+| 2026-08-02 | 106 | uDKAuyzWfYk | 433 | 15 | 357 | 1.21 | 5 | 1.50 | binh_thuong | – | Không | The One Trick That Helps Fruit Trees Produce More Fruit |
+| 2026-08-12 | 96 | PRGdY4QOeMw | 241 | 15 | 388 | 0.62 | 5 | 1.47 | binh_thuong | – | Không | This Weed Foams Like Store-Bought Soap. Grows Wild in Almost Any Yard. So Why Did We Forget It? |
+| 2026-08-22 | 86 | mBeUQ5ivlkM | 534 | 15 | 357 | 1.50 | 5 | 1.98 | binh_thuong | – | Không | The One Crop That Can Feed You Until March — No Freezer Needed |
+| 2026-09-02 | 75 | rhvbMDVyZGY | 569 | 15 | 357 | 1.59 | 5 | 1.98 | binh_thuong | – | Không | This Cheap Lawn Trick Really Works — But Not the Way You Think |
+| 2026-09-05 | 72 | 73QTYDlLoU4 | 872 | 15 | 388 | 2.25 | 5 | 1.29 | hoi_cao | – | Không | Why Your Fruit Tree Still Won’t Fruit — Even After This Trick |
+| 2026-09-09 | 68 | 8dEI4GWyFKU | 475 | 15 | 408 | 1.16 | 5 | 1.26 | binh_thuong | – | Không | 29 Perennial Crops You Plant Once — But Which Ones Survive YOUR Winter? |
+| 2026-09-13 | 64 | C1hSvk0Lzus | 855 | 15 | 408 | 2.10 | 5 | 1.26 | hoi_cao | – | Không | How to Turn a Weedy Lawn Green Again — The Step Most People Skip |
+| 2026-09-17 | 60 | -zeoG6VwQGo | 707 | 15 | 408 | 1.73 | 4 | – | binh_thuong | – | Không | Baby Shampoo, Fertilizer & Iron for Lawns — What Actually Works? |
+| 2026-09-21 | 56 | WsfLQva5Xdk | 294 | 15 | 431 | 0.68 | 3 | – | binh_thuong | – | Không | $80 Per Pound? Why “Money Crops” Can Still Lose You Money |
+| 2026-09-26 | 51 | U3crRGXU-n8 | 499 | 15 | 431 | 1.16 | 2 | – | binh_thuong | – | Không | Don’t Plant Fall Vegetables by Month — Use Your Frost Date Instead |
+| 2026-10-06 | 41 | E7QTfiv53PQ | 516 | 15 | 433 | 1.19 | 1 | – | binh_thuong | – | Không | Boil Bay Leaves With Cinnamon & Lemon — You’ve Been Making This Tea Wrong |
+| 2026-10-12 | 35 | CAZa9KsmbGE | 839 | 15 | 475 | 1.77 | 0 | – | binh_thuong | – | Không | 7 Things You MUST Do in Your Garden This October (Before It's Too Late!) |

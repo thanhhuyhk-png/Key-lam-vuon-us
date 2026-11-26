@@ -1,0 +1,150 @@
+# Đo kênh: UCQ-pkRQptiAKBFvVnlSx2jw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 123 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 181 |
+| n_trong_danh_sach | 106 |
+| n_dai | 100 |
+| n_short | 6 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 110,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2025-11-15 |
+| n_ngoai_cua_so | 17 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 26,838 |
+| cao_nhat | 237,530 |
+| thap_nhat | 8,856 |
+| phan_tan | 8.85 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.24 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 3.05 |
+| ngay_video_dau | 2023-09-06 |
+| tuoi_tu_video_dau | 1,167 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 94.26 |
+| sub_moi_video | 608 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.01 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2024-04-17 | 943 | _K5a-sZn16A | 6,879 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | I Built a GENIUS off-grid Rainwater Shower! - Super Hot, on Demand |
+| 2024-04-22 | 938 | R74q6jODZak | 19,357 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The First Shoe Made By Ai? \|\| Vivobarefoot Jungle ESC Unboxing + Torture Test |
+| 2024-10-18 | 759 | P8YuV8vnWug | 11,632 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | I Made A Huge Mistake \|\| Vivobarefoot Scott IV Unboxing + Torture Test |
+| 2025-02-09 | 645 | 33lgFRydH3A | 8,874 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Revolutionary Boot Everyone Ignored \|\| LANX Ribchester Unboxing + Torture Test |
+| 2025-05-02 | 563 | pKqBx03eNaY | 18,149 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Are Barefoot Shoes a Scam? 1 Year in Vivobarefoot Jungle ESC Boots |
+| 2025-05-09 | 556 | CAITahFcXLY | 1,643 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | What To Pack For your First Time Wild Camping |
+| 2025-06-10 | 524 | FjVUit2uuHY | 2,147 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 24Hr Carboot Sale Survival Challenge |
+| 2025-06-12 | 522 | vEM8ULmZORc | 4,250 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 24Hr Poundland Survival Challenge |
+| 2025-11-15 | 366 | f8b_EdM0gfM | 13,197 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Is Expired Food Actually Dangerous? |
+| 2025-11-20 | 361 | rWZUzCL0Dyc | 71,769 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Prepare a UK Winter Blackout Kit for Under £50 |
+| 2025-11-22 | 359 | SBGS9Y97otA | 33,804 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 UK Survival Items to Get Before December 15th |
+| 2025-11-25 | 356 | c9NyW5_zmLo | 188,666 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Prepare a UK Winter Food Stockpile for Under £30 |
+| 2025-11-27 | 354 | P6pOsEl2KHA | 23,332 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Warning! This UK Winter May be One of The Worst in Years |
+| 2025-11-29 | 352 | oavjA81a5yM | 276,684 | 5 | 33,804 | 8.18 | 5 | 0.48 | manh | – | Không | When the Heating Goes Off This Winter: The £20 Kit Every UK Home Needs |
+| 2025-12-02 | 349 | WfgGDoYl1jI | 11,192 | 6 | 52,786 | 0.21 | 5 | 0.36 | binh_thuong | – | Không | The ULTIMATE £20 WINTER VEHICLE SURVIVAL KIT \| DIY Vehicle Preparedness |
+| 2025-12-04 | 347 | AwAhmx6LvEE | 16,364 | 7 | 33,804 | 0.48 | 5 | 2.42 | binh_thuong | – | Không | How to Stop Being Cold Outside In The UK. |
+| 2025-12-06 | 345 | hidFYeb-Seg | 13,534 | 8 | 28,568 | 0.47 | 5 | 5.05 | binh_thuong | – | Không | Top 8 UK survival skills you can easily learn now (and are inexpensive) |
+| 2025-12-09 | 342 | vXH2rwYy_uM | 19,123 | 9 | 23,332 | 0.82 | 5 | 6.19 | binh_thuong | – | Không | 5 UK Food Items That Soon Will Disappear (That You'll Want) |
+| 2025-12-11 | 340 | b4bjst4KDRs | 486,408 | 10 | 21,228 | 22.91 | 5 | 6.80 | can_kiem_ky | – | Không | 20 UK Foods to Stockpile That NEVER EXPIRE |
+| 2025-12-13 | 338 | VjGFkVrt1nw | 144,374 | 11 | 23,332 | 6.19 | 5 | 3.51 | manh | – | Không | 15 Critical Items on Your 2026 UK Prepper Checklist |
+| 2025-12-16 | 335 | fqHNKRoV0gQ | 81,921 | 12 | 28,568 | 2.87 | 5 | 2.51 | hoi_cao | – | Không | They Are Telling Us To Prepare For War - Do This Now |
+| 2025-12-20 | 331 | 0H2qCgbgfck | 271,812 | 13 | 33,804 | 8.04 | 5 | 0.52 | manh | – | Không | 12 Ways To Cook During A Total Blackout |
+| 2025-12-22 | 329 | -_NfFbZl7wU | 5,063 | 14 | 52,786 | 0.10 | 5 | 1.36 | binh_thuong | – | Không | I Had to Bug Out on Christmas Day: My Survival Dinner in the Wilderness. |
+| 2025-12-24 | 327 | CPRwnYHLDZM | 154,663 | 15 | 33,804 | 4.58 | 5 | 0.52 | dang_ghi | – | Không | 11 Heating Sources That Don’t Need Electricity UK Blackout Heat - STOCKPILE NOW |
+| 2025-12-29 | 322 | pwjz-vP75IA | 71,769 | 15 | 71,769 | 1.00 | 5 | 0.24 | binh_thuong | – | Không | 9 Items That’ll Get You HUNTED DOWN After the UK COLLAPSE |
+| 2026-01-01 | 319 | o7DNVBLWbsg | 17,459 | 15 | 71,769 | 0.24 | 5 | 0.27 | binh_thuong | – | Không | 2026 Is About to Get Messy - Get Prepared |
+| 2026-01-03 | 317 | bKlA9QHfkJE | 16,627 | 15 | 71,769 | 0.23 | 5 | 0.30 | binh_thuong | – | Không | Zero-Cost Home Fortress - The 3 Phases of Defence During a UK Blackout |
+| 2026-01-06 | 314 | xRxciFGINHI | 118,197 | 15 | 23,332 | 5.07 | 5 | 0.93 | manh | – | Không | 10 Items to Get Before February 1st, 2026 |
+| 2026-01-08 | 312 | bUzdtabBMi8 | 6,174 | 15 | 71,769 | 0.09 | 5 | 0.30 | binh_thuong | – | Không | when you get prepared, tell NO ONE |
+| 2026-01-10 | 310 | DNZsKgQQ5Zs | 21,739 | 15 | 19,123 | 1.14 | 5 | 1.02 | binh_thuong | – | Không | The UK Is In Big Danger - We Missed The Warning Signs |
+| 2026-01-13 | 307 | 4z5hy8QYkdY | 19,547 | 15 | 21,739 | 0.90 | 5 | 0.88 | binh_thuong | – | Không | How to Build a UK Go Bag 2026 |
+| 2026-01-15 | 305 | _beEVbq45Xc | 35,177 | 15 | 21,739 | 1.62 | 5 | 0.88 | binh_thuong | – | Không | It’s Getting Worse: UK Urgent Emergency Declared - What You Should Do |
+| 2026-01-17 | 303 | plxGTmo2cEA | 40,253 | 15 | 35,177 | 1.14 | 5 | 0.54 | binh_thuong | – | Không | This Can’t Be Real… But It's Been Confirmed |
+| 2026-01-20 | 300 | cdWCK6QJwjA | 6,683 | 15 | 40,253 | 0.17 | 5 | 0.67 | binh_thuong | – | Không | £15 Radiator Hacks That Heats Your Room Fast |
+| 2026-01-22 | 298 | 5-6KxJgOapg | 12,927 | 15 | 35,177 | 0.37 | 5 | 1.25 | binh_thuong | – | Không | This Is How It Starts: You Won't Believe What's Happening... |
+| 2026-01-24 | 296 | bjz_6pTgq8s | 19,094 | 15 | 21,739 | 0.88 | 5 | 2.02 | binh_thuong | – | Không | BANNED in Europe… Still eaten in UK Food?! - Do This Now |
+| 2026-01-27 | 293 | xoB8Q300a-k | 117,133 | 15 | 19,547 | 5.99 | 5 | 1.42 | manh | – | Không | The UK Isn't Ready For What's Coming - What the News Isn't Telling You |
+| 2026-01-29 | 291 | CV_i-pRchA4 | 115,945 | 15 | 19,547 | 5.93 | 5 | 1.39 | manh | – | Không | The UK Is Quietly Preparing For Something Big— Here's What To Do |
+| 2026-01-31 | 289 | wJQFjWfSsBw | 27,110 | 15 | 21,739 | 1.25 | 5 | 1.20 | binh_thuong | – | Không | What They're Not Telling You About The UK Solar Storms - Get Ready |
+| 2026-02-03 | 286 | ht8TJZQNCZY | 43,863 | 15 | 21,739 | 2.02 | 5 | 1.20 | hoi_cao | – | Không | UK Is Preparing for Nipah - Do This Now |
+| 2026-02-05 | 284 | 3GgRzpo1klY | 26,129 | 15 | 21,739 | 1.20 | 5 | 0.79 | binh_thuong | – | Không | The UK Is About to Make Car Ownership Impossible |
+| 2026-02-07 | 282 | Yr-4eSUHvVU | 27,764 | 15 | 26,129 | 1.06 | 5 | 0.66 | binh_thuong | – | Không | UK WARNING: The Chain Reaction Has Started (Markets & Iran) |
+| 2026-02-10 | 279 | Y-y3MBXhkWY | 13,051 | 15 | 27,110 | 0.48 | 5 | 0.64 | binh_thuong | – | Không | The UK Is Getting Worse Than You Think - Do This Now |
+| 2026-02-12 | 277 | M2vpFpMkUo8 | 17,280 | 15 | 26,129 | 0.66 | 5 | 2.98 | binh_thuong | – | Không | If What They’re Saying Is True, The UK Must Prepare |
+| 2026-02-14 | 275 | xernVDiP4ng | 77,779 | 15 | 26,129 | 2.98 | 5 | 0.64 | hoi_cao | – | Không | 17 Bulletproof UK Used Cars You Should Buy Before Prices Explode |
+| 2026-02-17 | 272 | XU5hWjscDak | 12,354 | 15 | 27,110 | 0.46 | 5 | 1.61 | binh_thuong | – | Không | ALERT: UK Is Entering a 'Painful Phase' - What They're Not Telling You |
+| 2026-02-19 | 270 | mzkTNNC1hzg | 100,793 | 15 | 27,110 | 3.72 | 5 | 1.61 | dang_ghi | – | Không | 17 Bulletproof UK Used 4X4's You Should Buy Before Prices Explode |
+| 2026-02-21 | 268 | k_3_EiFX5c4 | 16,094 | 15 | 27,110 | 0.59 | 5 | 1.61 | binh_thuong | – | Không | These 10 Cities Will FALL First as UK Enters Recession |
+| 2026-02-24 | 265 | LxojbH1S-OA | 235,148 | 15 | 26,129 | 9.00 | 5 | 0.64 | manh | – | Không | 7 Foods I Hide From Other Preppers (My Secret UK Stockpile) |
+| 2026-02-26 | 263 | TE6e0eX-NTs | 16,816 | 15 | 27,110 | 0.62 | 5 | 1.61 | binh_thuong | – | Không | I Spent £1,000 Prepping My Car for A UK Civil War… Here’s What I Got |
+| 2026-02-28 | 261 | PU3llOjBppw | 43,726 | 15 | 27,110 | 1.61 | 5 | 1.19 | binh_thuong | – | Không | They Will Take Your Supplies If You Let Them - (UK WARNING) |
+| 2026-03-02 | 259 | qiEhlXYTKpw | 120,044 | 15 | 27,764 | 4.32 | 5 | 1.16 | dang_ghi | – | Không | We Have Only 10 Days Left… Most People Don’t See What’s Coming |
+| 2026-03-03 | 258 | f8tU8wWPGhw | 15,615 | 15 | 27,764 | 0.56 | 5 | 1.16 | binh_thuong | – | Không | Urgent: The UK Base Strike Is Just The Beginning |
+| 2026-03-05 | 256 | YPg9KHKNEuQ | 15,034 | 15 | 27,110 | 0.55 | 5 | 1.40 | binh_thuong | – | Không | The Strait of Hormuz Could Start World War 3 - Get Ready |
+| 2026-03-07 | 254 | tQJ4C9D6iY8 | 494,308 | 15 | 26,129 | 18.92 | 5 | 1.24 | can_kiem_ky | – | Không | 10 Items to Get Before April 1st, 2026 |
+| 2026-03-10 | 251 | o190ji-Y_ew | 32,342 | 15 | 26,129 | 1.24 | 5 | 1.45 | binh_thuong | – | Không | 15 UK Superfoods to Buy Before Prices Rise |
+| 2026-03-12 | 249 | opbFGaN9M8A | 46,836 | 15 | 27,764 | 1.69 | 5 | 1.36 | binh_thuong | – | Không | UK WARNING: The Energy Shock Has Started - What They’re Not Telling You |
+| 2026-03-14 | 247 | OVm8fKimW7Q | 16,592 | 15 | 32,342 | 0.51 | 5 | 1.73 | binh_thuong | – | Không | Is This the Start of a World War? |
+| 2026-03-17 | 244 | tXsz5r30GYA | 37,888 | 15 | 32,342 | 1.17 | 5 | 1.73 | binh_thuong | – | Không | The Iran War Just Triggered a UK Food Crisis (Not Just Oil) |
+| 2026-03-19 | 242 | zrAfADljh6Y | 6,985 | 15 | 37,888 | 0.18 | 5 | 1.47 | binh_thuong | – | Không | 12 Cars That Will Skyrocket In Price As The Iran War Escalates |
+| 2026-03-21 | 240 | CP5Y9DTulB0 | 126,561 | 15 | 32,342 | 3.91 | 5 | 1.73 | dang_ghi | – | Không | If War Reaches Your UK City Tonight, Do THESE 8 Things In The First Hour |
+| 2026-03-26 | 235 | EhdCkGNL17M | 88,110 | 15 | 37,888 | 2.33 | 5 | 0.97 | hoi_cao | – | Không | The UK Is Quietly Preparing For Energy Lockdowns — Here's What To Do |
+| 2026-03-28 | 233 | RnmXs9_E790 | 55,800 | 15 | 37,888 | 1.47 | 5 | 0.70 | binh_thuong | – | Không | I'm PREPPING For - Food Shortages In UK |
+| 2026-03-31 | 230 | cGK1Z2mD8Jc | 36,717 | 15 | 43,726 | 0.84 | 5 | 0.58 | binh_thuong | – | Không | UK Fuel Panic Has Started - Do These 10 Things Now |
+| 2026-04-02 | 228 | w30RebLBZS4 | 9,937 | 15 | 37,888 | 0.26 | 5 | 0.67 | binh_thuong | – | Không | 4 Skills That Survived Every Economic Collapse in History |
+| 2026-04-07 | 223 | 5q01oLE7gvw | 96,139 | 15 | 37,888 | 2.54 | 5 | 0.44 | hoi_cao | – | Không | 10 Items to Get Before May 1st, 2026 |
+| 2026-04-10 | 220 | wBiwIlhCSBM | 16,333 | 15 | 37,888 | 0.43 | 5 | 0.67 | binh_thuong | – | Không | The UK Just Did The Unthinkable |
+| 2026-04-14 | 216 | a1_o0UdJ0oE | 26,536 | 15 | 36,717 | 0.72 | 5 | 0.61 | binh_thuong | – | Không | You Have 7 Days Left... |
+| 2026-04-17 | 213 | zlhhstybUXc | 25,247 | 15 | 36,717 | 0.69 | 5 | 0.61 | binh_thuong | – | Không | Don’t Ignore These 8 Preps Before Things Get Chaotic Again |
+| 2026-04-21 | 209 | tduJD6fE5YI | 16,853 | 15 | 36,717 | 0.46 | 5 | 0.61 | binh_thuong | – | Không | How to Build A Prepping Larder Cupboard Storage in a Small UK Apartment |
+| 2026-04-23 | 207 | iiYT1c6bHQo | 11,592 | 15 | 32,342 | 0.36 | 5 | 0.96 | binh_thuong | – | Không | I Can't Believe What's About To Hit The UK — Here's My Escape Plan |
+| 2026-04-25 | 205 | PNsmXqQCGCI | 30,976 | 15 | 26,536 | 1.17 | 5 | 0.84 | binh_thuong | – | Không | The Oil Shock Is About To Hit The UK |
+| 2026-04-28 | 202 | kYe6IuC-Et8 | 22,338 | 15 | 26,536 | 0.84 | 5 | 0.38 | binh_thuong | – | Không | I Became Obsessed with Prepping… Here’s What I Learned |
+| 2026-05-01 | 199 | Fp9E7Un9kak | 37,963 | 15 | 26,536 | 1.43 | 5 | 0.33 | binh_thuong | – | Không | 10 Items to Get Before June 1st, 2026 |
+| 2026-05-05 | 195 | _ptvQJVTqsw | 10,010 | 15 | 26,536 | 0.38 | 5 | 0.33 | binh_thuong | – | Không | Everyone Is Missing The Warning Signs |
+| 2026-05-09 | 191 | FD21T5WOIBo | 38,045 | 15 | 26,536 | 1.43 | 5 | 0.33 | binh_thuong | – | Không | I’m PREPPING For A UK Famine |
+| 2026-05-12 | 188 | vFHzbnI9CqE | 8,729 | 15 | 26,536 | 0.33 | 5 | 0.63 | binh_thuong | – | Không | Prepping Like This Gives You An Unfair Advantage During a UK Blackout |
+| 2026-05-14 | 186 | A04nH8Lb0l0 | 5,647 | 15 | 25,247 | 0.22 | 5 | 0.67 | binh_thuong | – | Không | 5 Foods Every UK Home Should Be Growing Right Now |
+| 2026-05-15 | 185 | j3PP6sDbOo4 | 7,882 | 15 | 22,338 | 0.35 | 5 | 0.75 | binh_thuong | – | Không | The UK Is Quietly Preparing for Hantavirus |
+| 2026-05-16 | 184 | MDI_ERzxufE | 16,811 | 15 | 16,853 | 1.00 | 5 | 0.42 | binh_thuong | – | Không | Something Big Is About To Hit Europe... Most People Don’t See What’s Coming |
+| 2026-05-20 | 180 | VUTodHPiWjo | 162,161 | 15 | 16,853 | 9.62 | 5 | 0.42 | manh | – | Không | Proof That Most Emergency Preparedness Survival Water Filters Don’t Work! |
+| 2026-05-22 | 178 | rZmioAizZDo | 33,068 | 15 | 16,853 | 1.96 | 5 | 0.42 | binh_thuong | – | Không | 21 Cheap Survival Items That Will Make You Rich When Currency Dies |
+| 2026-05-25 | 175 | 8ZLG1Wwl6nY | 7,160 | 15 | 22,338 | 0.32 | 5 | 0.43 | binh_thuong | – | Không | Summer 2026 EDC \| Adapting Your Everyday Carry To The UK HEAT! |
+| 2026-05-30 | 170 | RjDU5d2t5V4 | 6,508 | 15 | 16,853 | 0.39 | 5 | 0.60 | binh_thuong | – | Không | 10 Items to Get Before July 1st, 2026 |
+| 2026-06-02 | 167 | k7YdviCUySg | 5,138 | 15 | 16,811 | 0.31 | 5 | 0.62 | binh_thuong | – | Không | These Survival Skills Are Saving Me A Fortune In The Cost Of Living Crisis |
+| 2026-06-04 | 165 | kYHwE9C84WQ | 9,674 | 15 | 11,592 | 0.83 | 5 | 0.97 | binh_thuong | – | Không | The Strongest El Niño In History Is Coming - Here’s What They’re Not Telling You |
+| 2026-06-11 | 158 | w0wJumnmZos | 10,033 | 15 | 10,010 | 1.00 | 5 | 2.06 | binh_thuong | – | Không | The UK Is Quietly Preparing For Riots - Do This Now |
+| 2026-06-13 | 156 | GaaERvR8RCY | 10,368 | 15 | 10,010 | 1.04 | 5 | 2.06 | binh_thuong | – | Không | 25 Civil War Survival Hacks That Could Save Your Family in a 7 Day Blackout |
+| 2026-06-23 | 146 | U98EMRk2mzg | 28,765 | 15 | 10,010 | 2.87 | 5 | 1.13 | hoi_cao | – | Không | This UK Heatwave Just Got Worse — Here’s What To Do |
+| 2026-06-25 | 144 | vKJ4JQ3GuVA | 11,293 | 15 | 10,010 | 1.13 | 5 | 1.08 | binh_thuong | – | Không | This Is NO JOKE.. It Has BEGUN |
+| 2026-06-30 | 139 | 2DPFW1dm9mk | 90,027 | 15 | 10,033 | 8.97 | 5 | 1.08 | manh | – | Không | I'm Seeing Something at Grocery Stores and It Confirms Everything |
+| 2026-07-02 | 137 | pyR0gA42yxw | 20,648 | 15 | 10,033 | 2.06 | 5 | 1.08 | hoi_cao | – | Không | UK Elderly Woman Are Now Getting Targeted |
+| 2026-07-04 | 135 | RRe7NUqFalQ | 10,805 | 15 | 10,368 | 1.04 | 5 | 1.05 | binh_thuong | – | Không | They're Now FINING You For Air Con And Most People Have No Idea |
+| 2026-07-07 | 132 | uDUjSztdcjU | 9,717 | 15 | 10,805 | 0.90 | 5 | 1.00 | binh_thuong | – | Không | Convert Any Fan Into a Free Air Conditioner \| DIY AC That Actually Works |
+| 2026-07-09 | 130 | OKK0zmQ-mqw | 10,847 | 15 | 10,805 | 1.00 | 5 | 1.57 | binh_thuong | – | Không | The UK Government just crossed the last line... |
+| 2026-07-16 | 123 | m9mFsqC8gKY | 16,938 | 15 | 10,805 | 1.57 | 5 | 1.91 | binh_thuong | – | Không | They Are Doing It In The Day Now |
+| 2026-07-23 | 116 | iBRSb9sdyBk | 52,346 | 15 | 10,805 | 4.84 | 5 | 1.91 | dang_ghi | – | Không | How to Prepare a UK Blackout Kit for Under £50 |
+| 2026-07-25 | 114 | GLRrVZekLCU | 8,856 | 15 | 10,805 | 0.82 | 5 | 4.10 | binh_thuong | – | Không | This Is Happening To People's iPhones And It's Terrifying |
+| 2026-07-30 | 109 | -B5Ofsp-WZo | 9,041 | 15 | 10,805 | 0.84 | 5 | 9.78 | binh_thuong | – | Không | 10 Things To Keep Charged Before SHTF |
+| 2026-08-06 | 102 | CSI0lLOlejc | 20,633 | 15 | 10,805 | 1.91 | 5 | 9.78 | binh_thuong | – | Không | 10 Things To Do In The First Hour of a UK Blackout |
+| 2026-08-13 | 95 | zOAA_HKkvqo | 139,779 | 15 | 10,847 | 12.89 | 5 | 9.74 | can_kiem_ky | – | Không | 10 PREPPER Items I'd Never Waste Money On Again |
+| 2026-09-03 | 74 | YXtDnlWiDgg | 105,644 | 15 | 11,293 | 9.35 | 5 | 3.92 | manh | – | Không | The UK Government Wants You Prepping — Here's The Truth |
+| 2026-09-05 | 72 | 3nv2xjHdE3A | 44,317 | 15 | 16,938 | 2.62 | 5 | 2.46 | hoi_cao | – | Không | Britain Is Seeing What’s Coming By 2027… And They’re Preparing |
+| 2026-09-22 | 55 | YxLXItEgN8w | 237,530 | 15 | 20,633 | 11.51 | 4 | – | can_kiem_ky | – | Không | 10 Items to Get Before October 25th, 2026 |
+| 2026-09-26 | 51 | wvc-QROrzTU | 41,723 | 15 | 20,633 | 2.02 | 3 | – | hoi_cao | – | Không | I Tried to Bug Out 1,000 Miles Across Britain as a Prepper |
+| 2026-10-03 | 44 | p9bQiZm1cxw | 133,530 | 15 | 20,648 | 6.47 | 2 | – | manh | – | Không | UK Government Officially Says Get These 10 items NOW |
+| 2026-10-08 | 39 | 3ikFN9tigEA | 25,832 | 15 | 20,648 | 1.25 | 1 | – | binh_thuong | – | Không | Uk Government Prepares for Russia Lab Leak - Do This Now |
+| 2026-10-16 | 31 | G_1BtV_96GE | 27,845 | 15 | 25,832 | 1.08 | 0 | – | binh_thuong | – | Không | Top 10 Items for Prepping in a UK Apartment |

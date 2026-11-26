@@ -1,0 +1,286 @@
+{
+  "channel_name": "Garden US",
+  "channel_id": "garden-us",
+  "youtube_channel_slug": "garden-us-60k",
+  "workspace_path": "D:\\0002-Team A Nam",
+  "brand_voice_file": "references/channel-truth.md",
+  "keyword_strategy_file": "references/title-keyword-strategy-en.md",
+  "script_language": "English",
+  "translate_es": true,
+  "thumbnail_skill": ".claude/skills/garden-us-thumbnail",
+  "target_viewer": "American home gardeners 35–60+ (lõi khán giả hiện tại 60–80), mostly on mobile",
+  "target_viewer_note": "USER QUYẾT ĐỊNH 2026-10-23: mở rộng khán giả mục tiêu 35–60+. Lõi hiện tại (comment, demographics) vẫn 60–80 → giữ câu ngắn, chữ to, dễ hiểu; bỏ giả định nghỉ hưu/già yếu và hoài niệm chỉ người 70+ hiểu. Câu chữ: references/brand-voice-dna.md § Ngôn ngữ cho khán giả 35–60+. L9 (cấm nhãn tuổi trên title/thumbnail) vẫn giữ. File cũ ghi 'seniors 60–80' → config + channel-truth thắng.",
+  "video_length": {
+    "target_minutes": "10-12",
+    "target_words_min": 1650,
+    "target_words_max": 2000,
+    "_why": "USER DUYỆT 2026-11-22 (đề xuất C5): 10–12′ (1.650–2.000 từ @165 wpm). Số: video ≤12′ có views_5d trung vị 349 vs 226 của video >12′ (n=43/42, 180 ngày, tools/kiem_dinh_ky.py); 3 video 10–12′ sau 10/11 views_5d 850 · 1.182 so với 289–649 của các video 17–20′. Chỉ vượt 12′ khi bảng Spine chứng minh payoff đủ dày (L7). Listicle Lane B giữ độ dài theo archetype.",
+    "_previous_2026_10_23": {
+      "target_minutes": "20-24",
+      "target_words_min": 3300,
+      "target_words_max": 4000
+    },
+    "_previous": {
+      "target_minutes": "8-10",
+      "target_words_min": 1200,
+      "target_words_max": 1500
+    },
+    "big_hit": {
+      "target_minutes": "10-12",
+      "target_words_min": 1650,
+      "target_words_max": 2000,
+      "_why": "USER DUYỆT 2026-11-22 (C5): cú đánh lớn cũng 10–12′ — cùng căn cứ với video_length. Trước đó 10–14′ (08/11).",
+      "_previous_2026_11_08": {
+        "target_minutes": "10-14",
+        "target_words_min": 1650,
+        "target_words_max": 2300
+      }
+    },
+    "_previous_2026_11_10": {
+      "target_minutes": "10-14",
+      "target_words_min": 1650,
+      "target_words_max": 2300,
+      "_why": "USER QUYẾT ĐỊNH 2026-11-10: mọi kịch bản Lane A về 10–14′ (165 wpm). Mốc 'đo sau 3 video' của quyết định 23/10 đã đủ: 5 video 17–20′ (18/10–06/11) AVD 12–17 %, 124–176 s/lượt — không hơn video 8–9′ (125–178 s); views_5d 488·543·649·316·225 so với 519–779 của 6 video 8–9′ trước đó; trung vị views_5d kênh 597 → 531. Mẫu nhỏ (n=5), đề tài có thể gây nhiễu. Chỉ vượt 14′ khi bảng Spine chứng minh payoff đủ dày (tinh thần L7). Listicle Lane B giữ độ dài theo archetype."
+    }
+  },
+  "scoring": {
+    "metric": "views_5d + giay xem/luot + CTR Studio theo tung video",
+    "median_5d_views": 597,
+    "win_threshold_5d": 896,
+    "breakout_threshold_5d": 2982,
+    "portfolio": {
+      "an_toan": 3,
+      "cu_danh_lon": 1,
+      "cua_so_video": 8
+    },
+    "_why_breakout": "USER DUYET 2026-11-08: hai muc thang. An toan >= 1,5x trung vi (win_threshold_5d); But >= 5x trung vi (breakout). Cu 4 video co 1 CU DANH LON (ghi 'HANG: CU DANH LON' trong pipeline-state.md), cham bang cong rieng (references/topic-gate-en.md muc CU DANH LON). Ca hai nguong doc lai tu references/dna-kenh.json moi Chu Nhat.",
+    "source": "references/channel-health-latest.json (23/10/2026); doc lai sau moi lan chay yt_analytics.py health",
+    "_why": "USER DUYET 2026-11-01: thong nhat moc 597 (so cu 285 chi con la lich su). Impressions/CTR va giay xem/luot cung la chi so chinh; AVD% khong dung mot minh de cham video."
+  },
+  "visual_rules": {
+    "ai_label_on_screen": false,
+    "_why": "USER QUYET 2026-11-01: khong gan nhan ILLUSTRATION tren hinh AI. Khong doi quy tac 'AI khong dung de chung minh ket qua' trong templates/shot-plan.template.md."
+  },
+  "notion": {
+    "big_ideas_url": "https://lunar-headlight-f5a.notion.site/Big-idea-377d73f564198028a6c8dbd7445d461f",
+    "benchmark_db": "a0386a02-e6fe-4a24-9df1-468b432e94db"
+  },
+  "folder_convention": "big-idea-{NNN}-{slug}",
+  "model_routing": {
+    "_comment": "Tiết kiệm token (Phase 3): Haiku mặc định cho bước cơ học; model mạnh chỉ ở bước quyết định CTR/AVD/compliance. Orchestrator skill đọc map này để chọn model/subagent.",
+    "default": "haiku",
+    "steps": {
+      "outline": "haiku",
+      "deep_research": "haiku",
+      "hook": "sonnet",
+      "script": "sonnet",
+      "script_audit": "sonnet",
+      "seo_en": "haiku",
+      "translate_es": "haiku",
+      "seo_es": "haiku",
+      "prediction": "haiku",
+      "retro_diff": "haiku",
+      "analytics_sync": "none",
+      "script_review": "opus",
+      "script_review_external": "agy",
+      "script_review_editor": "sonnet"
+    },
+    "escalate_note": "Video high-stakes (launch/seasonal tentpole) → bump hook+script+script_audit lên opus thủ công.",
+    "lane_remake": {
+      "_comment": "Override cho LANE B. archetype_classify: buoc R1.5 quyet dinh 8 bien cho moi buoc sau — sai o day thi sai het, khong dung haiku. deep_research nang theo goi archetype.",
+      "seed_radar": "haiku",
+      "deep_research": "sonnet",
+      "archetype_classify": "sonnet"
+    },
+    "review_note": "2026-11-08: Bước 3R phản biện kép bắt buộc ≥2 vòng — R1 Agy (--sandbox, khác hãng) + R2 sub-agent Opus ngữ cảnh mới (chấm luôn Risk Score compliance). Người phản biện phải khác model người viết (script = sonnet). script_audit giữ cho audit sâu tùy chọn."
+  },
+  "lanes": {
+    "big_idea": {
+      "source": "notion",
+      "folder_convention": "big-idea-{NNN}-{slug}",
+      "format": "single-topic",
+      "video_length_minutes": "10-12"
+    },
+    "remake": {
+      "source": "research/seed-radar-{YYYY}-W{ww}.md | user-supplied seed URL (ghi ro trong seed-brief)",
+      "folder_convention": "remake-{NNN}-{slug}",
+      "router": "references/remake-archetypes-en.md",
+      "playbook": "references/remake-playbook-en.md",
+      "_comment": "v2 (2026-09-09): lane B khong con 1 dinh dang cung. Buoc R1.5 phan loai seed thanh 1 trong 6 archetype, moi archetype khai 8 bien. Khong duoc mac dinh coi moi seed la A1.",
+      "classify_before_gate0": true,
+      "archetypes": {
+        "A1": {
+          "name": "Sensory Heritage Listicle",
+          "locked_asset": "sensory phrase",
+          "swap_axis": "subject",
+          "format": "listicle-countdown",
+          "items_min": 15,
+          "items_max": 18,
+          "payoff_position": 2,
+          "video_length_minutes": "18-22",
+          "spine_template": "templates/retention-spine-listicle.template.md",
+          "research_load": "3 facts x items",
+          "deep_research_model": "sonnet",
+          "evidence": "proven"
+        },
+        "A2": {
+          "name": "Seasonal Urgency Listicle",
+          "locked_asset": "deadline phrase",
+          "swap_axis": "time",
+          "format": "listicle-countdown",
+          "items_min": 12,
+          "items_max": 18,
+          "payoff_position": "distributed",
+          "video_length_minutes": "18-22",
+          "spine_template": "templates/retention-spine-listicle.template.md",
+          "research_load": "2 facts x items + frost-date by zone",
+          "deep_research_model": "sonnet",
+          "evidence": "proven",
+          "publish_window_is_hard_gate": true
+        },
+        "A3": {
+          "name": "Single-Technique Hack",
+          "locked_asset": "quantified ratio pair",
+          "swap_axis": "host_plant",
+          "format": "single-topic",
+          "beats": 6,
+          "payoff_position": "beat 4/6",
+          "video_length_minutes": "8-10",
+          "spine_template": "templates/retention-spine-single-technique.template.md",
+          "research_load": "5 standard questions + mechanism-on-new-host",
+          "deep_research_model": "sonnet",
+          "requires_second_promise": true,
+          "evidence": "inferred"
+        },
+        "A4": {
+          "name": "Mistake / Prohibition",
+          "locked_asset": "prohibition phrase",
+          "swap_axis": "subject|setting",
+          "format": "three-act + 5-8 mistakes",
+          "payoff_position": "worst mistake last",
+          "video_length_minutes": "10-14",
+          "spine_template": "templates/retention-spine-listicle.template.md",
+          "research_load": "2 facts x mistake",
+          "deep_research_model": "sonnet",
+          "evidence": "inferred",
+          "hard_gates": [
+            "X1",
+            "X3"
+          ]
+        },
+        "A5": {
+          "name": "Category Verdict / Ranking",
+          "locked_asset": "verdict phrase",
+          "swap_axis": "subject",
+          "format": "listicle-countdown",
+          "items_min": 10,
+          "items_max": 15,
+          "payoff_position": 1,
+          "video_length_minutes": "14-18",
+          "spine_template": "templates/retention-spine-listicle.template.md",
+          "research_load": "2 facts x item",
+          "deep_research_model": "sonnet",
+          "evidence": "inferred",
+          "hard_gates": [
+            "X2"
+          ]
+        },
+        "A6": {
+          "name": "Cross-Niche Frame Port",
+          "locked_asset": "title sentence frame",
+          "swap_axis": "setting",
+          "format": "reclassify after port",
+          "video_length_minutes": "per resolved archetype",
+          "deep_research_model": "sonnet",
+          "evidence": "proven",
+          "note": "port frame then re-run classifier; culprit must be a gardening event"
+        },
+        "A7": {
+          "name": "Myth Verdict",
+          "locked_asset": "belief phrase",
+          "swap_axis": "subject",
+          "format": "single-topic",
+          "acts": 4,
+          "payoff_position": "verdict before 60s",
+          "video_length_minutes": "8-10",
+          "research_load": ">=3 independent sources + belief origin + consensus synthesis",
+          "deep_research_model": "sonnet",
+          "requires": "verdict early + conditions late",
+          "evidence": "inferred",
+          "hard_gates": [
+            "X2"
+          ]
+        },
+        "A8": {
+          "name": "Rescue / Diagnosis",
+          "locked_asset": "symptom + outcome pair",
+          "swap_axis": "subject",
+          "format": "single-topic decision-tree",
+          "causes_min": 3,
+          "payoff_position": "correct diagnosis",
+          "video_length_minutes": "8-10",
+          "research_load": "1 source per cause + point-of-no-return threshold",
+          "deep_research_model": "sonnet",
+          "requires": "10-second distinguishing test per cause",
+          "evidence": "inferred",
+          "hard_gates": [
+            "X4"
+          ]
+        },
+        "A9": {
+          "name": "Build / Project",
+          "locked_asset": "object + number (price or constraint)",
+          "swap_axis": "scale|material",
+          "format": "single-topic 5-8 steps",
+          "payoff_position": "finished object, last beat",
+          "video_length_minutes": "8-10",
+          "research_load": "current real prices with date + safety source",
+          "deep_research_model": "sonnet",
+          "requires": "running cost total x3 + one make-or-break step",
+          "evidence": "inferred",
+          "hard_gates": [
+            "X2",
+            "L9"
+          ]
+        },
+        "A10": {
+          "name": "Mechanism Explainer",
+          "locked_asset": "paradox phrase",
+          "swap_axis": "subject",
+          "format": "single-topic 3-4 reveals",
+          "payoff_position": "principle, last beat",
+          "video_length_minutes": "8-10",
+          "research_load": ">=2 independent sources per principle (consensus synthesis)",
+          "deep_research_model": "sonnet",
+          "requires": "every reveal changes one action",
+          "evidence": "inferred",
+          "hard_gates": [
+            "X4"
+          ]
+        }
+      },
+      "templates": [
+        "templates/seed-radar.template.md",
+        "templates/seed-brief.template.md",
+        "templates/retention-spine-listicle.template.md",
+        "templates/retention-spine-single-technique.template.md"
+      ],
+      "scoring_metric": "views_5d_vs_median + total_watch_hours",
+      "seed_reject_filters": [
+        "X1 conspiracy asset",
+        "X3 health-fear/YMYL",
+        "X4 dangerous mechanism",
+        "X5 self-test persona",
+        "L9 viewer-age title",
+        "no swappable axis"
+      ],
+      "_warn": "18-22' va luật L7 (target kênh 8-10'). Đang ở trạng thái TEST CÓ KIỂM SOÁT — chưa phải luật. Sau 3 video: nếu views_5d không vượt median 285 thì rollback về 10'.",
+      "_warn_length": "Chi A1/A2/A5 duoc vuot 10 phut (test co kiem soat). A3/A4 giu video_length chuan — khong duoc muon ly do listicle de pha L7.",
+      "entry_paths": {
+        "A": "research/seed-radar-{YYYY}-W{ww}.md — R1 do duoc",
+        "B": "user dua link video — R1 do tai cho",
+        "C": "user dan mau kich ban/transcript, khong co so — BAT BUOC truy nguoc video nguon; khong tim ra thi ha xuong LANE A muon bo xuong, khong goi la remake"
+      }
+    }
+  }
+}

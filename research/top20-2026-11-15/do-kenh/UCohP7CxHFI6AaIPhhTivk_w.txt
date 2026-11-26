@@ -1,0 +1,150 @@
+# Đo kênh: UCohP7CxHFI6AaIPhhTivk_w.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 134 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 32,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-02-13 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 646 |
+| cao_nhat | 83,970 |
+| thap_nhat | 166 |
+| phan_tan | 130 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.02 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.16 |
+| ngay_video_dau | 2025-11-05 |
+| tuoi_tu_video_dau | 376 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 85.11 |
+| sub_moi_video | 239 |
+| video_30_ngay | 6 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-11-05 | 376 | o1e1TRasxyE | 1,872 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 20 Most Productive Crops You Must Plant in November Before It's Too Late |
+| 2025-11-06 | 375 | sY_n3j2pv5k | 1,457 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Grow These 7 Exotic Fruits Indoors (No Backyard Needed!) |
+| 2025-11-09 | 372 | IeaQMS0tyhE | 1,545 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Top 10 Vegetables and Herbs PERFECT for SHADE Garden Spots |
+| 2025-11-10 | 371 | VDNGB6VhcDY | 90 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | These 20 Vegetables Grow Like Fruit TREES! Plant Once, Eat Forever! |
+| 2025-11-12 | 369 | lKENNEOUef8 | 1,670 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | You Must Sow These Seeds in Early Winter |
+| 2025-11-23 | 358 | _L88HAFm5oA | 711 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Grow These 10 Plants From Kitchen scrap's & NEVER buy seeds Again |
+| 2025-11-27 | 354 | 259nWQ-ymvQ | 127 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 15 Forgotten Fruits That Grow Themselves - The Lazy Gardener's Goldmine \| Nostalgia Fruits |
+| 2025-12-05 | 346 | 0uUjF1JeVEc | 226 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Seeds You'll Regret Not Starting In December - Do It Before It's Too Late! |
+| 2026-02-13 | 276 | Wm9exsfCAkc | 2,252 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Forget Chickens — These 5 Animals Are Far More Valuable on Small Farms \| Profitable Farming. |
+| 2026-02-17 | 272 | kNh2PpSFzlk | 1,487 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 12 Vegetables That Thrive in Complete Shade ( Perfect for Small Space) |
+| 2026-02-20 | 269 | PlvNnqsJsE4 | 159 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Secret to Longevity: 20 Plants You Should Be Growing |
+| 2026-02-21 | 268 | VDIQPtPMyPI | 1,117 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Best Ginger to Grow in Your Garden |
+| 2026-02-23 | 266 | NqXwnvQ217Q | 964 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Regrow The Same Bell Pepper Plant Every Year - Here Is How! |
+| 2026-02-24 | 265 | Ng7Ex0MtKkk | 561 | 5 | 1,117 | 0.50 | 5 | 1.02 | binh_thuong | – | Không | 15 Spiritual Plants That Attract Positive Energy Into Your Home. |
+| 2026-02-25 | 264 | V0aGr_q5gRs | 13,921 | 6 | 1,040 | 13.38 | 5 | 0.90 | can_kiem_ky | – | Không | Grow Strawberries Year-Round With This Insane Container Method. |
+| 2026-02-27 | 262 | Cdn21NszQWM | 438,944 | 7 | 1,117 | 393 | 5 | 0.84 | can_kiem_ky | – | Không | Never Plant Ginger Without This _ For Large Fruits & More Ginger, Follow This. |
+| 2026-03-01 | 260 | ObpW_CA0ygA | 1,138 | 8 | 1,302 | 0.87 | 5 | 0.50 | binh_thuong | – | Không | 10 Seed You Must Start in March to Harvest 5x More by summer |
+| 2026-03-03 | 258 | o8E_-P_Ea00 | 938 | 9 | 1,138 | 0.82 | 5 | 0.57 | binh_thuong | – | Không | 5 Seed-Starting Mistakes Pros Never Make. |
+| 2026-03-09 | 252 | mHn3XEQ3CP0 | 577 | 10 | 1,128 | 0.51 | 5 | 0.85 | binh_thuong | – | Không | 10 Tropical Fruit Trees You can Grow in Small Spaces for a Lifetime Harvest. |
+| 2026-03-12 | 249 | Kah7udU5vIM | 592 | 11 | 1,117 | 0.53 | 5 | 0.86 | binh_thuong | – | Không | Why Amish Garden's Rarely Have Pests - The Simple Stick Method That works. |
+| 2026-03-14 | 247 | SHbzWbNOAdA | 1,106 | 12 | 1,040 | 1.06 | 5 | 0.92 | binh_thuong | – | Không | Never Plant Grapes Without This – For Large Fruits & More Grapes, Follow This. |
+| 2026-03-16 | 245 | z0xeoiMlAog | 648 | 13 | 1,106 | 0.59 | 5 | 7.31 | binh_thuong | – | Không | Pepper Growing Mistakes That's Costing You HUNDREDS of Fruits |
+| 2026-03-18 | 243 | 6lgI9AF17kk | 12,782 | 14 | 1,035 | 12.35 | 5 | 3.46 | can_kiem_ky | – | Không | Grow Tons of Tomatoes, Not Leaves - Complete Growing Guide |
+| 2026-03-20 | 241 | kU4yJY4Fl40 | 961 | 15 | 1,106 | 0.87 | 5 | 3.24 | binh_thuong | – | Không | 20 Profitable Plants That Will Make You a Millionaire (Almost Nobody Grows Them) |
+| 2026-03-23 | 238 | AVU971wuAvI | 349 | 15 | 964 | 0.36 | 5 | 3.72 | binh_thuong | – | Không | 15 Healthiest Plants to Keep in Your Home for INSTANT Health |
+| 2026-03-24 | 237 | hxkc-WQif5I | 64,208 | 15 | 961 | 66.81 | 5 | 1.64 | can_kiem_ky | – | Không | What To Plant With Tomatoes - 8 Best Companion Plants For Tomatoes! |
+| 2026-03-26 | 235 | 2ES4dWscMHs | 8,080 | 15 | 964 | 8.38 | 5 | 1.64 | manh | – | Không | Turn ONE Sweet Potato Into 100 LBS Of Sweet Potatoes - FOLLOW THIS METHOD! |
+| 2026-03-28 | 233 | YdtSfLAvm4k | 3,585 | 15 | 964 | 3.72 | 5 | 1.64 | dang_ghi | – | Không | You MUST Not FAIL To START These Seeds In APRIL |
+| 2026-03-31 | 230 | EP2QZGEzHo4 | 1,117 | 15 | 1,106 | 1.01 | 5 | 13.24 | binh_thuong | – | Không | You Should NEVER Throw Away These 30 KITCHEN Scraps (Regrow THEM Into FREE Food!) |
+| 2026-04-02 | 228 | tSPXGfIyLx0 | 483 | 15 | 1,117 | 0.43 | 5 | 13.10 | binh_thuong | – | Không | 15 Easiest Perennials For Container Gardening (Low Effort, Big Impact). |
+| 2026-04-03 | 227 | zcuCOOak7A4 | 1,580 | 15 | 1,106 | 1.43 | 5 | 13.24 | binh_thuong | – | Không | 10 Best Crops You'd Be Foolish Not To Start in April |
+| 2026-04-05 | 225 | SSU0qVh31bA | 14,638 | 15 | 1,106 | 13.24 | 5 | 41.15 | can_kiem_ky | – | Không | The Simple Lemon Hack That Produces More Fruit Than Any Fertilizer (you know). |
+| 2026-04-07 | 223 | X7ec1X9ZNTc | 262,440 | 15 | 1,106 | 237 | 5 | 2.15 | can_kiem_ky | – | Không | STOP using Pesticides! This 1 Spoon Kills Aphids & mealybugs in 10 seconds - SAFE for kids & pets. |
+| 2026-04-09 | 221 | 2Hq42Fdaw1M | 250,352 | 15 | 1,117 | 224 | 5 | 1.30 | can_kiem_ky | – | Không | Companion Plants for Peppers That Triple Your Yield Naturally. |
+| 2026-04-11 | 219 | dcE5GxibNTQ | 2,381 | 15 | 1,580 | 1.51 | 5 | 0.91 | binh_thuong | – | Không | Beginner Gardening - 7 Easy Crops Anyone can Grow. |
+| 2026-04-14 | 216 | wp07hV-D5nk | 1,437 | 15 | 2,381 | 0.60 | 5 | 0.61 | binh_thuong | – | Không | 15 Dangerous Plants You Should Never Grow In Your Garden or Yard. |
+| 2026-04-27 | 203 | 4mK7_3sy6bU | 45,509 | 15 | 2,381 | 19.11 | 5 | 0.61 | can_kiem_ky | – | Không | Companion Plants for Cucumbers That Boost Growth & Protect Your Harvest (Avoid These Mistakes!) |
+| 2026-04-30 | 200 | jxS0EjchI7E | 621 | 15 | 3,585 | 0.17 | 5 | 0.87 | binh_thuong | – | Không | 7 Plants That Stop Garden Pests Instantly (NO chemicals.) |
+| 2026-05-01 | 199 | 3CwvhpGXJyA | 1,447 | 15 | 2,381 | 0.61 | 5 | 6.10 | binh_thuong | – | Không | How To Grow Cucumbers (From Start To Harvest.) |
+| 2026-05-05 | 195 | YLrm3PCKOKY | 528 | 15 | 2,381 | 0.22 | 5 | 6.10 | binh_thuong | – | Không | 25 Kitchen scraps You Should NEVER Throw Away( They Regrow into FREE food!) |
+| 2026-05-07 | 193 | jrbYifCtNL0 | 79,427 | 15 | 2,381 | 33.36 | 5 | 1.30 | can_kiem_ky | – | Không | 1 Tablespoon of THIS Doubles Your Tomato, Cucumber & Pepper Harvest _ Secret Fertilizer Revealed! |
+| 2026-05-08 | 192 | hXw5AsL8sO8 | 3,103 | 15 | 2,381 | 1.30 | 5 | 1.16 | binh_thuong | – | Không | The Tomato Watering Mistake SILENTLY Destroying Your Harvest Right Now. |
+| 2026-05-09 | 191 | 3b98D9Dm5as | 14,514 | 15 | 2,381 | 6.10 | 5 | 0.81 | manh | – | Không | This One Ingredient Makes Lemon Tree Flower Instantly. |
+| 2026-05-14 | 186 | d6I7yL6Ak2U | 61,307 | 15 | 2,381 | 25.75 | 5 | 0.36 | can_kiem_ky | – | Không | 8 Powerful Steps to Grow Endless Strawberries at Home. |
+| 2026-05-22 | 178 | RlxEe2ZPUZY | 866 | 15 | 3,103 | 0.28 | 5 | 0.48 | binh_thuong | – | Không | 10 Vegetables That Produce The Most In Containers. |
+| 2026-05-23 | 177 | OjVkZhsCXmM | 1,926 | 15 | 3,103 | 0.62 | 5 | 0.23 | binh_thuong | – | Không | 15 Vegetables That Produce The Most in Containers. |
+| 2026-05-24 | 176 | FQPvzaZlPS0 | 2,756 | 15 | 3,103 | 0.89 | 5 | 0.18 | binh_thuong | – | Không | Vegetables WILL TRIPLE in Size Overnight _ Pour This $1 Recipe Once. |
+| 2026-05-30 | 170 | r4QVE_q-Ue8 | 566 | 15 | 2,756 | 0.21 | 5 | 0.25 | binh_thuong | – | Không | Strawberry Companion Plants (And Plants To Avoid). |
+| 2026-06-01 | 168 | 7Sg2gspAbzE | 702 | 15 | 2,381 | 0.29 | 5 | 0.28 | binh_thuong | – | Không | Plant These 10 Trees Once to Feed Your Family for 100 years! |
+| 2026-06-03 | 166 | rOdZwtCdlpQ | 1,480 | 15 | 1,926 | 0.77 | 5 | 0.22 | binh_thuong | – | Không | How To Grow Potatoes In a laundry Basket (Survival Hack). |
+| 2026-06-04 | 165 | ijfwyMjRhOY | 417 | 15 | 1,480 | 0.28 | 5 | 0.45 | binh_thuong | – | Không | This Ancient Liquid Revives Dead Soil Instantly - No Fertilizer Needed |
+| 2026-06-06 | 163 | AmrFQMPohG8 | 316 | 15 | 1,480 | 0.21 | 5 | 0.45 | binh_thuong | – | Không | The Best Way Smart Gardeners Eliminate Aphids. |
+| 2026-06-07 | 162 | PBtHXmYIYzU | 1,194 | 15 | 1,447 | 0.83 | 5 | 0.47 | binh_thuong | – | Không | How to Grow Bell Peppers From Seed in Containers_ 0-4 Months |
+| 2026-06-09 | 160 | p_35-j2h9Ro | 673 | 15 | 1,447 | 0.47 | 5 | 0.45 | binh_thuong | – | Không | You MUST NEVER Plant These With Your Tomatoes: Companion Mistakes For Tomatoes. |
+| 2026-06-11 | 158 | C7sk1Dy77Q0 | 386 | 15 | 1,194 | 0.32 | 5 | 0.54 | binh_thuong | – | Không | How To Prune Tomatoes For Maximum Yield and Plant Health. |
+| 2026-06-13 | 156 | Aad9pfafZpI | 1,357 | 15 | 1,194 | 1.14 | 5 | 0.41 | binh_thuong | – | Không | The Best Strawberry to Grow in Your Garden |
+| 2026-06-17 | 152 | BvqBl1t41HA | 648 | 15 | 1,194 | 0.54 | 5 | 0.30 | binh_thuong | – | Không | How to Grow Pineapple Plants in Containers And Get a Huge Harvest. |
+| 2026-06-18 | 151 | as7seEAgKL0 | 4,488 | 15 | 866 | 5.18 | 5 | 0.35 | manh | – | Không | Pepper Companion Plants That Make Your Peppers Go Crazy |
+| 2026-06-20 | 149 | s9jieFCeOQY | 491 | 15 | 866 | 0.57 | 5 | 0.35 | binh_thuong | – | Không | The One Cent Baking Soda Secret for Strawberries _ You Won't Have Time to Pick Them All! |
+| 2026-06-22 | 147 | H_EVZlLPtes | 357 | 15 | 702 | 0.51 | 5 | 0.43 | binh_thuong | – | Không | 15 High Yield Dwarf Fruit Trees for Container Gardening. |
+| 2026-06-23 | 146 | zAPb3YReLRI | 164 | 15 | 673 | 0.24 | 5 | 0.67 | binh_thuong | – | Không | What to plant in June in Every USDA Zone ( Zones 3-11) |
+| 2026-06-24 | 145 | BDg4E3Tbqpo | 289 | 15 | 648 | 0.45 | 5 | 0.79 | binh_thuong | – | Không | KILLS EVERYTHING IN 10 SECONDS! Aphids, Mealybugs , Caterpillars, Flies,  Mites Homemade insecticide |
+| 2026-06-26 | 143 | lFh7ky63dKc | 299 | 15 | 566 | 0.53 | 5 | 0.90 | binh_thuong | – | Không | These 6 weeds could be the most valuable Plants in your yard. |
+| 2026-06-27 | 142 | wwKKzv4WLSo | 449 | 15 | 491 | 0.91 | 5 | 1.11 | binh_thuong | – | Không | 15 Vegetables You Should Plant in July ASAP |
+| 2026-06-28 | 141 | vu3Y8HSuKmE | 547 | 15 | 449 | 1.22 | 5 | 1.14 | binh_thuong | – | Không | The 7 Seeds You MUST Start in July to Harvest in 3 Months |
+| 2026-06-30 | 139 | gEcfaQeJKqI | 1,602 | 15 | 449 | 3.57 | 5 | 0.85 | dang_ghi | – | Không | JUST 1 Cap and Your STRAWBERRIES will explode with Fruits like never before!. |
+| 2026-07-03 | 136 | gpAQyKmqA4E | 511 | 15 | 491 | 1.04 | 5 | 0.78 | binh_thuong | – | Không | Do THIS and Your Tomato Plants EXPLODE With Fruits, Not Leaves |
+| 2026-07-03 | 136 | Z4ndUs-2LXg | 130 | 15 | 511 | 0.25 | 5 | 0.87 | binh_thuong | – | Không | 5+ Tomato Secrets Pros Don’t Tell Home Gardeners |
+| 2026-07-05 | 134 | 07JzVVqymJ8 | 718 | 15 | 491 | 1.46 | 5 | 0.78 | binh_thuong | – | Không | How to Grow Ginger in Containers for the Biggest Harvest Ever |
+| 2026-07-07 | 132 | 9O0bjq5WhME | 383 | 15 | 491 | 0.78 | 5 | 0.70 | binh_thuong | – | Không | 7 Herbs That Actually Repel Mosquitoes_ and Make Your Backyard Enjoyable |
+| 2026-07-08 | 131 | yDQxKzyOrqU | 205 | 15 | 491 | 0.42 | 5 | 0.70 | binh_thuong | – | Không | Too Lazy to Garden? Plant These 9 Perennials in July (Come Back Forever) |
+| 2026-07-09 | 130 | 9-8LVlqks9w | 444 | 15 | 449 | 0.99 | 5 | 0.68 | binh_thuong | – | Không | The Wood Ash Secret for Gardeners: How to Grow Massive Sweet Peppers Without Burning Your Plants! |
+| 2026-07-10 | 129 | Es8ooRxNLq4 | 530 | 15 | 444 | 1.19 | 5 | 0.65 | binh_thuong | – | Không | The Only Natural Pest Spray You Need (Kitchen Staples!) |
+| 2026-07-16 | 123 | vDug6fTqCmk | 345 | 15 | 444 | 0.78 | 5 | 0.65 | binh_thuong | – | Không | Never Buy ONIONS Again: 5 Tips to Grow Giant Onion Bulbs. |
+| 2026-07-17 | 122 | bWXrEO9xxTc | 305 | 15 | 383 | 0.80 | 5 | 0.75 | binh_thuong | – | Không | 10 Insane Tricks to Grow TONS of Lemons in Containers or Pots \| Citrus Tree Care Tips |
+| 2026-07-21 | 118 | ubh9znsyaB4 | 198 | 15 | 383 | 0.52 | 5 | 0.75 | binh_thuong | – | Không | Don't Throw Away Your Pits! Grow Peach, Plum, Cherry, Apricot & Almond Trees in Just 3 Steps |
+| 2026-07-27 | 112 | uiomKxOBWE8 | 182 | 15 | 383 | 0.48 | 5 | 0.83 | binh_thuong | – | Không | 12 Protein-Rich Superfoods Your Legs Need After 60 |
+| 2026-07-29 | 110 | 4h7s_celft8 | 289 | 15 | 383 | 0.75 | 5 | 0.83 | binh_thuong | – | Không | What Happens When You Add This Plant to Your Routine? \| Full Body Health |
+| 2026-07-30 | 109 | KaoC_atF1UA | 770 | 15 | 383 | 2.01 | 5 | 0.59 | hoi_cao | – | Không | How To Grow The BIGGEST, SWEETEST CARROTS Of Your Life! |
+| 2026-08-03 | 105 | 4NCdOLwDXhc | 1,612 | 15 | 383 | 4.21 | 5 | 0.59 | dang_ghi | – | Không | 15 Heat-Loving Vegetables That Thrive All Summer Long |
+| 2026-08-05 | 103 | DslWF9ds5fw | 225 | 15 | 383 | 0.59 | 5 | 0.54 | binh_thuong | – | Không | How to Grow Bell Peppers from Seed in Containers_ Easy planting guide |
+| 2026-08-07 | 101 | YRXnB6fwi2g | 319 | 15 | 345 | 0.92 | 5 | 0.59 | binh_thuong | – | Không | 1 Tablespoon of THIS Doubles Your Cucumber, Pepper & Tomato Harvest _ Secret Fertilizer Revealed! |
+| 2026-08-10 | 98 | L3eNWAQ6Bx4 | 177 | 15 | 319 | 0.55 | 5 | 1.06 | binh_thuong | – | Không | 20 Destructive Plants That Will Ruin Your Garden |
+| 2026-08-11 | 97 | 4T8BIaVCITk | 205 | 15 | 319 | 0.64 | 5 | 2.45 | binh_thuong | – | Không | Bring Dead Plants Back to Life Fast! 5 Natural Fertilizers That Work Instantly |
+| 2026-08-12 | 96 | pj2jzaUO-1M | 781 | 15 | 305 | 2.56 | 5 | 3.96 | hoi_cao | – | Không | Possibly The Easiest way to Grow Ginger. |
+| 2026-08-16 | 92 | DFTGxoWem5k | 166 | 15 | 305 | 0.54 | 5 | 3.96 | binh_thuong | – | Không | Grow 10 Pounds of Potatoes in a Single Vertical Rice Bag This Summer |
+| 2026-08-17 | 91 | 9vCGOJ_oQBI | 1,207 | 15 | 305 | 3.96 | 5 | 2.16 | dang_ghi | – | Không | 9 Crops You'll DEEPLY Regret Not Planting in August! (For an Amazing Fall and Winter Garden) |
+| 2026-08-18 | 90 | 1Fi3RQDsYgk | 337 | 15 | 305 | 1.10 | 5 | 2.23 | binh_thuong | – | Không | August Is Your Last Chance To Prune These 7 Plants Before It's Too Late For Next Year |
+| 2026-08-20 | 88 | Dp_XWZP6hKg | 2,862 | 15 | 305 | 9.38 | 5 | 2.16 | manh | – | Không | 15 Fall Vegetables You MUST Plant and Forget Until Spring (Lazy Gardening) |
+| 2026-08-22 | 86 | v-qeRW2wAls | 1,690 | 15 | 305 | 5.54 | 5 | 2.16 | manh | – | Không | Try this on your bell pepper plant just once—what happens after 10 days is hard to believe. |
+| 2026-08-24 | 84 | 54UBbzEj4ic | 658 | 15 | 319 | 2.06 | 5 | 2.13 | hoi_cao | – | Không | 15 Crops You'll DEEPLY Regret Not Planting in September (Do It NOW) |
+| 2026-08-26 | 82 | -5eFdapDz8s | 473 | 15 | 337 | 1.40 | 5 | 2.02 | binh_thuong | – | Không | Companion Plants for Cucumber That Triple Your Yield Naturally. |
+| 2026-08-30 | 78 | Dy8gZzF3Tvc | 680 | 15 | 473 | 1.44 | 5 | 1.34 | binh_thuong | – | Không | 15 Dwarf Berry Bushes to Plant This Fall (Huge Harvests in Pots!) |
+| 2026-09-02 | 75 | pxS8hFrI5h0 | 633 | 15 | 658 | 0.96 | 5 | 1.75 | binh_thuong | – | Không | How to Get Rid of Tomato Hornworms |
+| 2026-09-04 | 73 | SPW8kyV5qS4 | 83,970 | 15 | 633 | 133 | 5 | 0.86 | can_kiem_ky | – | Không | You MUST Never Plant Ginger Without This — For Large Rhizomes & More Ginger, Do This |
+| 2026-09-18 | 59 | U96WjvBbGUY | 1,153 | 15 | 633 | 1.82 | 5 | 0.86 | binh_thuong | – | Không | Just 1 Spoon – Chili Plants Won't Stop Flowering and Fruiting! |
+| 2026-09-22 | 55 | wFcXGhQz8Q8 | 453 | 15 | 658 | 0.69 | 5 | 0.85 | binh_thuong | – | Không | 13 Veggies You MUST Plant in Containers This SEPTEMBER (Skip These, Regret It All Winter!) |
+| 2026-09-28 | 49 | ugHAk9OxFlE | 543 | 15 | 658 | 0.83 | 5 | 1.28 | binh_thuong | – | Không | STOP using Pesticides! This 1 Spoon Kills Aphids & mealybugs in 5 seconds - SAFE for kids & pets. |
+| 2026-10-09 | 38 | X5LothYh09o | 1,312 | 15 | 658 | 1.99 | 5 | 0.85 | binh_thuong | – | Không | The Secret to Giant Aloe Vera Just 1 Ingredient to Make It Bloom Like Crazy! |
+| 2026-10-10 | 37 | c2u7luj0Iqc | 418 | 15 | 680 | 0.61 | 5 | 1.24 | binh_thuong | – | Không | 1 Cap of This! Suddenly Cucumbers Grew Fast and Fruited 300 Times |
+| 2026-10-13 | 34 | VDaIq57Q6Kc | 559 | 15 | 658 | 0.85 | 5 | 1.28 | binh_thuong | – | Không | 6 Reasons Your Watermelons Are Small (And How to Fix It!) |
+| 2026-10-16 | 31 | nbTLILdUCnc | 1,162 | 15 | 658 | 1.77 | 5 | 0.67 | binh_thuong | – | Không | How to Store Ginger For 1 Year Without Spoilage\| Clever Tricks |
+| 2026-10-28 | 19 | Xe9QlYPnQiE | 842 | 15 | 658 | 1.28 | 5 | 0.57 | chua_chin | – | Không | Never Plant Tomatoes Without This. For Large Fruits and More Tomatoes, Follow This! |
+| 2026-10-30 | 17 | rMKtv1gpSt8 | 366 | 15 | 680 | 0.54 | 4 | – | chua_chin | – | Không | How I Doubled My Tomato Harvest With These 3 Natural Tricks |
+| 2026-11-02 | 14 | 0xOLq3KeCfo | 1,563 | 15 | 658 | 2.38 | 3 | – | chua_chin | – | Không | This CHICKEN Lays 365 EGGS Per Year. Never Gets Sick. Why Did They Make It Disappear? |
+| 2026-11-04 | 12 | wn4Z7ERAkJ0 | 372 | 15 | 658 | 0.57 | 2 | – | chua_chin | – | Không | The 2,000-Year-Old Chicken Breed You Should Be Raising |
+| 2026-11-07 | 9 | FZ6xbwPbsP0 | 441 | 15 | 633 | 0.70 | 1 | – | chua_chin | – | Không | How to Grow Strawberries in Containers for a Massive Harvest |
+| 2026-11-14 | 2 | wIVRBkqef2Y | 376 | 15 | 633 | 0.59 | 0 | – | chua_chin | – | Không | 11 Fruit Trees That Grow In Extreme Cold (That Nobody Plants) |

@@ -1,0 +1,61 @@
+# Đo kênh: UCtI51qvyrJNLmJY3OC00C-A.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 19 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 19 |
+| n_trong_danh_sach | 19 |
+| n_dai | 19 |
+| n_short | 0 |
+| n_dai_dung_tinh | 18 |
+| nguong_tuoi_video | 30 |
+| subs | 4,810 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-03-03 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,567 |
+| cao_nhat | 339,616 |
+| thap_nhat | 217 |
+| phan_tan | 217 |
+| so_video_tren_2x | 7 |
+| ty_le_tren_2x | 0.39 |
+| trung_vi_chia_sub | 0.33 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 0.37 |
+| ngay_video_dau | 2026-03-03 |
+| tuoi_tu_video_dau | 258 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 18.64 |
+| sub_moi_video | 253 |
+| video_30_ngay | 1 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** PHAN_TAN_CAO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-03-03 | 258 | qzE7zUwt5OQ | 339,616 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 10 Strong Houseplants Outperforming Air Fresheners (NASA Approved) |
+| 2026-03-05 | 256 | bHQxLxreR3E | 251 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | BANNED HOUSEPLANT: The only one in the world that glows on its own |
+| 2026-03-07 | 254 | Ft3j44JFf-8 | 956 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Powerful Japanese Indoor Trees That Attract Wealth and Good Luck |
+| 2026-03-15 | 246 | xFjTlAVr7gM | 704 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Powerful Carnivorous Plants That Protect Your Home From Insects (Natural Pest Control) |
+| 2026-03-16 | 245 | 2dAGw7vXURU | 31,039 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | No SOIL, No SUN: 10 Unkillable Houseplants for Water and Darkness (Perfect for Beginners!) |
+| 2026-03-21 | 240 | 6BbQaPg9V1c | 48,080 | 5 | 956 | 50.29 | 5 | 2.52 | can_kiem_ky | – | Không | STOP BUYING Until You Watch This: 15 Hidden Scams in Houseplant Stores (in 2026) |
+| 2026-03-27 | 234 | tB52MCFNTQY | 5,478 | 6 | 15,998 | 0.34 | 5 | 0.11 | binh_thuong | – | Không | Stores HATE Them! 10 EASIEST Houseplants Even YOU Can’t Kill (They Look RARE!) |
+| 2026-04-03 | 227 | YGibfNO7B8E | 2,409 | 7 | 5,478 | 0.44 | 5 | 0.27 | binh_thuong | – | Không | What Your ZZ Plant Is Really Telling You When It Blooms |
+| 2026-04-04 | 226 | Y3DCEkvMEvo | 1,381 | 8 | 3,944 | 0.35 | 5 | 0.43 | binh_thuong | – | Không | STOP BUYING TOXIC SPRAYS! 15 Dreamy Scented Houseplants Easier To Grow Than You Think (+2026 Prices) |
+| 2026-04-09 | 221 | TZLI3BfoCQU | 1,682 | 9 | 2,409 | 0.70 | 5 | 1.45 | binh_thuong | – | Không | STOP BUYING PLANTS ONLINE Until You Watch This! 15 Vile Marketplace Scams 2026 |
+| 2026-04-12 | 218 | 4lAFxjJ5PcM | 3,489 | 10 | 2,046 | 1.71 | 5 | 0.71 | binh_thuong | – | Không | BANISH Bad Energy! 10 Spiritual Plants That PROTECT Against Negativity (And Invite Abundance) |
+| 2026-04-16 | 214 | LvVWJOtiIWY | 588 | 11 | 2,409 | 0.24 | 5 | 0.60 | binh_thuong | – | Không | 7 Things Plant Experts Avoid That You Probably Don't |
+| 2026-04-18 | 212 | s9c9zTVVn_k | 1,452 | 12 | 2,046 | 0.71 | 5 | 0.71 | binh_thuong | – | Không | 10 Strong Houseplants That Fight Dampness and Mold (Biological Sponges) |
+| 2026-04-24 | 206 | bWHDnDxtEdA | 129,494 | 13 | 1,682 | 76.99 | 5 | 0.24 | can_kiem_ky | – | Không | 7 Reasons Why You Shouldn’t Get a Snake Plant |
+| 2026-04-29 | 201 | VReaqfjVaKY | 11,117 | 14 | 2,046 | 5.43 | 4 | – | manh | – | Không | 10 Popular Houseplants You Should NEVER Buy ❌ (Low Survival & GUILT😭) |
+| 2026-05-08 | 192 | znFGdq5L1pU | 1,450 | 15 | 2,409 | 0.60 | 3 | – | binh_thuong | – | Không | 7 Hidden SNAKE PLANT Secrets MILLIONAIRES Know (You Probably Don’t) |
+| 2026-06-06 | 163 | z1jR7_fcF8U | 400 | 15 | 1,682 | 0.24 | 2 | – | binh_thuong | – | Không | 7 Reasons Why You Shouldn’t Get an ALOE VERA plant (Don't buy until you watch this) |
+| 2026-06-12 | 157 | guoYd33_XOs | 217 | 15 | 1,682 | 0.13 | 1 | – | binh_thuong | – | Không | The Hidden Mystery Of Why Your Aloe Vera Plant Blooms |
+| 2026-10-28 | 19 | kjkobpfdO_Y | 91 | 15 | 1,682 | 0.05 | 0 | – | chua_chin | – | Không | What Happens If You Water Houseplants With Coca-Cola (and Other Drinks)? |

@@ -1,0 +1,74 @@
+{
+ "chi_so": {
+  "n_video": 2,
+  "n_trong_danh_sach": 2,
+  "n_dai": 2,
+  "n_short": 0,
+  "n_dai_dung_tinh": 2,
+  "nguong_tuoi_video": 30,
+  "subs": 3420,
+  "dong_bo": 0,
+  "phien_ban": "2026-10-22.3",
+  "cua_so_tu": "2026-07-19",
+  "n_ngoai_cua_so": 0,
+  "so_hoi_vien": 0,
+  "trung_vi_20_dai": null,
+  "cao_nhat": null,
+  "thap_nhat": null,
+  "phan_tan": null,
+  "so_video_tren_2x": null,
+  "ty_le_tren_2x": null,
+  "trung_vi_chia_sub": null,
+  "ty_le_like_trung_vi": null,
+  "da_trung_vi": null,
+  "ngay_video_dau": "2026-07-19",
+  "tuoi_tu_video_dau": 120,
+  "view_moi_ngay_video_dau": null,
+  "sub_moi_ngay_video_dau": 28.5,
+  "sub_moi_video": 1710.0,
+  "video_30_ngay": 0,
+  "ty_trong_view_short": 0.0,
+  "ty_trong_view_short_nguon": "mau",
+  "co": [
+   "KHONG_DU_VIDEO_DAI_DU_30_NGAY",
+   "IT_VIDEO"
+  ]
+ },
+ "he_so": [
+  {
+   "id": "IGRj8IMA5Gc",
+   "title": "15 Perennial Container Vegetables You Plant Once and Harvest for Years",
+   "ngay": "2026-07-19",
+   "tuoi_ngay": 120,
+   "views": 13434,
+   "n_truoc": 0,
+   "trung_vi_15_truoc": null,
+   "he_so": null,
+   "n_sau": 1,
+   "he_so_sau": null,
+   "muc": null,
+   "ly_do_khong_tinh": "it_hon_5_video_truoc",
+   "cung_ngay": false
+  },
+  {
+   "id": "ftVQ3nVAbio",
+   "title": "15 Vegetables You Should Plant in August ASAP — Do It Now!",
+   "ngay": "2026-07-21",
+   "tuoi_ngay": 118,
+   "views": 139837,
+   "n_truoc": 1,
+   "trung_vi_15_truoc": null,
+   "he_so": null,
+   "n_sau": 0,
+   "he_so_sau": null,
+   "muc": null,
+   "ly_do_khong_tinh": "it_hon_5_video_truoc",
+   "cung_ngay": false
+  }
+ ],
+ "doc_file": {
+  "tong_dong": 2,
+  "bo_thieu_view_ngay": 0,
+  "bo_trung_id": 0
+ }
+}

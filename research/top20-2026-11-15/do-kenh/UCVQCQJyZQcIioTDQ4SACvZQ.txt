@@ -1,0 +1,150 @@
+# Đo kênh: UCVQCQJyZQcIioTDQ4SACvZQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 124 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 183 |
+| n_trong_danh_sach | 116 |
+| n_dai | 100 |
+| n_short | 16 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 241,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2016-09-01 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 25,072 |
+| cao_nhat | 234,670 |
+| thap_nhat | 4,230 |
+| phan_tan | 9.36 |
+| so_video_tren_2x | 7 |
+| ty_le_tren_2x | 0.35 |
+| trung_vi_chia_sub | 0.10 |
+| ty_le_like_trung_vi | 0.05 |
+| da_trung_vi | 0.39 |
+| ngay_video_dau | 2015-05-14 |
+| tuoi_tu_video_dau | 4,204 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 57.33 |
+| sub_moi_video | 1,317 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.11 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2015-05-14 | 4,204 | VJwFwqlz4g0 | 257,587 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | A Guy, a Girl, and a Campervan - 1 - Tour of the van we live in |
+| 2015-05-29 | 4,189 | eRc2fIB2t-I | 73,592 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | GGC - 2 - Campervan window insulation and A/C cover |
+| 2015-06-10 | 4,177 | uzxijsb4lWI | 70,017 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | GGC - 3 - Our campervan toilet during a Canadian winter |
+| 2015-06-24 | 4,163 | B_GFVxUcf9s | 58,683 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | GGC - 4 - Eastern Canada road trip |
+| 2015-07-11 | 4,146 | tpYoPbJnIsw | 36,783 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | GGC - 5 - Road trip to Waskaganish on the James Bay coast |
+| 2015-07-18 | 4,139 | AVLJkJa70X0 | 44,281 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | GGC - 6 - Tour of Waskaganish, a Cree village on James Bay |
+| 2015-07-21 | 4,136 | kN_3T_Nfk0k | 32,671 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | GGC - 7 - Northern Canada, WORST mosquitoes EVER! |
+| 2015-07-30 | 4,127 | Hx7ZMSSJ5b4 | 32,301 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | GGC - 8 - Road Trip to Nunavut Territory via James Bay |
+| 2016-09-01 | 3,728 | b0D-NJfFRgE | 98,825 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | GGC - 62 - Homesteading: Hugelkultur Vegetable Garden Update and Harvests |
+| 2016-09-07 | 3,722 | 7FqnJ7OSPeI | 34,952 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | GGC - 63 - Cooking Homegrown Corn On A Campfire |
+| 2016-09-15 | 3,714 | aUqixGtO_D0 | 7,603 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | GGC - 64 - Video Essay: My Complicated Relationship With Mowing The Lawn |
+| 2016-09-19 | 3,710 | pair1IHqhvY | 7,860 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | GGC - 65 - What's Up With This Cucumber? |
+| 2016-09-28 | 3,701 | wCQABPVuweA | 16,401 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | GGC - 66 - A Giant Armenian Cucumber and Homemade Dill Pickles |
+| 2016-10-10 | 3,689 | 2YVBL4uNjFY | 3,571 | 5 | 16,401 | 0.22 | 5 | 1.52 | binh_thuong | – | Không | GGC - Happy (Canadian) Thanksgiving! |
+| 2016-10-16 | 3,683 | prPzsPxGlHI | 25,007 | 6 | 12,130 | 2.06 | 5 | 5.96 | hoi_cao | – | Không | GGC - 67 - Expanding Our Permaculture Garden... With A Backhoe! |
+| 2016-10-31 | 3,668 | T-ngNo2XhUc | 2,722 | 7 | 16,401 | 0.17 | 5 | 4.41 | binh_thuong | – | Không | GGC - 68 - A Terrifying True Tale, Told at the Campfire |
+| 2016-11-10 | 3,658 | VGLlL08Ig3Q | 222,856 | 8 | 12,130 | 18.37 | 5 | 1.48 | can_kiem_ky | – | Không | GGC - 69 - Attempting to Build and Use a Cheap Homemade Leaf Bagger (For Garden Mulch) |
+| 2016-11-14 | 3,654 | 5zuD_imngDg | 2,363 | 9 | 16,401 | 0.14 | 5 | 4.41 | binh_thuong | – | Không | 10,000 Subscribers! Thank You All So Much! |
+| 2016-11-29 | 3,639 | bfi-n0Oq38E | 890,551 | 10 | 12,130 | 73.41 | 5 | 1.48 | can_kiem_ky | – | Không | The Ruth Stout Method |
+| 2016-12-08 | 3,630 | s1TXfeq9wdc | 72,303 | 11 | 16,401 | 4.41 | 5 | 1.10 | dang_ghi | – | Không | GGC - 71 - Planting Garlic in a Modified Ruth Stout Permaculture Garden |
+| 2016-12-16 | 3,622 | 1YsDLD-lfCs | 5,775 | 12 | 20,704 | 0.28 | 5 | 2.03 | binh_thuong | – | Không | GGC - 72 - Hunting For A Wild... Christmas Tree! |
+| 2016-12-20 | 3,618 | 3VIpTac1NiA | 17,978 | 13 | 16,401 | 1.10 | 5 | 2.57 | binh_thuong | – | Không | GGC - 73 - Preparing our Hugelkultur Garden for Winter: Chop and Drop |
+| 2016-12-22 | 3,616 | cslWdxCd1AQ | 460,924 | 14 | 17,190 | 26.81 | 5 | 0.53 | can_kiem_ky | – | Không | GGC - 74 - Our Giant Snowman and Santa |
+| 2017-01-01 | 3,606 | -QkRvutYgXM | 4,438 | 15 | 17,978 | 0.25 | 5 | 2.34 | binh_thuong | – | Không | GGC - 75 - Happy New Year! |
+| 2017-01-24 | 3,583 | J-A1gNNjen0 | 42,119 | 15 | 16,401 | 2.57 | 5 | 2.91 | hoi_cao | – | Không | GGC - 76 - Winter Ruth Stout Permaculture Update and a Bit of Q&A! |
+| 2017-02-10 | 3,566 | -ORHxJf9WD0 | 89,600 | 15 | 16,401 | 5.46 | 5 | 2.91 | manh | – | Không | How A Cross-Canada Road Trip Brought Us Back to Reality |
+| 2017-02-18 | 3,558 | bFKe10nC58c | 9,160 | 15 | 17,978 | 0.51 | 5 | 5.66 | binh_thuong | – | Không | Back to Reality - A Walk in the Woods |
+| 2017-02-24 | 3,552 | GznAoSrVOT0 | 5,837 | 15 | 17,978 | 0.32 | 5 | 5.66 | binh_thuong | – | Không | Reality Break: 50 Peanuts for 50 Blue Jays |
+| 2017-03-07 | 3,541 | Kn0IdclkDYw | 101,724 | 15 | 17,978 | 5.66 | 5 | 6.52 | manh | – | Không | How We Set Up Our Germination Station for Starting Seedlings Indoors |
+| 2017-03-24 | 3,524 | 8BOIpiua_z4 | 47,700 | 15 | 25,007 | 1.91 | 5 | 4.69 | binh_thuong | – | Không | Snow Fleas: The Unsung Heroes of the Natural World |
+| 2017-04-07 | 3,510 | jZj_4-iqwlI | 117,238 | 15 | 42,119 | 2.78 | 5 | 2.47 | hoi_cao | – | Không | How to Make Maple Syrup (and the science of maple sap) |
+| 2017-04-14 | 3,503 | 1t1FCsF-iAI | 118,695 | 15 | 47,700 | 2.49 | 5 | 1.60 | hoi_cao | – | Không | Spring Garden Update: Hugelkultur, Ruth Stout, and Garlic Sprouts! |
+| 2017-04-21 | 3,496 | hDwOWD6AsWk | 55,036 | 15 | 47,700 | 1.15 | 5 | 1.60 | binh_thuong | – | Không | Starting Seeds Indoors: A Beginner’s Guide |
+| 2017-05-02 | 3,485 | k1aJOz3mEHI | 324,937 | 15 | 55,036 | 5.90 | 5 | 0.72 | manh | – | Không | The "Back to Eden" Method of Permaculture Gardening |
+| 2017-05-16 | 3,471 | QnfSiXjvwjU | 6,368 | 15 | 55,036 | 0.12 | 5 | 0.72 | binh_thuong | – | Không | The Perseverance of My Favourite Tree |
+| 2017-05-25 | 3,462 | Dexx9kKVWeo | 103,973 | 15 | 47,700 | 2.18 | 5 | 0.83 | hoi_cao | – | Không | Planting Potatoes in a Ruth Stout Permaculture Garden (QUICK and EASY) |
+| 2017-06-09 | 3,447 | cMkn5b0jHhE | 76,336 | 15 | 55,036 | 1.39 | 5 | 0.72 | binh_thuong | – | Không | Companion Planting Carrots, Radishes and Onions in a Ruth Stout (HAY-ONLY) Garden |
+| 2017-06-21 | 3,435 | N4bq8pkqO2o | 7,000 | 15 | 76,336 | 0.09 | 5 | 0.52 | binh_thuong | – | Không | From Garden to Table: Quick and Easy Broccoli Rabe |
+| 2017-07-04 | 3,422 | HWoC9MkgBHc | 39,667 | 15 | 55,036 | 0.72 | 5 | 1.06 | binh_thuong | – | Không | Self-Seeding Broccoli |
+| 2017-07-05 | 3,421 | 2tcC6uqdJ50 | 3,309 | 15 | 55,036 | 0.06 | 5 | 1.06 | binh_thuong | – | Không | Happy 4th of July! |
+| 2017-07-14 | 3,412 | Q4F8TpTNiFQ | 58,126 | 15 | 55,036 | 1.06 | 5 | 4.20 | binh_thuong | – | Không | Garden Update: Companion Planting Carrots, Radishes and Onions in Hay (Ruth Stout Method) |
+| 2017-07-25 | 3,401 | k00q6bhIwfg | 421,643 | 15 | 55,036 | 7.66 | 5 | 4.20 | manh | – | Không | Did You Know That Potato Plants Have Poisonous Fruit?! |
+| 2017-08-09 | 3,386 | BVZaTk4yD4Q | 18,456 | 15 | 58,126 | 0.32 | 5 | 3.97 | binh_thuong | – | Không | Automatic Birdfeeder (made from dog food dispenser) |
+| 2017-10-05 | 3,329 | uhpvMg5d1OM | 1,098,585 | 15 | 58,126 | 18.90 | 5 | 3.97 | can_kiem_ky | – | Không | No-Dig Garlic: Planting, Harvesting, and Drying (Using the Ruth Stout Method) |
+| 2018-01-11 | 3,231 | tXq2ecZK9OA | 8,255 | 15 | 58,126 | 0.14 | 5 | 3.97 | binh_thuong | – | Không | Time Flies - An Animated Short |
+| 2018-01-26 | 3,216 | Kf0Q2YlQOUU | 230,948 | 15 | 58,126 | 3.97 | 5 | 3.29 | dang_ghi | – | Không | Results from our NO DIG and NO WATER potato experiment (Ruth Stout Method) |
+| 2018-02-02 | 3,209 | wO2tNfgW8Ug | 350,242 | 15 | 58,126 | 6.03 | 5 | 0.45 | manh | – | Không | Results and Lessons Learned from our Carrot, Onion, and Radish Experiment |
+| 2018-02-15 | 3,196 | Tc1CTrJ5-NQ | 8,286 | 15 | 58,126 | 0.14 | 5 | 0.45 | binh_thuong | – | Không | Valentine's Day and Video Games |
+| 2018-03-09 | 3,174 | yIqOQ-Mt9tI | 299,658 | 15 | 58,126 | 5.16 | 5 | 0.45 | manh | – | Không | Results from our first-year Back to Eden garden: Corn, Beans, and Squash (Three Sisters Method) |
+| 2018-04-27 | 3,125 | Fttb4UNzi5c | 191,443 | 15 | 58,126 | 3.29 | 5 | 0.45 | dang_ghi | – | Không | Experiment: Preserving fresh tomatoes in wood ash for up to 6 months? |
+| 2018-06-07 | 3,084 | _tThgYcUcmU | 19,515 | 15 | 76,336 | 0.26 | 5 | 0.62 | binh_thuong | – | Không | Back to Reality - What Truly Matters? |
+| 2018-09-19 | 2,980 | RQ4mSVaSjmo | 26,438 | 15 | 58,126 | 0.45 | 5 | 2.63 | binh_thuong | – | Không | Working in the moment: The surprising benefit of pointless work |
+| 2018-09-28 | 2,971 | Rwy2_9BFyOU | 11,790 | 15 | 39,667 | 0.30 | 5 | 3.85 | binh_thuong | – | Không | From Garden to Table: Butternut Squash Soup (vegan) |
+| 2018-10-05 | 2,964 | tay9Mi7XM4U | 152,753 | 15 | 39,667 | 3.85 | 5 | 3.82 | dang_ghi | – | Không | Instant Raised Garden Beds by Flipping Sod: Expanding our Garlic Patch |
+| 2018-10-12 | 2,957 | GlratwBT5OI | 3,865,705 | 15 | 58,126 | 66.51 | 5 | 1.41 | can_kiem_ky | – | Không | 337 lbs of Potatoes! NO digging, NO watering, and VERY LITTLE work! |
+| 2018-10-22 | 2,947 | BrAJbE0ZTA8 | 46,987 | 15 | 152,753 | 0.31 | 5 | 0.90 | binh_thuong | – | Không | Plant Hardiness Zones, Annual Rainfall, and Other Important Information |
+| 2018-11-15 | 2,923 | evM7taps76s | 316,411 | 15 | 152,753 | 2.07 | 5 | 0.54 | hoi_cao | – | Không | Experiment: Mini "Root Cellar" from broken freezer (for storing potatoes) |
+| 2018-12-14 | 2,894 | 1s1FI3PFydo | 151,544 | 15 | 152,753 | 0.99 | 5 | 0.54 | binh_thuong | – | Không | Planting 1500 Garlic Cloves in our new Flipped-Sod Raised Beds |
+| 2019-01-02 | 2,875 | tANjSIWv1w4 | 14,383 | 15 | 152,753 | 0.09 | 5 | 0.54 | binh_thuong | – | Không | Happy New Year 2019! (On Crutches) |
+| 2019-01-18 | 2,859 | SkZwbEvbhrw | 81,957 | 15 | 151,544 | 0.54 | 5 | 0.91 | binh_thuong | – | Không | How to Make EASY Garlic Salt (using fresh garlic) |
+| 2019-02-04 | 2,842 | ttv28ExfXA8 | 137,266 | 15 | 151,544 | 0.91 | 5 | 1.10 | binh_thuong | – | Không | How to Make Garlic Powder (from fresh garlic) |
+| 2019-02-20 | 2,826 | zrlLpaZER7I | 65,806 | 15 | 137,266 | 0.48 | 5 | 1.22 | binh_thuong | – | Không | Update: Mini Root Cellar Experiment (after 3 months of potato storage) |
+| 2019-03-26 | 2,792 | 1p59j1RzMfk | 476,649 | 15 | 81,957 | 5.82 | 5 | 0.96 | manh | – | Không | How to Peel Garlic in Seconds with a Drill! (DIY garlic peeling machine) |
+| 2019-04-23 | 2,764 | rkJtNJqKM34 | 59,521 | 15 | 137,266 | 0.43 | 5 | 0.57 | binh_thuong | – | Không | Spring Prep in our "No-Work" Garden, and an EASIER way to Spread Mulch |
+| 2019-07-25 | 2,671 | bc92S7UQD5k | 354,548 | 15 | 81,957 | 4.33 | 5 | 0.75 | dang_ghi | – | Không | Companion Planting Asparagus and Strawberries (No-till, Ruth Stout) |
+| 2019-07-31 | 2,665 | sT1TJwbxr6E | 167,392 | 15 | 81,957 | 2.04 | 5 | 0.56 | hoi_cao | – | Không | Our Deep-Mulch Vegetable Garden After TWO MONTHS of Complete Neglect |
+| 2019-08-09 | 2,656 | SDUl_efLYOg | 21,986 | 15 | 137,266 | 0.16 | 5 | 0.45 | binh_thuong | – | Không | Simple Garlic Scape and Basil Pesto (vegan) |
+| 2019-08-19 | 2,646 | ww34XwhdeZ4 | 78,413 | 15 | 137,266 | 0.57 | 5 | 0.45 | binh_thuong | – | Không | Where We Get FREE Garden Mulch |
+| 2019-08-28 | 2,637 | T4PXgkkvFUI | 28,986 | 15 | 137,266 | 0.21 | 5 | 0.45 | binh_thuong | – | Không | My New Favourite Garden Tool |
+| 2019-09-20 | 2,614 | _3BYNTmaHfg | 61,705 | 15 | 81,957 | 0.75 | 5 | 1.36 | binh_thuong | – | Không | Garden Fence (Part 1): Garden Layout and Installing Natural Fence Posts without Cement |
+| 2019-10-18 | 2,586 | E8Uz9oGrrlQ | 46,161 | 15 | 78,413 | 0.59 | 5 | 1.42 | binh_thuong | – | Không | Protecting a Turtle Nest Until the Eggs Hatch |
+| 2019-11-26 | 2,547 | eWfMhfnjrYY | 212,759 | 15 | 78,413 | 2.71 | 5 | 1.23 | hoi_cao | – | Không | Mulch vs Compost - An Accidental Experiment |
+| 2020-01-14 | 2,498 | O4Q_DoaSZUQ | 111,254 | 15 | 78,413 | 1.42 | 5 | 0.47 | binh_thuong | – | Không | Storing Potatoes All Winter (Final Results: Mini Root Cellar Experiment) |
+| 2020-02-20 | 2,461 | lfH63ASXw3A | 28,075 | 15 | 78,413 | 0.36 | 5 | 0.47 | binh_thuong | – | Không | The Spectrum of Sustainability (Comparing Tomatoes to Tomatoes) |
+| 2020-04-17 | 2,404 | Y58FLAqstHs | 496,858 | 15 | 78,413 | 6.34 | 5 | 0.47 | manh | – | Không | Does Collecting Maple Sap Hurt the Tree? |
+| 2020-05-23 | 2,368 | xxP3Dzu136E | 37,123 | 15 | 78,413 | 0.47 | 5 | 0.90 | binh_thuong | – | Không | Mid-Spring Garden Update (May 2020) |
+| 2020-06-22 | 2,338 | mJ8ueya4HtI | 96,627 | 15 | 65,806 | 1.47 | 5 | 0.39 | binh_thuong | – | Không | FAQ - Deep Mulch Vegetable Gardening (Ruth Stout Method) |
+| 2020-07-10 | 2,320 | NHDA6uFZNWk | 24,768 | 15 | 78,413 | 0.32 | 5 | 0.60 | binh_thuong | – | Không | Dealing With Disappointment (and an early-summer garden update) |
+| 2020-08-03 | 2,296 | S2Phs2JJK0s | 25,855 | 15 | 61,705 | 0.42 | 5 | 0.76 | binh_thuong | – | Không | Recovering from a June frost (Mid-Summer Garden Update 2020) |
+| 2020-10-08 | 2,230 | FwUw_Bq2p1Y | 187,075 | 15 | 61,705 | 3.03 | 5 | 0.76 | dang_ghi | – | Không | Ruth Stout's Worst Enemy (rhizomatous grass in a deep mulch garden) |
+| 2020-10-31 | 2,207 | ABCvRYUAObk | 70,621 | 15 | 61,705 | 1.14 | 5 | 0.34 | binh_thuong | – | Không | "No-till" Asparagus and Strawberry Update (end of second season) |
+| 2020-11-13 | 2,194 | WroY8lQXqAs | 20,995 | 15 | 61,705 | 0.34 | 5 | 0.76 | binh_thuong | – | Không | The best way to NOT plant a Fruit Tree |
+| 2020-12-31 | 2,146 | 2y7QD6cbAwc | 47,169 | 15 | 61,705 | 0.76 | 5 | 1.36 | binh_thuong | – | Không | Can you eat grass? |
+| 2021-01-28 | 2,118 | ZmN0_VAGfMk | 7,906 | 15 | 47,169 | 0.17 | 5 | 1.78 | binh_thuong | – | Không | Grass Herbal Tea Update: We Tried Roasting the Rhizomes! |
+| 2021-03-02 | 2,085 | XjIuho-nsT8 | 175,467 | 15 | 47,169 | 3.72 | 5 | 1.78 | dang_ghi | – | Không | Square Paper Seedling Pots - Quick, Easy, and Biodegradable |
+| 2021-03-25 | 2,062 | hq7CsISFnEU | 15,661 | 15 | 47,169 | 0.33 | 5 | 1.78 | binh_thuong | – | Không | Quick update: Soil Blocking, Wooden Trays, and Winter sowing! |
+| 2021-05-19 | 2,007 | iYZUV5K6Xnk | 97,812 | 15 | 47,169 | 2.07 | 5 | 1.48 | hoi_cao | – | Không | Garden Fence (Part 2): Keeping out small digging animals AND rhizomatous grass |
+| 2021-07-28 | 1,937 | Y_3I-oHWKdo | 83,843 | 15 | 47,169 | 1.78 | 5 | 1.35 | binh_thuong | – | Không | How Groundhogs Hibernate \| Plus: BABY Groundhogs! |
+| 2021-10-20 | 1,853 | _Yrb6WMg6zI | 69,986 | 15 | 47,169 | 1.48 | 5 | 1.09 | binh_thuong | – | Không | How to Braid Garlic (hardneck or softneck) |
+| 2021-12-31 | 1,781 | 0FGInl2JFRM | 96,483 | 15 | 69,986 | 1.38 | 5 | 0.73 | binh_thuong | – | Không | Garden Fence (Part 3): Keeping out Deer and other large animals |
+| 2022-03-08 | 1,714 | fwm-5tFAM1I | 16,773 | 15 | 69,986 | 0.24 | 5 | 0.73 | binh_thuong | – | Không | Why is Rabbit Pee BLUE in the Winter? |
+| 2022-03-28 | 1,694 | d0Gbi2O3xdc | 51,212 | 15 | 69,986 | 0.73 | 5 | 0.55 | binh_thuong | – | Không | Planting into a Ruth Stout Garden (Quick Overview) |
+| 2022-05-03 | 1,658 | HDxDif3vV9Y | 63,520 | 15 | 51,212 | 1.24 | 5 | 0.70 | binh_thuong | – | Không | Easy Companion-Planted Asparagus and Strawberries (Spring of Season 4) |
+| 2022-05-30 | 1,631 | 4L-UWLcpAJc | 21,859 | 15 | 63,520 | 0.34 | 5 | 0.56 | binh_thuong | – | Không | Garden Fence (Part 3.1): Testing New Fasteners to Replace Staples |
+| 2022-07-01 | 1,599 | AVI-30apCLo | 56,278 | 15 | 63,520 | 0.89 | 5 | 0.42 | binh_thuong | – | Không | Smothering Rhizomatous Grass with a Tarp (results after A FULL YEAR) |
+| 2022-08-16 | 1,553 | QyJeSsjCp4M | 35,714 | 15 | 56,278 | 0.63 | 5 | 0.32 | binh_thuong | – | Không | Protecting potatoes from mice and voles |
+| 2022-10-18 | 1,490 | z-zCKkrA8Q4 | 38,592 | 15 | 51,212 | 0.75 | 5 | 0.20 | binh_thuong | – | Không | Is Crop Rotation Necessary in a Ruth Stout Garden? |
+| 2023-02-03 | 1,382 | ZZ25mr9zlNo | 7,801 | 15 | 51,212 | 0.15 | 5 | 0.34 | binh_thuong | – | Không | Does the Windchill Factor affect Outdoor Garden Plants? |
+| 2023-02-12 | 1,373 | 503eVhbN_Bk | 4,230 | 15 | 51,212 | 0.08 | 5 | 0.35 | binh_thuong | – | Không | Windchill and Plants: Responding to YOUR comments and questions |
+| 2023-03-24 | 1,333 | uV-xWofq1ys | 26,684 | 15 | 51,212 | 0.52 | 5 | 0.35 | binh_thuong | – | Không | Winter Sowing: A CHEAP and EASY way to start seeds... OUTSIDE! |
+| 2023-04-02 | 1,324 | qDHx9SkxyJg | 17,812 | 15 | 38,592 | 0.46 | 5 | 0.61 | binh_thuong | – | Không | Sowing Seeds Directly into the Garden... IN WINTER |
+| 2023-04-21 | 1,305 | qM-r0c3ZwaY | 10,348 | 15 | 38,592 | 0.27 | 5 | 0.61 | binh_thuong | – | Không | Winter Sowing Update \| AFTER ONE MONTH |
+| 2023-05-09 | 1,287 | euWoPyrYSJM | 17,211 | 15 | 35,714 | 0.48 | 5 | 0.66 | binh_thuong | – | Không | Is Kale an Annual or a Perennial? |
+| 2023-08-04 | 1,200 | ewXLycD-sxA | 234,670 | 15 | 26,684 | 8.79 | 4 | – | manh | – | Không | Easier Potatoes: How and Why we Hill with Mulch Instead of Soil |
+| 2023-11-24 | 1,088 | BZp5lV1sgrc | 76,817 | 15 | 26,684 | 2.88 | 3 | – | hoi_cao | – | Không | Know your garden mulch: Hay vs Straw |
+| 2024-01-31 | 1,020 | 4qsrYm4KfX0 | 23,459 | 15 | 26,684 | 0.88 | 2 | – | binh_thuong | – | Không | Winter Harvesting Potatoes and Carrots... IN CANADA  (-15C / 5F) |
+| 2024-04-07 | 953 | RSMxnzswQK0 | 12,945 | 15 | 26,684 | 0.49 | 1 | – | binh_thuong | – | Không | Gardening is fun. |
+| 2026-03-06 | 255 | _sE8y06r2sQ | 6,031 | 15 | 23,459 | 0.26 | 0 | – | binh_thuong | – | Không | The future can still be bright |

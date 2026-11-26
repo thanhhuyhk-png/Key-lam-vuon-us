@@ -1,0 +1,51 @@
+# Đo kênh: UC_vEQZUF4exul2EpoTE33HQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 9 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 9 |
+| n_trong_danh_sach | 9 |
+| n_dai | 9 |
+| n_short | 0 |
+| n_dai_dung_tinh | 5 |
+| nguong_tuoi_video | 14 |
+| subs | 1,210 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-10-14 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 45,345 |
+| cao_nhat | 62,622 |
+| thap_nhat | 2,408 |
+| phan_tan | 1.38 |
+| so_video_tren_2x | 0 |
+| ty_le_tren_2x | 0.00 |
+| trung_vi_chia_sub | 37.48 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | – |
+| ngay_video_dau | 2026-10-14 |
+| tuoi_tu_video_dau | 33 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 36.67 |
+| sub_moi_video | 134 |
+| video_30_ngay | 8 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** TRUNG_VI_DUNG_VIDEO_TU_14_NGAY, MAU_TRUNG_VI_NHO, IT_VIDEO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-14 | 33 | qyQ-URJHOUU | 45,345 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Grid Dies in 12 Hours — Nobody Believes You. |
+| 2026-10-23 | 24 | hfw3wtkBqMs | 62,622 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Your Life at Every Level of Prepper Rank |
+| 2026-10-26 | 21 | BzuZPwKko4Y | 2,408 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Real Cost of Building a Fallout Shelter in Your Backyard |
+| 2026-10-28 | 19 | 4RtfZ37FYxY | 12,560 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | What Experiencing Every Level of Tornado feels like |
+| 2026-10-30 | 17 | ugPsiQNzXQo | 49,315 | 4 | – | – | 4 | – | – | it_hon_5_video_truoc | Không | Your Life at Every Level of SHTF (A Realistic Scenario) |
+| 2026-11-04 | 12 | zvofzQ5iu5M | 14,811 | 5 | 45,345 | 0.33 | 3 | – | chua_chin | – | Không | Your Life at Every Level of Prepping for the Winter Shortage |
+| 2026-11-06 | 10 | 3E76m_xbW-g | 31,652 | 6 | 30,078 | 1.05 | 2 | – | chua_chin | – | Không | The First 24 Hours of SHTF (What Actually Happens) |
+| 2026-11-12 | 4 | cvInniuFApQ | 19,422 | 7 | 31,652 | 0.61 | 1 | – | chua_chin | – | Không | You Have 3 Days Before a Winter Blackout — What You Buy Decides Everything |
+| 2026-11-14 | 2 | pFZ5qKUU-eo | 5,664 | 8 | 25,537 | 0.22 | 0 | – | chua_chin | – | Không | Your Life at Every Level of Protecting Your House From Looters |

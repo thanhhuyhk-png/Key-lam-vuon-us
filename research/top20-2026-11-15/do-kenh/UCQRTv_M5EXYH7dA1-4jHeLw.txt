@@ -1,0 +1,150 @@
+# Đo kênh: UCQRTv_M5EXYH7dA1-4jHeLw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 125 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 2,980 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-01-21 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 400 |
+| cao_nhat | 1,913 |
+| thap_nhat | 68 |
+| phan_tan | 4.78 |
+| so_video_tren_2x | 6 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 0.13 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | 1.10 |
+| ngay_video_dau | 2026-01-08 |
+| tuoi_tu_video_dau | 312 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 9.55 |
+| sub_moi_video | 23.84 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-01-08 | 312 | BW8cwB6Q62g | 2,447 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Pomegranate Trees Are Grown for Heavy Fruit Yield  From Soil Preparation to Harvest |
+| 2026-01-09 | 311 | jwcm8RTLNIM | 2,600 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Modern Pomelo Cultivation  High Yield Growing Techniques |
+| 2026-01-09 | 311 | qdyklE_0QWU | 892 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Red Apples Are Grown - Heavy Red Apples Ripening On The Tree |
+| 2026-01-10 | 310 | XJEn4mUwayc | 11,024 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Orange Trees Are Grown for Big, Round Fruit  Full Growing Process |
+| 2026-01-10 | 310 | qYt5RG8tv6Y | 8,162 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Mango Growing Process Ripe Heavy Mangoes Hanging From Branches |
+| 2026-01-11 | 309 | e3IRCY2kheg | 3,231 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How Peaches Are Grown for Heavy Harvest  From Soil to Peak Ripeness |
+| 2026-01-11 | 309 | k2qjc8Mctw4 | 3,007 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Blueberry Bush Growing Process  Heavy Fruit at Peak Season |
+| 2026-01-12 | 308 | 9KamFXZYb9w | 15,204 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Kiwi Vines Loaded With Fruit  A Calm, Satisfying Farming Process |
+| 2026-01-21 | 299 | _h3MQ8gBJwg | 839,465 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Cashew Apples Are Grown & Harvested  Peaceful Farming Documentary |
+| 2026-01-22 | 298 | Ciyfv9Kyx8g | 2,680 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Sea Buckthorn Tree Heavy with Fruit  How Sea Buckthorn Is Grown Naturally |
+| 2026-01-22 | 298 | 7kC4H1dYdcU | 6,855 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Jabuticaba Is Grown – From Soil to Harvest  Peaceful Farming Documentary |
+| 2026-01-23 | 297 | XwhaN3fDZiY | 1,920 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Inside a Goji Berry Farm at Peak Harvest  Calm Agricultural Documentary |
+| 2026-01-23 | 297 | a_FqtyEzTDw | 917 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How Abiu Is Grown — From Soil to Harvest  Calm Agricultural Documentary AI Assisted |
+| 2026-01-24 | 296 | sQpub2hsPAg | 1,548 | 5 | 2,680 | 0.58 | 5 | 1.49 | binh_thuong | – | Không | Inside a Sapodilla Orchard at Peak Harvest  Calm Farming Documentary |
+| 2026-01-24 | 296 | 5veIYnRpJys | 148,446 | 6 | 2,300 | 64.54 | 5 | 1.34 | can_kiem_ky | – | Không | Red Grape Farming Process — From Planting to Harvest  Calm Agricultural Documentary |
+| 2026-01-25 | 295 | VTqr6oMbumE | 3,992 | 7 | 2,680 | 1.49 | 5 | 1.15 | binh_thuong | – | Không | How Acerola Cherry Is Grown — From Planting to an Abundant Harvest  Calm Farming Documentary |
+| 2026-01-26 | 294 | mfImrJG-v3I | 2,392 | 8 | 3,336 | 0.72 | 5 | 1.61 | binh_thuong | – | Không | Starfruit Farming at Peak Harvest  How Starfruit Are Grown from Tree to Harvest |
+| 2026-01-27 | 293 | a8_7rC32E_0 | 3,092 | 9 | 2,680 | 1.15 | 5 | 2.00 | binh_thuong | – | Không | From Soil to Abundance Papaya Farming Documentary  Calm Agricultural Film (AI-Generated) |
+| 2026-01-28 | 292 | a8MW8NfUtJw | 14,389 | 10 | 2,886 | 4.99 | 5 | 0.59 | dang_ghi | – | Không | How Cocoa Is Grown — From Soil to Harvest  Calm Agricultural Documentary |
+| 2026-01-29 | 291 | TU-PypugbgY | 1,324 | 11 | 3,092 | 0.43 | 5 | 0.55 | binh_thuong | – | Không | How Hawthorn Is Grown – From Soil to a Harvest Overflowing With Fruit  Calm Farming Documentary |
+| 2026-01-29 | 291 | HfqeNwymy5s | 46,414 | 12 | 2,886 | 16.08 | 5 | 0.59 | can_kiem_ky | – | Không | Durian Farming Process – From Planting to a Heavy Harvest \| Calm Agricultural Documentary |
+| 2026-01-30 | 290 | ab0LjV55EZk | 5,370 | 13 | 3,092 | 1.74 | 5 | 0.55 | binh_thuong | – | Không | Farming Documentary Passion Fruit from Flower to Harvest |
+| 2026-01-31 | 289 | i43EUlgwwB8 | 951 | 14 | 3,542 | 0.27 | 5 | 0.48 | binh_thuong | – | Không | Blood Lime Orchard at Peak Harvest  A Calm Agricultural Documentary |
+| 2026-02-01 | 288 | lC3BfxaZ_sE | 1,698 | 15 | 3,092 | 0.55 | 5 | 0.78 | binh_thuong | – | Không | How Yellow Dragonfruit Is Grown  From Soil to Harvest  A Calm Agricultural Documentary |
+| 2026-02-02 | 287 | ofgL-RryypI | 1,716 | 15 | 2,680 | 0.64 | 5 | 0.90 | binh_thuong | – | Không | How Langsat Is Grown  From Planting to Harvest  Calm Agricultural Documentary |
+| 2026-02-03 | 286 | LFoTvGJozJU | 2,406 | 15 | 2,392 | 1.01 | 5 | 1.14 | binh_thuong | – | Không | How Ataulfo Mango Is Grown  From Orchard to Harvest  Agricultural Documentary |
+| 2026-02-04 | 285 | emjqOIytmrw | 2,725 | 15 | 2,392 | 1.14 | 5 | 0.90 | binh_thuong | – | Không | Greengage Plum — From Orchard Soil to a Harvest Heavy With Fruit \| Agricultural Documentary |
+| 2026-02-05 | 284 | KZIy8f8OwNM | 1,000 | 15 | 2,406 | 0.42 | 5 | 1.47 | binh_thuong | – | Không | Avocado From Soil to Harvest \| A Calm Agricultural Documentary |
+| 2026-02-06 | 283 | X0CgixS2LCI | 3,538 | 15 | 2,406 | 1.47 | 5 | 1.09 | binh_thuong | – | Không | How Mulberries Are Grown \| From Soil to Harvest \| Calm Agricultural Documentary |
+| 2026-02-07 | 282 | S69VyHdnqKU | 2,056 | 15 | 2,725 | 0.75 | 5 | 0.97 | binh_thuong | – | Không | How Fig Trees Are Grown  From Soil to Harvest  Calm Agricultural Documentary |
+| 2026-02-08 | 281 | rZXLfA0b7K8 | 3,729 | 15 | 2,406 | 1.55 | 5 | 1.09 | binh_thuong | – | Không | How Guava Is Grown – From Soil to Harvest  A Calm Agricultural Documentary |
+| 2026-02-09 | 280 | InI34uQqCWc | 2,143 | 15 | 2,406 | 0.89 | 5 | 1.09 | binh_thuong | – | Không | How White Peaches Are Grown – From Orchard to Harvest  Calm Agricultural Documentary |
+| 2026-02-10 | 279 | Vk_Okp_Pl3E | 4,340 | 15 | 2,406 | 1.80 | 5 | 0.60 | binh_thuong | – | Không | How Ruby Red Pomelo Is Grown – From Planting to Harvest  Calm Agricultural Documentary AI assisted |
+| 2026-02-11 | 278 | qybEIo1jDO4 | 2,633 | 15 | 2,406 | 1.09 | 5 | 0.60 | binh_thuong | – | Không | How Chestnuts Grow  From Planting to Peak Green Burr Harvest |
+| 2026-02-12 | 277 | zjctjwkJXI4 | 1,434 | 15 | 2,406 | 0.60 | 5 | 0.61 | binh_thuong | – | Không | How Asian Pears Are Grown \| From Blossom to Harvest \| Nashi Pear Farming Documentary |
+| 2026-02-13 | 276 | WSX-15ent-A | 3,147 | 15 | 2,406 | 1.31 | 5 | 0.57 | binh_thuong | – | Không | How Almonds Are Grown  From Blossom to Harvest  Almond Farming Documentary |
+| 2026-02-14 | 275 | mwhCTAIMcBM | 531 | 15 | 2,406 | 0.22 | 5 | 0.57 | binh_thuong | – | Không | How Lime Trees Are Grown  From Planting to Harvest  Calm Agricultural Documentary |
+| 2026-02-15 | 274 | mEeSw_-xYUE | 915 | 15 | 2,143 | 0.43 | 5 | 0.64 | binh_thuong | – | Không | How Dwarf Coconuts Are Grown and Harvested  From Seed to Heavy Fruit Clusters |
+| 2026-02-16 | 273 | YFOu6DTonNE | 1,473 | 15 | 2,143 | 0.69 | 5 | 0.38 | binh_thuong | – | Không | How Rainier Cherries Are Grown \| From Planting to Harvest \| Ultra Heavy Fruiting Documentary |
+| 2026-02-17 | 272 | vLPtjpUparE | 2,462 | 15 | 2,143 | 1.15 | 5 | 0.38 | binh_thuong | – | Không | How Sugar Apples Are Grown  From Seed to Heavy Fruit Harvest Annona squamosa Documentary |
+| 2026-02-18 | 271 | x20mVpr_EXg | 1,378 | 15 | 2,406 | 0.57 | 5 | 0.29 | binh_thuong | – | Không | How Soursop Is Grown – From Seed to Harvest  Ultra Abundant Tropical Orchard Documentary |
+| 2026-02-19 | 270 | kmhaoCzKh78 | 559 | 15 | 2,143 | 0.26 | 5 | 0.38 | binh_thuong | – | Không | Cucumber Farming Documentary  Growing an Abundant Harvest |
+| 2026-02-22 | 267 | q9LtEloQvkI | 815 | 15 | 2,056 | 0.40 | 5 | 0.34 | binh_thuong | – | Không | How Longan Is Grown  From Planting to a Heavy Fruit Harvest |
+| 2026-02-23 | 266 | dAp3t0_KigE | 808 | 15 | 2,056 | 0.39 | 5 | 0.34 | binh_thuong | – | Không | How Cloves Are Grown  From Soil to Fresh Red Bud Harvest Clove Farming Documentary |
+| 2026-02-24 | 265 | wPcy3I98WjA | 386 | 15 | 1,473 | 0.26 | 5 | 0.47 | binh_thuong | – | Không | How Macadamia Nuts Are Grown  From Soil to Heavy Harvest |
+| 2026-02-25 | 264 | djtsCtAe7kY | 693 | 15 | 1,434 | 0.48 | 5 | 0.47 | binh_thuong | – | Không | How Walnut Trees Are Grown  From Green Husk to Harvest Walnut Farming Documentary |
+| 2026-02-27 | 262 | kQtMZXCoJGc | 4,406 | 15 | 1,378 | 3.20 | 5 | 0.49 | dang_ghi | – | Không | How Chinese Jujube Is Grown – From Seed to Heavy Red Fruit Harvest |
+| 2026-02-28 | 261 | NolszOPhwZ4 | 608 | 15 | 1,378 | 0.44 | 5 | 0.49 | binh_thuong | – | Không | From Vine to Harvest The Industrial Journey of Piper nigrum  Black Pepper Climbing Concrete Poles |
+| 2026-03-01 | 260 | IeQ_SBx_Wvs | 916 | 15 | 915 | 1.00 | 5 | 0.73 | binh_thuong | – | Không | How Rose Hips Are Grown  From Soil to Heavy Red Harvest Peaceful Farm Documentary |
+| 2026-03-02 | 259 | I7KgFVHqKHI | 671 | 15 | 915 | 0.73 | 5 | 0.67 | binh_thuong | – | Không | Green Jujube Harvest Documentary  How Jujube Is Grown From Soil to Abundant Green Fruit |
+| 2026-03-03 | 258 | gsi92YekEhE | 610 | 15 | 815 | 0.75 | 5 | 0.87 | binh_thuong | – | Không | How Elderberry Is Grown  From Soil to Heavy Purple Harvest |
+| 2026-03-06 | 255 | NwNcYSoqX0k | 1,683 | 15 | 808 | 2.08 | 5 | 0.87 | hoi_cao | – | Không | Giant Rose Apple Harvest – From Planting to a Fruit Laden Orchard  Relaxing Agricultural Documentary |
+| 2026-03-07 | 254 | NJWi345KbF0 | 575 | 15 | 815 | 0.71 | 5 | 1.02 | binh_thuong | – | Không | Israel Did the Impossible Growing Tomatoes in the Desert |
+| 2026-03-08 | 253 | LV3CV87FbBM | 706 | 15 | 808 | 0.87 | 5 | 1.03 | binh_thuong | – | Không | The Secret of Abundant Eggplants From Tiny Seedlings to a Farm Full of Giant Purple Harvest |
+| 2026-03-10 | 251 | 5myqrhDxDPk | 541 | 15 | 706 | 0.77 | 5 | 1.27 | binh_thuong | – | Không | The Hidden Beauty of Plum Apricot Orchards  From Planting to Harvest |
+| 2026-03-13 | 248 | NoIRpNltu1k | 835 | 15 | 693 | 1.20 | 5 | 1.61 | binh_thuong | – | Không | The Sweetest Grapes in the World – Growing Cotton Candy Grapes From Planting to Harvest |
+| 2026-03-21 | 240 | mRLHRV4sQLY | 59,616 | 15 | 693 | 86.03 | 5 | 1.29 | can_kiem_ky | – | Không | Purple Malaysian Guava Farm  From Planting to Heavy Harvest Calm 4K Agricultural Documentary |
+| 2026-03-23 | 238 | DXCZizIt5Uw | 895 | 15 | 706 | 1.27 | 5 | 0.99 | binh_thuong | – | Không | Kumquat Tree Cultivation Documentary  From Soil to Abundant Harvest |
+| 2026-03-25 | 236 | vp0_wREmKW0 | 696 | 15 | 706 | 0.99 | 5 | 0.79 | binh_thuong | – | Không | Bountiful Pecan Harvest From Seedling to Full Tree |
+| 2026-03-28 | 233 | JIVAslg9-ms | 1,295 | 15 | 696 | 1.86 | 5 | 0.80 | binh_thuong | – | Không | Acerola Brazil Farming Documentary – From Seed to Heavy Fruit Harvest Relaxing Visual Journey |
+| 2026-03-30 | 231 | fcl0okL7JIU | 1,117 | 15 | 706 | 1.58 | 5 | 0.74 | binh_thuong | – | Không | Seedless Summer Muscat Grapes Farming Process – A Complete Documentary from Planting to Harvest 🍇 |
+| 2026-04-01 | 229 | rwyXRvQqI-Q | 559 | 15 | 835 | 0.67 | 5 | 0.49 | binh_thuong | – | Không | Noni Fruit Harvesting – A Complete Farming Documentary in 4K |
+| 2026-04-03 | 227 | OgurXWa2gLU | 525 | 15 | 706 | 0.74 | 5 | 0.58 | binh_thuong | – | Không | From Seed to Harvest Pink Currants in Stunning Detail |
+| 2026-04-05 | 225 | 5_Q5hDgA-A8 | 345 | 15 | 706 | 0.49 | 5 | 0.58 | binh_thuong | – | Không | The Beauty of Blackcurrant Farming – Full Growing Process Calm & Satisfying |
+| 2026-04-07 | 223 | CR8zaE5AbHQ | 730 | 15 | 696 | 1.05 | 5 | 0.59 | binh_thuong | – | Không | The Beauty of Japanese Pear Trees – Full Growth & Harvest Documentary |
+| 2026-04-09 | 221 | Q4T774qUWZQ | 408 | 15 | 706 | 0.58 | 5 | 1.33 | binh_thuong | – | Không | Yamanashi Peach Farm – From Seed to Harvest  Heavy Fruit Orchard Documentary |
+| 2026-04-10 | 220 | zyrtoPtABRc | 234 | 15 | 706 | 0.33 | 5 | 1.33 | binh_thuong | – | Không | Strawberry Harvesting – From Seed to Giant Fruit  Peaceful Countryside Documentary |
+| 2026-04-11 | 219 | shdQTo-Wlas | 145,709 | 15 | 696 | 209 | 5 | 1.24 | can_kiem_ky | – | Không | Miyazaki Red Mango Farming – From Seed to Harvest \| Peaceful Agricultural Documentary |
+| 2026-04-12 | 218 | 2p_RqIi3iUY | 407 | 15 | 706 | 0.58 | 5 | 1.22 | binh_thuong | – | Không | Turning Desert Into a Pomegranate Farm  Full Process of Growing Red Pomegranate Trees with Drip Irri |
+| 2026-04-13 | 217 | 4bRbUmQdZZ8 | 960 | 15 | 696 | 1.38 | 5 | 1.10 | binh_thuong | – | Không | How Iran Grows Saffron Crocus sativus  The World’s Most Expensive Spice |
+| 2026-04-14 | 216 | sAg1g9Q4ahM | 941 | 15 | 730 | 1.29 | 5 | 0.97 | binh_thuong | – | Không | Red Kiwi Harvest Journey – From Soil to Millions of Fruits |
+| 2026-04-16 | 214 | 1iZ6rcKOYWU | 710 | 15 | 730 | 0.97 | 5 | 1.05 | binh_thuong | – | Không | Physalis Farming Documentary  From Seed to Harvest in a Lush Golden Field |
+| 2026-04-17 | 213 | BP0wYWbBWM8 | 864 | 15 | 710 | 1.22 | 5 | 0.89 | binh_thuong | – | Không | Kaffir Lime Farming Documentary  From Seed to Heavy Harvest  Relaxing Agricultural Film |
+| 2026-04-18 | 212 | lUZ0l7PCc_U | 766 | 15 | 710 | 1.08 | 5 | 0.89 | binh_thuong | – | Không | The Pawpaw Harvest Journey  From Planting to Peak Abundance Relaxing Farm Documentary |
+| 2026-04-21 | 209 | SAF0qqgBZKk | 630 | 15 | 730 | 0.86 | 5 | 1.15 | binh_thuong | – | Không | The Full Journey of Ginkgo Nut Farming  From Planting to Giant Golden Harvest Documentary |
+| 2026-04-23 | 207 | IOH-PTyN0yM | 223 | 15 | 710 | 0.31 | 5 | 1.18 | binh_thuong | – | Không | Japanese Watermelon Harvest  From Seed to Giant Fruit |
+| 2026-04-24 | 206 | O9vdYrKXr6o | 1,007 | 15 | 630 | 1.60 | 5 | 1.33 | binh_thuong | – | Không | Yellow Dwarf Cashew Harvest Documentary  Amazing Yellow Cashew Farm From Planting to Harvest |
+| 2026-04-26 | 204 | I7Zk2x_p9RU | 394 | 15 | 710 | 0.55 | 5 | 1.35 | binh_thuong | – | Không | The Complete Rowan Berry Farming Documentary  From Planting to Giant Harvest |
+| 2026-04-28 | 202 | 9W54frklhdU | 838 | 15 | 710 | 1.18 | 5 | 1.50 | binh_thuong | – | Không | Giant Mango Farming in Vietnam – Sunrise to First Harvest Journey Cinematic Series |
+| 2026-04-29 | 201 | TFOWyy4ozN4 | 1,425 | 15 | 730 | 1.95 | 5 | 1.32 | binh_thuong | – | Không | Hibiscus Roselle Farming Journey From Seed to Harvest \| Stunning Red Calyx Garden Documentary |
+| 2026-04-30 | 200 | 6fBc_GTwHRU | 225 | 15 | 766 | 0.29 | 5 | 1.25 | binh_thuong | – | Không | Artichoke Farming Journey From Seed to Abundant Harvest  Cinematic Agriculture Documentary |
+| 2026-05-01 | 199 | r5lqKPTTyKE | 960 | 15 | 766 | 1.25 | 5 | 1.07 | binh_thuong | – | Không | Tamarind Tree Harvest Documentary  From Soil to Heavy Fruit Abundance |
+| 2026-05-03 | 197 | QY2ZhQSdX24 | 1,067 | 15 | 838 | 1.27 | 5 | 0.97 | binh_thuong | – | Không | Pistachio Harvest in Iran 🌿 From Seed to Abundance \| Cinematic Farming Documentary |
+| 2026-05-04 | 196 | 6kaD2Kq7F84 | 1,255 | 15 | 838 | 1.50 | 5 | 0.90 | binh_thuong | – | Không | The Farming Process of ST25 Rice – The World’s Best Rice in the Mekong Delta, Vietnam 🌾 |
+| 2026-05-06 | 194 | VOgEvRssGcA | 816 | 15 | 864 | 0.94 | 5 | 0.61 | binh_thuong | – | Không | White Pomegranate Harvest Documentary  Peaceful Farming Life & Heavy Fruiting Orchard |
+| 2026-05-07 | 193 | qoLm-q5gISA | 527 | 15 | 838 | 0.63 | 5 | 0.52 | binh_thuong | – | Không | Golden Yellow Plum Harvest Documentary  Relaxing Orchard Cinematic Film  Peaceful Farming Ambience |
+| 2026-05-08 | 192 | 0CdOVfwo3EM | 755 | 15 | 816 | 0.93 | 5 | 0.50 | binh_thuong | – | Không | Red Anjou Pear Harvest Documentary  Giant Heavy Fruiting Orchard After Rain  Relaxing Farming Cinema |
+| 2026-05-09 | 191 | eDyw-rXFeyo | 3,528 | 15 | 816 | 4.32 | 5 | 0.39 | dang_ghi | – | Không | Japanese Fuyu Persimmon Harvest Documentary  Peaceful Orchard Cinematic Farming Film |
+| 2026-05-11 | 189 | qo71VZkNNbQ | 268 | 15 | 816 | 0.33 | 5 | 0.50 | binh_thuong | – | Không | Giant Albino Blueberries From Seed to Harvest  Peaceful Farm Cinematic |
+| 2026-05-12 | 188 | jWPdy9r4t3M | 408 | 15 | 816 | 0.50 | 5 | 0.54 | binh_thuong | – | Không | Mexico Prickly Pear Harvest, From Harsh Desert to Red Fruit Season  Cinematic Farming Documentary |
+| 2026-05-13 | 187 | JfMnqSJf0bk | 439 | 15 | 816 | 0.54 | 5 | 0.48 | binh_thuong | – | Không | Giant American Green Plum Harvest  Relaxing Farming Documentary |
+| 2026-05-15 | 185 | YuEtCd5CJsc | 315 | 15 | 816 | 0.39 | 5 | 0.82 | binh_thuong | – | Không | Massive Bilimbi Harvest in Tropical Orchard,  From Tree to Harvest |
+| 2026-05-17 | 183 | Fm48uZfDUIQ | 280 | 15 | 755 | 0.37 | 5 | 0.89 | binh_thuong | – | Không | Massive Biwa Japan Harvest 🍊  From Young Orchard to Heavy Fruit Season |
+| 2026-05-18 | 182 | znD1lUpOhio | 1,913 | 15 | 755 | 2.53 | 5 | 0.52 | hoi_cao | – | Không | Massive Blue Java Banana Harvest in Tropical Plantation,  From Planting to Harvest Documentary |
+| 2026-05-20 | 180 | qJTXYmx0iow | 672 | 15 | 755 | 0.89 | 5 | 0.44 | binh_thuong | – | Không | Massive Purple Mango Harvest in Tropical Orchard,  From Planting to Harvest |
+| 2026-05-21 | 179 | D-Mdc3zEkFw | 392 | 15 | 672 | 0.58 | 5 | 0.30 | binh_thuong | – | Không | Massive Yellow Custard Apple Harvest, Beautiful Tropical Orchard Documentary |
+| 2026-08-14 | 94 | LQAGVOVMNK4 | 1,404 | 15 | 672 | 2.09 | 5 | 0.30 | hoi_cao | – | Không | Growing Japanese Ume From Seed to Harvest  The Complete Life Cycle of Ume Plum |
+| 2026-08-15 | 93 | lfnUYTqDaYk | 203 | 15 | 672 | 0.30 | 5 | 0.49 | binh_thuong | – | Không | Growing Ginkgo Biloba From Seedling to Harvest  A Peaceful Agricultural Documentary |
+| 2026-08-16 | 92 | Q6BgJh9UaO8 | 332 | 15 | 527 | 0.63 | 5 | 0.34 | binh_thuong | – | Không | From Seed to Harvest Growing Mamey Sapote  Complete Farming Process |
+| 2026-08-17 | 91 | seYCnV5MO-c | 121 | 15 | 439 | 0.28 | 5 | 1.86 | binh_thuong | – | Không | Growing Pink Pomelo From Planting to a Bountiful Harvest  Peaceful Farming Documentary |
+| 2026-08-19 | 89 | ZyBIBk1H21A | 180 | 15 | 408 | 0.44 | 5 | 2.00 | binh_thuong | – | Không | Growing Vietnamese Kumquat From Seed to a Fruit Laden Orchard  Agricultural Documentary |
+| 2026-08-21 | 87 | upiWrUecf48 | 1,616 | 15 | 392 | 4.12 | 5 | 2.05 | dang_ghi | – | Không | Growing Golden Pomegranates – From Seed to a Beautiful Harvest  Farming Documentary |
+| 2026-08-22 | 86 | J5d7h88QMAA | 816 | 15 | 392 | 2.08 | 5 | 1.40 | hoi_cao | – | Không | Growing American Red Apples from Planting to Harvest  Amazing Apple Orchard Documentary |
+| 2026-08-25 | 83 | mK9HXCEbMEw | 68 | 15 | 392 | 0.17 | 4 | – | binh_thuong | – | Không | Growing White Pear Trees – From Planting to an Incredible Harvest |
+| 2026-08-30 | 78 | AcKekj1ZAH4 | 981 | 15 | 392 | 2.50 | 3 | – | hoi_cao | – | Không | Lapsi Tree in Nepal – From Planting to a Bountiful Harvest |
+| 2026-09-04 | 73 | jpyOIFfF0bo | 550 | 15 | 392 | 1.40 | 2 | – | binh_thuong | – | Không | How Mazafati Dates Are Grown in Kerman, Iran  From Young Palm to Harvest |
+| 2026-09-10 | 67 | myAk8soNFA4 | 805 | 15 | 392 | 2.05 | 1 | – | hoi_cao | – | Không | How Hass Avocados Are Grown in Uruapan, Mexico  From Planting to Harvest |
+| 2026-09-11 | 66 | S7jJ3df_AK4 | 181 | 15 | 550 | 0.33 | 0 | – | binh_thuong | – | Không | How Olives Are Grown in Israel  From Young Trees to a Massive Olive Harvest |

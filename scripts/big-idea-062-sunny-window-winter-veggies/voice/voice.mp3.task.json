@@ -1,0 +1,30 @@
+{
+ "id": "daf86f6b-ce30-45da-b64d-9f3184ece207",
+ "created_at": "2026-10-17T09:03:56.688Z",
+ "status": "done",
+ "credit_cost": 26091,
+ "metadata": {
+  "v3": {
+   "provider": "minimax",
+   "raw_voice_id": "clone_2697441"
+  },
+  "model": "speech-02-hd",
+  "srt_url": "https://cdn.ai33.pro/v3/tts/daf86f6b-ce30-45da-b64d-9f3184ece207_1792227837159.srt?name=voice.srt&dl=1",
+  "json_url": "https://cdn.ai33.pro/v3/tts/daf86f6b-ce30-45da-b64d-9f3184ece207_1792227837159.json?name=voice.json&dl=1",
+  "file_name": "voice",
+  "multi_turn": false,
+  "voice_setting": {
+   "voice_id": "2697441"
+  },
+  "with_loudnorm": false,
+  "with_transcript": true,
+  "transcript_status": "completed",
+  "transcript_credit_cost": 3403,
+  "audio_url": "https://cdn.ai33.pro/v3/tts/daf86f6b-ce30-45da-b64d-9f3184ece207_1792227837159.mp3?name=voice.mp3&dl=1"
+ },
+ "progress": 100,
+ "type": "minimax_tts",
+ "updated_at": "2026-10-17T09:05:23.000Z",
+ "text_length": 17616,
+ "text_truncated": true
+}

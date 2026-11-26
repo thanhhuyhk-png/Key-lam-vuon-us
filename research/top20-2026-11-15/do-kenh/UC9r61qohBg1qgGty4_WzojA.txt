@@ -1,0 +1,150 @@
+# Đo kênh: UC9r61qohBg1qgGty4_WzojA.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 131 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 631 |
+| n_trong_danh_sach | 111 |
+| n_dai | 100 |
+| n_short | 11 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 1,150,000 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2024-12-28 |
+| n_ngoai_cua_so | 20 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 110,067 |
+| cao_nhat | 388,213 |
+| thap_nhat | 26,482 |
+| phan_tan | 3.53 |
+| so_video_tren_2x | 4 |
+| ty_le_tren_2x | 0.20 |
+| trung_vi_chia_sub | 0.10 |
+| ty_le_like_trung_vi | 0.03 |
+| da_trung_vi | 2.19 |
+| ngay_video_dau | 2010-03-05 |
+| tuoi_tu_video_dau | 6,100 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 189 |
+| sub_moi_video | 1,823 |
+| video_30_ngay | 4 |
+| ty_trong_view_short | 0.02 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2010-03-05 | 6,100 | WzT2TV3AUs8 | 419,418 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Vegetable Garden Planner |
+| 2010-03-05 | 6,100 | XzWPgJ2Oqbg | 41,768 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Drawing Your Garden Plan |
+| 2010-03-05 | 6,100 | _mFNnd3aEw8 | 11,042 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Adding Plants and Varieties in the Garden Planner |
+| 2010-03-05 | 6,100 | w273oXBs2pE | 7,779 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Planting Reminders and Frost Dates |
+| 2010-03-05 | 6,100 | N4Bc4ldyYyY | 8,604 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Starting Next Year's Plan and Crop Rotation |
+| 2010-03-05 | 6,100 | NA-nnIsjMS0 | 4,358 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Adding Notes in the Garden Planner |
+| 2010-03-05 | 6,100 | jycMPThMOeA | 14,755 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Succession Planting using the Garden Planner |
+| 2010-04-06 | 6,068 | ESW2BOPQ-8I | 1,149 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Garden Planner Quick Start Video (with Captions) |
+| 2024-12-28 | 688 | Dut6gtbzt0w | 103,961 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Plan Your Vegetable Garden in 5 Easy Steps |
+| 2025-01-04 | 681 | N0uCgDR55VE | 191,343 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 7 Must-Grow Plants |
+| 2025-01-11 | 674 | Y3ThgV_49_w | 78,153 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Beginner Gardener’s Blueprint: No Experience Needed |
+| 2025-01-18 | 667 | 6U8g9yYPPmo | 150,744 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | The Clever Way Smart Gardeners Stop Plants Dying |
+| 2025-01-25 | 660 | qGeOQKJZebk | 172,617 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 5 Super-Early Vegetables to Start Before Spring |
+| 2025-02-01 | 653 | TM2MmRG5h1M | 192,435 | 5 | 150,744 | 1.28 | 5 | 3.54 | binh_thuong | – | Không | The Clever Reason Smart Gardeners Start Seeds in Milk Jugs |
+| 2025-02-08 | 646 | z6OuOgMOKpI | 163,501 | 6 | 161,680 | 1.01 | 5 | 3.30 | binh_thuong | – | Không | Better Than Bug Spray: This One Flower Shields Your Plants |
+| 2025-02-15 | 639 | PDfnieWsOI4 | 699,130 | 7 | 163,501 | 4.28 | 5 | 1.91 | dang_ghi | – | Không | The Clever Way Smart Gardeners Stop Seedlings Dying |
+| 2025-02-22 | 632 | zavQRGSENlk | 3,958,511 | 8 | 168,059 | 23.55 | 5 | 1.11 | can_kiem_ky | – | Không | This Crop is WAY Better Than Potatoes (And No One Grows It!) |
+| 2025-03-01 | 625 | fDiu2YS_khU | 532,992 | 9 | 172,617 | 3.09 | 5 | 1.02 | dang_ghi | – | Không | Tomato Growing Masterclass: My Blueprint to Success Every Time! |
+| 2025-03-08 | 618 | ZY4AybX4aEw | 312,704 | 10 | 181,980 | 1.72 | 5 | 0.83 | binh_thuong | – | Không | Onion Growing Masterclass: The Ultimate Guide to Perfect Bulbs |
+| 2025-03-15 | 611 | 8TcyIfLGWAs | 124,073 | 11 | 191,343 | 0.65 | 5 | 0.79 | binh_thuong | – | Không | Chard Growing Masterclass (Easier Than Spinach!) |
+| 2025-03-22 | 604 | DYIKtv_pdiQ | 175,287 | 12 | 181,980 | 0.96 | 5 | 0.71 | binh_thuong | – | Không | The Clever Way Smart Gardeners Grow Potatoes (In Record Time) |
+| 2025-03-29 | 597 | 8RKZDjIbo4I | 185,931 | 13 | 175,287 | 1.06 | 5 | 0.55 | binh_thuong | – | Không | The One-Bed Method: Grow 10+ Vegetables in 60 Days |
+| 2025-04-05 | 590 | gKi4Ls3XMYo | 150,780 | 14 | 180,609 | 0.83 | 5 | 0.47 | binh_thuong | – | Không | Spinach Growing Masterclass: Grow Super-Fast Leaves |
+| 2025-04-12 | 583 | _2OY7tSYeRA | 95,786 | 15 | 175,287 | 0.55 | 5 | 0.49 | binh_thuong | – | Không | How I Grow an Entire Garden from One Tray |
+| 2025-04-19 | 576 | zYCFya1tGMQ | 83,240 | 15 | 175,287 | 0.47 | 5 | 0.49 | binh_thuong | – | Không | Why Smart Gardeners Use These Weird Cubes to Grow Seedlings |
+| 2025-04-26 | 569 | R4kxFjjt5fI | 128,677 | 15 | 172,617 | 0.75 | 5 | 0.46 | binh_thuong | – | Không | Parsnip Growing Masterclass (Way Better Than Carrots) |
+| 2025-05-03 | 562 | tHso8g8Aero | 85,230 | 15 | 172,617 | 0.49 | 5 | 0.46 | binh_thuong | – | Không | Zucchini Growing Masterclass: Grow Courgettes in 60 Days |
+| 2025-05-10 | 555 | 2C5VG2nfbJk | 69,122 | 15 | 172,617 | 0.40 | 5 | 0.46 | binh_thuong | – | Không | Radish Growing Masterclass: 4 Weeks to Harvest |
+| 2025-05-17 | 548 | zbB0mBvD7cQ | 742,801 | 15 | 163,501 | 4.54 | 5 | 0.48 | dang_ghi | – | Không | The Clever Way Smart Gardeners Eliminate Slugs |
+| 2025-05-24 | 541 | keXfXE51mcw | 80,023 | 15 | 163,501 | 0.49 | 5 | 0.48 | binh_thuong | – | Không | Peas Growing Masterclass: Grow the Sweetest Garden Peas Ever |
+| 2025-05-31 | 534 | zDDF002IIP0 | 55,459 | 15 | 150,780 | 0.37 | 5 | 0.66 | binh_thuong | – | Không | The 3 Squash Every Gardener NEEDS to Grow |
+| 2025-06-07 | 527 | lJnaS1tmUO8 | 124,109 | 15 | 128,677 | 0.96 | 5 | 0.61 | binh_thuong | – | Không | How Smart Gardeners Prepare for a Heatwave |
+| 2025-06-14 | 520 | rTdk5kbPojg | 78,218 | 15 | 124,109 | 0.63 | 5 | 0.80 | binh_thuong | – | Không | This ONE Clever Trick Doubles Harvests and Protects Your Crops |
+| 2025-06-21 | 513 | AF_VQs5yJEo | 61,750 | 15 | 124,073 | 0.50 | 5 | 0.80 | binh_thuong | – | Không | The Morning Routine that Keeps my Garden Thriving (10 mins a day) |
+| 2025-06-28 | 506 | XSOVMMkaswM | 98,998 | 15 | 95,786 | 1.03 | 5 | 0.76 | binh_thuong | – | Không | This ONE Spray is Every Smart Gardener's Secret Weapon |
+| 2025-07-05 | 499 | V-UDlNlb5RM | 154,330 | 15 | 95,786 | 1.61 | 5 | 0.76 | binh_thuong | – | Không | 5 Crops You Can STILL Plant (Even in Late Summer) |
+| 2025-07-12 | 492 | irZDkvFDGE4 | 48,954 | 15 | 95,786 | 0.51 | 5 | 0.76 | binh_thuong | – | Không | STOP Salad Crops Failing in Summer (Beat the Heat) |
+| 2025-07-19 | 485 | 341jxajzcjw | 720,882 | 15 | 85,230 | 8.46 | 5 | 0.79 | manh | – | Không | How To Prune Tomatoes for Explosive Growth (The RIGHT Way) |
+| 2025-07-26 | 478 | 6BOGxGv8ZfE | 72,420 | 15 | 85,230 | 0.85 | 5 | 0.79 | binh_thuong | – | Không | Cheaper than Miracle Gro: Make Fertilizer from Fish Scraps |
+| 2025-08-02 | 471 | JD1mBiqgiR4 | 67,404 | 15 | 83,240 | 0.81 | 5 | 0.49 | binh_thuong | – | Không | Answering Your Most Urgent Garden Questions (Expert Responds) |
+| 2025-08-09 | 464 | _t0gdfrXYok | 193,000 | 15 | 80,023 | 2.41 | 5 | 0.51 | hoi_cao | – | Không | Cabbage Growing Masterclass: The Secret to Year-Round Harvests |
+| 2025-08-11 | 462 | Q4ekieduyIk | 23,313 | 15 | 80,023 | 0.29 | 5 | 0.97 | binh_thuong | – | Không | 1 Garden. 10 Years. 500 Videos. Growing Together. |
+| 2025-08-16 | 457 | knuT6GJByIw | 33,768 | 15 | 78,218 | 0.43 | 5 | 0.99 | binh_thuong | – | Không | Starting a Garden? You Need To Buy These 5 Tools. |
+| 2025-08-23 | 450 | YGDrbv8ZVsE | 77,694 | 15 | 78,218 | 0.99 | 5 | 1.03 | binh_thuong | – | Không | The Clever Way Smart Gardeners Keep Pests Away |
+| 2025-08-30 | 443 | VsqJjj0IbCo | 40,618 | 15 | 77,694 | 0.52 | 5 | 1.04 | binh_thuong | – | Không | How Smart Gardeners Keep Harvesting for Longer (Tomatoes, Beans etc.) |
+| 2025-09-06 | 436 | o0TaxFVusWw | 97,967 | 15 | 72,420 | 1.35 | 5 | 1.12 | binh_thuong | – | Không | Grow Mint NON-STOP (Without It Taking Over) |
+| 2025-09-13 | 429 | VkQU59W7Ay8 | 80,770 | 15 | 77,694 | 1.04 | 5 | 3.09 | binh_thuong | – | Không | Is 1/10 Acre Enough to Feed You? Here’s What I Grew |
+| 2025-09-20 | 422 | -V169TNkm0Y | 50,812 | 15 | 77,694 | 0.65 | 5 | 3.09 | binh_thuong | – | Không | I Buried Scraps Under my Tomatoes. Here’s What Happened… |
+| 2025-09-27 | 415 | LoSngtBcPhw | 276,656 | 15 | 72,420 | 3.82 | 5 | 2.96 | dang_ghi | – | Không | Why Gardeners are Returning to This World War II Trick |
+| 2025-10-04 | 408 | VeCDoFbOLgc | 62,502 | 15 | 77,694 | 0.80 | 5 | 3.09 | binh_thuong | – | Không | The Easiest Way to Grow Cauliflowers (Even if You’ve Failed) |
+| 2025-10-11 | 401 | KtpClGGkZZg | 239,992 | 15 | 72,420 | 3.31 | 5 | 2.96 | dang_ghi | – | Không | How This Prize-Winning Expert Grows GIANT Vegetables |
+| 2025-10-18 | 394 | Nl4re8crECs | 422,587 | 15 | 72,420 | 5.84 | 5 | 2.96 | manh | – | Không | The Ultimate Compost Masterclass with Charles Dowding |
+| 2025-10-25 | 387 | djYpS_NrBLI | 214,386 | 15 | 77,694 | 2.76 | 5 | 3.51 | hoi_cao | – | Không | The Clever Reason Smart Gardeners Hoard Plastic Bottles |
+| 2025-11-01 | 380 | 54V22h1jF5A | 167,932 | 15 | 77,694 | 2.16 | 5 | 3.51 | hoi_cao | – | Không | Dry Dusty Yard to Lush Paradise Garden: How He Did It |
+| 2025-11-08 | 373 | jNbLM6BhtfE | 272,801 | 15 | 80,770 | 3.38 | 5 | 1.30 | dang_ghi | – | Không | This Ancient Anti-Depressant Can be Grown in Every Garden |
+| 2025-11-15 | 366 | h4BLNs7iz30 | 44,339 | 15 | 97,967 | 0.45 | 5 | 1.07 | binh_thuong | – | Không | How He Grows 3 Tonnes of Food in Milk Crates (Rooftop Garden!) |
+| 2025-11-22 | 359 | W2_DsDRR3oY | 1,471,643 | 15 | 80,770 | 18.22 | 5 | 1.30 | can_kiem_ky | – | Không | How to Grow Mushrooms in a Cardboard Box (Zero Skills Needed) |
+| 2025-11-29 | 352 | 0WTcYCan3fo | 475,327 | 15 | 97,967 | 4.85 | 5 | 1.07 | dang_ghi | – | Không | How to Grow Your Own Micro-Orchard |
+| 2025-12-06 | 345 | nlCdAvG-rD8 | 56,713 | 15 | 167,932 | 0.34 | 5 | 0.63 | binh_thuong | – | Không | They Bought an Abandoned Plot and Grew THIS (80% Self-Sufficient) |
+| 2025-12-13 | 338 | gNayb3Lox0E | 105,203 | 15 | 167,932 | 0.63 | 5 | 1.13 | binh_thuong | – | Không | The 5 Types of Dirt Every Gardener Needs to Know |
+| 2025-12-20 | 331 | yWAjlVk45Jg | 29,635 | 15 | 167,932 | 0.18 | 5 | 1.18 | binh_thuong | – | Không | Organic City Garden: Turn Any Space Into Huge Harvests |
+| 2025-12-27 | 324 | 9wJmnS-3Tfg | 197,374 | 15 | 167,932 | 1.18 | 5 | 1.21 | binh_thuong | – | Không | 6 Super-Early Vegetables to Start in Winter |
+| 2026-01-03 | 317 | GmN4WzYHNWI | 190,166 | 15 | 197,374 | 0.96 | 5 | 1.03 | binh_thuong | – | Không | The Lazy Gardener's Best Vegetables to Grow in 2026 |
+| 2026-01-10 | 310 | MhOsPjtrQdc | 68,906 | 15 | 197,374 | 0.35 | 5 | 1.05 | binh_thuong | – | Không | I Started a Garden With ZERO Budget - Here's What Happened |
+| 2026-01-17 | 303 | KjvFBP06trc | 202,906 | 15 | 190,166 | 1.07 | 5 | 1.09 | binh_thuong | – | Không | How He Feeds His Family From a Small Backyard Garden |
+| 2026-01-24 | 296 | VHsWZd27B3Y | 207,476 | 15 | 197,374 | 1.05 | 5 | 0.92 | binh_thuong | – | Không | Smart Gardeners Sow These Seeds in Late Winter |
+| 2026-01-31 | 289 | EGU9dojCDus | 207,230 | 15 | 197,374 | 1.05 | 5 | 0.91 | binh_thuong | – | Không | Why Smart Gardeners Have Stopped Buying Potting Mix |
+| 2026-02-07 | 282 | SvkuYquYNns | 86,812 | 15 | 197,374 | 0.44 | 5 | 0.92 | binh_thuong | – | Không | Double Harvests in Small Garden Spaces (Grow Vertically) |
+| 2026-02-14 | 275 | UfDU3wDmrdo | 1,287,164 | 15 | 190,166 | 6.77 | 5 | 0.95 | manh | – | Không | The Revolutionary Method for Starting Seeds |
+| 2026-02-21 | 268 | U8mS_1pq4SA | 181,008 | 15 | 197,374 | 0.92 | 5 | 0.91 | binh_thuong | – | Không | Start These Seeds in Spring or Regret It in Summer |
+| 2026-02-28 | 261 | ienBqPicVXo | 178,664 | 15 | 190,166 | 0.94 | 5 | 0.95 | binh_thuong | – | Không | The Smart Way to Grow Strawberries (No Slugs!) |
+| 2026-03-07 | 254 | 6EeU3aBSup4 | 57,722 | 15 | 190,166 | 0.30 | 5 | 0.95 | binh_thuong | – | Không | This Little-Known Flower Banishes Pests from Your Garden |
+| 2026-03-14 | 247 | WewmbzY-xSc | 702,058 | 15 | 181,008 | 3.88 | 5 | 0.49 | dang_ghi | – | Không | The Clever Reason Smart Gardeners Hoard Egg Cartons |
+| 2026-03-21 | 240 | 5XWloYREYc4 | 179,831 | 15 | 181,008 | 0.99 | 5 | 0.49 | binh_thuong | – | Không | The 5 Seeds You MUST Start in Spring |
+| 2026-03-28 | 233 | IuUDrNgkPlY | 89,417 | 15 | 181,008 | 0.49 | 5 | 0.68 | binh_thuong | – | Không | Plant Asparagus Once, Harvest Forever (Grows Year After Year) |
+| 2026-04-04 | 226 | G7ywpYiTVvA | 184,297 | 15 | 181,008 | 1.02 | 5 | 0.52 | binh_thuong | – | Không | Make an Instant Raised Bed for Less Than a Coffee |
+| 2026-04-11 | 219 | hcQ8BB-rV6M | 51,681 | 15 | 184,297 | 0.28 | 5 | 0.51 | binh_thuong | – | Không | How to Grow Organic Salad: Beginner's Guide |
+| 2026-04-18 | 212 | rTWOTWMDNwU | 44,963 | 15 | 181,008 | 0.25 | 5 | 0.68 | binh_thuong | – | Không | The Secret Superfoods You Don't Know You're Already Growing |
+| 2026-04-25 | 205 | wGN6145R1g8 | 122,851 | 15 | 179,831 | 0.68 | 5 | 0.72 | binh_thuong | – | Không | The 6 Seeds You MUST Start in Spring |
+| 2026-05-02 | 198 | yu1cg2if9Vg | 272,830 | 15 | 179,831 | 1.52 | 5 | 0.52 | binh_thuong | – | Không | Grow Loads of Potatoes in Buckets (Super Easy) |
+| 2026-05-09 | 191 | t6ncj3fDzcM | 93,960 | 15 | 179,831 | 0.52 | 5 | 0.44 | binh_thuong | – | Không | 10 Easy Survival Crops (Don’t Starve!) |
+| 2026-05-16 | 184 | VrJz8FlOPmE | 79,408 | 15 | 178,664 | 0.44 | 5 | 0.48 | binh_thuong | – | Không | Grow Your Own Protein: 5 Muscle-Boosting Plants You Need |
+| 2026-05-23 | 177 | 9LLNM8q7CWY | 129,757 | 15 | 122,851 | 1.06 | 5 | 0.70 | binh_thuong | – | Không | Sow These Seeds in Summer (Don’t Miss Out) |
+| 2026-05-30 | 170 | MBzprb_EjNk | 400,462 | 15 | 129,757 | 3.09 | 5 | 0.57 | dang_ghi | – | Không | The Clever Way Smart Gardeners Eliminate Aphids |
+| 2026-06-06 | 163 | c_-_qpEWouE | 74,399 | 15 | 129,757 | 0.57 | 5 | 0.45 | binh_thuong | – | Không | How to Start Your Dream Garden (Step-by-Step) |
+| 2026-06-13 | 156 | 96XcfUnan90 | 36,512 | 15 | 122,851 | 0.30 | 5 | 0.70 | binh_thuong | – | Không | How To Rescue Your Store-Bought Basil (Do This Before It Dies) |
+| 2026-06-20 | 149 | qdJH0YkphHs | 86,505 | 15 | 93,960 | 0.92 | 5 | 1.14 | binh_thuong | – | Không | How Smart Gardeners Collect Rainwater Automatically |
+| 2026-06-27 | 142 | 4IzejTOWQy4 | 224,674 | 15 | 93,960 | 2.39 | 5 | 0.62 | hoi_cao | – | Không | The 7 Seeds You MUST Start in Midsummer |
+| 2026-07-04 | 135 | JLBG4gQuz8s | 53,594 | 15 | 93,960 | 0.57 | 5 | 0.62 | binh_thuong | – | Không | Heatwave Survival for Plants: 10 Things You MUST Do |
+| 2026-07-11 | 128 | Qp0C8ndOf9E | 58,143 | 15 | 89,417 | 0.65 | 5 | 1.19 | binh_thuong | – | Không | How To Grow Endless Salads from One Container |
+| 2026-07-18 | 121 | zx2W7cDxcJ4 | 106,714 | 15 | 86,505 | 1.23 | 5 | 0.62 | binh_thuong | – | Không | How Garlic Eliminates Pests Organically (Aphids, Spider Mites, Caterpillars…) |
+| 2026-07-25 | 114 | A9OLdnWuA5U | 138,632 | 15 | 86,505 | 1.60 | 5 | 0.62 | binh_thuong | – | Không | The 5 Seeds You MUST Start in August |
+| 2026-08-01 | 107 | z7LvjVRHojo | 26,482 | 15 | 93,960 | 0.28 | 5 | 1.21 | binh_thuong | – | Không | Better than MiracleGro: Make Fertilizer from Nettles |
+| 2026-08-08 | 100 | OGpeAIZSM2Y | 53,415 | 15 | 93,960 | 0.57 | 5 | 1.30 | binh_thuong | – | Không | The Crops Smart Gardeners Grow as Summers Get Hotter |
+| 2026-08-15 | 93 | -Lgkce4EGEA | 113,420 | 15 | 86,505 | 1.31 | 5 | 1.69 | binh_thuong | – | Không | How Smart Gardeners Ripen Every Last Tomato |
+| 2026-08-22 | 86 | r1Gpw7t41bk | 50,255 | 15 | 86,505 | 0.58 | 5 | 1.69 | binh_thuong | – | Không | The Old Way Gardeners Make a Harvest Last All Winter |
+| 2026-08-29 | 79 | zJRfXM2QX3k | 173,081 | 15 | 79,408 | 2.18 | 5 | 1.84 | hoi_cao | – | Không | The 7 Seeds You MUST Start in September |
+| 2026-09-05 | 72 | QHIyA-AJGWU | 357,989 | 15 | 86,505 | 4.14 | 5 | 1.69 | dang_ghi | – | Không | The Most Productive Tiny Garden We’ve Ever Filmed |
+| 2026-09-12 | 65 | VkUPEWKGY1Y | 122,498 | 15 | 86,505 | 1.42 | 5 | 1.69 | binh_thuong | – | Không | Grow FREE Plants from Kitchen Scraps |
+| 2026-09-19 | 58 | GAXGJEYq2zw | 146,494 | 15 | 86,505 | 1.69 | 5 | 1.92 | binh_thuong | – | Không | Before You Buy a Greenhouse Watch This |
+| 2026-09-26 | 51 | qMYNo84sqYc | 144,092 | 15 | 106,714 | 1.35 | 5 | 1.55 | binh_thuong | – | Không | October Isn’t too Late to Start these Seeds |
+| 2026-10-03 | 44 | EkUQheBw4_s | 388,213 | 15 | 113,420 | 3.42 | 5 | 0.93 | dang_ghi | – | Không | The Clever Way Gardeners Make Soil from Leaves |
+| 2026-10-10 | 37 | KVv-HyDVD_s | 240,028 | 15 | 122,498 | 1.96 | 5 | 0.39 | binh_thuong | – | Không | The Most Self Sufficient Garden We’ve Ever Filmed ($21,088 of Food) |
+| 2026-10-17 | 30 | 564gIlxHMqI | 105,708 | 15 | 122,498 | 0.86 | 4 | – | binh_thuong | – | Không | Why Your Garlic is Always too Small (And What to do About it) |
+| 2026-10-24 | 23 | llny7tvk4gI | 165,792 | 15 | 122,498 | 1.35 | 3 | – | chua_chin | – | Không | 6 Surprising Plants You Need to Start in November |
+| 2026-10-31 | 16 | 9a4nnQ2iuew | 46,032 | 15 | 138,632 | 0.33 | 2 | – | chua_chin | – | Không | He’s Been Gardening Since WWII: The Italian Way to Grow |
+| 2026-11-07 | 9 | iMAFshJo8C8 | 48,062 | 15 | 138,632 | 0.35 | 1 | – | chua_chin | – | Không | The Burning Question Baffling Gardeners this Year |
+| 2026-11-14 | 2 | ob9Bu0XdK-A | 34,263 | 15 | 122,498 | 0.28 | 0 | – | chua_chin | – | Không | Raised Bed Masterclass: Grow Food in Any Space |

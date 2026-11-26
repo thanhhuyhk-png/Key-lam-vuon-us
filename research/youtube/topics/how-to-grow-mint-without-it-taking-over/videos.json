@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "query": "how to grow mint without it taking over",
+    "date_filter": "year",
+    "min_views": 20000,
+    "sort_by": "views",
+    "language": null,
+    "max_results": 25,
+    "searched_at": "2026-06-17T08:33:58.200152+00:00",
+    "total_results": 2,
+    "filtered_out": 19
+  },
+  "videos": [
+    {
+      "title": "Grow Mint NON-STOP (Without It Taking Over)",
+      "video_id": "o0TaxFVusWw",
+      "url": "https://www.youtube.com/watch?v=o0TaxFVusWw",
+      "channel": "GrowVeg",
+      "channel_id": "UC9r61qohBg1qgGty4_WzojA",
+      "subscriber_count": 1130000,
+      "view_count": 70287,
+      "like_count": 2196,
+      "comment_count": 139,
+      "breakout_ratio": 0.06,
+      "published_at": "2025-09-06T14:45:05Z",
+      "duration": "PT14M56S",
+      "thumbnail_url": "https://i.ytimg.com/vi/o0TaxFVusWw/hqdefault.jpg",
+      "rank": 1
+    },
+    {
+      "title": "Easy trick for Unlimited Free Mint at home 🌿🌿🌿 #gardening #mint #garden",
+      "video_id": "-dRj-7t8-Ps",
+      "url": "https://www.youtube.com/watch?v=-dRj-7t8-Ps",
+      "channel": "The Frenchie Gardener",
+      "channel_id": "UC1Y4pvtLjf6qIkGAqPnC2Ww",
+      "subscriber_count": 127000,
+      "view_count": 27749,
+      "like_count": 959,
+      "comment_count": 15,
+      "breakout_ratio": 0.22,
+      "published_at": "2026-04-09T13:13:09Z",
+      "duration": "PT34S",
+      "thumbnail_url": "https://i.ytimg.com/vi/-dRj-7t8-Ps/hqdefault.jpg",
+      "rank": 2
+    }
+  ]
+}

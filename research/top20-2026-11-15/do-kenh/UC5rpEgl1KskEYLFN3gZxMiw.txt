@@ -1,0 +1,96 @@
+# Đo kênh: UC5rpEgl1KskEYLFN3gZxMiw.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 54 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 54 |
+| n_trong_danh_sach | 54 |
+| n_dai | 54 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 5,680 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-08-08 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 1,328 |
+| cao_nhat | 5,690 |
+| thap_nhat | 292 |
+| phan_tan | 4.29 |
+| so_video_tren_2x | 5 |
+| ty_le_tren_2x | 0.25 |
+| trung_vi_chia_sub | 0.23 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 0.60 |
+| ngay_video_dau | 2026-08-08 |
+| tuoi_tu_video_dau | 100 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 56.80 |
+| sub_moi_video | 105 |
+| video_30_ngay | 1 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** không
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-08 | 100 | hIhoH6Cm6Zs | 272 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 20 Old-School Home Defense Tricks That Still Work When SHTF |
+| 2026-08-09 | 99 | MwWpaTqnf7E | 2,561 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | How to Prepare for the First 7 Days of a Total Blackout |
+| 2026-08-10 | 98 | Vup4i27lU-0 | 310,004 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Power Outage? This $299 Setup Keeps Food Cold for MONTHS (While Neighbors Lose Everything) |
+| 2026-08-11 | 97 | EjGZdnuLVgI | 54,840 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 9 U.S. States That Become Fortresses When the Grid Goes Down |
+| 2026-08-12 | 96 | BDmFFheW-aQ | 3,713 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 11 Items That Vanish From Walmart in the First 6 Hours of Grid Collapse (What Veterans Grab Instead) |
+| 2026-08-13 | 95 | vqWVUiYps4Q | 541 | 5 | 3,713 | 0.15 | 5 | 3.09 | binh_thuong | – | Không | How to Not Freeze to Death When Everything Goes Wrong |
+| 2026-08-14 | 94 | kOAv7Q8wGsI | 235,501 | 6 | 3,137 | 75.07 | 5 | 3.66 | can_kiem_ky | – | Không | 13 Items FEMA Tells Employees to Stockpile ( They Don't Tell the Public ) |
+| 2026-08-15 | 93 | qoZK_DwIgYs | 913 | 7 | 3,713 | 0.25 | 5 | 3.09 | binh_thuong | – | Không | Power Is Out! 9 MUST-FOLLOW Survival Rules to Stay Alive |
+| 2026-08-26 | 82 | T_k1Q-TKvvM | 11,484 | 8 | 3,137 | 3.66 | 5 | 0.72 | dang_ghi | – | Không | 11 Heating Sources That Don't Need Electricity (STOCKPILE NOW) |
+| 2026-08-27 | 81 | Q-VPSJ7ZcA0 | 2,243 | 9 | 3,713 | 0.60 | 5 | 3.79 | binh_thuong | – | Không | The Ultimate Guide to Long-Term Gas Storage (Without It Going Bad) |
+| 2026-08-28 | 80 | TEGUoXUsv0A | 38,205 | 10 | 3,137 | 12.18 | 5 | 0.45 | can_kiem_ky | – | Không | Chest Freezer Without Grid Power - Months of Cold Food, No Utility Bill |
+| 2026-08-29 | 79 | xhkGnUoyN5A | 15,040 | 11 | 3,713 | 4.05 | 5 | 0.37 | dang_ghi | – | Không | Top 10 Survival Items at The Dollar Store Worth Buying for a Blackout |
+| 2026-08-30 | 78 | ls4rHdWOE7Q | 1,370 | 12 | 7,598 | 0.18 | 5 | 0.09 | binh_thuong | – | Không | Your Backpack Won't Save You — The Real Survival Strategy for Seniors |
+| 2026-08-31 | 77 | 4cM5j6yjTxY | 443 | 13 | 3,713 | 0.12 | 5 | 0.38 | binh_thuong | – | Không | How to Turn Your Home Into a Fortress (In Under 30 Minutes) |
+| 2026-09-01 | 76 | VRKadXhaEIQ | 14,081 | 14 | 3,137 | 4.49 | 5 | 0.26 | dang_ghi | – | Không | The Only Emergency Water Storage Guide You’ll Ever Need (Before You Need It) |
+| 2026-09-02 | 75 | MAMrDepgk-k | 1,405 | 15 | 3,713 | 0.38 | 5 | 0.22 | binh_thuong | – | Không | How to Survive a Winter Blackout When the Power Grid is Dead |
+| 2026-09-03 | 74 | MtdAVOY0m_k | 692 | 15 | 3,713 | 0.19 | 5 | 0.22 | binh_thuong | – | Không | How to Defend Your Home from Looters, Thieves and Marauders in a SHTF Scenario |
+| 2026-09-04 | 73 | PZq7udqZjVE | 371 | 15 | 3,713 | 0.10 | 5 | 0.22 | binh_thuong | – | Không | If War Reaches Your City Tonight, Do THESE 8 Things in The First Hour |
+| 2026-09-05 | 72 | 5NvxdN6MIOE | 1,862 | 15 | 2,243 | 0.83 | 5 | 0.35 | binh_thuong | – | Không | 17 Things Smart Preppers Buy In Bulk For Under $5 Each |
+| 2026-09-07 | 70 | f4SzrtdTKTY | 806 | 15 | 1,862 | 0.43 | 5 | 0.31 | binh_thuong | – | Không | 25 POOR MAN'S Food Storage Tricks That Make $5,000 Freeze-Dried Buckets Look Like a Scam |
+| 2026-09-08 | 69 | uzRhtAeHIV0 | 3,215 | 15 | 1,405 | 2.29 | 5 | 0.41 | hoi_cao | – | Không | The 6 American Regions That Will Become Ungovernable Within 30 Days of Collapse |
+| 2026-09-09 | 68 | Fpo9zMqzayc | 774 | 15 | 1,862 | 0.42 | 5 | 0.27 | binh_thuong | – | Không | The 7 Locations That Become Fortresses When Everyone Else Evacuates |
+| 2026-09-10 | 67 | o81X3oN94LE | 505 | 15 | 1,405 | 0.36 | 5 | 0.41 | binh_thuong | – | Không | 9 Things That STILL WORK After an EMP — Most Find Out Too Late |
+| 2026-09-11 | 66 | BtUGaeOgLy8 | 572 | 15 | 1,405 | 0.41 | 5 | 0.77 | binh_thuong | – | Không | No Bunker? The Ultimate Survival Plan for Nuclear War (48-Hour Protocol) |
+| 2026-09-12 | 65 | S-kh5dJgpFU | 197 | 15 | 1,370 | 0.14 | 5 | 0.87 | binh_thuong | – | Không | The 5 Parking Lot Habits That Get You Followed Home |
+| 2026-09-13 | 64 | 6_s7FaLvSKI | 4,512 | 15 | 806 | 5.60 | 5 | 1.35 | manh | – | Không | 9 Mistakes Preppers Make When Storing Water |
+| 2026-09-14 | 63 | J1z6S4xaZYc | 370 | 15 | 806 | 0.46 | 5 | 1.48 | binh_thuong | – | Không | Why Burglars Will Skip Your House If You Do This — The 30-Minute Home Fortress Plan |
+| 2026-09-15 | 62 | sZIXDWUikeY | 1,195 | 15 | 774 | 1.54 | 5 | 1.80 | binh_thuong | – | Không | Top 18 Bugging In Mistakes That Preppers Will Make When SHTF |
+| 2026-09-16 | 61 | 2h7fnlLO2DQ | 1,088 | 15 | 774 | 1.41 | 5 | 1.83 | binh_thuong | – | Không | The Blackout “First Hour” Checklist — 11 Things Veterans Do Before Anyone Else Reacts |
+| 2026-09-19 | 58 | oev0xClLRXU | 1,393 | 15 | 806 | 1.73 | 5 | 3.47 | binh_thuong | – | Không | 17 Items the Red Cross Actually Tells You to Stockpile (Do You Have Them?) |
+| 2026-09-20 | 57 | r5nbqm-qipk | 668 | 15 | 806 | 0.83 | 5 | 3.47 | binh_thuong | – | Không | 12 No-Cook Foods to Stockpile Before War Hits (No Power, No Problem) |
+| 2026-09-21 | 56 | eGtJ-3XZlrY | 14,605 | 15 | 774 | 18.87 | 5 | 3.61 | can_kiem_ky | – | Không | 25 Cheap Walmart Items That Become Priceless in a Blackout (Buy Before It's Too Late) |
+| 2026-09-22 | 55 | ThNE5lfK874 | 8,968 | 15 | 806 | 11.13 | 5 | 1.75 | can_kiem_ky | – | Không | FEMA Says Have These 9 Items Ready Before the Coldest Nights Hit |
+| 2026-09-23 | 54 | WCko-sjWWik | 1,414 | 15 | 1,088 | 1.30 | 5 | 1.56 | binh_thuong | – | Không | 10 Survival Drinks That Keep You Alive When Water Is Limited. |
+| 2026-09-24 | 53 | Pw9_LR6LbWY | 2,793 | 15 | 1,088 | 2.57 | 5 | 1.26 | hoi_cao | – | Không | 25 Items You MUST Have at Home Before 2027 (Most People Are Unprepared) |
+| 2026-09-25 | 52 | kRIiuyggnr0 | 313 | 15 | 1,195 | 0.26 | 5 | 1.42 | binh_thuong | – | Không | The 5 Items to Keep in Your Trunk When the Highway Becomes a Graveyard |
+| 2026-09-26 | 51 | YS8EjLCzvQk | 5,200 | 15 | 1,088 | 4.78 | 5 | 1.26 | dang_ghi | – | Không | Stockpile ONLY These 5 FOODS to SURVIVE (Everything Else Is Extra!) |
+| 2026-09-27 | 50 | orTbmwjJeJo | 1,374 | 15 | 1,195 | 1.15 | 5 | 1.11 | binh_thuong | – | Không | 25 Items Every American Should Hoard Before the Next Blackout |
+| 2026-09-29 | 48 | lsskXUwG6ec | 1,696 | 15 | 1,374 | 1.23 | 5 | 0.97 | binh_thuong | – | Không | 12 Winter Survival Items Every Senior Over 55 Should Stockpile NOW (2026 Checklist) |
+| 2026-09-30 | 47 | 5-8dQTFx6Aw | 415 | 15 | 1,393 | 0.30 | 5 | 0.95 | binh_thuong | – | Không | Don't Waste Money! The 5 Most Important Foods For Long Term (Everything Else Is a Waste) |
+| 2026-10-01 | 46 | KR0aAn0JEqU | 5,690 | 15 | 1,393 | 4.08 | 5 | 0.95 | dang_ghi | – | Không | 7 Portable Power Stations You MUST Stop Buying (And 3 Worth Every Penny) |
+| 2026-10-02 | 45 | YfiM20Kiz0g | 292 | 15 | 1,393 | 0.21 | 5 | 0.95 | binh_thuong | – | Không | 11 Foods Quietly DISAPPEARING From Store Shelves — Stock Up Before It's Too Late |
+| 2026-10-03 | 44 | xUgec8zMxMU | 1,326 | 15 | 1,393 | 0.95 | 5 | 0.95 | binh_thuong | – | Không | The Exact Bug Out Bag 2026 a Navy SEAL Builds for Under $150 — Item by Item Prepping GUIDE |
+| 2026-10-04 | 43 | nzwMiWuF4Qc | 2,666 | 15 | 1,393 | 1.91 | 5 | 0.77 | binh_thuong | – | Không | Build Your Own Portable Power Station With Just 3 Things (Anyone Can Build It) |
+| 2026-10-08 | 39 | ZgT8K3cwulU | 1,329 | 15 | 1,414 | 0.94 | 5 | 0.76 | binh_thuong | – | Không | What FEMA and the Mormons Stockpile for Themselves (They Don't Advertise This List) |
+| 2026-10-09 | 38 | NEiZbCCegqQ | 1,077 | 15 | 1,414 | 0.76 | 5 | 0.34 | binh_thuong | – | Không | SHTF Confiscations: 10 Essentials You'll Lose If You Don't Hide Them (#3 Goes First) |
+| 2026-10-10 | 37 | zzURai6c0MY | 3,079 | 15 | 1,414 | 2.18 | 5 | 0.34 | hoi_cao | – | Không | 5 CHEAP Walmart Power Stations Everyone Ignores (But They're Absolute Goldmines) |
+| 2026-10-10 | 37 | 79_P7ls3WgA | 480 | 15 | 1,414 | 0.34 | 5 | 0.34 | binh_thuong | – | Không | 12 Groceries You SHOULD Stock Up On Before October 15th (Prices Jump After) |
+| 2026-10-11 | 36 | sk69oADiBbE | 448 | 15 | 1,374 | 0.33 | 5 | 0.43 | binh_thuong | – | Không | Tractor Supply Quietly Discontinued These 9 Prepper Favorites — Buy Them While You Can |
+| 2026-10-12 | 35 | vv1wteNSVeE | 1,402 | 15 | 1,329 | 1.05 | 4 | – | binh_thuong | – | Không | 10 Skills That Outlasted Every Collapse in the Last 100 Years |
+| 2026-10-13 | 34 | euWVCR-z-78 | 339 | 15 | 1,329 | 0.26 | 3 | – | binh_thuong | – | Không | 15 More Items the Red Cross Actually Tells You to Stockpile |
+| 2026-10-16 | 31 | 5RwVHIswGbI | 587 | 15 | 1,329 | 0.44 | 2 | – | binh_thuong | – | Không | The Only 6 Canned Meats Worth Stockpiling — Skip Everything Else |
+| 2026-10-17 | 30 | yXN4qTZLfGs | 478 | 15 | 1,326 | 0.36 | 1 | – | binh_thuong | – | Không | 15 Cheap Walmart Items That Become WORTH GOLD When Your Furnace Dies |
+| 2026-10-19 | 28 | BLWfYAhdDCo | 1,931 | 15 | 1,077 | 1.79 | 0 | – | chua_chin | – | Không | The First Things THEY Will Take In A Crisis (HIDE THEM NOW) |

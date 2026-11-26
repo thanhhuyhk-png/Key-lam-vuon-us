@@ -1,0 +1,45 @@
+Dưới đây là báo cáo phản biện Vòng 2 cho kịch bản TTS, tập trung vào các đoạn trong `vung-da-sua.md` và các câu lân cận.
+
+### I. Bản đồ Loop (Retention Loop Map)
+- **Loop #1 (Dấu hiệu sang đất):** Gieo @00:30 (Hook) → Nhắc lần 1 @03:10 (Mục 3) → Nhắc lần 2 @06:20 (Mục 7) → Đóng @08:20 (Bước chuyển sang đất: rễ ~1 inch theo C10). **Đóng chuẩn, nhịp nhắc đều.**
+- **Loop #2 (Cây số 9 / giâm lá):** Gieo @04:25 (Mục 4) → Nhắc @07:30 (Mục 8) → Đóng @07:45 (Mục 9: African violet, 1 lá ra rễ rồi ra cây con theo C12). **Đã đóng, nhưng câu gieo tại Mục 4 sinh lỗi logic với Mục 8 (xem mục lỗi dưới).**
+
+---
+
+### II. Báo cáo vấn đề (Real Problems Only)
+
+[NÊN SỬA] Mục 4 · "And the last plant on this list doesn't need a stem at all. Just one single leaf." @04:25 · Câu gieo Loop #2 khẳng định cây #9 là cây duy nhất không cần thân cành, nhưng Mục 8 (Peperomia) cũng giâm bằng lá có cuống (leaf-petiole, không cần thân), gây hẫng logic khi nghe Mục 8 · Sửa thành: *"And the slowest plant on this list doesn't even need a stem. Just one single leaf. That's number nine, and that one leaf can turn into a whole new plant."*
+
+[NÊN SỬA] Mục 5 · "Same method, too. A tip about three to five inches long. [C05]" @05:00 · Mã [C05] trong Ledger là quy cách cành của Arrowhead vine (Syngonium), không phải Swedish ivy (Swedish ivy là C33 và brief không có số 3–5 inch) · Sửa thành: gán thẻ `[C33]` và viết nương theo Coleus: *"Same method, too. A healthy tip cut just like the coleus. [C33]"*
+
+[NÊN SỬA] Mục 4 · "Some popular varieties are patented. [C35]" @04:15 · Thẻ `[C35]` không có dòng tương ứng trong Bảng Claim Ledger mục A của brief (dù thông tin cảnh báo bằng sáng chế giống là đúng thực tế) · Sửa thành: xóa mã thẻ `[C35]` trong kịch bản hoặc bổ sung định danh C35 vào Claim Ledger của brief.
+
+[NÊN SỬA] Mục 8 · "The begonia, the impatiens, and now the peperomia. Water on the stem, never on the leaf." @07:20 · Peperomia giâm bằng cuống lá (petiole/stalk, C12), không có thân (stem). Vừa nói ở câu trước "only needs a single leaf with its stalk" rồi lại gộp vào "water on the stem" gây mâu thuẫn thuật ngữ sinh học · Sửa thành: *"The begonia, the impatiens, and now the peperomia. Water on the stem or stalk, never on the leaf."*
+
+[GỢI Ý] Mục 1 · "One safety note before you start. The ASPCA lists coleus as toxic to dogs and cats. [C25]" @01:35 · Cụm "before you start" đặt sau khi đã hướng dẫn xong toàn bộ quy trình cắt, cắm ly và ra rễ "in a few weeks" · Sửa thành: *"One safety note for pet owners: the ASPCA lists coleus as toxic to dogs and cats. [C25]"*
+
+[GỢI Ý] Mục 7 · "In spring and summer, it should form roots in two to three weeks. [C14]" @06:15 · Ledger C14 không giới hạn mùa ("Hoya ra rễ trong nước trong 2–3 tuần"). Thêm "In spring and summer" làm người xem dọn cành tránh sương giá mùa thu/đông hoang mang · Sửa thành: *"In a warm room, it should form roots in two to three weeks. [C14]"* hoặc bám sát C14: *"It should form roots in two to three weeks. [C14]"*
+
+---
+
+### III. Chấm điểm phần mở (0–60 s) — Hook A
+1. **Câu hỏi / open loop cụ thể trong 10 s:** 5/5 *(Cài ngay nghịch lý vứt bỏ cây miễn phí + loop dấu hiệu qua ly thủy tinh)*
+2. **Bằng chứng / con số trước giây 20 (L6):** 5/5 *(Giao thông số coleus cành 5 inch, vài tuần ra rễ [C01, C03])*
+3. **Trả lời lời hứa của title trong 60 s (L3):** 5/5 *(Chốt phương pháp giâm nước ngay cây đầu tiên trước 00:60)*
+4. **Khả năng dựng hình (footage thật / GFX khả thi):** 5/5 *(Cảnh cắt ngọn cắm ly nước, rễ xuyên qua kính cực kỳ trực quan)*
+5. **Khớp Claim Ledger:** 5/5 *(Đúng chuẩn C01, C02, C03, không bịa số)*
+6. **Giọng kênh (educator, ấm, không nhãn tuổi):** 5/5 *(Giọng nhà giáo truyền đạt nghiên cứu, trung tính, không xưng tôi đã trồng)*
+7. **Khác biệt góc tiếp cận đối thủ:** 5/5 *(Đánh trúng tâm lý tiếc cành dọn vườn trước sương giá thay vì 'trồng nước vĩnh viễn' phi thực tế)*
+
+**Hook: 35/35**
+
+---
+
+### IV. 3 Điểm mạnh nhất của bản sửa Vòng 2
+1. **Xử lý bảng số liệu mẫu mực (L18, L13):** Khối GFX bảng 9 cây ở phần Chuyển sang đất gánh toàn bộ thông số; giọng đọc chỉ nêu quy luật ("Your own glass is the real timer"), giải quyết triệt để lỗi đọc chuỗi số.
+2. **Cảnh báo an toàn thú cưng tự nhiên, chuẩn ASPCA (CR5):** Đan cài cảnh báo độc tố (Coleus, Begonia, Arrowhead) và xác nhận an toàn (Impatiens, Sweet Potato, Hoya, Peperomia, Violet) mượt mà, đúng bối cảnh đặt ly trên cao.
+3. **Scoping nguồn trung thực (CR4, Bất đồng):** Đoạn tranh luận giữa cắm đất vs cắm nước ở Impatiens (C18/C19) và Hoya (C14/C17) được kể khách quan, biến mâu thuẫn tài liệu thành điểm tựa uy tín.
+
+---
+
+**KẾT LUẬN: ĐẠT CÓ SỬA** (chỉ cần chỉnh 4 lỗi câu chữ trên là sẵn sàng thu âm TTS).

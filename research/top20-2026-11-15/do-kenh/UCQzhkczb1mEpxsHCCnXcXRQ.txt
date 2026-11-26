@@ -1,0 +1,51 @@
+# Đo kênh: UCQzhkczb1mEpxsHCCnXcXRQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 9 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 9 |
+| n_trong_danh_sach | 9 |
+| n_dai | 9 |
+| n_short | 0 |
+| n_dai_dung_tinh | 9 |
+| nguong_tuoi_video | 30 |
+| subs | 1,800 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-06-10 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 5,750 |
+| cao_nhat | 44,633 |
+| thap_nhat | 788 |
+| phan_tan | 7.76 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.33 |
+| trung_vi_chia_sub | 3.19 |
+| ty_le_like_trung_vi | 0.05 |
+| da_trung_vi | – |
+| ngay_video_dau | 2026-06-10 |
+| tuoi_tu_video_dau | 159 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 11.32 |
+| sub_moi_video | 200 |
+| video_30_ngay | 0 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** MAU_TRUNG_VI_NHO, IT_VIDEO
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-06-10 | 159 | xPVkzOYZGa8 | 1,258 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | These Fish Cubes Last 2 Years. Just Add Hot Water. |
+| 2026-06-15 | 154 | F7ggs9JCWuI | 826 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | When Shelves Go Empty, This Beef Heart Jar Will Feed Your Family. 2 Years of Food for Pennies |
+| 2026-06-19 | 150 | yXvxOW1UTyU | 788 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | My Grandmother Outlived the Famine on This. It Looks Like Dog Food — and It Saved Her. |
+| 2026-06-23 | 146 | rYyFqUqn3Uc | 5,750 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | These Pork Broth Cubes Were My Grandfather's Field Ration on Recon. One Cube, One Hot Meal. |
+| 2026-06-29 | 140 | ZEMJyX5T8VQ | 9,326 | 4 | – | – | 4 | – | – | it_hon_5_video_truoc | Không | This Jar Kept My Grandmother Alive Through the Great Flood of 1927. Fish, Rice, Beans, Broth. |
+| 2026-07-03 | 136 | DCRc9C2NvRM | 3,763 | 5 | 1,258 | 2.99 | 3 | – | hoi_cao | – | Không | When the Dust Bowl Killed Every Crop, My Grandmother Survived on These Meat Jars. |
+| 2026-07-07 | 132 | v2uVnv5E_lI | 16,236 | 6 | 2,510 | 6.47 | 2 | – | manh | – | Không | This Is the Energy Bar the US Army Invented to Keep Soldiers Moving. I Made It at Home. |
+| 2026-07-20 | 119 | V6hfopTP6ko | 19,783 | 7 | 3,763 | 5.26 | 1 | – | manh | – | Không | Armies Lived on Dried Meat Like This for Months in the Field. One Chicken Thigh No Fridge or Freezer |
+| 2026-07-26 | 113 | hPuC8KEPw8g | 44,633 | 8 | 4,756 | 9.38 | 0 | – | manh | – | Không | People Survived 300 Days on This Halva Bar—No Fridge Needed. Halva That Never Spoils. |

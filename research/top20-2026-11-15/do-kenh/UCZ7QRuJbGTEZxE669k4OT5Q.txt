@@ -1,0 +1,150 @@
+# Đo kênh: UCZ7QRuJbGTEZxE669k4OT5Q.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 108 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 322 |
+| n_trong_danh_sach | 100 |
+| n_dai | 100 |
+| n_short | 0 |
+| n_dai_dung_tinh | 20 |
+| nguong_tuoi_video | 30 |
+| subs | 8,240 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-09-29 |
+| n_ngoai_cua_so | 8 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 48.00 |
+| cao_nhat | 97 |
+| thap_nhat | 25 |
+| phan_tan | 2.02 |
+| so_video_tren_2x | 1 |
+| ty_le_tren_2x | 0.05 |
+| trung_vi_chia_sub | 0.01 |
+| ty_le_like_trung_vi | 0.02 |
+| da_trung_vi | 1.04 |
+| ngay_video_dau | 2025-12-31 |
+| tuoi_tu_video_dau | 320 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 25.75 |
+| sub_moi_video | 25.59 |
+| video_30_ngay | 52 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-12-31 | 320 | oRKfd1-rXQs | 1,550 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 6 Survival Foods to Stockpile Before Shelves Go Empty in 2026 |
+| 2026-01-03 | 317 | kTBym5KTNvI | 20,937 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | The Secret Prepper Food List That Still Exists During Supply Chain Collapse |
+| 2026-01-03 | 317 | LoZ-acwIQ50 | 2,319 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 10 Items Worth More Than Gold When a Real Disaster Hits |
+| 2026-01-04 | 316 | s8SmW8WAbj8 | 1,390 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 30 Forever Foods You Can Store for Life (Ultimate Long-Term Food List) |
+| 2026-01-05 | 315 | pfymBqsDoOc | 428 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | How the Amish Fed Large Families on Almost Nothing Using Simple, Timeless Meals |
+| 2026-01-07 | 313 | O-LodtTPL74 | 2,198 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | Only Intelligent Preppers Are Quietly Stockpiling These 25 Items Now |
+| 2026-01-08 | 312 | JKzJndbxeqs | 341,353 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 11 Foods I Quietly Stockpile (While Everyone Else Panics) |
+| 2026-01-09 | 311 | XM1LvMs-L9c | 27,567 | 0 | – | – | 0 | – | – | ngoai_cua_so | Không | 11 Critical Actions After an EMP That Could Save Your Life (Don’t Skip This) |
+| 2026-09-29 | 48 | QwOtMeD_0EM | 44 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Stock Up Now: 12 Smart Bulk Items to Buy Before Fall Prices Climb |
+| 2026-09-29 | 48 | 3A4LihLyS-Y | 45 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 1 Bag of Rice = 7 Days of Food: The $22 Japanese Grocery Week |
+| 2026-09-30 | 47 | 7dEdn_xTY_s | 57 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 14 Smart Grocery Buys Before October: The Japanese Way to Stock Up Without Waste |
+| 2026-09-30 | 47 | -XrhAgwGL14 | 41 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | 19 Japanese Food Storage and Meal Prep Habits for a Smaller Grocery List |
+| 2026-09-30 | 47 | Np3mkOJEHwM | 66 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | Walmart Is Quietly Cutting 12 Products: Here's What to Buy Before They're Gone |
+| 2026-10-01 | 46 | mhQnGFz4wgw | 42 | 5 | 45 | 0.93 | 5 | 1.11 | binh_thuong | – | Không | 13 Dollar-Store-Priced Emergency Items That Could Save You in a Power Outage |
+| 2026-10-01 | 46 | brP_m0xmDlw | 118 | 6 | 44.50 | 2.65 | 5 | 1.12 | hoi_cao | – | Không | Costco Canned Meat Stockpile Guide: 10 Cans That Each Do Something Different |
+| 2026-10-01 | 46 | KuHp4IdOjSc | 41 | 7 | 45 | 0.91 | 5 | 1.18 | binh_thuong | – | Không | 12 Freezer Hacks Japanese Home Cooks Use to Save Money and Reduce Food Waste |
+| 2026-10-02 | 45 | TWk-1jchKMA | 50 | 8 | 44.50 | 1.12 | 5 | 1.19 | binh_thuong | – | Không | 12 Foods Nobody Is Panic Buying (But Supply Data Says You Should Stock Up) |
+| 2026-10-02 | 45 | LI6irGJB0S8 | 112 | 9 | 45 | 2.49 | 5 | 0.93 | hoi_cao | – | Không | Winter Blackout Pantry: 6 Canned Foods Ranked Best to Worst (Sardines to Beef Stew) |
+| 2026-10-02 | 45 | UiC715IKGn8 | 31 | 10 | 47.50 | 0.65 | 5 | 1.12 | binh_thuong | – | Không | Your Stove Won't Work After an EMP: 12 Inexpensive Items to Cook Meals Anyway |
+| 2026-10-03 | 44 | vZ_qWmS_CUs | 53 | 11 | 45 | 1.18 | 5 | 1.51 | binh_thuong | – | Không | 8 Foods to Buy in Bulk Before Mid-October and Beat Holiday Price Hikes |
+| 2026-10-03 | 44 | odFaWK_FZls | 68 | 12 | 47.50 | 1.43 | 5 | 1.05 | binh_thuong | – | Không | 14 Winter Storm Prep Items to Buy Before the Shelves Empty |
+| 2026-10-03 | 44 | 4O9GZepR-lw | 40 | 13 | 50 | 0.80 | 5 | 1.00 | binh_thuong | – | Không | 12 Products Under Pressure Before Winter 2026: What to Buy Now While Shelves Are Full |
+| 2026-10-04 | 43 | oajP8SRsjPw | 42 | 14 | 47.50 | 0.88 | 5 | 1.24 | binh_thuong | – | Không | Buy These 11 Overlooked Items Under $4 Before October 5th \| Cheap Power Outage Prep |
+| 2026-10-04 | 43 | bbp1K6BbbYM | 73 | 15 | 45 | 1.62 | 5 | 1.11 | binh_thuong | – | Không | Stop Throwing Away Food: 15 Staples With a Shelf Life of 5, 10, Even 20+ Years |
+| 2026-10-04 | 43 | qAl_l9Y5swM | 68 | 15 | 50 | 1.36 | 5 | 1.00 | binh_thuong | – | Không | Grocery Prices Look Calm, But 14 Items Are About to Change: Stock Up by Dec 1 |
+| 2026-10-05 | 42 | JHdlymX18rE | 50 | 15 | 53 | 0.94 | 5 | 0.94 | binh_thuong | – | Không | 8 Budget Canned Foods That Turn Into Real Meals (Japanese-Inspired Pantry Tips) |
+| 2026-10-05 | 42 | vJS4HbVuTf0 | 30 | 15 | 50 | 0.60 | 5 | 1.18 | binh_thuong | – | Không | 6 Canned Meats That Give You the Most Value for Your Money |
+| 2026-10-05 | 42 | i2VWbRr-VhI | 59 | 15 | 50 | 1.18 | 5 | 1.16 | binh_thuong | – | Không | 10 Survival Meats to Stockpile: Safe for Years, but Are You Missing This Fat? |
+| 2026-10-06 | 41 | 98RqptbBJtU | 40 | 15 | 50 | 0.80 | 5 | 1.36 | binh_thuong | – | Không | Stock These 12 Foods Once and Forget Them: Decades of Food Security |
+| 2026-10-07 | 40 | r-pGmOA4ceI | 73 | 15 | 50 | 1.46 | 5 | 1.16 | binh_thuong | – | Không | 12 Best Canned Beef Foods to Stock When Water and Power Are Limited |
+| 2026-10-07 | 40 | hTcc9L273-E | 50 | 15 | 50 | 1.00 | 5 | 1.30 | binh_thuong | – | Không | After 50? Buy These 11 Budget Foods Japanese Households Have Trusted for Generations |
+| 2026-10-07 | 40 | l51Lxa3K3Ss | 68 | 15 | 50 | 1.36 | 5 | 1.30 | binh_thuong | – | Không | Winter Blackout Survival: 12 Low-Cost Items That Stop Heat Loss (No Heater Needed) |
+| 2026-10-08 | 39 | A6Gj-Kgn1Rc | 58 | 15 | 53 | 1.09 | 5 | 1.23 | binh_thuong | – | Không | 10 Foods to Buy Before October 10, 2026: Shortages and Price Hikes Ahead |
+| 2026-10-08 | 39 | Xj17loNMJNM | 137 | 15 | 53 | 2.58 | 5 | 0.92 | hoi_cao | – | Không | The 6-Can Emergency Pantry: What to Stock and the 1 Gap Almost Everyone Misses |
+| 2026-10-08 | 39 | Es-On0uQsAU | 40 | 15 | 58 | 0.69 | 5 | 1.12 | binh_thuong | – | Không | 7 Cheap Japanese Foods That Slash Your Grocery Bill (Some Under $1 a Serving) |
+| 2026-10-09 | 38 | uY7XZZaTQpA | 65 | 15 | 58 | 1.12 | 5 | 1.14 | binh_thuong | – | Không | Don't Stockpile Canned Meat Until You Watch This: 6 Cans That Actually Make a Meal |
+| 2026-10-09 | 38 | 5L_hOJY0AvY | 84 | 15 | 58 | 1.45 | 5 | 0.84 | binh_thuong | – | Không | 12 Emergency Foods for a Long Power Outage That Need Little Water or Fuel |
+| 2026-10-09 | 38 | jeRn0xOb1GA | 49 | 15 | 59 | 0.83 | 5 | 0.75 | binh_thuong | – | Không | Are UK Supermarkets Using Dynamic Pricing? 7 Smart Moves to Save Money and Protect Your Data |
+| 2026-10-10 | 37 | nXZZFhbLlDk | 25 | 15 | 59 | 0.42 | 5 | 0.75 | binh_thuong | – | Không | Stop Wasting Money: 18 Multi-Use Grocery Staples From Japanese Kitchens That Save You Hundreds |
+| 2026-10-10 | 37 | rRPdTLaVhr4 | 91 | 15 | 58 | 1.57 | 5 | 0.76 | binh_thuong | – | Không | 5 Must-Have Blackout Items for Your Home: Bathtub Water Bag, Headlamp, CO Detector, Power Station |
+| 2026-10-10 | 37 | sJdjDcWf-Io | 66 | 15 | 58 | 1.14 | 5 | 0.71 | binh_thuong | – | Không | 12 Things Quietly Leaving Walmart Shelves in 2026 (Check Your Pantry) |
+| 2026-10-11 | 36 | l5KvzSmwEsA | 40 | 15 | 59 | 0.68 | 5 | 0.75 | binh_thuong | – | Không | 8 Bread Mistakes Most Shoppers Make in 2026 (Plus 3 Safe Picks) |
+| 2026-10-11 | 36 | Zb_6iOBiVAk | 44 | 15 | 59 | 0.75 | 5 | 0.80 | binh_thuong | – | Không | Shrinking Products and Rising Prices: 15 Foods to Stock Before 2026 Ends |
+| 2026-10-11 | 36 | wWmxFydnu0c | 35 | 15 | 58 | 0.60 | 5 | 0.86 | binh_thuong | – | Không | 17 Simple Japanese Cooking Hacks for Better Flavor and Texture |
+| 2026-10-12 | 35 | MZ-APiufaEQ | 97 | 15 | 58 | 1.67 | 5 | 0.86 | binh_thuong | – | Không | Stock Up Before Nov 1, 2026: 12 Canned Foods That Could Disappear From Shelves (Don't Waste Money!) |
+| 2026-10-12 | 35 | fHZRovc_8t0 | 41 | 15 | 58 | 0.71 | 5 | 0.86 | binh_thuong | – | Không | 12 Emergency Items for Any Power Outage (Number 1 Could Save Your Life) |
+| 2026-10-12 | 35 | vZd03VAIEbQ | 50 | 15 | 58 | 0.86 | 5 | 0.86 | binh_thuong | – | Không | 6 Japanese Tricks to Stretch 1 Rotisserie Chicken Into 3 Cheap Dinners |
+| 2026-10-13 | 34 | 2jzxK0BEa00 | 47 | 15 | 50 | 0.94 | 5 | 1.00 | binh_thuong | – | Không | 12 Best Canned Meats for Winter Power Outages: Buy Before November 1st |
+| 2026-10-13 | 34 | 7CvsL8fYyC0 | 63 | 15 | 49 | 1.29 | 5 | 0.86 | binh_thuong | – | Không | 7 Canned Meats Ranked by Sodium Per Gram of Protein (The Winner Surprised Me) |
+| 2026-10-13 | 34 | fHed15OypC0 | 50 | 15 | 49 | 1.02 | 5 | 0.86 | binh_thuong | – | Không | 7 Cheap Soup Jar Recipes to Replace $15 Takeout Lunches (Easy, Filling & Budget-Friendly) |
+| 2026-10-14 | 33 | stD1tj-Fmsk | 42 | 15 | 50 | 0.84 | 5 | 0.86 | binh_thuong | – | Không | 12 Under-$5 Items to Buy Before Winter 2026: Baking Soda to Trash Bags |
+| 2026-10-14 | 33 | ESuHH_2Wun4 | 69 | 15 | 49 | 1.41 | 5 | 0.88 | binh_thuong | – | Không | 10 Grocery Items Quietly Disappearing in 2026 (What to Watch & Buy Now) |
+| 2026-10-14 | 33 | 9o2vFW-w6Dw | 32 | 15 | 49 | 0.65 | 5 | 1.00 | binh_thuong | – | Không | 12 Smart Grocery Buys That Save Money + 4 Tempting Purchases to Avoid |
+| 2026-10-15 | 32 | R7k9w8GHhGE | 33 | 15 | 47 | 0.70 | 5 | 1.11 | binh_thuong | – | Không | 8 Japanese Breakfast Foods Packed With Protein After 50 (Easy & Affordable) |
+| 2026-10-16 | 31 | psxi5-yhM1k | 43 | 15 | 47 | 0.91 | 5 | 1.11 | binh_thuong | – | Không | 12 Hidden Grocery Price Changes That Cost You More in 2026 |
+| 2026-10-17 | 30 | lc7m3ML2x94 | 77 | 15 | 44 | 1.75 | 5 | 1.11 | binh_thuong | – | Không | Stock Up or Skip? 15 Canned Meats Facing Shortages and Price Hikes in 2026 |
+| 2026-10-18 | 29 | IIBkgg-iPgY | 52 | 15 | 44 | 1.18 | 5 | 0.98 | chua_chin | – | Không | Heat Out at 2 AM? 12 Budget Items Worth Their Weight in Gold in a Winter Blackout |
+| 2026-10-19 | 28 | cv7tkZnDfbM | 49 | 15 | 47 | 1.04 | 5 | 0.87 | chua_chin | – | Không | 12 Things You Need Before the Next Winter Blackout (Don't Wait Until November) |
+| 2026-10-20 | 27 | bcXbHiHDLM4 | 68 | 15 | 49 | 1.39 | 5 | 0.84 | chua_chin | – | Không | 6 Pantry Staples to Stock Before a Crisis: 30,000 Calories of Rice for Under $12 |
+| 2026-10-21 | 26 | jOrXIAdnXeY | 36 | 15 | 50 | 0.72 | 5 | 0.86 | chua_chin | – | Không | 9 Foods Facing Big Changes in the US: Coffee, Beef, Turkey, Honey & More |
+| 2026-10-22 | 25 | JQv3owMd-rE | 38 | 15 | 49 | 0.78 | 5 | 0.96 | chua_chin | – | Không | The 5-Can Pantry System: 5 Budget Canned Foods Every Household Is Missing |
+| 2026-10-22 | 25 | CWGbxbgPmfI | 43 | 15 | 49 | 0.88 | 5 | 0.96 | chua_chin | – | Không | How to Freeze Vegetables the Right Way: 10 Easy Tricks That Cut Food Waste & Grocery Bills |
+| 2026-10-23 | 24 | W5uBkH7XLpg | 41 | 15 | 47 | 0.87 | 5 | 1.00 | chua_chin | – | Không | 12 Grocery Items Worth Buying Before October Ends (Winter Prep) |
+| 2026-10-23 | 24 | E6Ab4DLeKdY | 47 | 15 | 43 | 1.09 | 5 | 0.81 | chua_chin | – | Không | 12 Foods to Stock Up on Before 2026 Ends (Don't Miss #7 |
+| 2026-10-26 | 21 | YmEXT2aKoW8 | 49 | 15 | 43 | 1.14 | 5 | 0.70 | chua_chin | – | Không | Ranking 12 Grocery Store Canned Beef Foods Under $3 for Emergency Pantries |
+| 2026-10-26 | 21 | EWrBNw5Nrd8 | 48 | 15 | 43 | 1.12 | 5 | 0.70 | chua_chin | – | Không | 7 Grocery Items Getting Scarcer & Pricier This November: Buy Them Now |
+| 2026-10-27 | 20 | VytsdA7yAHY | 19 | 15 | 47 | 0.40 | 5 | 0.70 | chua_chin | – | Không | 11 Cheap Emergency Items to Buy Before You Need Them: Salt, Bleach, Lighters and More |
+| 2026-10-27 | 20 | 2gs6-Vs0L1s | 30 | 15 | 43 | 0.70 | 5 | 0.81 | chua_chin | – | Không | 10 Long-Term Beef Storage Mistakes: The Truth About Shelf Life Labels |
+| 2026-10-28 | 19 | Tn8o6SzsmPs | 35 | 15 | 43 | 0.81 | 5 | 1.09 | chua_chin | – | Không | 10 Foods and Household Items That Sell Out Every November: Buy Them Early |
+| 2026-10-28 | 19 | t3KfzCQSqYE | 17 | 15 | 43 | 0.40 | 5 | 1.14 | chua_chin | – | Không | 12 Budget Japanese Dinners With 3 Easy Recipes (Freezer Trick Included) |
+| 2026-10-29 | 18 | c0dbcDZJtpo | 49 | 15 | 43 | 1.14 | 5 | 1.26 | chua_chin | – | Không | 11 Things People Will Trade For When Cash Stops Working |
+| 2026-10-29 | 18 | r9vcx9fup7U | 33 | 15 | 43 | 0.77 | 5 | 1.26 | chua_chin | – | Không | Stop Wasting Pantry Space: 13 Canned Foods to Stock & 7 to Skip |
+| 2026-10-30 | 17 | kIH6mz-q36o | 141 | 15 | 41 | 3.44 | 5 | 1.24 | chua_chin | – | Không | Prepping for Beginners 2026: What to Do First, Second and Third With Little Money and Space |
+| 2026-10-30 | 17 | ktcikzyOa9Y | 47 | 15 | 41 | 1.15 | 5 | 1.24 | chua_chin | – | Không | Over 50? Stock These 9 Frozen Foods to Save Money, Eat Better & Waste Less |
+| 2026-10-31 | 16 | GkLZNBwMCNs | 54 | 15 | 41 | 1.32 | 5 | 1.02 | chua_chin | – | Không | Why Bug-Out Bags Fail Older Adults (and the 10 Things That Actually Work) |
+| 2026-10-31 | 16 | Yt9xvynfA0s | 55 | 15 | 43 | 1.28 | 5 | 0.84 | chua_chin | – | Không | Keep Your Food Cold for Weeks in a Blackout With 2 Small Appliances and 1 Battery |
+| 2026-11-01 | 15 | butgNEPc1l4 | 51 | 15 | 47 | 1.09 | 5 | 0.77 | chua_chin | – | Không | 12 Canned Foods to Stock Now: Why a Small Can of Fish Beats a Big Can of Potatoes |
+| 2026-11-01 | 15 | vqAnrHLWu10 | 42 | 15 | 47 | 0.89 | 5 | 0.77 | chua_chin | – | Không | 12 Grocery Staples Getting More Expensive in 2026: Rice, Coffee, Honey, Tuna & More |
+| 2026-11-02 | 14 | 2aivJxLA974 | 23 | 15 | 47 | 0.49 | 5 | 1.38 | chua_chin | – | Không | 7 Canned Asian Foods That Cost Around $14 Total and Replace Expensive Takeout |
+| 2026-11-02 | 14 | 8jk7TyxX-Qk | 36 | 15 | 47 | 0.77 | 5 | 1.38 | chua_chin | – | Không | 12 Foods Getting Harder to Find This Fall: Coffee, Pasta, Honey & More |
+| 2026-11-03 | 13 | l5rUnOkuURo | 28 | 15 | 42 | 0.67 | 5 | 1.55 | chua_chin | – | Không | Best Canned Meats to Stockpile in 2026: 6 Picks, 3 Meals for Under $9 |
+| 2026-11-03 | 13 | wdxXx8AHqjE | 72 | 15 | 36 | 2.00 | 5 | 1.50 | chua_chin | – | Không | 11 Budget Blackout Essentials for a 3-Month Grid Failure (Most Under $50) |
+| 2026-11-04 | 12 | GQrV5TeJuQk | 65 | 15 | 42 | 1.55 | 5 | 1.19 | chua_chin | – | Không | 7 Power Outage Foods Under $3 That Need No Stove, No Microwave, No Heat |
+| 2026-11-04 | 12 | MxVYL473Iec | 101 | 15 | 47 | 2.15 | 5 | 1.02 | chua_chin | – | Không | How to Keep Your Freezer Running for Months in a Power Outage (No Generator Needed |
+| 2026-11-05 | 11 | F1iJiin1wvo | 35 | 15 | 49 | 0.71 | 5 | 0.98 | chua_chin | – | Không | 7 Butcher Tricks for Cheap Meat Under $5/lb (Beef Prices Are Not Coming Down) |
+| 2026-11-05 | 11 | 6eGOnQyeoHM | 54 | 15 | 49 | 1.10 | 5 | 0.94 | chua_chin | – | Không | 7 Smart Walmart Grocery Buys for 2026: Oats, Canned Chicken, Beans & More |
+| 2026-11-06 | 10 | WSqWj7PoYKU | 50 | 15 | 51 | 0.98 | 5 | 0.71 | chua_chin | – | Không | 6 Canned Meats Ranked by Value: Potted Meat to Canned Pork (Don't Overpay) |
+| 2026-11-06 | 10 | Yz8gZ6FtR7M | 36 | 15 | 51 | 0.71 | 5 | 0.65 | chua_chin | – | Không | Power Outage Hour-by-Hour: 11 Critical Actions to Take in the First 11 Hours |
+| 2026-11-07 | 9 | DeidXsf-iVk | 48 | 15 | 50 | 0.96 | 5 | 0.66 | chua_chin | – | Không | Power Out for Good? 12 Budget Items That Keep Your Kitchen Working |
+| 2026-11-07 | 9 | s8IyA194Kzc | 46 | 15 | 50 | 0.92 | 5 | 0.50 | chua_chin | – | Không | 11 Must-Have Items for a 90-Day Blackout: Avoid These Costly Mistakes |
+| 2026-11-08 | 8 | fTv80FrxHIk | 18 | 15 | 48 | 0.38 | 5 | 0.69 | chua_chin | – | Không | The First 24 Hours of a Blackout: 11 Mistakes That Can Cost Lives |
+| 2026-11-08 | 8 | O8X_-0HvHWE | 33 | 15 | 46 | 0.72 | 5 | 0.59 | chua_chin | – | Không | 10 Smart Freezer Tricks Japanese Home Cooks Swear By to Save Money and Time |
+| 2026-11-09 | 7 | QLtnBYqr2To | 21 | 15 | 42 | 0.50 | 5 | 0.64 | chua_chin | – | Không | 8 Easy Japanese Homemade Snacks Under $1 Per Serving \| Budget Recipes |
+| 2026-11-09 | 7 | cYR2NWntWm0 | 47 | 15 | 36 | 1.31 | 5 | 0.75 | chua_chin | – | Không | 12 Storm Prep Items to Buy BEFORE the Snow Hits (Most Cost Under $5) |
+| 2026-11-10 | 6 | ApoOoFmPop4 | 25 | 15 | 46 | 0.54 | 5 | 0.59 | chua_chin | – | Không | 11 Grid Down Essentials to Keep Your Family Safe and Fed for 90 Days |
+| 2026-11-10 | 6 | vGkpX0VN_ek | 34 | 15 | 46 | 0.74 | 5 | 0.59 | chua_chin | – | Không | 18 Cheap Emergency Items to Buy Before the Next Storm or Power Outage |
+| 2026-11-10 | 6 | EUIgSFoV5zY | 27 | 15 | 46 | 0.59 | 5 | 0.54 | chua_chin | – | Không | 12 Emergency Survival Kit Essentials That Could Save You During a Power Outage |
+| 2026-11-11 | 5 | bclPhJRNp-w | 27 | 15 | 36 | 0.75 | 5 | 0.69 | chua_chin | – | Không | 15 Foods That Never Expire: Stockpile These Cheap Pantry Staples Before Prices Rise |
+| 2026-11-11 | 5 | Cy1d-0K-5NA | 23 | 15 | 35 | 0.66 | 5 | 0.71 | chua_chin | – | Không | 12 Emergency Items to Buy or Replace Now for Winter 2026-2027 |
+| 2026-11-11 | 5 | fimlSQgvIoA | 19 | 15 | 34 | 0.56 | 5 | 0.85 | chua_chin | – | Không | 10 Best Soy Sauces to Buy in 2026: Budget Bottles vs Expensive Japanese Imports |
+| 2026-11-12 | 4 | RzjQuAwG_x0 | 31 | 15 | 33 | 0.94 | 5 | 0.76 | chua_chin | – | Không | 11 Affordable Items That Will Carry Your Family Through a 3-Month Power Outage |
+| 2026-11-12 | 4 | 3yEKRPQVde4 | 25 | 15 | 31 | 0.81 | 5 | 0.90 | chua_chin | – | Không | £1.20 for 12 Sausages at Aldi? 8 Facts About Everyday Essentials Nobody Tells You |
+| 2026-11-12 | 4 | Dapk8C3GO3U | 29 | 15 | 27 | 1.07 | 5 | 1.04 | chua_chin | – | Không | 5 Emergency Foods You Can Eat Right Out of the Can When the Power Goes Out |
+| 2026-11-13 | 3 | 1flIJ8k1GI8 | 25 | 15 | 27 | 0.93 | 4 | – | chua_chin | – | Không | 15 Canned Foods With Supply and Price Shifts Before Thanksgiving 2026 (Peaches, Beans, Tuna and Mor |
+| 2026-11-13 | 3 | xw9pvGdLqKQ | 35 | 15 | 27 | 1.30 | 3 | – | chua_chin | – | Không | Stop Throwing Out These 15 Foods! Freezer Hacks That Cut Your Grocery Bill |
+| 2026-11-14 | 2 | Pjt8Lwx_3kQ | 25 | 15 | 27 | 0.93 | 2 | – | chua_chin | – | Không | Stock These 13 Foods Before the First Winter Storm Empties the Shelves |
+| 2026-11-14 | 2 | 2WIjs_hrPDs | 28 | 15 | 27 | 1.04 | 1 | – | chua_chin | – | Không | 15 Winter Emergency Items Disappearing Fast & 3 You Should NOT Buy Right Now |
+| 2026-11-14 | 2 | LF0nIrxJ3xo | 37 | 15 | 27 | 1.37 | 0 | – | chua_chin | – | Không | 24 Meal Trays Still Aren't Enough? 12 Foods to Stock Before a Winter Power Outage |

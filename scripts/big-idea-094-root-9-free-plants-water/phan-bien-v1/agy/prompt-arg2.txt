@@ -1,0 +1,266 @@
+You are an independent, demanding script editor for a faceless YouTube gardening channel in the US.
+Reply in **Vietnamese**; quote script sentences in their original English.
+
+**Video:** "You're Throwing Away Free Plants: Root These 9 in a Glass of Water" · ~10,5′ · format Listicle (9 mục đếm xuôi) · vòng phản biện 1.
+**Audience:** American home gardeners 35–60+ (core 60–80), mostly mobile or TV, listening more than reading.
+**Voice:** an educator retelling research (extension services, USDA, ASPCA). The narrator never grew, tested or saw anything personally. AI voice.
+**Lời hứa của title:** cành ngọn người xem sắp vứt (cây chậu nhổ khi sương giá + cành tỉa cây cảnh) ra rễ trong 1 ly nước → cây miễn phí; 9 cây; giao mảnh đầu (coleus: cắt 5″, ly nước, vài tuần ra rễ) trong hook 0:00–0:20.
+**Loop đã khai:** Loop #1 gieo trong hook ~0:30 ("one sign you can see through the glass") → trả ở đoạn BƯỚC CHUYỂN SANG ĐẤT (rễ ~1 inch); Loop #2 gieo cuối mục 4 ("the slowest one doesn't need a stem at all") → trả mục 9 (African violet, 1 lá) *(chỉ để người phản biện kiểm có đóng thật không)*.
+
+The files below are pasted in full (do not use tools). Treat them as: : `script.md` (the TTS script; the header above `## TTS SCRIPT` holds production notes and keys like ACTION_TIP / PROMISE_OK) and `research-brief.md` (section **A. Claim Ledger** with IDs C01, C02… is the single source of truth; also B. Disagreement Ledger, Consensus Principles, Story Bank, YMYL, NEED DATA). `allowed-numbers.json`, if present, lists every number the script may say. Do not edit files. Do not browse the web.
+
+
+Report real problems only, one line each:
+`[MỨC] mục · "câu trích" @mm:ss (≈165 wpm) · vấn đề · cách sửa ngắn (giữ giọng kênh)`
+MỨC = **CHẶN** (sai nguồn, nguy hiểm, vi phạm luật dưới) · **NÊN SỬA** · **GỢI Ý**.
+
+1. **Dữ kiện theo Claim Ledger.** Mỗi câu nêu dữ kiện có khớp một dòng C.. không (giá trị, phạm vi áp dụng, mức chắc chắn)? Câu nào nói quá nguồn (claim-scoping CR4: "chỗ X được, chỗ Y không / số best-case")? Chi tiết không có trong brief? Số không có trong `allowed-numbers.json`? Mâu thuẫn giữa các câu? **Trình tự làm sai** (bảo làm bước sau trước khi có bước trước; mẹo "làm ngay" chạy trước bước nó cần)? Lời khuyên trái một nguồn trong ledger?
+2. **An toàn.** Thú cưng / trẻ em (ASPCA): có cảnh báo, đúng chỗ, không chôn vùi? YMYL (ăn được, sức khoẻ, hoá chất) có disclaimer? Lời khuyên có thể làm chết cây hoặc gây hại thật ở vùng lạnh (USDA zone, sương giá) mà không khoanh vùng?
+3. **Chính sách YouTube + nội dung "inauthentic".** Nhân chứng / người thân / người xem / hàng xóm bịa, câu tự nhận uy tín cá nhân (L11) · narrator tự trồng / tự thử (X5: "I grew, I tested, in my garden, for years") · conspiracy hay "họ giấu bạn" (X1) · health-fear (X3) · cơ chế nguy hiểm, oversimplify (X4) · claim tuyệt đối (guaranteed, 100%, miracle, cure, never fails — X2) · nhãn tuổi người xem trên title (L9).
+4. **Giữ chân.** 0–20 s có bằng chứng / con số cho claim của title (L6)? Lời hứa của title được trả lời trong 60 s (L3)? Giây 38–60 không có lộ trình / preview / danh sách nguồn (L4, L15)? Phút 4–6 có tension mỗi 60–90 s (L5)? Lập **bản đồ loop** (gieo @ · nhắc @ · đóng @) — loop nào mở quá lâu không nhắc, loop nào không bao giờ đóng? Đoạn nào chết > 60 s (định nghĩa, liệt kê, lặp)? Chữ hứa trên title ("Easy", "Fast", "No…", "Years") có mục nào phủ định không (L17)? Cite chung chung lặp khuôn ("the guides say…") (L19)? Đọc lại chuỗi số (L18)?
+5. **Chấm phần mở (0–60 s) — 7 tiêu chí × 5 điểm = /35:**
+   ① có câu hỏi hoặc loop cụ thể trong 10 s · ② bằng chứng hoặc con số trước giây 20 · ③ trả lời lời hứa của title trong 60 s · ④ dựng được bằng footage thật hoặc đồ hoạ (không cần cảnh không quay được) · ⑤ đúng Claim Ledger · ⑥ đúng giọng kênh (educator, ấm, không gắn tuổi) · ⑦ khác góc các video cùng chủ đề *("N plants that live in water forever, no soil" (listicle 15–35 cây, 19–40 phút) · "7 indoor plants that grow only in water" · "stop rooting cuttings in water — use a humidity box instead")*.
+   Ghi điểm từng tiêu chí. **Dưới 28/35 → viết lại phần mở** (≤ 120 từ, chỉ dùng dữ kiện có mã C..).
+6. **Cảnh báo cho người dựng.** Chỗ hình gợi ý rủi ro: cây hoặc vật dễ nhận nhầm, cảnh thú cưng gần cây độc, footage có thể trái lời đọc, chỗ cần thẻ nguồn trên màn hình.
+
+Kết thúc bằng: **Hook: <điểm>/35** · **3 điểm mạnh nhất** · một dòng kết luận **ĐẠT / ĐẠT CÓ SỬA / KHÔNG ĐẠT**. Tối đa 70 dòng.
+
+---
+
+## ✅ ACTIVE RULES" (~15 dòng). Phần dưới là evidence.
+updated: 2026-11-01
+---
+
+# Lessons Learned — Garden US
+
+
+
+===== script.md =====
+## Header keys
+- ACTION_TIP: Before you pull it, cut the tip.
+- PROMISE_OK: free — chỉ áp cho CÂY; video không hứa chậu/đất miễn phí
+- CITE_ZONE: So here's the sign I promised .. the leaf cuttings take the longest.
+
+## TTS SCRIPT
+
+### HOOK A
+
+That coleus you're about to pull before the frost isn't trash. It's a free plant. Snip five inches off the tip, strip the leaves below the waterline, and stand it in a glass of water. [C01, C02] In a few weeks, white roots. [C03] No soil, no rooting powder, no greenhouse.
+
+Nine common plants root this way. The porch pots you'd toss at the first frost, and the houseplant trimmings you sweep off the counter.
+
+The tricky part comes later, on the day you move them into soil. Roots grown in water are coarser than soil roots, and a cutting can wilt and drop leaves right after potting. [C11] There's one sign you can see through the glass that tells you when it's ready to move.
+
+### 1 · Coleus
+
+Number one is the coleus, and it's the plant we'll use to learn the basic method. [C33] Here's the whole method. Take a tip about five inches long. [C01] Pull off every leaf that would sit below the water. [C02] Here's why this works. A leaf sitting in water rots, and that rot clouds the whole glass. [C02] The bare stem is where new roots push out. [C05] Think of the stem as a straw. It drinks, and the leaves up top stay dry in the light. Set the glass in bright light, but out of direct sun. [C36] Change the water at least once a week. [C03] In a few weeks, you'll see roots. [C03]
+
+So here's the one thing to do tonight. Before you pull it, cut the tip. That's it. No pot, no bag of mix, no rooting powder.
+
+Got a coleus with flower spikes? You can pinch them off if you like. Without those spikes, the plant grows fuller. [C23] And don't worry if your piece is short. Cuttings as short as two inches, taken from new shoots, can still root. [C22]
+
+Coleus is a gentle first teacher, and that's a comfort when you're new at this. The next one uses the exact same method, and it's one most folks never think to save.
+
+### 2 · Wax begonia
+
+Number two is the wax begonia. It's the little bedding plant that edges flower beds all summer long. When the cold shows up, the whole tray usually lands on the compost pile, and that's a shame.
+
+Here's the good news. The process is the same as coleus. [C04] A tip cutting, bare stem in the water, every leaf above the surface. [C02] That's the whole job.
+
+Now, a quick safety note, because this one matters. The ASPCA lists both coleus and begonias as toxic to dogs and cats. [C25, C26] With begonias, the roots are the worst part. [C26] You'll want these glasses up high, where paws and curious noses can't reach. Got grandkids who like to poke at things? Same rule.
+
+Begonias stand up nice and tall in a glass. The next plant has the softest stems on the porch, and it wants less water than you'd think.
+
+### 3 · Impatiens
+
+Number three is impatiens, the shade-pot favorite that the first frost knocks flat. Depending on your zone, that frost could show up any week now.
+
+Take a cutting about six inches long. Set it in a clear glass with about three inches of water. [C18] That's not much water, and that's on purpose. The stem drinks. The leaves stay dry. [C02] Keep an eye on those roots as they grow. I'll show you exactly when to move them at the end.
+
+Fair warning, this one comes with a little plot twist. The sources split. One university guide roots impatiens in perlite or coarse sand, not water. [C19] A long-running Georgia garden column roots them in a plain glass. [C18] The glass just lets you watch it happen.
+
+That's three down from the porch, and you're already getting the hang of this. Two more porch plants to go, and one of them is the fastest rooter on this whole list.
+
+### 4 · Sweet potato vine
+
+Number four is the ornamental sweet potato vine. That's the bright lime or deep purple trailer spilling out of summer containers. Outdoors, frost is the end of it. Picture the morning after that first hard freeze. The vine that looked so good in July hangs limp and dark. One snip the day before would've saved a piece of it.
+
+Snip a few pieces of vine. Strip the leaves off the part going under. Then set them in water. [C02, C08] Roots can show up within ten days. [C08] In two to three weeks, a rooted piece is ready to plant. [C09]
+
+One honest note. Some popular varieties are patented. [C35] You may want to check the plant tag before you start rooting. And good news for pet owners. This one's listed as non-toxic to dogs and cats. [C27]
+
+Ten days is the fastest plant on this list. The slowest one doesn't need a stem at all. Just one single leaf. That's number nine, and the wait pays off with a tiny new plant.
+
+### 5 · Swedish ivy
+
+Number five is Swedish ivy, the round-leafed trailer in a lot of porch hanging baskets. Here's the surprise. It isn't an ivy at all. It's a cousin of the coleus from number one. Both belong to the same plant group, called Plectranthus. [C33] And both made a short university list of plants that root easily in water. [C33]
+
+Same method, too, so there's nothing new to memorize. A tip about three to five inches long. [C05] Bare stem in, leaves out, fresh water. That's the coleus rule again, and it works on the cousin.
+
+That's the porch side done. Now, if you don't have a garden to clean up this month, stay with me. This next part is for you.
+
+But first, I'm curious. What's the one plant you always hate pulling at the end of the season? I'd love to hear it down in the comments.
+
+The other four come from inside the house. They're the trimmings you probably sweep straight into the trash.
+
+### 6 · Arrowhead vine
+
+Number six is the arrowhead vine. Its stems love to wander, so it gets trimmed back a lot. Take a three- to five-inch stem from a healthy plant. [C05] Keep the stem under the water and the leaves up top. [C05]
+
+Indoors, there's one small habit that keeps this cutting happy. Change the water at least twice a week, and sooner if it turns cloudy. [C06] Three separate extension pages land on the same two points. Keep the leaves out of the water, and keep the water fresh. [C02, C06, C16] Give it a few weeks, and roots will show. [C07]
+
+One more safety note. The same ASPCA list flags arrowhead vine as toxic to dogs and cats, too. [C24] It's the same high-shelf rule as the begonias.
+
+Arrowhead moves along at a steady pace. The next plant takes its time, and there's a quiet pleasure in waiting for it.
+
+### 7 · Hoya
+
+Number seven is the hoya, the waxy-leafed vine hanging in so many kitchen windows. Stand a cutting in a glass of water. [C14] It should form roots in two to three weeks. [C14] Make sure at least one node sits under the water. [C05] That's the little bump where a leaf meets the stem.
+
+Now, here's the honest part. Hoya's a bit of a split decision. An older extension sheet puts hoya cuttings straight into potting mix. [C17] The Royal Horticultural Society says a glass of water works. [C14] So if yours just sits there, a small pot of mix is a fine backup plan. And hoya's listed as safe around dogs and cats. [C30]
+
+Hoya needs a real piece of stem. The next plant barely needs one. Just the stalk of a leaf.
+
+### 8 · Peperomia
+
+Number eight is the peperomia. Those thick little leaves snap off easily, and most of them end up drying out on a windowsill. You can rescue one of them. Take a leaf with its stalk still attached. [C12] Let only the stalk dip into the water. Keep the leaf itself dry, above the surface. [C12, C16]
+
+Same reason as the coleus. A leaf sitting in water rots. [C02] The stalk is the part that sends out roots. [C12]
+
+You've heard this rule a few times now. The begonia, the impatiens, and now the peperomia. Water on the stem, never on the leaf. And peperomia's safe around pets, too. [C31]
+
+And that brings us to the one I promised you back at number four. One leaf. No stem at all.
+
+### 9 · African violet
+
+Number nine is the African violet. It takes its time, and watching one leaf grow a whole new plant is a quiet kind of fun. Pick one healthy leaf. Trim the stalk so about one to one and a half inches stays attached. [C13] Set it so only the stalk sits in the water. [C12]
+
+It takes longer than the others. But from that one leaf, you get roots first. Then, a brand-new little plant. [C12] It's also listed as safe around dogs and cats. [C32]
+
+Now, all nine of these plants reach the same moment sooner or later. It's the day you move them into soil. And that's where a lot of water cuttings stumble.
+
+### BƯỚC CHUYỂN SANG ĐẤT
+
+So here's the sign I promised at the start. When the roots are about an inch long, it's time to plant. [C10] Some sources say to wait another week or two after you first spot roots. [C07] Either way, you want roots you can clearly see, not a long, tangled beard.
+
+Here's why this matters. Roots grown in water are coarser than roots grown in soil. [C11] So after potting, a cutting may wilt, drop a few leaves, or brown at the tips. [C11] Don't panic. That's the move talking, not a dying plant. And it's the reason not to let those roots run long in the glass.
+
+Let's put it plainly. Three mistakes trip up water cuttings. One, leaves left sitting in the water. [C02] Two, water that's gone cloudy and stale. [C06] Three, roots left to run long before you plant. [C10, C11] Fix those three, and most of the hard part is done.
+
+Plant it in fresh potting mix. Keep it moist, but not soggy. [C36] Give it bright light, out of harsh sun. [C36]
+
+[GFX: bảng 9 cây · thời gian ra rễ · độ dài rễ khi trồng · ngập tới đâu] We pulled every number from the sources into one chart, because nobody had all nine side by side. Look at it, and a pattern jumps out. The vines from the porch tend to root fastest, and the leaf cuttings take the longest.
+
+### KẾT
+
+Picture your kitchen window in February. Nine glasses lined up in the winter light, every one of them holding roots. Come spring, your neighbors will ask where you bought all those plants.
+
+You could start small. Before you pull it, cut the tip. Tonight, one glass, one tip. That's all it takes.
+
+You're not the kind of gardener who throws good plants away. You're the one who saves them, one glass at a time.
+
+What zone are you gardening in, and when does your first frost usually hit? Tell me down in the comments.
+
+Grow more plants, save a little money, and have some fun out there.
+
+Happy gardening.
+
+
+===== research-brief.md (sections A, B, YMYL, NEED DATA) =====
+## A. Claim Ledger
+
+| ID | Claim (kèm số) | Nguồn · hạng · năm | URL | Đã mở? | Quote ≤15 từ | Bối cảnh nguồn | Áp dụng cho video | Tin cậy | Pass2 | YMYL |
+|----|----------------|---------------------|-----|--------|--------------|---------------|------------------|---------|-------|------|
+| C01 | Coleus: cắt cành ~5 inch tính từ ngọn | UVM Extension (Tier 1) · 2023 | "Take a cutting about five inches long from the end" | |
+| C02 | Giữ lá ra khỏi mặt nước ("no leaves below the surface") | UVM Extension (Tier 1) · 2023 | "making sure no leaves are below the surface of the water" | |
+| C03 | Thay nước mỗi tuần; rễ xuất hiện "trong vài tuần" | UVM Extension (Tier 1) · 2023 | "Change water weekly." / "In a few weeks you should see roo| |
+| C04 | UVM Extension xác nhận begonia giâm cành được; "the process is the same" (như coleus) | UVM Extension (Tier 1) · 2023 | "for a coleus, geranium, or begonia, the process is the sam| |
+| C05 | Arrowhead vine (Syngonium) = 1 trong 5 cây ra rễ dễ trong nước; cành 3–5 inch | UMD Extension – Maryland Grows (Tier 1) · 2017 | "Take a 3- to 5-inch stem from a healthy plant." | |
+| C06 | Thay nước ít nhất 2 lần/tuần hoặc sớm hơn nếu đục | UMD Extension (Tier 1) · 2017 | "Change the water at least twice a week, or sooner if it lo| |
+| C07 | Sau khi rễ xuất hiện, để rễ lớn thêm 1–2 tuần trong nước rồi mới trồng vào đất | UMD Extension (Tier 1) · 2017 | "let them grow in water for another one to two weeks, then | |
+| C08 | Sweet potato vine ra rễ trong nước trong vòng 10 ngày | Clemson Extension HGIC (Tier 1) · không rõ năm (cập nhật gần đây) | "Roots will develop within 10 days" | |
+| C09 | Sweet potato vine có thể trồng vào đất sau ~2–3 tuần trong nước | Clemson Extension HGIC (Tier 1) · không rõ năm | "Rooted cuttings can be planted in two to three weeks." | |
+| C10 | Trồng cành giâm trong nước vào đất khi rễ dài khoảng 1 inch | Iowa State Extension – leaf-petiole page (Tier 1) · 2023 | "Transplant cuttings when roots are about 1 inch long." | |
+| C11 | Rễ nước "coarser" → sau khi trồng cây có thể héo, rụng lá, cháy đầu ngọn | Iowa State Extension (Tier 1) · 2023 | "Water-grown roots are coarser, so after potting, plants ma| |
+| C12 | African violet và Peperomia có thể ra rễ trong ly nước (leaf petiole dài 1–1,5 inch) | Iowa State Extension (Tier 1) · 2023 | "Many houseplants easily root in a jar of water." (Danh sác| |
+| C13 | Giâm lá African violet: để lại cuống (petiole) dài 1–1,5 inch | Iowa State Extension (Tier 1) · 2023 | "Leave 1 to 1½ inches of the petiole (leaf stem) attached t| |
+| C14 | Hoya ra rễ trong nước trong 2–3 tuần | RHS (Tier 3) · không rõ năm | "Stand the cuttings in a glass of water and they should for| |
+| C15 | Lá cắm nước của African violet: rễ dài khoảng ½ inch thì sẵn sàng trồng | UNR Extension – FS-98-92 (Tier 2) · 1998 (STALE?) | "roots are ready for potting when they are 'about ½ inch lo| |
+| C16 | Thay nước "every few days" hoặc thêm than hoạt tính vào nước | UNR Extension (Tier 2) · 1998 (STALE?) | "Keep water clean and fresh, changing every few days or add| |
+| C17 | UNR: Hoya được xếp nhóm cắm đất (soil media), không phải nước; nước chỉ dành cho Creeping Charlie/Pothos/một số Philodendron | UNR Extension (Tier 2) · 1998 | "Some that do root well in water are Creeping Charlie, Poth| |
+| C18 | Impatiens: cành 6 inch, trong ly 3 inch nước; chuyển khi rễ ~1 inch | Walter Reeves – Georgia Extension Master Gardener (Tier 3) · không rõ năm | "6 inch long cuttings" / "clear glass tumbler with three in| |
+| C19 | Iowa State Extension: impatiens cắm trong perlite hoặc coarse sand — KHÔNG phải nước | Iowa State Extension (Tier 1) · 2009 | "Root cuttings in perlite or coarse sand." | |
+| C20 | Iowa State (Tier 1): fuchsia "cuttings can be taken in late summer and rooted" (không nêu rõ medium) | Iowa State Extension (Tier 1) · 1996 (STALE?) | "Cuttings can be taken from plants in late summer and roote| |
+| C21 | NC State Extension: fuchsia khuyến nghị "stem cutting" nhưng không nói cụ thể nước | NC State Extension – Plants toolbox (Tier 1) · không rõ năm | "Recommended Propagation Strategy: Stem Cutting." | |
+| C22 | UF IFAS: coleus cắt ngắn tới 2 inch từ chồi mới vẫn ra rễ được | UF IFAS Extension (Tier 1) · 1999 | "Cuttings as short as two inches can be taken from newly gr| |
+| C23 | UF IFAS: bỏ cụm hoa coleus → cây đầy, sum suê hơn | UF IFAS Extension (Tier 1) · 1999 | "Removing these flower spikes from the plant encourages a f| |
+| C24 | ASPCA: Arrowhead vine (Syngonium podophyllum) — Toxic to Dogs, Toxic to Cats, Toxic to Horses; insoluble calcium oxalates | ASPCA Poison Control (Tier 1) | "Toxic to Dogs, Toxic to Cats, Toxic to Horses." / "Insolub| |
+| C25 | ASPCA: Coleus — Toxic to Dogs, Toxic to Cats, Toxic to Horses; Essential Oils | ASPCA Poison Control (Tier 1) | "Toxic to Dogs, Toxic to Cats, Toxic to Horses." / "Essenti| |
+| C26 | ASPCA: Begonia — Toxic to Dogs, Toxic to Cats, Toxic to Horses; Soluble calcium oxalates; phần độc nhất là rễ dưới đất | ASPCA Poison Control (Tier 1) | "Toxic to Dogs, Toxic to Cats." / "Soluble calcium oxalates| |
+| C27 | ASPCA: Sweet potato vine — Non-Toxic to Dogs, Non-Toxic to Cats, Non-Toxic to Horses | ASPCA Poison Control (Tier 1) | "Non-Toxic to Dogs, Non-Toxic to Cats, Non-Toxic to Horses.| |
+| C28 | ASPCA: Fuchsia (Honeysuckle Fuchsia, Fuchsia triphylla) — Non-Toxic to Dogs, Non-Toxic to Cats, Non-Toxic to Horses | ASPCA Poison Control (Tier 1) | "Non-Toxic to Dogs, Non-Toxic to Cats, Non-Toxic to Horses.| |
+| C29 | ASPCA: Impatiens (Tangerine Impatience, Impatiens spp.) — Non-Toxic to Dogs, Non-Toxic to Cats | ASPCA Poison Control (Tier 1) | "Non-Toxic to Dogs, Non-Toxic to Cats" | |
+| C30 | ASPCA: Hoya (nhiều loài: Hindu Rope, Sweetheart Hoya, Silver Pink Vine) — Non-Toxic | ASPCA Poison Control (Tier 1) | "Non-Toxic to Dogs, Non-Toxic to Cats" | |
+| C31 | ASPCA: Peperomia (nhiều loài) — Non-Toxic to Dogs, Non-Toxic to Cats | ASPCA Poison Control (Tier 1) | "Non-Toxic to Dogs, Non-Toxic to Cats" | |
+| C32 | ASPCA: African Violet (Saintpaulia spp.) — Non-Toxic to Dogs, Non-Toxic to Cats, Non-Toxic to Horses | ASPCA Poison Control (Tier 1) | "Non-Toxic to Dogs, Non-Toxic to Cats, Non-Toxic to Horses.| |
+| C33 | Coleus và Swedish Ivy (Plectranthus verticillatus) đều nằm trong "5 plants that root easily in water" — danh sách UMD | UMD Extension (Tier 1) · 2017 | "Coleus (Plectranthus scutellarioides)" và "Swedish Ivy (Pl| |
+| C34 | Iowa State Ext (solid medium): 6–8 tuần để ra rễ cho begonia/impatiens/coleus | Iowa State Extension (Tier 1) · 2009 | "The cuttings should root in 6 to 8 weeks." | |
+| C35 | USPTO: Nhiều giống Sweet Caroline được NC State cấp patent (ví dụ PP18572, PP18574, USPP28318…) | USPTO patents (Tier 1) | "asexually reproduced…predominantly by vegetative propagati| |
+| C36 | Đặt cành trong nước ở chỗ sáng gián tiếp; sau khi có rễ, trồng vào đất bầu và giữ ẩm nhưng không sũng | UVM Extension (Tier 1) · 2023 | "indirect light" / "keep it moist but not soggy" (orchestra| |
+
+**Ghi chú C30, C31:** Các node ASPCA individual plant được xác nhận qua search result snippets trả về đúng tên và trạng thái "Non-Toxic." Đã mở node 4587 (arrowhead), 4999 (fuchsia), 4560 (African violet), node 5429 (sweet potato vine), node 5438 (impatiens) trực tiếp và đọc được. Node 4990/5426 (Hoya), 5095/4964 (Peperomia) xác nhận qua search result snippets. Pass2 cho các node Hoya/Peperomia: Y với caveat (search snippet).
+
+---
+
+
+## B. Sổ bất đồng (Disagreement Ledger)
+
+| # | Chủ đề | Nguồn X nói | Nguồn Y nói | Vì sao khác | Cách nói trung thực trong video |
+|---|--------|-------------|-------------|-------------|--------------------------------|
+| D01 | Medium để giâm impatiens | Iowa State (T1, 2009): "Root cuttings in perlite or coarse sand" — KHÔNG đề xuất nước | Walter Reeves (T3): "clear glass tumbler with three inches of water" | Iowa State hướng tới người trồng vườn chuyên nghiệp dùng giá thể; Walter Reeves viết cho người trồng ở nhà tại miền Đông Nam. Cả hai đều đúng trong bối cảnh của mình | "Impatiens do root in wat …|
+| D02 | Độ dài rễ trước khi trồng vào đất | Iowa State (T1) / Walter Reeves (T3): ~1 inch | UNR Extension (T2, 1998): "about ½ inch long" cho LEAF cutting | UNR nói về leaf cutting (African violet); Iowa State nói về cả leaf lẫn stem cuttings. Leaf cuttings cần ít rễ hơn vì không có thân cần hỗ trợ | "One inch of root is a reliable signal for stems. For a leaf cutting like African vio …|
+| D03 | Tần suất thay nước | UVM (T1): thay "weekly" (hằng tuần) | UMD (T1): "at least twice a week"; UNR (T2): "every few days" | UMD và UNR làm houseplants; UVM làm tender perennials mùa thu. Nhiệt độ nhà ấm hơn → vi khuẩn phát triển nhanh → cần thay nước nhiều hơn | Nói câu "twice a week" (UMD) vì đây là khuyến nghị bảo thủ hơn, áp cho houseplants trong nhà ấm. Hedge: "or at minimu …|
+| D04 | Fuchsia ra rễ trong nước? | Iowa State (T1, 1996): "Cuttings can be taken from plants in late summer and rooted" (không nói rõ nước) / NC State (T1): "Stem Cutting" (không nói nước) | Nhiều blog (T4/5): khẳng định fuchsia ra rễ trong nước 2–3 tuần | Không có extension (T1–T3) nào xác nhận cụ thể nước cho fuchsia. RHS (T3) không có trang riêng cho fuchsia rooting-in-water | ⛔ K …|
+| D05 | Hoya trong nước? | UNR Extension (T2): Hoya xếp vào nhóm cắm đất (soil media), không phải nước | RHS (T3): "Stand the cuttings in a glass of water and they should form roots in two or three weeks" | UNR tập trung vào phương pháp đất cho Hoya (vì ra rễ khỏe hơn); RHS ghi nhận nước hoạt động. Không có mâu thuẫn trực tiếp — UNR không nói nước không hoạt động, chỉ không khuyến ngh …|
+| D06 | Iowa State: African violet trong solid medium vs. nước | Iowa State FAQ (T1): African violet giâm trong "50:50 vermiculite and coarse sand" — không dùng nước | Iowa State Leaf-Petiole How-To (T1): "Many houseplants easily root in a jar of water" và liệt kê African Violet | Cùng một tổ chức (Iowa State) nhưng hai trang khác nhau, cập nhật khác nhau. Trang how-to mới hơn và bao  …|
+
+---
+
+**Editorial Signature candidates (xếp hạng 1–3):**
+
+| Hạng | Loại | Mô tả | Mã claim hỗ trợ |
+|------|------|-------|----------------|
+| 1 ⭐ | Bảng tổng hợp | **Bảng 9 cây: thời gian ra rễ · độ dài rễ khi trồng · ngập tới đâu** — không có nguồn nào làm sẵn bảng này; kênh tự tổng hợp từ 6+ nguồn | C01, C03, C05, C07, C08, C09, C10, C12, C13, C14, C15, C18 |
+| 2 | Bảng bất đồng | **Nước vs. đất: ai đúng?** — Iowa State (perlite), Walter Reeves (nước), UVM (cũng nước). Kênh tóm tắt: "Both work. Water lets you see what's happening; mix gives stronger roots — same plant, different tradeoffs." | D01, D04, C10, C11, C34 |
+| 3 | Diagram/câu giải thích | **Vì sao rễ nước chết sau khi chuyển chậu** — Iowa State: "Water-grown roots are coarser." Script giải thích: rễ nước phát triển ít lông hút, khi gặp đất khô lập tức bị stress. Giải pháp: 1 inch + ẩm cao 1 tuần đầu | C10, C11, C15 |
+
+---
+
+
+## YMYL
+
+| Claim | Mã | Hedge bắt buộc | Câu disclaimer |
+|-------|-----|----------------|----------------|
+| Arrowhead vine (Syngonium) độc với chó/mèo — insoluble calcium oxalates, bỏng miệng nghiêm trọng | C24 | Nhắc rõ trong video; thẻ ASPCA trên màn hình | "If you have pets, keep this one out of reach — ASPCA lists arrowhead vine as toxic to dogs and cats. When in doubt, call your vet." |
+| Coleus độc với chó/mèo/ngựa — essential oils | C25 | Hedge nhẹ trong video | "Coleus is on the ASPCA toxic list for pets — same callout applies: out of reach." |
+| Begonia độc với chó/mèo — soluble calcium oxalates; phần nguy hiểm nhất là rễ dưới đất | C26 | Hedge | "Wax begonia is toxic to pets too, especially the roots. Keep the jar where curious paws can't reach it." |
+| Patent giống sweet potato vine | C35 | Nêu ngắn trong script | "Take as many cuttings as you like — just for your own garden, not to sell." |
+
+Tất cả YMYL claims dùng nguồn Tier 1 (ASPCA). Không dùng Tier 4–5 cho YMYL.
+
+---
+
+## NEED DATA
+
+1. **Giá 1 flat/khay (48–72 cây) coleus / begonia / impatiens tại Home Depot/Lowe's mùa xuân 2025** — Không tìm được giá retail đáng tin. Các "flat" ở fundraiser địa phương: ~$13–15 / flat 48 cây (nguồn local, 2024–2025). Không đủ điều kiện cho câu "give or take $X" trong script. ⛔ Bỏ câu so chi phí nếu không xác minh được.
+2. **Thời gian ra rễ của impatiens trong nước** (T1 source) — Walter Reeves (T3) không cho thời gian cụ thể trong nước; Iowa State nói 6–8 tuần trong solid medium. Cần T1 cho water-specific time.
+3. **Thời gian ra mầm con (plantlets) của African violet từ leaf trong nước** — Iowa State FAQ nói 6–8 tuần ra lá mới trong solid medium; chưa có T1 cho nước.
+4. **Độ sâu ngập cho sweet potato vine** — Clemson không nêu ("take a trailing section with multiple leaf nodes", không cho depth).
+5. **Fuchsia ra rễ trong nước — T1 source** — Chưa tìm được. Nếu không tìm được thì phải hedge hoặc thay bằng Swedish ivy.
+
+---
+
+
+
+===== allowed-numbers.json =====
+allowed: [0.5, 1, 1.5, 2, 3, 4, 5, 6, 7, 8, 9, 10]

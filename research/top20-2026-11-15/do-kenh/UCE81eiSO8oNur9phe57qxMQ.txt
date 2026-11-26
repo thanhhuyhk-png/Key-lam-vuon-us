@@ -1,0 +1,60 @@
+# Đo kênh: UCE81eiSO8oNur9phe57qxMQ.tsv (tính đến 2026-11-16, công thức 2026-10-22.3)
+
+Đọc 18 dòng; bỏ 0 dòng thiếu view/ngày; bỏ 0 dòng trùng id.
+
+## Chỉ số kênh
+| chi_so | gia_tri |
+|---|---|
+| n_video | 18 |
+| n_trong_danh_sach | 18 |
+| n_dai | 18 |
+| n_short | 0 |
+| n_dai_dung_tinh | 10 |
+| nguong_tuoi_video | 14 |
+| subs | 3,910 |
+| dong_bo | 0 |
+| phien_ban | 2026-10-22.3 |
+| cua_so_tu | 2026-10-23 |
+| n_ngoai_cua_so | 0 |
+| so_hoi_vien | 0 |
+| trung_vi_20_dai | 31,684 |
+| cao_nhat | 1,506,224 |
+| thap_nhat | 1,001 |
+| phan_tan | 47.54 |
+| so_video_tren_2x | 3 |
+| ty_le_tren_2x | 0.30 |
+| trung_vi_chia_sub | 8.10 |
+| ty_le_like_trung_vi | 0.01 |
+| da_trung_vi | – |
+| ngay_video_dau | 2026-10-23 |
+| tuoi_tu_video_dau | 24 |
+| view_moi_ngay_video_dau | – |
+| sub_moi_ngay_video_dau | 163 |
+| sub_moi_video | 217 |
+| video_30_ngay | 18 |
+| ty_trong_view_short | 0.00 |
+| ty_trong_view_short_nguon | mau |
+
+**Cờ:** TRUNG_VI_DUNG_VIDEO_TU_14_NGAY, PHAN_TAN_CAO, CO_VIDEO_DUOI_14_NGAY_DO_LAI_SAU_2_TUAN
+
+## Hệ số vượt trội (video dài, xếp theo ngày đăng)
+| ngay | tuoi_ngay | id | views | n_truoc | trung_vi_15_truoc | he_so | n_sau | he_so_sau | muc | ly_do_khong_tinh | cung_ngay | title |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-23 | 24 | dF2jbfYirlU | 1,506,224 | 0 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | If the US Power Grid Failed, These States Go Dark First (All 50 Ranked) |
+| 2026-10-24 | 23 | hEweVmDWNj4 | 232,334 | 1 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | If the Trucks Stopped, These States Run Out of Food First — All 50 Ranked |
+| 2026-10-25 | 22 | hhHXY0diBXc | 32,061 | 2 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | If the Gas Stations Ran Dry, These States Stop First — All 50 Ranked |
+| 2026-10-26 | 21 | wefl0l1vleY | 33,461 | 3 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | If the Water Stopped, These States Run Dry First — All 50 Ranked |
+| 2026-10-27 | 20 | o6U5pzgs5hE | 115,461 | 4 | – | – | 5 | – | – | it_hon_5_video_truoc | Không | If America Was Attacked, These States Get Hit First (All 50 Ranked) |
+| 2026-10-28 | 19 | dLX2cq2arM0 | 17,279 | 5 | 115,461 | 0.15 | 5 | 0.02 | chua_chin | – | Không | If America Lost the Internet, These States Get Cut Off First — All 50 Ranked |
+| 2026-10-29 | 18 | CcidoX0cIr4 | 2,363 | 6 | 74,461 | 0.03 | 5 | 0.03 | chua_chin | – | Không | If an EMP Hit America, These States Lose Everything First — All 50 Ranked |
+| 2026-10-31 | 16 | NCw6PPKb7M0 | 16,987 | 7 | 33,461 | 0.51 | 5 | 0.08 | chua_chin | – | Không | The Disaster Most Likely to Hit Every State |
+| 2026-11-02 | 14 | QzE6hmyBFfM | 1,001 | 8 | 32,761 | 0.03 | 5 | 0.08 | chua_chin | – | Không | The Most Dangerous Animal in Every State — All 50 Ranked |
+| 2026-11-02 | 14 | KbkEWHHNbXc | 31,307 | 9 | 32,061 | 0.98 | 5 | 0.04 | chua_chin | – | Không | If a Deep Freeze Hit America, These States Freeze First (All 50 Ranked) |
+| 2026-11-04 | 12 | 8UyyJSvb2pA | 2,526 | 10 | 31,684 | 0.08 | 5 | 0.04 | chua_chin | – | Không | The 2003 Blackout: How America Went Dark State by State |
+| 2026-11-06 | 10 | zgad9qyQS88 | 1,272 | 11 | 31,307 | 0.04 | 5 | 0.03 | chua_chin | – | Không | If the Dams Failed, These States Go Underwater First (All 50 Ranked) |
+| 2026-11-07 | 9 | ev9v3-lz8SA | 5,979 | 12 | 24,293 | 0.25 | 5 | 0.04 | chua_chin | – | Không | If the US Power Grid Went Down for a Year, These States Survive Longest (All 50 Ranked) |
+| 2026-11-09 | 7 | LVdXlL9JaSI | 912 | 13 | 17,279 | 0.05 | 4 | – | chua_chin | – | Không | The Best and Worst States to Retire in America (All 50 Ranked) |
+| 2026-11-10 | 6 | SJbiygTgVyU | 329 | 14 | 17,133 | 0.02 | 3 | – | chua_chin | – | Không | If a New Pandemic Hit America, These States Collapse First (All 50 Ranked) |
+| 2026-11-13 | 3 | IRtCBBwr_28 | 8,194 | 15 | 16,987 | 0.48 | 2 | – | chua_chin | – | Không | If America Broke Apart, Which States Could Survive on Their Own? (All 50 Ranked) |
+| 2026-11-14 | 2 | iZCRiF7GNbg | 535 | 15 | 8,194 | 0.07 | 1 | – | chua_chin | – | Không | If a Massive Earthquake Hit America, These States Get Destroyed First (All 50 Ranked) |
+| 2026-11-14 | 2 | RmQKzKsQYcE | 2,183 | 15 | 5,979 | 0.37 | 0 | – | chua_chin | – | Không | If Another Great Depression Hit America, These States Collapse First (All 50 Ranked) |
